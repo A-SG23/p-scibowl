@@ -87,7 +87,7 @@ def write_csv(data, filepath):
 # loop thru pdfs
 for i, url in enumerate(pdf_urls, 1):
     local_pdf = f"round{i}.pdf"
-    output_csv = f"raw_data/set1round{i}.csv"
+    output_csv = f"high_school/raw_data/set2round{i}.csv"
     print(f"Processing {url}...")
     download_pdf(url, local_pdf)
     pdf_text = extract_text(local_pdf)

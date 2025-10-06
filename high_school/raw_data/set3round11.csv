@@ -1,0 +1,77 @@
+type,subject,format,question,answer
+toss-up,chemistry,Multiple Choice,"Which of the following strong acids, all at 0.1 molar concentration, will have the LOWEST pH value: W) H SO 2 4 X) HNO 3 Y) HCl Z) HClO 4","W) H SO
+2 4"
+bonus,chemistry,Short Answer,"Giving its proper charge, what is the oxidation number of the manganese atom in the following compound: MnO – (read as: M, N, O, 4, minus) 4","+7 (ACCEPT: 7)
+(Solution: Mn + 4(-2) = -1; Mn = +7)"
+toss-up,physics,Multiple Choice,"A field emission microscope requires which of the following: W) a conductor with a very fine point X) high energy alpha particles Y) a light source with a wavelength shorter that the smallest observable feature size Z) a low amplitude, time-varying magnetic field",W) A CONDUCTOR WITH A VERY FINE POINT
+bonus,physics,Short Answer,"Rounded to the nearest thousand, how many joules of work are done in pulling a wagon with a force of 2000 newtons over a horizontal surface of 10 meters, with a chain that makes a 45º angle with the surface?","14,000
+(Solution: w = F × d × cos angle = 2000N × 10 m × 0.7071 = 14,142)
+2007 Regional Science Bowl – Page 1"
+toss-up,biology,Multiple Choice,The genetic material of different viruses can be: W) only double-stranded DNA X) only single-stranded DNA or double-stranded DNA Y) only double-stranded DNA or double-stranded RNA Z) either single-stranded DNA and RNA or double-stranded DNA and RNA,"Z) EITHER SINGLE-STRANDED DNA AND RNA OR DOUBLE-STRANDED
+DNA AND RNA"
+bonus,biology,Multiple Choice,Which of the following is NOT characteristic of retroviruses: W) they have single-stranded RNA as their genetic material X) they make mRNA from their original RNA Y) they incorporate their genome into the DNA of the host cell using reverse transcriptase Z) the host cell polymerase transcribes viral genes,X) THEY MAKE mRNA FROM THEIR ORIGINAL RNA
+toss-up,math,Short Answer,"A circle has a radius of 8 centimeters. Find the central angle, in degrees, of a sector of a circle if its arc length is 2π centimeters:","45
+(Solution: arc/circumference = n/360; n = 45º)"
+bonus,math,Multiple Choice,"Which of the following is closest to the radius of a sphere, in meters, given that its volume is 400 cubic meters: W) 2.15 X) 4.57 Y) 6.28 Z) 9.76","X) 4.57
+(Solution: V = 4/3πr3; 400 = 4/3(3.14)(r)3; r = 3 95.5 = 4.57)
+2007 Regional Science Bowl – Page 2"
+toss-up,earth science,Multiple Choice,"Which of the following typically requires warm, clear, shallow water characterized by low nutrient concentration and a hard coastal substrate to develop: W) barrier island X) estuary Y) lagoon Z) coral reef",Z) CORAL REEF
+bonus,earth science,Multiple Choice,"Which of the following is TRUE regarding climate: W) monsoon climates typically lack seasonal precipitation X) a prolonged rain-shadow effect would most likely produce a tropical climate Y) chaparral vegetation predominates in Mediterranean climates Z) grassland steppes predominate in humid, mid-latitude conditions","Y) CHAPARRAL VEGETATION PREDOMINATES IN MEDITERRANEAN
+CLIMATES"
+toss-up,,Multiple Choice,6) GENERAL SCIENCE Multiple Choice Rooted plants that grow below the surface of the water are called submerged plants. Which of the following is BEST classified as a freshwater submerged plant: W) common reed X) sedges Y) water lilies Z) water milfoil,Z) WATER MILFOIL
+bonus,,Short Answer,6) GENERAL SCIENCE Short Answer What is the decimal number 84 in binary?,"1010100 (must read as: one-zero-one-zero-one-zero-zero)
+2007 Regional Science Bowl – Page 3"
+toss-up,,Multiple Choice,7) ASTRONOMY Multiple Choice Recent analysis of Cassini spacecraft data has provided convincing evidence that Saturn’s Moon Titan has: W) large seas of liquid water X) methane lakes on its surface Y) a moon of its own Z) a large active volcano,X) METHANE LAKES ON ITS SURFACE
+bonus,,Multiple Choice,7) ASTRONOMY Multiple Choice Which of the following is the next stage in the evolution of a single star after the red giant stage: W) white dwarf X) red dwarf Y) planetary nebula Z) nova,Y) PLANETARY NEBULA
+toss-up,chemistry,Short Answer,In which positions on the benzene ring are the methyl groups found in the compound o-xylene or ortho-xylene (read as: ORTHO-ZIE-lean):,1 AND 2 (ACCEPT: 2 AND 1)
+bonus,chemistry,Multiple Choice,"Which of the following is a tertiary alcohol: W) 2-propanol X) ethanol Y) 2-methyl-2-propanol Z) 1,2-ethanediol","Y) 2-METHYL-2-PROPANOL
+2007 Regional Science Bowl – Page 4"
+toss-up,physics,Multiple Choice,The scattering of alpha particles by a metal foil was first studied by: W) Compton X) Rutherford Y) Bragg Z) Rayleigh,X) RUTHERFORD
+bonus,physics,Short Answer,"A pole vaulter with a mass of 150 kilograms is traveling at 25 meters per second just prior to landing on an air mattress which collapses and allows the vaulter to come to rest over a period of 2.0 seconds. What was the force of the impact between the vaulter and the air mattress, in newtons?","1875
+(Solution: F = mv/t = (150kg)(25m/s)/2s = 1875N)"
+toss-up,biology,Multiple Choice,"TSH causes the thyroid to produce more T3. When T3 rises, it flows through the blood to the brain to decrease the release of TSH. Which of the following is the MOST accurate and common term for this physiological phenomenon: W) metabolic reaction X) hormonal balance Y) negative feedback Z) endocrine action",Y) NEGATIVE FEEDBACK
+bonus,biology,Multiple Choice,"In mammalian kidneys, reabsorption of water occurs mostly in which of the following: W) glomerulus X) descending limb of the loop of Henle (read as: HEN-lee) Y) proximal convoluted tubule Z) Bowman’s capsule","X) DESCENDING LIMB OF THE LOOP OF HENLE
+2007 Regional Science Bowl – Page 5"
+toss-up,math,Multiple Choice,"If a population distribution is illustrated as a symmetrical bell shape curve, then the median and the mean are: W) not the same X) uncertain Y) variable Z) the same",Z) THE SAME
+bonus,math,Short Answer,"Giving your answer in standard form, what is the fourth term in the binomial expansion of the following: (4x + y)4",16xy3 (ACCEPT: 16y3x)
+toss-up,earth science,Multiple Choice,Which of the following is a physical weathering process caused by a chemical change where there is a weakening and scaling off of successive layers to produce a rounded rock: W) frost action X) exfoliation Y) abrasion Z) plant and animal action,X) EXFOLIATION
+bonus,earth science,Multiple Choice,"Which of the following is one of the main reasons why geologists believe that the second greatest earthquake risk to the U.S. lies along the New Madrid Fault in Kentucky, Mississippi and Tennessee: W) the underlying geology is loose sand and mud deposited by the Mississippi River X) it overlies a deep transform fault margin much like the San Andreas fault Y) it lies over a fast-moving modern plate boundary Z) it lies over a deep, subterranean hot spot","W) THE UNDERLYING GEOLOGY IS LOOSE SAND AND MUD DEPOSITED
+BY THE MISSISSIPPI RIVER
+2007 Regional Science Bowl – Page 6"
+toss-up,,Multiple Choice,13) GENERAL SCIENCE Multiple Choice Which of the following is NOT true: W) nanometer-thick films that roll themselves into tubes and other useful shapes have been recently discovered X) counting annual growth lines in dinosaur bones can be used to estimate their age at death Y) amphibian population declines and extinctions are global and rapid Z) epiphytic plants such as many orchids are considered parasitic plants,"Z) EPIPHYTIC PLANTS SUCH AS MANY ORCHIDS ARE CONSIDERED
+PARASITIC PLANTS"
+bonus,,Multiple Choice,13) GENERAL SCIENCE Multiple Choice Which of the following is MOST likely to be measured as 200 yottameters: W) radius of the observable universe X) Pluto’s orbital diameter Y) distance to Andromeda Z) distance to Ganymede,W) RADIUS OF THE OBSERVABLE UNIVERSE
+toss-up,,Multiple Choice,14) ASTRONOMY Multiple Choice Microlensing is BEST explained by which of the following theories or laws: W) Quantum theory X) General Relativity Y) Kirchhoff’s laws Z) Maxwell’s law,X) GENERAL RELATIVITY
+bonus,,Multiple Choice,14) ASTRONOMY Multiple Choice Which of the following is a type of telescope technology that uses mirrors whose shapes can be deformed: W) Schmidt optics X) redundant interfermetric optics Y) CCD optics Z) adaptive optics,"Z) ADAPTIVE OPTICS
+2007 Regional Science Bowl – Page 7"
+toss-up,chemistry,Short Answer,Predict the bond angle or shape for the central atom in a molecule of beryllium dichloride:,180º (ACCEPT: LINEAR)
+bonus,chemistry,Multiple Choice,Avogadro’s gas law concerns which of the following two variables: W) temperature and pressure X) pressure and volume Y) temperature and volume Z) moles and volume,Z) MOLES AND VOLUME
+toss-up,physics,Multiple Choice,Which of the following could most practically be used as a detector for the automatic door opening system you find at your local grocery store: W) infrared camera system X) ultrasonic motion detector Y) radar system Z) optical camera system,Y) RADAR SYSTEM
+bonus,physics,Multiple Choice,"The radar system associated with the automatic doors at a local grocery store uses 10.5 gigahertz radiation. If the door is to open for a person walking towards it at 1 meter per second, which Doppler shift must the radar system be able to detect: W) a red shift of 2 hertz X) a blue shift of 35 hertz Y) a red shift of 160 hertz Z) a blue shift of 1.8 hertz","X) A BLUE SHIFT OF 35 HERTZ
+2007 Regional Science Bowl – Page 8"
+toss-up,biology,Multiple Choice,"During embryogenesis, which of the following is MOST accurate concerning the blastopore: W) it does not exist in protostomes X) it originates before the blastula stage Y) it forms the anus in deuterostomes (read as: DOO-ter-oh-stomes) Z) it is the hollow center of the gastrula",Y) IT FORMS THE ANUS IN DEUTEROSTOMES
+bonus,biology,Multiple Choice,"Which of the following is a primary function of histones H2A, H2B, H3 and H4: W) preventing damage to DNA from ionizing radiation X) densely packaging DNA into nucleosomes Y) holding DNA in the double helical configuration Z) directing the packaging of DNA into looped domains of about 300 nanometers",X) DENSELY PACKAGING DNA INTO NUCLEOSOMES
+toss-up,math,Multiple Choice,Which of the following has a graph that is a parabola that opens downward: W) f(x) = 3x + 1 X) f(x) = x2 – 2 Y) f(x) = –x2 Z) f(x) = x3,Y) f(x) = –x2
+bonus,math,Short Answer,"Find the 101st term in the arithmetic sequence whose first three terms are 5, 11, and 17:","605
+(Solution: a = a + (n – 1)d; = 5 + (101 – 1)(6) = 605)
+n 1
+2007 Regional Science Bowl – Page 9"
+toss-up,earth science,Multiple Choice,Which of the following rocks typically has the SMALLEST grains: W) shale X) conglomerate Y) breccia Z) sandstone,W) SHALE
+bonus,earth science,Multiple Choice,"If ammonoid fossils are found in a sediment layer, the area was MOST likely covered by: W) an ocean X) a large forest Y) a pre-Cambrian swamp Z) a fresh-water basin",W) AN OCEAN
+toss-up,,Multiple Choice,"20) GENERAL SCIENCE Multiple Choice What type of fluorescence is produced in ""Glow Sticks"" that are widely found on the market today and which glow for hours after the stick is ""broken"" to allow for the mixture of different substances: W) thermoluminescence X) triboluminescence Y) photoluminescence Z) chemiluminescence",Z) CHEMILUMINESCENCE
+bonus,,Multiple Choice,20) GENERAL SCIENCE Multiple Choice Most commercial asbestos was a fibrous variety of serpentine called: W) chrysotile X) kaolinite Y) magnetite Z) apatite,"W) CHRYSOTILE
+2007 Regional Science Bowl – Page 10"
+toss-up,,Short Answer,21) ASTRONOMY Short Answer Name all of the following 4 celestial objects that are typically considered minor planets: Ceres; Titan; Mercury; Juno,CERES AND JUNO
+bonus,,Short Answer,21) ASTRONOMY Short Answer How many times as great will light-gathering power of a reflector telescope be if the radius of its primary mirror is doubled?,4
+toss-up,chemistry,Short Answer,What is the systematic IUPAC name for the compound Fe(NO ) ? 2 3,IRON (III) NITRITE (read as: iron three nitrite) (MUST BE EXACT)
+bonus,chemistry,Short Answer,"To the second decimal place, what is the concentration of nitrate ions, in moles per liter, in a 0.26 molar Al(NO ) solution? 3 3","0.78
+(Solution: 3 × 0.26 = 0.78)
+2007 Regional Science Bowl – Page 11"
+toss-up,physics,Short Answer,"Billy drops his teddy bear out of the car window 2 meters from the ground while his father is driving down Main Street at 20 meters per second. In seconds to the first decimal place, how long does it take for the bear to hit the ground, assuming air resistance is neglected?",0.6
+bonus,physics,Short Answer,"Using your rounded answer to the above question and remembering that the father is driving down Main Street at 20 meters per second, how far will the bear travel horizontally before striking the ground, rounded to the nearest whole meter and again assuming air resistance is neglected?",12
+toss-up,biology,Short Answer,The corpus luteum in humans primarily secretes what hormone?,PROGESTERONE
+bonus,biology,Short Answer,Name all of the following 4 physiological inputs that affect the homeostatic actions of the hypothalamus in humans: limbic system; olfactory system; retina; reticular formation,"ALL
+2007 Regional Science Bowl – Page 12"
+toss-up,physics,Short Answer,What is the underwater pressure in atmospheres in a fresh water lake at a depth of 20 meters?,3
+bonus,physics,Short Answer,"What is the resonant frequency, in hertz to the nearest whole number, of a three-component series circuit that has a 2 henry inductor, a 2 microfarad capacitor, and a 2 ohm resister?","80
+2007 Regional Science Bowl – Page 13"

@@ -1,0 +1,85 @@
+type,subject,format,question,answer
+toss-up,physics,Multiple Choice,Which of the following BEST describes how the most accurate value for the gravitational constant has been determined: W) through theoretical calculations from General Relativity X) through theoretical calculations using the masses and motions of certain celestial bodies Y) through theoretical calculations from quantum electrodynamics Z) through experimentation,Z) THROUGH EXPERIMENTATION
+bonus,physics,Multiple Choice,"Which of the following BEST describes how Thomas Young produced sufficiently coherent separate light sources in order to produce interference patterns: W) passing coherent light through 2 closely spaced holes in the same opaque screen X) passing incoherent light 1st through an opaque screen with a single hole, and then through a 2nd opaque screen with 2 holes Y) passing polarized light through 2 holes in a single opaque screen Z) passing laser light through 2 holes in a single opaque screen","X) PASSING INCOHERENT LIGHT 1st THROUGH AN OPAQUE SCREEN WITH
+A SINGLE HOLE, AND THEN THROUGH A 2nd OPAQUE SCREEN WITH 2 HOLES"
+toss-up,chemistry,Multiple Choice,"Which of the following is NOT true: W) a reaction that requires free energy is spontaneous X) gases, as a group, have higher entropies than liquids Y) standard molar entropies of pure substances are always positive values Z) spontaneous processes involve non-equilibrium conditions",W) A REACTION THAT REQUIRES FREE ENERGY IS SPONTANEOUS
+bonus,chemistry,Short Answer,"Consider the reaction, N + 3H  2NH . If the 2(gas) 2(gas) 3(gas) concentration of ammonia increases from 0.3 molar to 0.9 molar in a 10-minute period, find the average rate of reaction over this time interval. Give your answer to the 2nd decimal place in moles per liter minute:","0.03
+(Solution: rate = ∆[NH ]/2∆t = 0.6M/2(10min) = 0.03 mole/L-min)
+3
+High School Round 15 Page 1"
+toss-up,biology,Short Answer,What enzyme in E. coli functions as the primary proof-reading molecule during replication?,DNA POLYMERASE (ACCEPT: DNA POLYMERASE 3)
+bonus,biology,Multiple Choice,Which of the following is NOT true of DNA replication: W) it is initiated by a short DNA primer X) the growing strand is polymerized in a 5-prime to 3-prime direction Y) DNA polymerase helps form the phosphodiesterase (read as: FOSS-foe-die-ESS-ter-ase) bonds Z) synthesis of the lagging strand is discontinuous,W) IT IS INITIATED BY A SHORT DNA PRIMER
+toss-up,math,Multiple Choice,"A data set has a mean of 10 and variance of 10. If every set element is multiplied by 2, which of the following is TRUE of the new mean and variance: W) mean is 20, variance is 40 X) mean is 20, variance is 10 Y) mean is 20, variance is 20 Z) mean is 10, variance is 20","W) MEAN IS 20, VARIANCE IS 40"
+bonus,math,Short Answer,"Convert the angle, 18º18’36” (read as: 18 degrees, 18 minutes, 36 seconds) to degrees, to the second decimal place:","18.31
+18 36
+(Solution: 18+ + = 18.31)
+60 3600
+High School Round 15 Page 2"
+toss-up,earth science,Multiple Choice,A meromictic lake has layers of water that typically: W) intermix once a year X) intermix each spring and autumn Y) intrtmix only when the winds are favorable Z) do not intermix,Z) DO NOT INTERMIX
+bonus,earth science,Short Answer,Name all of the following 4 factors that are reasons why biomes are not considered homogeneous biotic communities: local topography; soil characteristics; temperature; water,ALL
+toss-up,,Multiple Choice,6) GENERAL SCIENCE Multiple Choice In which of the following processes would isinglass (read as: eye-zen-glass) most likely be used: W) clarification of beers and wines X) baking of yeast-free breads Y) glazing of ceramics Z) thickening of puddings,W) CLARIFICATION OF BEERS AND WINES
+bonus,,Multiple Choice,6) GENERAL SCIENCE Multiple Choice In which of the following instances would using a student t-test be most appropriate: W) comparing yes or no answers on a single question on a questionnaire X) determining statistical differences between 5 different age groups of males that received a drug that increases red blood cell production Y) finding the statistical differences between two groups in an experiment on a drug’s effect in raising or lowering blood pressure Z) comparing the strengths of 5 different types of fishing lines,"Y) FINDING THE STATISTICAL DIFFERENCES BETWEEN TWO GROUPS IN
+AN EXPERIMENT ON A DRUG’S EFFECT IN RAISING OR LOWERING BLOOD PRESSURE
+High School Round 15 Page 3"
+toss-up,,Multiple Choice,7) ASTRONOMY Multiple Choice Which of the following positions is an inferior planet most likely in if it is seen just after sunset: W) opposition X) superior conjunction Y) greatest eastern elongation Z) greatest western elongation,Y) GREATEST EASTERN ELONGATION
+bonus,,Short Answer,"7) ASTRONOMY Short Answer According to the Pogson scale for brightness, by what multiple does the brightness of 2 stars differ that have apparent magnitudes of +3 and +8?",100
+toss-up,physics,Multiple Choice,"To early astrophysical researchers, the Sun was originally found to emit about one-third of the expected amount of neutrinos. Which of the following BEST explains why: W) about 66% of the neutrinos were deflected by the Earth’s magnetic field X) two-thirds of the neutrinos were too energetic to be detected Y) neutrinos were changing flavor on their way to Earth Z) original estimations of the numbers emitted by the Sun were incorrect",Y) NEUTRINOS WERE CHANGING FLAVOR ON THEIR WAY TO EARTH
+bonus,physics,Multiple Choice,"If you were using a 50-millimeter camera lens and changed the lens aperture from 8.0 to 5.6, about how much LESS light would the lens be allowing to pass through it: W) 60% less X) 50% less Y) 35% less Z) 22% less","X) 50% LESS
+(Solution: 5.6/8.0 = 0.70; (0.70)2 = 0.49 ~ 50%)
+High School Round 15 Page 4"
+toss-up,chemistry,Multiple Choice,"Which of the following is NOT generally true of reaction equilibria: W) if the temperature of an exothermic reaction is raised, the equilibrium shifts to the left X) the equilibrium constants for forward and reverse reactions are the reciprocals of each other Y) pure liquids appear in the equilibrium expression but pure solids do not Z) an equilibrium constant greater than 1 means that the reaction favors products at equilibrium","Y) PURE LIQUIDS APPEAR IN THE EQUILIBRIUM EXPRESSION BUT PURE
+SOLIDS DO NOT
+(Solution: pure solids and liquids do not appear in the equilibrium expression)"
+bonus,chemistry,Short Answer,"Calculate ∆Gº (read as: delta G naught), giving your answer in kilojoules, for a reaction in which ∆Hº = +180 kilojoules and ∆Sº = +100 joules per kelvin at 300 kelvin and 1 atmosphere pressure:","+150 (ACCEPT: 150) (SO NOT ACCEPT: –150)
+(Solution: ∆Gº = ∆Hº–T∆Sº = 180kJ – [300K(0.10 kJ/K)] = 150 kJ)"
+toss-up,biology,Multiple Choice,Which of the following is MOST characteristic of human blast cells in on observation with light microscopy: W) large nuclear to cytoplasmic ratio X) small nucleolus and mostly heterochromatin in the nucleus Y) lack of cytoplasmic granules and small overall size compared to mature cells Z) absence of nucleolus (read as: NEW-clee-oh-luss) and endoplasmic reticulum,W) LARGE NUCLEAR TO CYTOPLASMIC RATIO
+bonus,biology,Short Answer,What specific molecule binds immediately upstream of the structural genes in the lac (read as: LACK) operon and functions to transcribe these genes?,"RNA POLYMERASE
+High School Round 15 Page 5"
+toss-up,math,Multiple Choice,The graph of r = 3 secant (θ) (read as: r = 3 secant theta) is a: W) parabola X) circle Y) hyperbola Z) line,Z) LINE
+bonus,math,Short Answer,"Give the resulting vector for the cross product of vector 1,0,0 with vector 0,0,1 :","0,−1,0"
+toss-up,earth science,Multiple Choice,"When sampling for organic matter in seawater, any organic matter retained by a 0.2 micrometer pore filter is classified as: W) dissolved organic carbon X) particulate organic carbon Y) detrital organic carbon Z) live or dead marine algae",X) PARTICULATE ORGANIC CARBON
+bonus,earth science,Multiple Choice,Which of the following soil additives would be most efficient at increasing the acidity of a slightly alkaline soil: W) ground chalk X) aluminum sulfate Y) calcium sulfate Z) calcium carbonate,"X) ALUMINUM SULFATE
+High School Round 15 Page 6"
+toss-up,,Multiple Choice,13) GENERAL SCIENCE Multiple Choice Clean or unpolluted rain water has a pH of about: W) 5.6 X) 6.5 Y) 7.0 Z) 7.6,W) 5.6
+bonus,,Multiple Choice,13) GENERAL SCIENCE Multiple Choice Which of the following plays the greatest role in the effect of acid rain on the environment: W) the ability of soils and bedrock to neutralize the acid X) the initial pH of the rain in the upper troposphere Y) low-level ozone concentration Z) temperature of the troposphere,W) THE ABILITY OF SOILS AND BEDROCK TO NEUTRALIZE THE ACID
+toss-up,,Multiple Choice,14) ASTRONOMY Multiple Choice Which of the following is closest to the age of most chondrites: W) 150 million years X) 1.5 billion years Y) 4.6 billion years Z) 13.7 billion years,"Y) 4.6 BILLION YEARS
+(Solution: most are about the same age as our solar system)"
+bonus,,Multiple Choice,14) ASTRONOMY Multiple Choice Which of the following best describes the hydrogen spectral line strength for an A-type star of about 3 solar masses: W) missing X) weak Y) medium Z) strong,"Z) STRONG
+High School Round 15 Page 7"
+toss-up,physics,Multiple Choice,Which of the following BEST describes spin quantum numbers: W) orientation of intrinsic angular momenta of electrons X) centripetal accelerations of atoms Y) angular momenta of only hadrons Z) centripetal acceleration of electrons,W) ORIENTATION OF INTRINSIC ANGULAR MOMENTA OF ELECTRONS
+bonus,physics,Short Answer,"What is the spin of the muon, in quantum units?","½
+(Solution: muons are fermions which have a spin of ½)"
+toss-up,chemistry,Multiple Choice,Which of the following substances has the greatest density: W) hexane X) methylene chloride Y) diethyl ether Z) ethyl acetate,"X) METHYLENE CHLORIDE
+(Solution: halogenated solvents possess a higher density than non-halogenated ones)"
+bonus,chemistry,Multiple Choice,Which of the following molecules is most likely to have a zero dipole moment based on its molecular shape: W) PF 3 X) H O 2 Y) PCl 3 Z) BeF 2,"Z) BeF
+2
+High School Round 15 Page 8"
+toss-up,biology,Short Answer,What is the most common name for the first membrane-associated molecule discovered to function in a wide variety of cells in what is commonly referred to as a second messenger?,CYCLIC AMP (ACCEPT: cAMP)
+bonus,biology,Multiple Choice,With which of the following are cyclin-dependent kinases most directly involved: W) repairing damaged DNA X) regulating cell cycle Y) digesting plasmids Z) insulin’s action on fat cells,X) REGULATING CELL CYCLE
+toss-up,math,Short Answer,"What is the angle formed, in degrees, between the hour and minute hand of an analog clock at 10:30 AM?",135
+bonus,math,Short Answer,Arrange the following 4 radicals in order of increasing value: 6 12 ; 6 63; 3 2; 4 8,"3 2 ; 6 12 ; 4 8; 6 63
+High School Round 15 Page 9"
+toss-up,earth science,Multiple Choice,Which of the following is TRUE regarding the Hadley cell: W) it creates an area of high pressure along the equator X) it is an open ocean circulation at 30º north and south latitudes Y) it originates at the equator with strong solar heating Z) it is the only air circulation that is not affected by the Coriolis effect,Y) IT ORIGINATES AT THE EQUATOR WITH STRONG SOLAR HEATING
+bonus,earth science,Short Answer,Name all of the following 3 lavas from which stratovolcanoes are typically composed: andesite; rhyolite; basalt,ANDESITE; RHYOLITE
+toss-up,,Multiple Choice,20) GENERAL SCIENCE Multiple Choice Which of the following is the primary detrimental effect to humans and animals who ingest high levels of melamine: W) impaired nerve transmission X) impaired kidney function Y) liver failure Z) severe gastrointestinal distress,X) IMPAIRED KIDNEY FUNCTION
+bonus,,Multiple Choice,20) GENERAL SCIENCE Multiple Choice Which of the following is one of the main unique capabilities of the GLAST observatory: W) it operates completely on photovoltaic cells X) it contains the largest superconducting magnet in space Y) it can survey the entire celestial sphere several times each day Z) it orbits the Moon,"Y) IT CAN SURVEY THE ENTIRE CELESTIAL SPHERE SEVERAL TIMES
+EACH DAY
+High School Round 15 Page 10"
+toss-up,,Short Answer,"21) ASTRONOMY Short Answer In astronomical units to the first decimal place, what is the Chandrasekhar Limit?",1.4
+bonus,,Short Answer,"21) ASTRONOMY Short Answer If a new Moon occurs on May 5th at 8:20 AM eastern daylight time, on what day will the full Moon occur that month?",19th
+toss-up,physics,Short Answer,"Uranium-238 and plutonium-239, primarily decay by what mode?",ALPHA (ACCEPT: ALPHA EMISSION or ALPHA DECAY)
+bonus,physics,Short Answer,What is the name of the instrument invented by Charles Wilson and used in the early 1900’s in many experiments to show the tracks of charged particles passing through a chamber?,"CLOUD CHAMBER (ACCEPT: WILSON CLOUD CHAMBER)
+High School Round 15 Page 11"
+toss-up,chemistry,Short Answer,What chemical term is given to the formations that occur in water when a hydrophilic head and a hydrophobic tail organize into spheres that orient the tails within the sphere?,MICELLE
+bonus,chemistry,Short Answer,"Using proper chemical nomenclature, finish balancing the following combustion reaction for the gaseous products of carbon dioxide and water: 2C H + 13O  what? 4 10(gas) 2(gas)","8CO + 10H O (products in any order)
+2 2"
+toss-up,biology,Short Answer,From what basic plant cell type are the majority of cells in a corm (read as: KORM) composed?,PARENCHYMA
+bonus,biology,Short Answer,"If a germ cell of a genus of grass has 48 chromosomes at metaphase- two, how many chromosomes will a germ cell of this grass have in anaphase-two?","96
+High School Round 15 Page 12"
+toss-up,chemistry,Short Answer,Name all of the following 3 molecules that are considered saturated hydrocarbons: ethylene; ethane; cyclohexane,ETHANE; CYCLOHEXANE
+bonus,chemistry,Short Answer,How many milliliters of a 0.250 molar H SO solution will react 2 4 with 10 milliliters of a 0.250 molar NaOH solution,"5
+(Solution: N = (2eq/mol)(0.250 mol/L) = 0.5 eq/L; N = 0.250 eq/L;
+H2SO4 NaOH
+(N )(V = (N )(V ); (0.5 meq/ml)(x) = (0.25 meq/ml)(10 ml) = 5 ml)
+H2SO4 H2SO4) naOH NaOH
+High School Round 15 Page 13"

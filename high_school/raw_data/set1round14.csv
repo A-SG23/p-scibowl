@@ -1,0 +1,83 @@
+type,subject,format,question,answer
+toss-up,chemistry,Short Answer,"Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn + CuSO  ZnSO + Cu (solid) 4(aqueous) 4(aqueous) (solid)",OXIDIZED = Zn (ACCEPT: ZINC); REDUCED = Cu (ACCEPT: COPPER)
+bonus,chemistry,Multiple Choice,Which of the following is closest to the pK of an acid whose a K = 5.0 × 10–4: a W) 2.3 X) 3.3 Y) 4.0 Z) 5.0,"X) 3.3
+(Solution: pK = –log K = 3.3)
+a 10 a"
+toss-up,biology,Multiple Choice,Which of the following best describes the repressor protein in the lac (read as: LACK) operon: W) uncompetitive inhibitor X) structural protein Y) regulatory protein Z) transcriptional factor,Y) REGULATORY PROTEIN
+bonus,biology,Multiple Choice,Through which of the following mechanisms do allosteric inhibitors typically operate: W) binding the substrate X) binding to an enzyme’s active site Y) binding to a site other than the active site and changing the shape of an enzyme Z) acting as a competitive inhibitor and overpowering the active sites of enzymes,"Y) BINDING TO A SITE OTHER THAN THE ACTIVE SITE AND CHANGING
+THE SHAPE OF AN ENZYME
+High School Round 14 Page 1"
+toss-up,physics,Short Answer,"In the radioactive decay scheme of uranium, what is the final stable element produced?",LEAD
+bonus,physics,Short Answer,"Consider an astronaut on the Moon and g is exactly 1/6th of g on Earth. If he threw an object vertically upwards with an initial velocity of 1.6 meters per second, how many meters up would it be after 1 second, rounding your answer to the first decimal place?",0.8
+toss-up,math,Multiple Choice,Which of the following represents the inverse function of f(x) = x3 + 5: W) (x – 5)3 X) x3 – 5 1 Y) (x−5)3 3  1  Z)   x−5 1,Y) (x−5)3
+bonus,math,Short Answer,"Giving your answer in meters squared, find the total surface area of a right prism whose base is a right triangle with legs of length 3 meters and 4 meters and whose altitude is 2 meters:","36
+(Solution: 3:4:5; P = 3+4+5 = 12m; A = ½bh = 6 m2; TA = LA + 2B = (12)(2) + 2(6) = 36 m2)
+base
+High School Round 14 Page 2"
+toss-up,earth science,Multiple Choice,Which of the following is a tree that is very well-adapted to surviving above shallow permafrost: W) cottonwood X) white pine Y) aspen Z) black spruce,Z) BLACK SPRUCE
+bonus,earth science,Multiple Choice,Which of the following BEST describes a small lake in an arctic environment that is likely to be surrounded by a ring of so-called drunken trees leaning toward the lake: W) paternoster lake X) thermokarst Y) tarn Z) fen,X) THERMOKARST
+toss-up,,Short Answer,6) GENERAL SCIENCE Short Answer Order the following 3 hexadecimal numbers from SMALLEST to LARGEST: 3E8; BB8; 1F4;,"1F4; 3E8; BB8
+(Solution: 1F4 = 500; 3E8 =1000; BB8 = 3000)"
+bonus,,Multiple Choice,6) GENERAL SCIENCE Multiple Choice An experiment aboard a recent Space Shuttle mission exposed Salmonella typhimurium (read as: TIE-fee-muhr-EE-um) to a space environment. Which of the following resulted when the bacteria came back to Earth: W) they were more virulent X) they were less virulent Y) they had about the same virulence Z) they changed into a new but similar species of bacteria,"W) THEY WERE MORE VIRULENT
+(Solution: NASA’s Space Shuttle mission STS-115)
+High School Round 14 Page 3"
+toss-up,,Multiple Choice,7) ASTRONOMY Multiple Choice Which of the following is TRUE of red supergiants: W) some form Cepheid variables X) most end as nova stars Y) most have luminosities about 10 to 100 times that of our Sun Z) most have surface temperatures at least 2-times that of our Sun,W) SOME FORM CEPHEID VARIABLES
+bonus,,Multiple Choice,7) ASTRONOMY Multiple Choice Which of the following is NOT characteristic of B-type stars like Rigel or Spica (read as: SPY-kah): W) very luminous X) apparent blue color Y) medium strength hydrogen spectral lines Z) average solar mass of about 3.2,"Z) AVERAGE SOLAR MASS OF ABOUT 3.2
+(Solution: solar mass of about 16-18)"
+toss-up,chemistry,Multiple Choice,"According to VSEPR bonding theory, if 2 of the bonded atoms in an octahedral molecule are replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in XeF : 4 W) linear X) trigonal bipyramidal Y) square planar Z) square pyramidal",Y) SQUARE PLANAR
+bonus,chemistry,Multiple Choice,"According to VSEPR bonding theory, if one of the bonded atoms in a trigonal bipyramidal molecule is replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in ClF : 3 W) t-shaped X) see-saw Y) linear Z) bent","W) T-SHAPED
+High School Round 14 Page 4"
+toss-up,biology,Multiple Choice,Which of the following mutations would most likely affect a gene the LEAST: W) single base deletion X) single base substitution Y) single base insertion Z) quadruple base deletion,X) SINGLE BASE SUBSTITUTION
+bonus,biology,Multiple Choice,Which of the following BEST explains why a single base substitution in a gene-coding region for amino acids will sometimes lead to no change in amino acid sequence: W) all nucleotides are subject to the same mutation rate X) some nucleotide bases are covalently joined by stronger bonds Y) the code is degenerate with more than one triplet coding for the same amino acid Z) some amino acids act in the same fashion in determining the tertiary structure of a protein,"Y) THE CODE IS DEGENERATE WITH MORE THAN ONE TRIPLET CODING
+FOR THE SAME AMINO ACID"
+toss-up,physics,Multiple Choice,Which of the following experimental approaches was used by scientists to discover that the atomic nucleus held most of the atom’s mass and a positive charge: W) directing alpha particles at thin metal strips X) finding the amount of magnetic deflection in cathode rays within a well-evacuated tube Y) exposing photographic film to certain radium salts Z) using a crude cyclotron to disintegrate large nuclei,W) DIRECTING ALPHA PARTICLES AT THIN METAL STRIPS
+bonus,physics,Short Answer,Name all of the following 4 sub-atomic particles that are never found in isolation: electrons; protons; quarks; positrons,"QUARKS
+High School Round 14 Page 5"
+toss-up,math,Multiple Choice,Which of the following is a quadratic equation with a root of multiplicity of 2: W) 9x2 – 30x2 + 25 = 0 X) x2 + 2x – 15 = 0 Y) 6x2 – 11x – 2 = 0 Z) 4x2 – 1 = 0,"W) 9x2 – 30x2 + 25 = 0
+(Solution: x = 5/3)"
+bonus,math,Short Answer,"Given f(x) = x2 + 2x + 3, express f(x + 1) in standard polynomial form:",x2 + 4x + 6
+toss-up,earth science,Multiple Choice,"Placodonts, which lived during the Triassic Period, were a group of: W) meat-eating land reptiles X) flying reptiles Y) small, lightweight, plant-eating reptiles Z) marine reptiles",Z) MARINE REPTILES
+bonus,earth science,Multiple Choice,Which of the following is NOT true regarding seismic waves through the Earth: W) P-waves travel through the mantle X) S-waves travel through the mantle Y) P-waves travel through the outer core Z) S-waves travel through the outer core,"Z) S-WAVES TRAVEL THROUGH THE OUTER CORE
+(Solution: S-waves cannot travel through liquids and the outer core is liquid)
+High School Round 14 Page 6"
+toss-up,physics,Multiple Choice,Which of the following would a Leyden jar most likely be considered: W) an electroscope X) a capacitor Y) a resistor Z) a Tesla cage,X) A CAPACITOR
+bonus,physics,Short Answer,How many joules of energy are used by an electrical appliance operating on 8 amps of current flowing through a 20-ohm resistance circuit for 5 minutes?,"384,000
+(Solution: E = I2 R × T = (8A)2 × 20 ohms × 300 s = 384,000 joules)"
+toss-up,,Multiple Choice,14) ASTRONOMY Multiple Choice Which of the following BEST describes where the zodiacal light is brightest to a stargazer at mid-northern latitudes: W) within about 20 degrees of the ecliptic X) at the western horizon at sunrise Y) at right angles to the Milky Way Z) parallel with the Milky Way,W) WITHIN ABOUT 20 DEGREES OF THE ECLIPTIC
+bonus,,Multiple Choice,14) ASTRONOMY Multiple Choice Which of the following is the BEST explanation for what causes zodiacal light: W) reflection of moonlight off the Earth’s surface X) dispersion of the Earth’s radiant heat off the troposphere Y) sunlight reflected off interplanetary dust particles Z) radiation from the Van Allen belts,"Y) SUNLIGHT REFLECTED OFF INTERPLANETARY DUST PARTICLES
+High School Round 14 Page 7"
+toss-up,chemistry,Short Answer,How many quantum numbers are required to completely describe a specific electron in a multi-electron atom?,4
+bonus,chemistry,Multiple Choice,Which of the following describes the quantum number that indicates the direction in space of the electron cloud surrounding the nucleus of an atom: W) magnetic quantum number X) principle quantum number Y) angular momentum quantum number Z) spin quantum number,W) MAGNETIC QUANTUM NUMBER
+toss-up,biology,Multiple Choice,Which of the following BEST explains why leaves fall off trees in the autumn: W) the leaves die and passively fall off X) an abscission layer forms at the base of the leaf stem causing it to fall off Y) the leaves slowly dry out from the bottom up because of abscisic acid that prevents phloem from delivering nutrients Z) the vascular tissue of the leaves fill up with resin increasing their stiffness and causing them to become brittle,"X) AN ABSCISSION LAYER FORMS AT THE BASE OF THE LEAF STEM
+CAUSING IT TO FALL OFF"
+bonus,biology,Multiple Choice,Which of the following will most likely result from a single base deletion in DNA: W) nonsense mutation X) stop codon Y) frame shift mutation Z) inversion mutation,"Y) FRAME SHIFT MUTATION
+High School Round 14 Page 8"
+toss-up,,Multiple Choice,"17) GENERAL SCIENCE Multiple Choice Because of its linear-temperature relationship and its chemical inertness, which of the following materials is almost always used in resistance temperature detectors: W) mercury X) platinum Y) iron Z) brass",X) PLATINUM
+bonus,,Multiple Choice,17) GENERAL SCIENCE Multiple Choice Which of the following is the main advantage for the use of geothermal heat pumps in the U.S.: W) geothermal steam reservoirs can be tapped almost anywhere in the U.S. X) heat can be delivered directly for its intended use Y) steam can be used to directly generate electricity Z) all areas of the U.S. have nearly constant shallow-ground temperatures,"Z) ALL AREAS OF THE U.S. HAVE NEARLY CONSTANT SHALLOW-GROUND
+TEMPERATURES"
+toss-up,math,Short Answer,"In the algebra of real-valued functions, give the name or number of all of the following 3 choices that the implied domain usually excludes: 1) numbers causing division by zero 2) numbers causing imaginary numbers in the range 3) numbers causing irrational numbers in the range",1 AND 2
+bonus,math,Short Answer,Add the following rational expressions and give your answer in fully x 4x factored form: + (x+2) (x−6) x(5x+2) x(5x+2),"(ACCEPT: )
+(x−6)(x+2) (x+2)(x−6)
+High School Round 14 Page 9"
+toss-up,earth science,Short Answer,The aurora occur high in what layer of Earth’s atmosphere?,THERMOSPHERE
+bonus,earth science,Multiple Choice,"During a Nor’easter, areas far to the east of the storm center will feel which of the following storm-generated winds: W) northeasterly X) southeasterly Y) southwesterly Z) northwesterly",Y) SOUTHWESTERLY
+toss-up,,Multiple Choice,20) GENERAL SCIENCE Multiple Choice Which of the following most accurately represents the complete range of wavelengths to which the human eye is sensitive: W) 320 to 600 nanometers X) 380 to 740 nanometers Y) 450 to 850 nanometers Z) 480 to 950 nanometers,X) 380 TO 740 NANOMETERS
+bonus,,Multiple Choice,20) GENERAL SCIENCE Multiple Choice Which of the following is NOT true: W) over 50% of all stars that appear to be single are double or multiple systems X) aurora borealis can occur in all 4 seasons Y) tetanus toxin causes muscle stiffness in affected humans Z) the Large Hadron Collider at CERN began colliding electrons in September of 2008,"Z) THE LARGE HADRON COLLIDER AT CERN BEGAN COLLIDING
+ELECTRONS IN SEPTEMBER OF 2008
+(Solution: the LHA collides hadrons…electrons are leptons)
+High School Round 14 Page 10"
+toss-up,energy,Short Answer,"21) ASTRONOMY Short Answer If the surface temperature of a star increased from 6,000 kelvin to 18,000 kelvin, how many times as much energy would it radiate?",81
+bonus,,Short Answer,"21) ASTRONOMY Short Answer Using the most common temperature-based spectral classification system, a star with an apparent color of blue and a surface temperature of 55,000 kelvin would have what spectral letter classification?",O
+toss-up,biology,Short Answer,What is the most common name for the terminus of a tRNA molecule to which amino acids are attached?,"3-PRIME TERMINUS (ACCEPT: CCA 3-PIME END or 3-PRIME END or
+3-PRIME)"
+bonus,biology,Short Answer,"What protein, that takes its name from its apparent molecular weight, can arrest cells in the G1-S checkpoint, initiate apoptosis (read as: aye-pop-TOE-sis) and, when deactivated, is implicated in a wide variety of cancers?","P53
+High School Round 14 Page 11"
+toss-up,chemistry,Short Answer,"According to general solubility rules, name all of the following 5 substances that are NOT soluble in water: lithium iodide; sodium chloride; iron(II) hydroxide; sodium nitrate; barium sulfate",IRON(II) HYDROXIDE; BARIUM SULFATE
+bonus,chemistry,Short Answer,"Consider a hypothetical reaction, A + B  C + D. At zero time, the concentration of A = 1 molar, after 30 seconds A = 0.5 molar, and after 50 seconds A = 0.3 molar. Calculate the average rate of disappearance of A over the time interval 30 seconds to 50 seconds, in molarity per second:","1 × 10–2 (ACCEPT: 0.01)
+(Solution: ave rate = –∆A/∆t = (0.3 – 0.5M)/(50 – 30s) = 0.010 M/s)"
+toss-up,physics,Short Answer,"What is the most common name for the field, which is believed to act somewhat like a fluid that fills space and endows quarks with mass?",HIGGS FIELD (ACCEPT: HIGGS)
+bonus,physics,Short Answer,Order the following 3 isotopes from the one with the LOWEST nuclear binding energy to the HIGHEST: iron-58; hydrogen-2; oxygen-16,"HYDROGEN-2; OXYGEN-16; IRON-58
+High School Round 14 Page 12"
+toss-up,biology,Short Answer,Into what specific mitochondrial compartment are hydrogen ions pumped out during chemiosmosis (read as: chem-ee-oz-MOE-sis)?,MATRIX
+bonus,biology,Short Answer,Name all of the following 4 hormones that are formed primarily from the amino acid tyrosine: glucagon; thyroxine; epinephrine; erythropoietin (read as: EE-rith- roe-POE-ih-tin),"THYROXINE; EPINEPHRINE
+High School Round 14 Page 13"

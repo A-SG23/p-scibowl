@@ -1,0 +1,83 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,"Give the measure of angle (read as: theta), if 0 ≤ ≤ 2π, sin = and cos = .",
+bonus,math,Short Answer,What is the perimeter of a sector of angle π/3 radians in a circle with circumference 2π2? Provide your answer in simplest form in terms of π.,"2π+ π2/3 (ACCEPT: )
+________________________________________________________________________"
+toss-up,,Multiple Choice,"2) EARTH AND SPACE Multiple Choice A geologic map uses a combination of lines, symbols and colors to show the composition and structure of earth materials across and beneath the Earth’s surface. Which of the following would NOT be included on a geologic bedrock map? W) Limestone X) Granite Y) Vertisols Z) Slate",Y) VERTISOLS
+bonus,,Short Answer,"2) EARTH AND SPACE Short Answer What kind of map shows soils, alluvium, and glacial deposits, distinguished on the basis of particle size, texture, and composition?","SURFICIAL
+Round 9 Page 1"
+toss-up,physics,Multiple Choice,A golf cart and a fire truck collide. Which vehicle experiences a greater force in the collision? W) Golf cart X) Fire truck Y) Both vehicles experience the same force Z) Depends on the speeds of the vehicles,Y) BOTH VEHICLES EXPERIENCE THE SAME FORCE
+bonus,physics,Multiple Choice,"Before a light marble and a heavy marble experience a head-on elastic collision, the heavy marble has a much higher speed than the light marble. During the collision, which marble experiences greater acceleration? W) The light marble X) The heavy marble Y) Both experience the same acceleration Z) In an elastic collision, neither marble accelerates","W) THE LIGHT MARBLE
+________________________________________________________________________"
+toss-up,chemistry,Short Answer,What color are the chromophores NOT absorbing in a blue shirt?,BLUE
+bonus,chemistry,Multiple Choice,Which of the following compounds is insoluble in water? W) Barium acetate X) Beryllium acetate Y) Lead acetate Z) Silver acetate,"X) BERYLLIUM ACETATE
+Round 9 Page 2"
+toss-up,biology,Multiple Choice,"Salmon dine on smaller fish like tiny herring, thus acquiring the energy in the herring’s meat. The herring ate a lot of food energy over its lifetime that was not transferred to the salmon, however. What happened to that energy? W) The energy was destroyed by electrical impulses X) The herring converted the energy to oxygen Y) The herring converted the energy to carbon dioxide Z) The herring used the energy of its food for metabolic processes and entropy","Z) THE HERRING USED THE ENERGY OF ITS FOOD FOR METABOLIC
+PROCESSES AND ENTROPY"
+bonus,biology,Multiple Choice,"Underwater mountains called seamounts provide a solid surface to cling to for many kinds of marine animals. Seamounts are important for all of the following reasons, except: W) They are sustainable locations for deep-sea fishing X) They may be breeding grounds Y) They support distinctive groups of animals, including corals Z) Their altitude they causes complex current patterns","W) THEY ARE SUSTAINABLE LOCATIONS FOR DEEP-SEA FISHING
+________________________________________________________________________"
+toss-up,math,Short Answer,"A number is obtained by tripling an original value, then tripling that result. If the final resulting value obtained by applying the process previously described is 1, what was the original number?",1/9
+bonus,math,Short Answer,"What matrix of integers is equal to 3 - (read as: 3 times the 2 by 2 matrix with row 1: -2, 1, and row 2: 0, 5 minus the 2 by 2 matrix row 1: 4, 0, and row 2: negative 4, 1)",Round 9 Page 3
+toss-up,chemistry,Short Answer,"Providing your answer as a decimal to the nearest tenth, if you start with 3 grams of Carbon-14, how many grams of isotope will remain after 3 half lives?",0.4
+bonus,chemistry,Multiple Choice,Which of the following is NOT true about enzymes? W) They catalyze most of the chemical changes that occur in a cell X) They are unchanged by the reaction they catalyze Y) They do not change the normal equilibrium position of a chemical system Z) They change the amount of product that is produced,"Z) THEY CHANGE THE AMOUNT OF PRODUCT THAT IS PRODUCED
+________________________________________________________________________"
+toss-up,physics,Multiple Choice,John has twice the mass of Carl. They jump off a cliff into the water below. Just before the splash: W) John has half as much kinetic energy as Carl X) John and Carl have the same kinetic energy Y) John has twice as much kinetic energy as Carl Z) John has four times as much kinetic energy as Carl,Y) JOHN HAS TWICE AS MUCH KINETIC ENERGY AS CARL
+bonus,physics,Multiple Choice,"In a safety crash test, a big truck and a small car have a head-on collision. What can we say about total system momentum? W) It is equal to zero X) It is less after the crash than before the crash Y) It is the same before and after the crash Z) It is more after the crash than before the crash","Y) IT IS THE SAME BEFORE AND AFTER THE CRASH
+Round 9 Page 4"
+toss-up,energy,Multiple Choice,Which of the following produces the largest share of electric power generation in the U.S.? W) Natural gas X) Coal Y) Nuclear power Z) Hydropower,X) COAL
+bonus,energy,Multiple Choice,"Methane hydrate is a cage-like lattice of ice inside which are trapped molecules of methane, the chief constituent of natural gas. Which of the following is NOT true about methane hydrate? W) Deposits generally occur beneath Arctic permafrost and the ocean floor X) Methane extraction from methane hydrate has been documented in large-scale field experiments Y) If pressures are high enough, it is stable far above the melting point of water ice Z) The energy content of methane hydrate is very high","X) METHANE EXTRACTION FROM METHANE HYDRATE HAS BEEN
+DOCUMENTED IN LARGE-SCALE FIELD EXPERIMENTS
+________________________________________________________________________"
+toss-up,,Short Answer,"10) EARTH AND SPACE Short Answer How long, in hours, is the night during the equinox?",12
+bonus,,Short Answer,10) EARTH AND SPACE Short Answer What is the term for the angle of an object’s elevation above the horizon?,"ALTITUDE
+Round 9 Page 5"
+toss-up,physics,Short Answer,"What is the potential difference in volts between two points, located 2 meters apart, in a constant electric field of 1 volt per meter?",2
+bonus,physics,Multiple Choice,"When a fighter pilot fires on a plane directly in front of her, the momentum of the fighter pilot and her plane changes in what way? W) It increases X) It decreases Y) It stays the same Z) It changes direction","X) IT DECREASES
+________________________________________________________________________"
+toss-up,energy,Multiple Choice,"Petroleum comes from: W) Accumulated carbon rich plant materials X) Dinosaur remains Y) Meteorite rocks that impacted the Earth millions of years ago found deep underground Z) Organic sediment transformed over time by bacteria, pressure, and temperature","Z) ORGANIC SEDIMENT TRANSFORMED OVER TIME BY BACTERIA,
+PRESSURE, AND TEMPERATURE"
+bonus,energy,Multiple Choice,Unleaded gasoline pumped at a filling station comes from crude oil. About what percentage of the oil’s original energy content is present in gasoline when it is pumped into the vehicle at the station? W) 13% X) 36% Y) 50% Z) 86%,"Z) 86%
+Round 9 Page 6"
+toss-up,math,Multiple Choice,The length of a rectangle is 5 inches less than twice the width. What is the width in inches if the perimeter is 38 inches? W) 5 X) 8 Y) 11 Z) 14,X) 8
+bonus,math,Short Answer,"One side of an equilateral triangle is 6. In simplest form, what is the altitude?","3
+________________________________________________________________________"
+toss-up,energy,Multiple Choice,"Of the following choices, what is the primary direct use of geothermal energy? W) Aquaculture X) Space heating Y) Gold mining Z) Dehydration of vegetable and fruit products",X) SPACE HEATING
+bonus,energy,Multiple Choice,"Aquaculture applications for geothermal energy are particularly promising for all of the following reasons, except: W) A variety of freshwater or marine organisms can be raised X) There is an abundance of geothermal resources at the required temperature range Y) Consistent water temperatures increase survival rates Z) Consistent water circulation enables year-round harvesting of consistently-sized fish","Z) CONSISTENT WATER CIRCULATION ENABLES YEAR-ROUND HARVESTING
+OF CONSISTENTLY-SIZED FISH
+Round 9 Page 7"
+toss-up,,Short Answer,"15) EARTH AND SPACE Short Answer Which of the following rocks would be most impacted by acid rain: 1) chert, 2) limestone, or 3) granite?",LIMESTONE (ACCEPT: 2)
+bonus,,Short Answer,15) EARTH AND SPACE Short Answer Imagine a sandstone that fizzes when exposed to hydrochloric acid. Name the mineral that cements the sand grains together.,"CALCIUM CARBONATE (ACCEPT: CALCITE OR CaCO )
+3
+________________________________________________________________________"
+toss-up,biology,Short Answer,"Russian physiologist Ivan Pavlov performed a famous experiment where he rang a bell before giving meat powder to dogs, which caused them to salivate. After a time, the dogs would salivate at the sound of the bell alone. What type of learned behavior is this?",CONDITIONED RESPONSE (ACCEPT: CONDITIONING)
+bonus,biology,Multiple Choice,"The common shore ragworm only leaves its sandy tube to feed. If a shadow passes overhead, it will quickly return to the safety of its burrow. If the shadow passes overheard repeatedly and nothing happens, the worm will eventually ignore the shadow. This type of learning is called: W) Sensitization X) Habituation Y) Conditioned response Z) Mimicry","X) HABITUATION
+Round 9 Page 8"
+toss-up,math,Short Answer,"If four numbers have an arithmetic mean of 20, and three of the numbers are 17, 18, and 19, what is the fourth number?",26
+bonus,math,Short Answer,What adjective is used to describe a set that can be placed in one-to- one correspondence with a subset of itself?,"INFINITE
+________________________________________________________________________"
+toss-up,,Multiple Choice,18) EARTH AND SPACE Multiple Choice Which of the following marine environments has the fewest trophic levels? W) Coastal Arctic X) Subtropical gyre Y) Coastal Antarctic Z) Peruvian upwelling zone,Y) COASTAL ANTARCTIC
+bonus,,Short Answer,18) EARTH AND SPACE Short Answer The presence of which organism allows for the low level of trophic complexity observed in coastal Antarctic waters?,"KRILL [ACCEPT: EUPHAUSIIDS (read as: yuh-FOH-zee-ids)]
+Round 9 Page 9"
+toss-up,math,Short Answer,"Find the measure of angle C in degrees in triangle ABC with sides equal to the following: AB = 15 centimeters, AC = 15 centimeters, and BC = 30 centimeters.",30
+bonus,math,Short Answer,"If y = p(x) and y = q(x) are two cubic polynomial functions that have the same leading coefficient, what is the maximum possible number of intersections of their graphs?","2
+________________________________________________________________________"
+toss-up,chemistry,Multiple Choice,Which of the following compounds has the lowest solubility product constant at pH 7? W) Sodium carbonate X) Iron II chloride Y) Magnesium chloride Z) Ammonium nitrate,X) IRON II CHLORIDE
+bonus,chemistry,Short Answer,What is the oxidation number of manganese in potassium permanganate?,"+7
+Round 9 Page 10"
+toss-up,physics,Short Answer,"When the distance travelled and displacement are equal and nonzero for a given object in motion, the object must have travelled: W) Back and forth X) In a straight line without changing direction Y) In a circle Z) In an ellipse",X) IN A STRAIGHT LINE WITHOUT CHANGING DIRECTION
+bonus,physics,Short Answer,"For an object to travel in a circle, it must experience acceleration in what direction?","TOWARDS THE CIRCLE'S CENTER
+________________________________________________________________________"
+toss-up,,Short Answer,22) EARTH AND SPACE Short Answer Give the two elements that primarily make up our sun.,"HYDROGEN, HELIUM"
+bonus,,Multiple Choice,22) EARTH AND SPACE Multiple Choice Which of the following is NOT true about the Sun? W) It vibrates in multiple modes like a bell that is repeatedly struck X) Gas near the Sun’s higher latitudes rotate more quickly than gas near its equator Y) It contains about 99% of the mass in the solar system Z) It is magnetic,"X) GAS NEAR THE SUN’S HIGHER LATITUDES ROTATE MORE QUICKLY THAN
+GAS NEAR ITS EQUATOR
+Round 9 Page 11"
+toss-up,biology,Multiple Choice,The bones of a human forearm are homologous to all of the following structures except for a: W) Whale flipper X) Dog forelimb Y) Bat wing Z) Fly wing,Z) FLY WING
+bonus,biology,Short Answer,Female mosquitoes and vampire bats are both sanguivores. This trait in bats and mosquitoes is an example of what type of evolution?,"CONVERGENT EVOLUTION
+________________________________________________________________________"
+toss-up,chemistry,Multiple Choice,In what range of colors do fireflies generally emit light? W) Yellow to green X) Orange to red Y) Red to blue Z) Blue to violet,W) YELLOW TO GREEN
+bonus,chemistry,Multiple Choice,What are the two conditions that distinguish bioluminescence from chemiluminescence (read as: keh-mee-luh-mi-NEH-sehns)? W) Bioluminescence occurs in living organisms and has hydrogen as a common reactant X) Bioluminescence occurs in living organisms and requires an enzyme catalyst Y) Bioluminescence occurs in living organisms and involves the emission of light at a lower energy than chemiluminescence (read as: keh-mee-luh-mi-NEH-sehns) Z) Bioluminescence occurs uniquely in living organisms and has oxygen as a common reactant,"X) BIOLUMINESENCE OCCURS IN LIVING ORGANISMS AND REQUIRES AN
+ENZYME CATALYST
+Round 9 Page 12"
+toss-up,biology,Multiple Choice,"Bees are essential pollinators, pollinating approximately 80% of flowering agricultural crops. Why do bees pollinate? W) It is an inadvertent product of collecting food X) Bees benefit when plants procreate Y) Bees harvest the fruits for food Z) It is an inadvertent product of mating",W) IT IS AN INADVERTENT PRODUCT OF COLLECTING FOOD
+bonus,biology,Multiple Choice,"In recent years, honey bee populations have been decreasing. What impact would the extinction of honey bees have on human agriculture? W) Different types of pollinators could be used; there would be no impact on agriculture X) All honey bee pollinated plants would go extinct Y) Plants would asexually reproduce instead; there would be no impact on agriculture Z) Some species are only pollinated by honey bees and would therefore need to be hand pollinated or face extinction","Z) SOME SPECIES ARE ONLY POLLINATED BY HONEY BEES AND WOULD
+THEREFORE NEED TO BE HAND POLLINATED OR FACE EXTINCTION
+Round 9 Page 13"
