@@ -1,0 +1,72 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,1) Math – Short Answer A scientist is designing an experiment in which she will determine if there is a correlation between drinking tea and contracting cancer. What statistical term is used to describe the assumption that drinking tea does not correlate with contracting cancer?,NULL HYPOTHESIS
+bonus,math,Short Answer,1) Math – Short Answer Subtracting a certain positive number from its square gives 110. Find the number.,"11
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"2) Physics – Short Answer Two point charges, Q1 and Q2, that have charges of +8 nanocoulombs and -8 nanocoulombs, respectively, are placed at two vertices of an equilateral triangle. If a third charge, Q3, of +3 nanocoulombs is placed at the third vertex, what is the potential energy associated with Q3?",ZERO
+bonus,physics,Short Answer,2) Physics – Short Answer Identify all of the following four reference frames that can be considered approximately intertial: 1) A stationary book; 2) A car coasting along at a steady speed; 3) A sky diver at terminal velocity; 4) A rocket taking off.,"1, 2, AND 3
+Round 7A Page 1"
+toss-up,,Multiple Choice,3) Earth and Space – Multiple Choice All the elements that are more massive than iron were formed by what astronomical phenomenon? W) Nova X) White dwarf Y) Supernova Z) Black hole,Y) SUPERNOVA
+bonus,,Multiple Choice,"3) Earth and Space – Multiple Choice In a stable atmosphere, which of the following properties of an unsaturated air parcel will increase as the parcel is forced aloft? W) Relative humidity X) Mixing ratio Y) Saturation vapor pressure Z) Barometric pressure","W) RELATIVE HUMIDITY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,4) Chemistry – Multiple Choice Which of the following acids is stronger than hydrofluoric acid? W) Iodic acid X) Formic acid Y) Acetic acid Z) Hypochlorous acid,W) IODIC ACID
+bonus,chemistry,Multiple Choice,4) Chemistry – Multiple Choice Which of the following statements is NOT true regarding alkaline earth metals? W) Calcium burns brick-red in a flame test X) Magnesium has no naturally occurring radioisotopes Y) Radium is found in all uranium-bearing ores Z) Radium has 3 stable isotopes,"Z) RADIUM HAS 3 STABLE ISOTOPES
+Round 7A Page 2"
+toss-up,biology,Multiple Choice,5) Biology – Multiple Choice Which of the following amino acids is non-polar? W) Glutamine [gloo-tuh-meen] X) Histidine Y) Leucine [loo-seen] Z) Lysine,Y) LEUCINE
+bonus,biology,Short Answer,5) Biology – Short Answer Insects and reptiles excrete nitrogenous [nigh-traw-jen-uhs] waste in what nontoxic form?,"URIC ACID
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"6) Energy – Short Answer During physics lab, you create a graph of the kinetic energy of a bouncing ball versus time. What physical quantity is represented by the slope of the graph?",POWER
+bonus,energy,Short Answer,6) Energy – Short Answer Identify all of the following four processes that result in a decrease in entropy: 1) freezing of water; 2) vaporization of water; 3) extraction of magnesium and pure water from sea water; 4) sublimation of dry ice.,"1 AND 3
+Round 7A Page 3"
+toss-up,math,Multiple Choice,7) Math – Multiple Choice Which of the following is NOT equal to a × log base b of c? W) 1/a × log base b of the fraction a/c X) –a × log base b of the fraction 1/c Y) –log base b of open parenthesis c-a close parenthesis Z) Natural log of (ea) × log base b of c,W) 1/a × log BASE b OF THE FRACTION a/c
+bonus,math,Multiple Choice,7) Math – Multiple Choice It takes 3 painters 4 hours to paint one house. How many hours does it take one painter to paint two houses of the same size? W) 12 X) 24 Y) 36 Z) 48,"X) 24
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,8) Physics – Short Answer Identify all of the following three particles that are considered leptons: 1) Protons; 2) Electrons; 3) Neutrons.,2
+bonus,physics,Short Answer,"8) Physics – Short Answer A figure skater is holding his hands outstretched as he spins at 180 rotations per minute. If his hands are 180 centimeters apart, what is the speed in meters per second of his hands in terms of π?","5.4π (ACCEPT: 27/5π)
+Round 7A Page 4"
+toss-up,,Multiple Choice,9) Earth and Space – Multiple Choice A lunar eclipse can occur only during what phase of the moon? W) Full moon X) New moon Y) First quarter Z) Last quarter,W) FULL MOON
+bonus,,Multiple Choice,9) Earth and Space – Multiple Choice At what altitude does the greatest variation in daily temperature occur? W) Near the ground X) 10 meters above the ground Y) 50 meters above the ground Z) 100 meters above the ground,"W) NEAR THE GROUND
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,10) Chemistry – Short Answer What major organic product is produced when an ethene and hydrogen gas are reacted on Raney [ray-nee] nickel?,ETHANE
+bonus,chemistry,Multiple Choice,"10) Chemistry – Multiple Choice To measure the number of moles of barium in a solution containing both magnesium 2+ and barium 2+ ions, a student added sodium sulfate and collected the precipitate. Then, he weighed the precipitate, and used stoichiometric conversions to estimate the number of moles of barium, and discovered that his method over-reported the actual value stated by his teacher. Which of the following plausibly explains the discrepancy? W) The student precipitated both magnesium and barium when adding sodium sulfate X) The student used a molar mass for barium that was 10% too high Y) The student used a molar mass for sulfur that was 10% too high Z) The student didn’t properly dry his precipitate before weighing","Z) THE STUDENT DIDN’T PROPERLY DRY HIS PRECIPITATE BEFORE WEIGHING
+Round 7A Page 5"
+toss-up,biology,Multiple Choice,11) Biology – Multiple Choice Which of the following types of cells has the longest lifespan in circulation? W) Erythrocyte [uh-ree-throh-sight] X) Platelet Y) Monocyte Z) Neutrophil [nyoo-troh-fil],W) ERYTHROCYTE
+bonus,biology,Short Answer,"11) Biology – Short Answer What model in population genetics predicts that allele frequencies will stay constant from generation to generation, assuming that the population remains free of other evolutionary influences?","HARDY-WEINBERG PRINCIPLE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,12) Math – Multiple Choice The average value of a continuous function f(x) on a closed interval from 2 to 6 is 8. What is the value of the definite integral from 2 to 6 of f(x) dx? W) 4 X) 8 Y) 24 Z) 32,Z) 32
+bonus,math,Short Answer,"12) Math – Short Answer f(x) is a twice differentiable function where f prime of x is less than 0 and f double prime of x is less than 0 for all real numbers. If f(4) = 12 and f(5) = 9, what is the largest possible integer value for f(6)?","5
+Round 7A Page 6"
+toss-up,physics,Short Answer,"13) Physics – Short Answer The equations x-prime = x - vt and t-prime = t represent what mathematical conversion, used between two reference frames traveling at speeds much less than the speed of light?",GALILEAN TRANSFORMATION
+bonus,physics,Multiple Choice,13) Physics – Multiple Choice An electromagnetic wave that has a wavelength of 10 meters would be best classified as is in which of the following regions of the electromagnetic spectrum? W) Microwave X) Ultraviolet Y) Visible Z) Radio,"Z) RADIO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,14) Earth and Space – Multiple Choice A wind blowing from 135° equates to the wind coming from which direction? W) Northeast X) Northwest Y) Southeast Z) Southwest,Y) Southeast
+bonus,,Multiple Choice,14) Earth and Space – Multiple Choice Meteorologists use the Enhanced Fujita Scale to determine the strength of a tornado by assessing which of the following? W) Winds of the tornado X) Minimum barometric pressure of the tornado Y) Vorticity of the tornado Z) Damage left behind from the tornado,"Z) DAMAGE LEFT BEHIND FROM THE TORNADO
+Round 7A Page 7"
+toss-up,energy,Short Answer,"15) Energy – Short Answer High power density, low electrical energy capacity, and long cycle life describe what type of battery found in most cars in the United States?",LEAD ACID BATTERY
+bonus,energy,Short Answer,"15) Energy – Short Answer If a solar farm has a nameplate capacity of 50 mega-watts, what is its capacity factor, to the nearest tenth, if it generates an average of 40 mega-watts for 12 hours each day?","0.4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,16) Chemistry – Multiple Choice Which of the following methods would be most accurate when determining the molecular weight of a polymer? W) Freezing-point depression analysis X) Gravimetry Y) Titration Z) Osmometry,Z) OSMOMETRY
+bonus,chemistry,Short Answer,16) Chemistry – Short Answer Chromium metal crystallizes in a body-centered cubic lattice. What is the coordination number of each chromium atom in this lattice?,"8
+Round 7A Page 8"
+toss-up,math,Short Answer,"17) Math – Short Answer For the equation y = 15 + 45 times log base 10 of open parenthesis 10x close parenthesis, where x is the number of years after 2000, find the value of y in 2010.",y = 105
+bonus,math,Short Answer,17) Math – Short Answer Find the smallest three-digit positive integer not ending in zero such that the product of the digits is double the square of the ones-digit.,"121
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Multiple Choice,18) Biology – Multiple Choice Which of the following diseases is caused by a virus? W) Acne X) Shingles Y) Impetigo Z) Necrotizing fasciitis [fash-ee-eye-tis],X) SHINGLES
+bonus,biology,Multiple Choice,18) Biology – Multiple Choice Which of the following compounds would one use to detect the presence of DNA in an agarose gel? W) Ethidium bromide [eth-ih-dee-um broh-myde] X) Coomassie Blue [coo-mah-see] Y) Rhodamine 2 [row-duh-meen] Z) Fluorescein [flow-ruh-seen],"W) ETHIDIUM BROMIDE
+Round 7A Page 9"
+toss-up,physics,Multiple Choice,19) Physics – Multiple Choice Which of the following is NOT true regarding semiconductors? W) Doping is used to modulate the electrical properties of a semiconductor X) Silica glass is a semiconductor Y) Silicon is the most commonly used semiconductor in electronics Z) Light emitting diodes can be made of semiconductors,X) SILICA GLASS IS A SEMICONDUCTOR
+bonus,physics,Multiple Choice,"19) Physics – Multiple Choice A 50 gram ball moving to the right at 4 meters per second overtakes and collides perfectly elastically with a 100 gram ball moving to the right at 2 meters per second. Which of the following is true after the collision? W) Both balls are moving to the left at 1.33 meters per second and 3.33 meters per second, respectively X) Both balls are moving to the right at 1.33 meters per second and 3.33 meters per second, respectively Y) Both balls are moving to the left at 1.66 and 3.00 meters per second, respectively Z) Both balls are moving to the right at 1.66 and 3.00 meters per second, respectively","X) BOTH BALLS ARE MOVING TO THE RIGHT AT 1.33 AND 3.33 METERS PER
+SECOND, RESPECTIVELY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,20) Energy – Multiple Choice Which of the following types of fuel is extracted by hydraulic fracturing? W) Geothermal X) Coal Y) Natural Gas Z) Hydrothermal energy,Y) NATURAL GAS
+bonus,energy,Multiple Choice,"20) Energy – Multiple Choice Which of the following represents a negative feedback process regarding climate change? W) Increasing temperature of the Earth causes more water vapor to enter the atmosphere X) As ice melts, the albedo of the Earth decreases Y) As the temperature of the Earth increases, more radiation is radiated into space Z) As the temperature of the Earth increases, methane clathrates release more methane into the atmosphere","Y) AS THE TEMPERATURE OF THE EARTH INCREASES, MORE RADIATION IS
+RADIATED INTO SPACE
+Round 7A Page 10"
+toss-up,biology,Multiple Choice,"21) Biology – Multiple Choice If a protein contains a signal peptide, in which of the following locations would it LEAST likely be found? W) Cytosol X) Golgi Body Y) Rough ER Z) Lysosome",W) CYTOSOL
+bonus,biology,Multiple Choice,21) Biology – Multiple Choice Which of the following eye adaptations allows nocturnal animals to see better in dim light when compared to diurnal animals? W) Relatively higher numbers of cone cells X) Presence of a tapetum [tuh-pee-tum] that reflects rather than absorbs light Y) Chemically distinctive vitreous humor that better supports the retina Z) A less convex lens that facilities an ideal focal length in dim light,"X) PRESENCE OF A TAPETUM THAT REFLECTS RATHER THAN ABSORBS LIGHT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,22) Earth and Space – Multiple Choice Which of the following does not occur after the passage of a cold front? W) Wind direction shift X) Drop in relative humidity Y) Drop in barometric pressure Z) Clearing skies,Y) DROP IN BAROMETRIC PRESSURE
+bonus,,Short Answer,22) Earth and Space – Short Answer What is the name for the opening found on the surface of volcanic systems that vents volcanic gases?,"FUMAROLE
+Round 7A Page 11"
+toss-up,chemistry,Short Answer,"23) Chemistry – Short Answer For a given reaction, the rate constant is equal to 93 liters squared per moles squared per second. What is the order of this reaction?",THREE
+bonus,chemistry,Short Answer,"23) Chemistry – Short Answer A closed vessel contains nitrogen gas, oxygen gas, and nitrogen dioxide gas. Nitrogen dioxide has a positive enthalpy of formation. Identify all of the following three changes that would shift the equilibrium to the products: 1) Increasing the temperature; 2) Increasing the pressure by adding nitrogen dioxide gas; 3) Increasing the pressure by adding an inert gas.","1
+Round 7A Page 12"

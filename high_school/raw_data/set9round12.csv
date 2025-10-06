@@ -1,0 +1,70 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,"1) Math – Short Answer If the radius of a right circular cylinder is doubled, by what factor must the height be multiplied in order to keep the volume the same?",¼
+bonus,math,Short Answer,1) Math – Short Answer Find an antiderivative with respect to x for the fraction with numerator e2x and denominator 1 + e4x.,"½ arctan e2x (ACCEPT: ½ arctan e2x + C for any constant C)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Multiple Choice,"2) Physics – Multiple Choice In order for a process to have no change in entropy, which of the following properties must it possess? W) Spontaneous X) Reversible Y) Endothermic Z) Exothermic",X) REVERSIBLE
+bonus,physics,Short Answer,"2) Physics – Short Answer A circular coil consisting of 100 loops has a cross-sectional area of 0.005 meters squared and a resistance of 3 ohms. If a time-varying magnetic field B is oriented parallel to the axis of the coil, what is the magnitude of the rate of change of B that induces a 2.0 ampere current along the wire?","12
+Round 12A Page 1"
+toss-up,,Multiple Choice,"3) Earth and Space – Multiple Choice Which of the following is a cloud type that, by definition, produces precipitation? W) Stratocumulus X) Altostratus Y) Nimbostratus Z) Altocumulus",Y) NIMBOSTRATUS
+bonus,,Multiple Choice,"3) Earth and Space – Multiple Choice Which of the following explains why the number and intensity of wave cyclones is greatest during the late fall, winter and spring months? W) Air is drier X) Density of the air is greatest Y) Temperature contrasts are greater Z) Temperatures are below freezing","Y) TEMPERATURE CONTRASTS ARE GREATER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,4) Chemistry – Multiple Choice Which of the following is not true of oxalic acid? W) It is a diprotic acid X) It can be oxidized to carbon dioxide Y) It contains three oxygen atoms per molecule Z) It contains two carbon atoms per molecule,Y) IT CONTAINS THREE OXYGEN ATOMS PER MOLECULE
+bonus,chemistry,Short Answer,"4) Chemistry – Short Answer If the equilibrium constant, K, for the reaction A yields B is 2.0 x 10-5, then what is the equilibrium constant for the reaction 2B yields 2A?","2.5 × 109
+Round 12A Page 2"
+toss-up,biology,Multiple Choice,5) Biology – Multiple Choice Which of the following is NOT a characteristic of chordates? W) Notochord X) Pharyngeal slits [fahr-in-jee-uhl] Y) Radial symmetry Z) Post-anal tail,Y) RADIAL SYMMETRY
+bonus,biology,Short Answer,"5) Biology – Short Answer What type of enzyme, produced as part of bacterial immunity against viruses, recognizes palindromic sites on foreign DNA and cleaves them?","RESTRICTION ENZYME
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,6) Energy – Short Answer What is the thermodynamic cycle that describes the functioning of a sparkless fuel injection piston engine and can be found in certain types of automobiles?,DIESEL CYCLE
+bonus,energy,Short Answer,6) Energy – Short Answer What is the name given to organisms that can use either fermentation or respiration to produce enough ATP to survive?,"FACULTATIVE ANAEROBES
+Round 12A Page 3"
+toss-up,math,Short Answer,7) Math – Short Answer A Diophantine equation is a polynomial equation in two or more variables such that the solutions are what type of number?,INTEGERS
+bonus,math,Short Answer,"7) Math – Short Answer If x is measured in radians, find all values of x between zero and 2π that satisfy the equation sin2x = 2 cos4x.","π/4, 3π/4, 5π/4, 7π/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Multiple Choice,"8) Physics – Multiple Choice The half-life of substance X is 45 years and decomposes to substance Y. A sample from substance Z was taken which contained 1.5% of X and 13.5% of Y by mass. If substance Y is not normally found in substance Z, which of the following is the best estimate of the age, in years, of substance Z? W) 45 X) 100 Y) 140 Z) 270",Y) 140
+bonus,physics,Short Answer,"8) Physics – Short Answer What substance, first postulated by Fritz Zwicky, is thought to be responsible for aberrations between theorized and observed orbital velocities of galaxies?","DARK MATTER
+Round 12A Page 4"
+toss-up,energy,Short Answer,"9) Earth and Space – Short Answer What is the name for the non-dimensional, unitless quantity that indicates how well a surface reflects solar energy?",ALBEDO
+bonus,,Multiple Choice,9) Earth and Space – Multiple Choice Which of the following is NOT true regarding the ocean floor? W) Continental shelves generally overlay oceanic crust X) The continental shelf tends to be fairly featureless Y) Continental shelves represent less than 10% of the total ocean area Z) Continental shelves are saturated with water,"W) CONTINENTAL SHELVES GENERALLY OVERLAY OCEANIC CRUST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,10) Chemistry – Multiple Choice Which of the following statements is true for an ideal solution? W) The enthalpy of solution is exothermic X) The vapor pressure of the solution is directly proportional to the molality of the solvent Y) Solvent particles interact more strongly with solute particles than other solvent particles Z) Raoult’s [rah-oolt’s] Law is obeyed,Z) RAOULT’S LAW IS OBEYED
+bonus,chemistry,Multiple Choice,"10) Chemistry – Multiple Choice The rate-limiting step for a reaction involving Reactant X is X + X yields Y, where Y is a product. Which of the following quantities plotted against time would produce a straight line? W) One over molarity of X X) Molarity of X Y) Natural log of the molarity of X Z) Molarity of X squared","W) ONE OVER MOLARITY OF X
+Round 12A Page 5"
+toss-up,biology,Short Answer,11) Biology – Short Answer Identify all of the following three choices that represent dangers to biodiversity: 1) Allowing fallow farmland to regrow with weeds; 2) Importing an Australian moth to deal with pests on farmland; 3) Relocating mountain lions that have moved into human habitats.,2
+bonus,biology,Multiple Choice,11) Biology – Multiple Choice In which of the following organisms would you most likely be able to find contractile vacuoles? W) Cytomegalovirus X) E. coli Y) Paramecium Z) Xenopus [zee-noh-pus],"Y) PARAMECIUM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,12) Math – Short Answer For what values of x does the function f(x) = the fraction with numerator x – 2 and denominator x2 – 4 have a vertical asymptote?,-2
+bonus,math,Short Answer,12) Math – Short Answer Evaluate the following definite integral: the integral from x = -3 to 0 of the square root of open parenthesis 9 – x2 close parenthesis dx.,"(9π)/4 (ACCEPT: 2.25π)
+Round 12A Page 6"
+toss-up,physics,Short Answer,"13) Physics – Short Answer What type of early particle accelerator, invented in the 1930s, consists of an evacuated chamber inside of a uniform magnetic field in which particles orbit circularly in and out of D- shaped conductors?",CYCLOTRON
+bonus,physics,Short Answer,13) Physics – Short Answer An ideal refrigerator absorbs heat at –23° Celsius and exhausts it at 27° Celsius. Find its coefficient of performance to the nearest integer.,"5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Earth and Space – Short Answer Detecting signatures of gravitational waves on the cosmic microwave background would lend support to what theory first proposed by Alan Guth?,INFLATION
+bonus,energy,Multiple Choice,14) Earth and Space – Multiple Choice What causes clouds of matter to flatten during the development of a protostar? W) Rotation X) Energy release Y) Gravity Z) Diffusion,"W) ROTATION
+Round 12A Page 7"
+toss-up,energy,Short Answer,15) Energy – Short Answer What is the energy range in a solid where no electron states can exist called?,BAND GAP (ACCEPT: ENERGY GAP)
+bonus,energy,Short Answer,"15) Energy – Short Answer What type of compression, found in the Rankine and Otto cycles, compresses the gas without removing any heat from it?","ADIABATIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,16) Chemistry – Multiple Choice Which of the following is true concerning a chemical system at a state of dynamic equilibrium? W) Forward and reverse rate constants are both equal to one X) Change in enthalpy for the reaction at standard state is zero Y) Change in Gibbs free energy is zero Z) Molar entropy of products minus molar entropy of reactants is zero,Y) CHANGE IN GIBBS FREE ENERGY IS ZERO
+bonus,chemistry,Short Answer,"16) Chemistry – Short Answer Approximating copper (II) chloride's molar mass as 133 grams per mole, and assuming that the boiling point elevation constant for water is 0.5 degrees Celsius per molal, calculate the boiling point in degrees Celsius to one decimal place of a solution prepared by dissolving 80 grams of copper (II) chloride in 1 kilogram of water.","100.9
+Round 12A Page 8"
+toss-up,math,Short Answer,"17) Math – Short Answer If the difference between two prime numbers is 11, what is their sum?",15
+bonus,math,Short Answer,17) Math – Short Answer What is the largest prime factor of the quantity 42013 + 42014 + 42015?,"7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,18) Biology – Short Answer Complete beta oxidation of odd-numbered saturated fatty acids requires what vitamin that is not required for the beta oxidation of even-numbered saturated fatty acids?,VITAMIN B-12 (Accept: COBALAMIN)
+bonus,biology,Short Answer,18) Biology – Short Answer Identify all of the following three choices that are pieces of evidence that lend credence to the endosymbiotic theory: 1) Chloroplasts contain their own genomes; 2) Mitochondria contain bacteria-like ribosomes; 3) All mitochondrial proteins are synthesized in the nucleus.,"1 AND 2
+Round 12A Page 9"
+toss-up,physics,Short Answer,19) Physics – Short Answer Identify all of the following three statements that explain why the actual acceleration due to gravity at any point on the Earth’s surface would be different from the value calculated for that point via Newton’s Law of Gravitation: 1) The Earth’s mass is not uniformly distributed; 2) The Earth is not perfectly spherical; 3) The Earth is rotating.,"1, 2, AND 3"
+bonus,physics,Short Answer,"19) Physics – Short Answer A rollercoaster cart slides down a frictionless track and then goes around the inside of a loop-the-loop with radius R. In terms of R, what is the minimum height the rollercoaster cart must start at in order to just make it around the loop?","2.5R
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"20) Energy – Short Answer The breakdown of glycogen as a source of energy involves the conversion of glycogen to glucose-6-phosphate monomers, which then enter glycolysis. What intermediate is produced by the breakdown of glycogen, that is then converted to glucose-6-phosphate?",GLUCOSE-1-PHOSPHATE (ACCEPT: ALPHA-D-GLUCOSE-1-PHOSPHATE)
+bonus,energy,Multiple Choice,20) Energy – Multiple Choice Which of the following is NOT true of the citric acid cycle? W) FADH2 is produced by the oxidation of succinate X) The conversion of malate to oxaloacetate produces NADH Y) The production of succinate results in the release of Coenzyme A Z) The citric acid cycle produces 4 NADH and 1 FADH2 per turn,"Z) THE CITRIC ACID CYCLE PRODUCES 4 NADH AND 1 FADH2 PER TURN
+Round 12A Page 10"
+toss-up,biology,Short Answer,21) Biology – Short Answer What are the mating structures of basidiomycetes [bah-sid-ee-oh-mye-seets] called?,MUSHROOMS (ACCEPT: BASIDIOCARPS)
+bonus,biology,Short Answer,21) Biology – Short Answer What largely parasympathetic nerve innervates the heart and is responsible for slowing down heart rate and lowering ventricular contractility when in a “rest and digest” state?,"VAGUS NERVE (ACCEPT: CN X, CRANIAL NERVE TEN)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"22) Earth and Space – Short Answer Pompeii was destroyed by what volcanic phenomenon, sometimes called “glowing avalanches?”",PYROCLASTIC FLOW (ACCEPT: NUÉE ARDENTE)
+bonus,,Short Answer,22) Earth and Space – Short Answer What soil horizon is the loosest and is characterized by partly decayed organic matter?,"O HORIZON
+Round 12A Page 11"
+toss-up,chemistry,Short Answer,23) Chemistry – Short Answer What group 14 element has the highest melting point?,CARBON
+bonus,chemistry,Short Answer,23) Chemistry – Short Answer Identify all of the following three statements concerning electrochemistry that are true: 1) A Faraday is the number of coulombs of charge generated by 1 mole of electrons; 2) The oxidation of copper into copper(II) ions can spontaneously drive the reduction of protons into hydrogen gas at standard state; 3) The oxidation of zinc into zinc(II) ions can spontaneously drive the reduction of protons into hydrogen gas at standard state.,"1 AND 3
+Round 12A Page 12"

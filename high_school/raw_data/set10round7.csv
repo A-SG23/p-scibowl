@@ -1,0 +1,75 @@
+type,subject,format,question,answer
+toss-up,biology,Multiple Choice,"1) Biology – Multiple Choice A plant has a somatic chromosome number of 2n = 22. After a cell in this plant undergoes mitosis, how many chromosomes will the daughter cells each have? W) 11 X) 22 Y) 33 Z) 44",X) 22
+bonus,biology,Multiple Choice,1) Biology – Multiple Choice SDS is a detergent. Which of the following explains how SDS denatures proteins? W) Interferes with the hydrophobic interactions that normally stabilize the proteins X) Interferes with the hydrophillic interactions that normally stabilize the proteins Y) Interferes with the amphiphillic [amfih-FILL-ic] interactions that normally stabilize the proteins Z) Breaks the peptide bonds,"W) INTERFERES WITH THE HYDROPHOBIC INTERACTIONS THAT
+NORMALLY STABILIZE THE PROTEINS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,2) Chemistry – Short Answer What is the only alkali metal that forms a stable nitride at room temperature and standard pressure?,LITHIUM
+bonus,chemistry,Multiple Choice,2) Chemistry – Multiple Choice Which of the following biological macromolecules does NOT contain nitrogen? W) DNA X) RNA Y) Insulin Z) Amylose [AM-il-ohse],"Z) AMYLOSE
+2016 NSB® Regional High School Questions Page 1"
+toss-up,energy,Short Answer,"3) Energy – Short Answer What is the name of the program that the Environmental Protection Agency maintains in an effort to identify and promote energy-efficient products and buildings, thus reducing pollution and waste?",ENERGY STAR
+bonus,energy,Multiple Choice,"3) Energy – Multiple Choice When the sun is directly overhead, if all of the sunlight that reaches a single square meter of Earth's surface could be captured and converted to electricity, which of the following is closest to the number of 60-watt incandescent light bulbs that could be illuminated? W) 5 X) 10 Y) 15 Z) 100","Y) 15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,4) Math – Short Answer What is binary one-zero-zero-one in decimal form?,9
+bonus,math,Short Answer,4) Math – Short Answer Perform the following complex number subtraction: –4 – 25i subtracted from –11 – 7i.,"–7 + 18i
+2016 NSB® Regional High School Questions Page 2"
+toss-up,physics,Multiple Choice,5) Physics – Multiple Choice What is the name for a particle that carries a half-integer spin? W) Hadron X) Boson Y) Fermion Z) Proton,Y) FERMION
+bonus,physics,Short Answer,5) Physics – Short Answer What quantity is defined as the ratio of the charge on an electric component to the electric potential applied across it?,"CAPACITANCE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) Earth and Space – Multiple Choice The majority of Earth’s freshwater is found in which of the following? W) The Pacific Ocean X) Ice and snow Y) Subsurface streams Z) The atmosphere as water vapor,X) ICE AND SNOW
+bonus,,Short Answer,"6) Earth and Space – Short Answer Classify the following three volcanoes according to whether they formed at convergent plate boundaries, divergent plate boundaries, or hot spots, respectively: 1) Yellowstone; 2) Kilauea; 3) Mount Etna.","1 – HOT SPOT; 2 – HOT SPOT; 3 - CONVERGENT
+2016 NSB® Regional High School Questions Page 3"
+toss-up,chemistry,Multiple Choice,7) Chemistry – Multiple Choice Which of the following atoms has at least one completely filled p- subshell? W) Sulfur X) Oxygen Y) Boron Z) Helium,W) SULFUR
+bonus,chemistry,Short Answer,7) Chemistry – Short Answer The industrial production of ammonia involves a reaction that combines what two gases?,"NITROGEN AND HYDROGEN (ALSO ACCEPT: N AND H )
+2 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,8) Energy – Multiple Choice Which of the following procedures is NOT commonly used during drilling to recover more oil from the ground? W) Filling the well with water X) Pumping nitrogen or carbon dioxide into the well Y) Injecting polymers into the well Z) Creating a vacuum in the well,Z) CREATING A VACUUM IN THE WELL
+bonus,energy,Short Answer,"8) Energy – Short Answer What type of battery has relatively high power density and cycle life but low energy density, thus making it suitable for starting cars?","LEAD ACID (ACCEPT: LEAD)
+2016 NSB® Regional High School Questions Page 4"
+toss-up,,Short Answer,9) Earth and Space – Short Answer The precession of the equinoxes is due principally to the torque induced on the Earth by what celestial body?,THE MOON
+bonus,,Short Answer,9) Earth and Space – Short Answer Identify all of the following three marine regions that host coral reefs: 1) The Red Sea; 2) The Australian Coast; 3) The Brazilian Coast.,"ALL OF THEM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,"10) Math – Multiple Choice For a twice-differentiable function f(x), f(3) is 4, f prime of 3 is 0 and f double prime of 3 is 5. Which of the following is true of the graph of y = f(x) at the point (3, 4)? W) There is a local minimum X) There is a local maximum Y) There is an inflection point Z) The graph is concave down",W) THERE IS A LOCAL MINIMUM
+bonus,math,Short Answer,10) Math – Short Answer Find the circumference of a circle with area equal to one over pi.,"2
+2016 NSB® Regional High School Questions Page 5"
+toss-up,biology,Multiple Choice,11) Biology – Multiple Choice The water-proof layer within the endodermis of the root that filters substances entering a plant is called the: W) Pericycle X) Hypodermis Y) Casparian strip Z) Vascular cambium,Y) CASPARIAN STRIP
+bonus,biology,Short Answer,11) Biology – Short Answer What terrestrial biome occurs in mid-latitude coastal regions and is found in Mediterranean climates such as California?,"CHAPARRAL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"12) Physics – Short Answer Fiber optic cables have revolutionized the information age with the ability to transfer data at much higher rates than conventional electric cables. Fiber optic cables work because of total internal reflection, which results from a difference in what optical property between the cable and surrounding medium?","REFRACTIVE INDEX (ACCEPT: INDEX OF REFRACTION; DO NOT ACCEPT:
+SPEED OF LIGHT)"
+bonus,physics,Multiple Choice,"12) Physics – Multiple Choice What is an object's average angular acceleration, in degrees per second per second, if it transited 72 degrees with an initial angular velocity of 8 degrees per second and a final angular velocity of 10 degrees per second? W) 1/12 X) 1/6 Y) 1/4 Z) 1/3","Y) 1/4
+2016 NSB® Regional High School Questions Page 6"
+toss-up,chemistry,Multiple Choice,13) Chemistry – Multiple Choice What type of magnetism opposes an applied magnetic field and is dominant in materials with no unpaired electrons? W) Diamagnetism X) Paramagnetism Y) Ferromagnetism Z) Antiferromagnetism,W) DIAMAGNETISM
+bonus,chemistry,Multiple Choice,13) Chemistry – Multiple Choice Which of the following is most likely to form hydrogen bonds? W) HI X) HNO – [H-N-O-2-negative] 2 Y) C H 6 6 Z) HCl,"X) HNO –
+2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,14) Math – Short Answer What is the sine of 270 degrees?,–1
+bonus,math,Short Answer,"14) Math – Short Answer Give the Cartesian coordinates of the point described by the cylindrical coordinates (r, theta, h) = (8, π/3, 24).","(4, 4√3, 24)
+2016 NSB® Regional High School Questions Page 7"
+toss-up,biology,Short Answer,"15) Biology – Short Answer In female mammalian cells, the second X chromosome is generally silenced. What term is used to describe the condensed inactive X chromosome?",BARR BODY
+bonus,biology,Multiple Choice,"15) Biology – Multiple Choice If you needed to find a sample of simple cuboidal epithelium [eh- pih-THEEL-ee-um] in the human body, you would want tissue from which of the following organs? W) Kidneys X) Lungs Y) Esophagus Z) Stomach","W) KIDNEYS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Earth and Space – Multiple Choice Which of the following cloud types is strongly associated with thunderstorms? W) Cirrocumulus [seer-oh-KYOOM-you-lus] X) Cumulonimbus [KYOOM-yoo-loh-NIM-bus] Y) Altostratus Z) Stratocumulus,X) CUMULONIMBUS
+bonus,,Short Answer,16) Earth and Space – Short Answer The Hubble Deep Field is an image of a seemingly empty spot in the sky in what constellation?,"URSA MAJOR (DO NOT ACCEPT: BIG DIPPER)
+2016 NSB® Regional High School Questions Page 8"
+toss-up,energy,Multiple Choice,"17) Energy – Multiple Choice Which of the following numbers is the best estimate for the number of kilowatt hours of energy used by an average U.S. home in 2014? W) 700 X) 11,000 Y) 70,000 Z) 110,000","X) 11,000"
+bonus,energy,Short Answer,17) Energy – Short Answer Almost all turbine-based electricity production plants use what liquid as the intermediate energy carrier?,"WATER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,18) Physics – Short Answer Very heavy nuclei tend to decay to stability by the emission of a light nucleus with two neutrons and two protons. What type of decay is this?,ALPHA
+bonus,physics,Short Answer,18) Physics – Short Answer A car is traveling around a flat 200 meter diameter circular track at 25 meters per second. What is the centripetal acceleration on this car in meters per second squared?,"6.25 (ACCEPT: 25/4, 6 ¼)
+2016 NSB® Regional High School Questions Page 9"
+toss-up,chemistry,Multiple Choice,19) Chemistry – Multiple Choice Which of the following bonds has the shortest bond length? W) H-F X) H-Cl Y) H-Br Z) H-I,W) H-F
+bonus,chemistry,Short Answer,"19) Chemistry – Short Answer What is the name for the constant, approximately 1.4 times 10-23 joules per kelvin, that sets an energy scale for a system at a particular temperature, and is equal to the ideal gas constant over Avogadro’s number?","BOLTZMANN CONSTANT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Multiple Choice,20) Physics – Multiple Choice Which of the following does NOT describe the strong force? W) It is mediated by the W boson X) It is responsible for holding together the nucleus Y) It is carried by gluons Z) It is described with quantum chromodynamics,W) IT IS MEDIATED BY THE W BOSON
+bonus,physics,Multiple Choice,20) Physics – Multiple Choice Which of the following bodies has the largest escape speed? W) Earth's moon X) Europa Y) Ganymede [GAN-ih-meed] Z) Pluto,"Y) GANYMEDE
+2016 NSB® Regional High School Questions Page 10"
+toss-up,biology,Multiple Choice,"21) Biology – Multiple Choice In regard to human anatomy, with which of the following is Wolff’s law concerned? W) The shape of bone being determined by mechanical and gravitational stresses X) The negative feedback loops that control production of thyroid hormone Y) The forces generated by isotonic contractions of skeletal muscle Z) The electrical potential of resting cardiac cells","W) THE SHAPE OF BONE BEING DETERMINED BY MECHANICAL AND
+GRAVITATIONAL STRESSES"
+bonus,biology,Short Answer,21) Biology – Short Answer What name is used to describe the ability of a microbe to respond to changes in local microbial population density?,"QUORUM SENSING
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"22) Math – Short Answer Giving your answer in standard form, what is the equation of the circle with center at (0, 0) and diameter 10?",x2 + y2 = 25
+bonus,math,Multiple Choice,22) Math – Multiple Choice What is 4 to the power of log base 2 of 5? W) 1/5 X) Square root of 5 Y) 5 Z) 25,"Z) 25
+2016 NSB® Regional High School Questions Page 11"
+toss-up,,Short Answer,"23) Earth and Space – Short Answer What features on the Sun, caused by strong magnetic fields, vary in number with an 11 year cycle?",SUNSPOTS
+bonus,,Multiple Choice,23) Earth and Space – Multiple Choice Which of the following coasts parallels a nearby tectonic plate boundary? W) East Coast of North America X) West Coast of Australia Y) West Coast of South America Z) West Coast of Africa,"Y) WEST COAST OF SOUTH AMERICA
+2016 NSB® Regional High School Questions Page 12"

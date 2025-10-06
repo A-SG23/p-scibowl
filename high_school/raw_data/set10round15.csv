@@ -1,0 +1,75 @@
+type,subject,format,question,answer
+toss-up,physics,Multiple Choice,"1) Physics – Multiple Choice A 60-kilogram man holding a 20-kilogram box rides on a skateboard at a speed of positive 7 meters per second. He throws the box behind him, giving it a velocity of negative 5 meters per second, with respect to the ground. What is his velocity, in meters per second, after throwing the object? W) 8 X) 9 Y) 10 Z) 11",Z) 11
+bonus,physics,Multiple Choice,1) Physics – Multiple Choice Which of the following best describes the electromotive force produced in a circuit by a changing flux? W) Ampere’s Law X) Faraday’s Law Y) Gauss’ Law Z) Ohm’s Law,"X) FARADAY’S LAW
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"2) Energy – Multiple Choice The International Thermonuclear Experimental Reactor, commonly called ITER [eat-er] has been designed to produce 500 million watts of output power and is currently scheduled to begin plasma experiments in 2020. What type of nuclear fusion method will ITER utilize, once completed? W) Magnetic confinement X) Inertial confinement Y) Magnetic pinch Z) Inertial electrostatic confinement",W) MAGNETIC CONFINEMENT
+bonus,energy,Short Answer,2016 NSB® Regional High School Questions Page 1 2) Energy – Short Answer What unrefined chemical by-product of biodiesel production has potential uses in the manufacture of industrial chemicals and fuel additives?,"GLYCERIN (ACCEPT: GLYCEROL)
+2016 NSB® Regional High School Questions Page 2"
+toss-up,,Multiple Choice,"3) Earth and Space – Multiple Choice In a landlocked area with multiple playas and sparse low-lying vegetation, what type of research would best reveal how the local climate has changed over the past several thousand years? W) Palynology X) Sclerochronology [sklair-oh-kraw-NAW-lah-jee] Y) Dendroclimatology [den-droh-klye-mah-TALL-ah jee] Z) Speleology [speel-ee-AWL-ah-jee]",W) PALYNOLOGY
+bonus,,Short Answer,"3) Earth and Space – Short Answer A fictional moon in a faraway galaxy has the same mass and atmospheric composition as the Earth, but its radius is twice as large. To one decimal place, in kelvins per kilometer, what would be the dry adiabatic lapse rate in this moon’s atmosphere?","2.5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,4) Biology – Short Answer Identify all of the following four cellular attachments that can be found in animal cells: 1) Tight junction; 2) Desmosome; 3) Plasmodesmata [plazz-moh-dez- MAH-tah]; 4) Adherens junction.,"1, 2, AND 4"
+bonus,biology,Short Answer,4) Biology – Short Answer Identify all of the following three statements that are TRUE regarding E. coli: 1) Gram negative; 2) Forms spores; 3) Rod-shaped.,"1 AND 3 (ACCEPT: GRAM NEGATIVE; ROD SHAPED)
+2016 NSB® Regional High School Questions Page 3"
+toss-up,math,Multiple Choice,"5) Math – Multiple Choice Which of the following is the contrapositive of the conditional statement: If p, then q? W) If q, then p X) If not p, then q Y) If not p, then not q Z) If not q, then not p","Z) IF NOT Q, THEN NOT P"
+bonus,math,Short Answer,"5) Math – Short Answer What is the area of a triangle with sides of length 11, 8, and 5?","4√21
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,6) Chemistry – Short Answer What is the molecular geometry of SOCl ? 2,"TRIGONAL PYRAMIDAL (ACCEPT: TRIPOD; DO NOT ACCEPT:
+PYRAMIDAL, TETRAHEDRAL)"
+bonus,chemistry,Short Answer,"6) Chemistry – Short Answer The lattice enthalpy of a solid cannot be measured directly, but it can be measured through application of Hess's law to a series of physical and chemical changes. What is the term for this closed path of steps?","BORN-HABER CYCLE
+2016 NSB® Regional High School Questions Page 4"
+toss-up,math,Short Answer,"7) Math – Short Answer If theta is an angle in the third quadrant and the cosine of theta equals negative five-thirteenths, what is the sine of theta?",-12/13
+bonus,math,Short Answer,7) Math – Short Answer Express the fraction with numerator 3 – 2i and denominator 1 + 4i in standard a + bi form.,"–5/17 – (14/17)i
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,8) Physics – Short Answer What is the quantum mechanical property of electrons that causes a beam of silver atoms to split into two distinct beams as it passes through a magnetic field gradient?,"SPIN (ACCEPT: m OR “m sub s”)
+s"
+bonus,physics,Short Answer,8) Physics – Short Answer A block starts slipping on a track set at exactly 30 degrees to the horizontal. What is the coefficient of static friction between the block and track?,"√3/3 [SQUARE ROOT OF 3 OVER 3]
+2016 NSB® Regional High School Questions Page 5"
+toss-up,biology,Short Answer,9) Biology – Short Answer Dynein [DYE-nee-in] and kinesin [kin-EE-sin] are proteins that bind to what cytoskeletal features?,MICROTUBULES
+bonus,biology,Multiple Choice,9) Biology – Multiple Choice Which of the following amino acids is encoded by a single codon? W) Leucine [LOO-seen] X) Glycine [GLYE-seen] Y) Methionine [meth-IOH-neen] Z) Phenylalanine [Fennel-AL-ahneen],"Y) METHIONINE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,10) Energy – Multiple Choice Biogas is comprised primarily of methane and what other gas? W) Carbon dioxide X) Carbon monoxide Y) Nitrogen Z) Oxygen,W) CARBON DIOXIDE
+bonus,energy,Multiple Choice,10) Energy – Multiple Choice The theoretical maximum power that can be extracted from a wind turbine is dictated by Betz's Law. Which of the following is closest to the maximum percentage of kinetic energy that can be captured by a turbine? W) 33.9 X) 59.3 Y) 74.6 Z) 85.1,"X) 59.3
+2016 NSB® Regional High School Questions Page 6"
+toss-up,energy,Multiple Choice,11) Earth and Space – Multiple Choice Saltwater desalination is a very energy-intensive process when practiced at large scale. What technology is predominantly used for saltwater desalination in the United States? W) Reverse osmosis X) Ion exchange Y) Salt precipitation Z) Solar distillation,W) REVERSE OSMOSIS
+bonus,,Short Answer,11) Earth and Space – Short Answer NASA's Aqua MODIS [MOH-diss] satellite instrument senses the color of Earth's surface oceans. Identify all of the following three statements relevant to Aqua MODIS data that are true: 1) The greenest seawater is found at the centers of ocean gyres; 2) A bloom of coccolithophores [caw-koh-LITH-oh-foorz] increases seawater albedo; 3) A bloom of cyanobacteria absorbs light in the 430-450 nanometer band.,"2 AND 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Multiple Choice,12) Biology – Multiple Choice Which of the following reactions does NOT require biotin? W) Conversion of pyruvate to oxaloacetate [ox-aa-loh-ASS-ah-tate] X) Conversion of acetyl-CoA to malonyl [MAL-uh-nihl]-CoA Y) Conversion of propionyl [PRO-pee-on-il]-CoA to methylmalonyl[meh-thil-MAL-uh-nil]- CoA Z) Conversion of oxaloacetate [ox-aa-loh-ASS-ah-tate] to succinate,Z) CONVERSION OF OXALOACETATE TO SUCCINATE
+bonus,biology,Multiple Choice,12) Biology – Multiple Choice Through what anatomical feature does water exit a sponge? W) Osculum X) Ostium Y) Atrium Z) Coelom [SEE-lum],"W) OSCULUM
+2016 NSB® Regional High School Questions Page 7"
+toss-up,chemistry,Short Answer,13) Chemistry – Short Answer One of the most important industrial uses of vanadium [vuh-NAY-dee-um] pentoxide is as a catalyst for the production of what acid?,SULFURIC
+bonus,chemistry,Short Answer,"13) Chemistry – Short Answer What is the name for the phenomenon in which electrons move from an atomic orbital on one atom to the pi-star antibonding orbital of another, when available?","PI BACKBONDING (ACCEPT: PI BACKDONATION)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"14) Earth and Space – Multiple Choice What bright features extending from the Sun's photosphere, often loop-shaped, are composed of relatively cool plasma that emits visible light? W) Sunspots X) Flares Y) Prominences Z) Van Allen belts",Y) PROMINENCES
+bonus,,Multiple Choice,14) Earth and Space – Multiple Choice Greenschists and blueschists both derive from mafic parent rocks. Why do they have different mineral compositions? W) They formed at different pressures and temperatures X) They crystallized at different rates Y) Greenschists are acidic Z) Blueschists were exposed to oxygen,"W) THEY FORMED AT DIFFERENT PRESSURES AND TEMPERATURES
+2016 NSB® Regional High School Questions Page 8"
+toss-up,biology,Short Answer,15) Biology – Short Answer What is the term for malignant tumors of the connective tissues?,SARCOMAS
+bonus,biology,Multiple Choice,15) Biology – Multiple Choice The mechanisms involved in aligning homologous chromosomes in meiosis are also useful for which of the following? W) Repairing nicks X) Repairing single-stranded breaks Y) Repairing double-stranded breaks Z) Repairing point mutations,"Y) REPAIRING DOUBLE STRANDED BREAKS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,"16) Chemistry – Short Answer The ideal gas constant is another form of what other constant, but written in energy per unit temperature per mole rather than energy per unit temperature per particle?",BOLTZMANN CONSTANT
+bonus,chemistry,Short Answer,16) Chemistry – Short Answer What is the molecular geometry about the nitrogen atoms in hydrazine [HIGH-drah-zeen]?,"TRIGONAL PYRAMIDAL (ACCEPT: TRIPOD; DO NOT ACCEPT:
+PYRAMIDAL, TETRAHEDRAL)
+2016 NSB® Regional High School Questions Page 9"
+toss-up,energy,Short Answer,"17) Energy – Short Answer The Department of Energy’s advanced reactor research supports new designs for liquid metal-cooled fast reactors. In these new designs, what metal is used to cool the reactor fuel?",SODIUM
+bonus,energy,Short Answer,17) Energy – Short Answer What US Environmental Protection Agency regulation mandates that gasoline contain a minimal amount of ethanol or other biofuel?,"RENEWABLE FUEL STANDARD PROGRAM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"18) Math – Short Answer If y varies jointly with x and z, and y = 12 when x = 4 and z = 5, find y when x = 20 and z = 4.",y = 48
+bonus,math,Short Answer,"18) Math – Short Answer What is the standard deviation of the following list of 4 numbers: 3, 3, 9, 17?","SQUARE ROOT OF 33
+2016 NSB® Regional High School Questions Page 10"
+toss-up,physics,Short Answer,"19) Physics – Short Answer In an optical microscope, lenses of plastic and glass direct and focus the light. What is the name of the distance between the specimen being viewed and the front lens of the objective?",OBJECTIVE WORKING DISTANCE (ACCEPT: WORKING DISTANCE.)
+bonus,physics,Short Answer,19) Physics – Short Answer What scientist's name is given to the number that is used to characterize whether a flow is laminar or turbulent?,"OSBORNE REYNOLDS (ACCEPT: REYNOLDS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,20) Chemistry – Multiple Choice Which of the following statements best explains why triethylamine [try-ethil-ah-MEEN] is more basic than ammonia? W) Alkyl groups elevate the energy of nitrogen’s nonbonding HOMO X) Alkyl groups lower the energy of nitrogen’s nonbonding HOMO Y) Alkyl groups elevate the energy of nitrogen’s nonbonding LUMO Z) Alkyl groups lower the energy of nitrogen’s nonbonding LUMO,"W) ALKYL GROUPS ELEVATE THE ENERGY OF NITROGEN'S
+NONBONDING HOMO"
+bonus,chemistry,Short Answer,20) Chemistry – Short Answer The salt lithium fluoride is far less soluble than both lithium iodide and potassium fluoride. What theory explains this by characterizing Lewis acids and bases in terms of polarizability and charge density?,"HARD-SOFT ACID BASE (ACCEPT: HSAB OR PEARSON ACID BASE
+CONCEPT)
+2016 NSB® Regional High School Questions Page 11"
+toss-up,,Short Answer,"21) Earth and Space – Short Answer What type of rotating neutron stars are classified into rotation-powered, accretion-powered, and magnetars?",PULSARS
+bonus,,Multiple Choice,"21) Earth and Space – Multiple Choice A breccia lens, shatter cones, tektites and spherulites can be found in which of the following areas? W) Cape Cod, Massachusetts X) Chesapeake Bay, Virginia Y) Honolulu, Hawaii Z) Yellowstone, Wyoming","X) CHESAPEAKE BAY, VIRGINIA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,22) Math – Short Answer What is the dot product of 4i – 6j and –3i + j?,–18
+bonus,math,Short Answer,22) Math – Short Answer Find the volume of the solid obtained by rotating about the y-axis the region bounded by y = x – x4 and y = 0.,"π/3
+2016 NSB® Regional High School Questions Page 12"
+toss-up,physics,Multiple Choice,23) Physics – Multiple Choice Which of the following characteristics makes Xenon-135 an effective neutron poison in nuclear reactors? W) Cherenkov radiation from beta decay of Xenon-135 X) Full valence shell Y) High thermal neutron capture cross-section Z) Unstable with half-life of 9.2 hours,Y) HIGH THERMAL NEUTRON CAPTURE CROSS-SECTION
+bonus,physics,Short Answer,23) Physics – Short Answer What fraction of the speed of light must a person drive in order that incoming 450 terahertz red light would appear to be 540 terahertz green light?,"11/61
+2016 NSB® Regional High School Questions Page 13"

@@ -1,0 +1,74 @@
+type,subject,format,question,answer
+toss-up,physics,Short Answer,1) Physics – Short Answer A difference of 10 decibels corresponds to what ratio of sound intensities?,10 (ACCEPT: 10:1)
+bonus,physics,Short Answer,1) Physics – Short Answer A battery produces an electrical current of 100 milliamps when connected to a circuit with a resistance of 60 Ohms. The battery is then connected to a 250 millifarad capacitor. How many joules of energy are stored by the capacitor?,"4.5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"2) Math – Short Answer In a triple-elimination tournament with 512 contestants, what is the maximum numbers of games played if there are no ties?",1535
+bonus,math,Multiple Choice,2) Math – Multiple Choice A square ABCD has a side length of 10. Point E lies on BC and the area of the triangle ABE is 40. What is the length of BE? W) 5 X) 6 Y) 7 Z) 8,"Z) 8
+Round 9A Page 1"
+toss-up,energy,Multiple Choice,3) Energy – Multiple Choice A force is conservative when the work done by the force: W) On a closed path is zero X) On an open path is zero Y) Is dependent on the path Z) Conserves energy,W) ON A CLOSED PATH IS ZERO
+bonus,energy,Short Answer,"3) Energy – Short Answer Consider 0.5 moles of an ideal gas undergoing isobaric expansion from 253 to 353 Kelvin. Assuming that the ideal gas constant is 8.314 joules per mole Kelvin, how much work, in joules rounded to the nearest tenth, is done by the gas?","415.7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"4) Earth and Space – Short Answer On a weather map, what type of front is represented by a line with red semicircles extending from one side?",WARM FRONT
+bonus,,Short Answer,4) Earth and Space – Short Answer What are the two most abundant elements in the Earth’s crust?,"OXYGEN AND SILICON
+Round 9A Page 2"
+toss-up,biology,Short Answer,"5) Biology – Short Answer What chemical element, that occurs in various forms, is used as a mordant in Gram testing, is used as a method of detecting sugar in Lugol’s solution, and is required for proper thyroid function?",IODINE
+bonus,biology,Short Answer,5) Biology – Short Answer What specific cell type in the stomach is responsible for production of hydrochloric acid in response to stimulation by gastrin?,"PARIETAL CELLS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,6) Chemistry – Short Answer What is the chemical formula of baking soda?,"NaHCO
+3"
+bonus,chemistry,Multiple Choice,"6) Chemistry – Multiple Choice Which of the following elements can stably bond with three atoms, leaving it with an empty p orbital? W) Sulfur X) Oxygen Y) Boron Z) Helium","Y) BORON
+Round 9A Page 3"
+toss-up,physics,Short Answer,"7) Physics – Short Answer If a particle’s position is defined by the functions x = cos (t) and y = sin (t), what conic section describes the overall shape of the particle’s path?",CIRCLE
+bonus,physics,Short Answer,"7) Physics – Short Answer A 6 kilogram box slides from rest down a frictionless ramp with an incline of 30 degrees. If the box descends a vertical height 1.20 meters to reach the bottom, to the nearest meter per second, what is the speed of the box at the bottom of the ramp?","5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,8) Energy – Multiple Choice Which of the following is the primary form through which energy is stored in the liver? W) Triglycerides X) Glucose Y) Amylose Z) Glycogen,Z) GLYCOGEN
+bonus,energy,Short Answer,8) Energy – Short Answer Betz’s Law is used to determine the theoretical power captured by a turbine for what natural resource?,"WIND
+Round 9A Page 4"
+toss-up,biology,Multiple Choice,9) Biology – Multiple Choice MRSA is an infection by which of the following? W) A rod shaped bacteria X) A rigid helical bacteria Y) A non-rigid helical bacteria Z) A spherical bacteria,Z) A SPHERICAL BACTERIA
+bonus,biology,Short Answer,9) Biology – Short Answer What type of intercellular junction is used to bind intestinal epithelia so that fluids will not seep between them?,"TIGHT JUNCTION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"10) Physics – Short Answer For a Ferris wheel that rotates clockwise, what are the directions of the centripetal acceleration and the linear velocity of a cart at the top of the Ferris wheel?",DOWN AND RIGHT
+bonus,physics,Short Answer,"10) Physics – Short Answer What is the name of the experiment conducted in the early 1900’s, in which electrons were directed at a crystal and then scattered by it, leading to the determination of the wavelength, which agreed with the de Broglie formula?","DAVISSON GERMER EXPERIMENT
+Round 9A Page 5"
+toss-up,math,Multiple Choice,11) Math – Multiple Choice How many values of x satisfy the equation x – 2 equals the fraction with numerator 2x2 – 8x and denominator x2 – 4x? W) Zero X) One Y) Two Z) Three,W) ZERO
+bonus,math,Short Answer,"11) Math – Short Answer If July had five Mondays, August must have had five of what day?","THURSDAY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,12) Chemistry – Multiple Choice Which of the following statements regarding reaction intermediates is true? W) There is precisely one reaction intermediate in a one step reaction X) Reaction intermediates are local minima on the reaction coordinate scheme Y) Reaction intermediates are synonymous with activated complexes Z) The concentrations of reaction intermediates cannot influence reaction rate,"X) REACTION INTERMEDIATES ARE LOCAL MINIMA ON THE REACTION
+COORDINATE SCHEME"
+bonus,chemistry,Multiple Choice,12) Chemistry – Multiple Choice Which of the following compounds is produced by the Haber process? W) Sulfuric acid X) Ammonia Y) Sulfur dioxide Z) Nitric acid,"X) AMMONIA
+Round 9A Page 6"
+toss-up,,Multiple Choice,13) Earth and Space – Multiple Choice Which of the following types of lava flows results when a volcano erupts underwater? W) Pahoehoe lava X) A’a lava Y) Pillow lava Z) Block lava,Y) PILLOW LAVA
+bonus,,Multiple Choice,"13) Earth and Space – Multiple Choice In which city would you be able to see cirrus clouds at an altitude of 3,000 meters above the surface? W) Ft. Lauderdale, Florida X) Honolulu, Hawaii Y) Barrow, Alaska Z) New York, New York","Y) BARROW, ALASKA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,14) Biology – Short Answer Identify all of the following three compounds that one would find in an animal cell: 1) D-glucose; 2) L-alanine; 3) L-trehalose.,1 AND 2
+bonus,biology,Multiple Choice,14) Biology – Multiple Choice Which of the following is not true regarding the development of multicellular organisms? W) Homeotic genes control pattern formation in the late embryo X) Proto-oncogenes are often involved in regulation of the cell cycle Y) Mutations in proto-oncogenes prevent cancer Z) Mutations in tumor suppressor genes often result in cancer,"Y) MUTATIONS IN PROTO-ONCOGENES PREVENT CANCER
+Round 9A Page 7"
+toss-up,chemistry,Multiple Choice,15) Chemistry – Multiple Choice An aqueous solution of dissolved silver nitrate is added to an aqueous solution of dissolved potassium iodide. Which of the following species will not be in the net ionic equation? W) Aqueous silver plus one ions X) Aqueous nitrate ions Y) Solid silver iodide Z) Aqueous iodide,X) AQUEOUS NITRATE IONS
+bonus,chemistry,Multiple Choice,15) Chemistry – Multiple Choice At which of the following pH values is zinc hydroxide likely to be most soluble? W) 2 X) 4 Y) 6 Z) 8,"W) 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,16) Math – Multiple Choice Which of the following functions will have its nth derivative equal to 0 over its entire domain for sufficiently large values of n? W) f(x) = x100 + sin x X) f(x) = x – x–1 Y) f(x) = x1001 + x1000 + … + x2 + x Z) f(x) = ln x – x2,Y) f(x) = x1001 + x1000 + … + x2 + x
+bonus,math,Multiple Choice,16) Math – Multiple Choice The values of y that will satisfy the system of equations 2x2 + 6x + 5y + 1 = 0 and 2x + y + 3 = 0 can be found by solving which of the following equations? W) y2 + 14y – 7 = 0 X) y2 + 10y – 7 = 0 Y) y2 + 8y + 1 = 0 Z) y2 + y – 12 = 0,"X) y2 + 10y – 7 = 0
+Round 9A Page 8"
+toss-up,,Short Answer,17) Earth and Space – Short Answer Using carbon-14 decay to determine the date of a material is an example of what technique?,"RADIOCARBON DATING (ACCEPT: RADIOMETRIC DATING, RADIOACTIVE DATING,
+CARBON DATING)"
+bonus,,Multiple Choice,"17) Earth and Space – Multiple Choice If you are located at 40o North latitude, when will the Sun appear directly overhead? W) Never X) Once a year Y) Twice a year Z) Four times a year","W) NEVER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"18) Energy – Multiple Choice A gas expands isothermally against a vacuum, where external pressure equals zero. Which of the following statements is not true regarding this process? W) Delta E equals zero X) Delta H equals zero Y) Delta S equals zero Z) No work is done by the gas",Y) DELTA S EQUALS ZERO
+bonus,energy,Short Answer,18) Energy – Short Answer By what factor will the net power radiated by a spherical blackbody be multiplied when the temperature is tripled?,"81
+Round 9A Page 9"
+toss-up,biology,Multiple Choice,19) Biology – Multiple Choice Which of the following types of animal viruses is responsible for hepatitis C? W) Papovirus X) Adenovirus [add-en-o-virus] Y) Retrovirus Z) Flavivirus [flay-vee-virus],Z) FLAVIVIRUS
+bonus,biology,Multiple Choice,19) Biology – Multiple Choice Which of the following is true regarding the neural crest cells in the amphibian embryo? W) They induce formation of the notochord X) They develop into the main sections of the brain Y) They produce cells that migrate to form teeth and skull bones in the embryo Z) They roll up and form the neural tube,"Y) THEY PRODUCE CELLS THAT MIGRATE TO FORM TEETH AND SKULL BONES IN
+THE EMBRYO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Multiple Choice,"20) Physics – Multiple Choice A positively-charged tabletop may be approximated as an infinite plane producing a uniform electric field. A positively-charged metal sphere levitates motionlessly above the surface of the table. While keeping the rest of the system unchanged, which of the following parameters may be varied without changing the cancelation of gravity by the electrostatic repulsion? W) The mass of the sphere X) The radius of the sphere Y) The charge of the sphere Z) The strength of the electric field produced by the table",X) THE RADIUS OF THE SPHERE
+bonus,physics,Short Answer,"20) Physics – Short Answer A loop conductor lies partially in a magnetic field. Identify all of the following three changes to this system with a conductor and a magnetic field that would produce a change in the magnetic flux of the system: 1) Increase the strength of the magnetic field; 2) Rotate the conductor, changing the angle between it and the magnetic field; 3) Increase the area of the conductor that is in the field.","ALL OF THEM
+Round 9A Page 10"
+toss-up,chemistry,Short Answer,"21) Chemistry – Short Answer A student is working up a reaction and discovers, via thin layer chromatography on a silica plate, that there are many side products in her reaction mixture. The student decides to use column chromatography on her reaction mixture, using the same mobile phase as she did for her TLC plate. What stationary phase should she use in order to keep the conditions as similar as possible to the TLC plate?",SILICA (Accept: SILICON DIOXIDE)
+bonus,chemistry,Multiple Choice,21) Chemistry – Multiple Choice Which of the following is the molecular orbital theory prediction for the bond order of ozone? W) 1 X) 1.5 Y) 2 Z) 2.5,"X) 1.5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Earth and Space – Short Answer What term is used to describe snow that has been left over from the previous year’s snowfall and can be considered as an intermediate stage between snow and glacial ice?,FIRN
+bonus,,Short Answer,"22) Earth and Space – Short Answer For every 10 degree increase on the Celsius temperature scale, how many degrees does the temperature increase on the Fahrenheit scale?","18
+Round 9A Page 11"
+toss-up,math,Short Answer,"23) Math – Short Answer Evaluate the limit, as n approaches infinity, of the sequence whose nth term is n2/3n.",0
+bonus,math,Short Answer,"23) Math – Short Answer What is the sum of the digits of the square of 111,111,111?","81
+Round 9A Page 12"

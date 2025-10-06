@@ -1,0 +1,75 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,"1) Math – Short Answer What is the determinant of the 2 by 2 matrix with first row –2, –3 and second row 8, –4?",32
+bonus,math,Multiple Choice,1) Math – Multiple Choice What is the probability that the bottom card in a deck of cards is a queen and the top card is a king? W) 1/169 X) 4/663 Y) 5/663 Z) 1/2702,"X) 4/663
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Multiple Choice,2) Biology – Multiple Choice Which of the following types of microscopy require the specimen to be subjected to a vacuum? W) Fluorescence X) Transmission electron Y) Scanning tunneling Z) Dark field,X) TRANSMISSION ELECTRON
+bonus,biology,Short Answer,2) Biology – Short Answer What type of learning involves an animal associating a behavioral response with punishment or reward?,"OPERANT LEARNING (ACCEPT: OPERANT CONDITIONING OR
+INSTRUMENTAL CONDITIONING; DO NOT ACCEPT: CLASSICAL CONDITIONING OR
+CONDITIONING)
+2016 NSB® Regional High School Questions Page 1"
+toss-up,,Multiple Choice,3) Earth and Space – Multiple Choice How does the synodic period of the moon relate to its sidereal period? W) Its synodic period is two days longer X) Its synodic period is one day shorter Y) Its synodic period is one day longer Z) Its synodic period is two days shorter,W) ITS SYNODIC PERIOD IS TWO DAYS LONGER
+bonus,,Short Answer,3) Earth and Space – Short Answer The spectra of type IA supernovae are unique because they do NOT contain lines for what element?,"HYDROGEN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"4) Physics – Short Answer A small ball is fired horizontally off the edge of a table at 3 meters per second, taking 0.4 seconds to hit the ground below. When the ball hits the floor, how far, in meters, is it horizontally from the edge of the table?",1.2
+bonus,physics,Short Answer,"4) Physics – Short Answer A rope is oscillated in such a way that it creates a standing wave with a wavelength of 3 meters and an amplitude of 0.4 meters. What is the distance, in meters, between the highest and lowest positions of a piece of the rope 0.25 meters from a node?","0.4
+2016 NSB® Regional High School Questions Page 2"
+toss-up,chemistry,Multiple Choice,5) Chemistry – Multiple Choice Change in which of the following quantities must be positive for a spontaneous process? W) Gibbs free energy of the system X) Entropy of the system Y) Gibbs free energy of the universe Z) Entropy of the universe,Z) ENTROPY OF THE UNIVERSE
+bonus,chemistry,Multiple Choice,5) Chemistry – Multiple Choice The reaction of hypochlorite and chloride ions in the presence of sulfuric acid generates gaseous chlorine endothermically in a closed vessel. Increasing which of the following would shift the reaction to the left? W) Volume X) Temperature Y) pH Z) Pressure of inert gas,"Y) pH
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,6) Energy – Multiple Choice Which of the following is closest to the percentage of energy lost as heat in an incandescent light bulb? W) 30 X) 50 Y) 70 Z) 90,Z) 90
+bonus,energy,Multiple Choice,"6) Energy – Multiple Choice In a nuclear power plant, the fission reaction directly yields all but which of the following? W) Neutrons X) Fission products Y) Fission gamma rays Z) Electrical current","Z) ELECTRICAL CURRENT
+2016 NSB® Regional High School Questions Page 3"
+toss-up,,Multiple Choice,7) Earth and Space – Multiple Choice Which of the following conditions is common to both warm and cold fronts? W) Steady barometer readings X) Divergence of surface winds Y) Decreasing precipitation rates Z) Lifting of warm air over a cold air mass,Z) LIFTING OF WARM AIR OVER A COLD AIR MASS
+bonus,,Multiple Choice,7) Earth and Space – Multiple Choice Which of the following is a reason that long-term preservation of deep sea carbonates is rare? W) Most ocean crust and overlying sediments are subducted X) Most parts of the deep ocean floor lie above the carbonate compensation depth Y) There is little carbonate-forming material occurring in ocean water Z) Carbonates react with silicates in the deep ocean,"W) MOST OCEAN CRUST AND OVERLYING SEDIMENTS ARE SUBDUCTED
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Multiple Choice,"8) Physics – Multiple Choice An infinite number of 1-ohm resistors are connected in parallel so that there is one on the first branch, two in series on the second branch, three in series on the third, and so on. What is the overall resistance, in ohms, of this circuit? W) 0 X) 2 Y) π Z) Natural log of 2",W) 0
+bonus,physics,Short Answer,8) Physics – Short Answer What criterion states that two objects are resolvable if the angular separation between them is enough such that the first diffraction maxima of one object coincides with the minima of the other?,"RAYLEIGH CRITERION
+2016 NSB® Regional High School Questions Page 4"
+toss-up,biology,Multiple Choice,9) Biology – Multiple Choice Most cells are exposed to extracellular glucose concentrations higher than those inside the cell. Glucose is taken up by these cells via which of the following? W) Osmosis X) Active transport Y) Exocytosis Z) Facilitated diffusion,Z) FACILITATED DIFFUSION
+bonus,biology,Multiple Choice,9) Biology – Multiple Choice Which of the following mutations would most likely result in a frame-shift mutation? W) Single base substitution X) Triple base substitution Y) Single base deletion Z) Triple base deletion,"Y) SINGLE BASE DELETION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,10) Chemistry – Short Answer Identify all of the following three metals that have soluble chlorides: 1) Silver; 2) Iron; 3) Zinc.,2 AND 3
+bonus,chemistry,Multiple Choice,10) Chemistry – Multiple Choice Consider the gas phase exothermic reaction of phosphorous trichloride [try-KLOOR-ide] with chlorine to yield phosphorous pentachloride. Under which of the following conditions is the equilibrium constant greater than one? W) At low temperatures X) At high temperatures Y) At all temperatures Z) It is never greater than one,"W) AT LOW TEMPERATURES
+2016 NSB® Regional High School Questions Page 5"
+toss-up,energy,Multiple Choice,11) Energy – Multiple Choice Which U.S. state received over 70% of its electricity from hydroelectric power in 2013? W) Maine X) Texas Y) Nebraska Z) Washington,Z) WASHINGTON
+bonus,energy,Multiple Choice,"11) Energy – Multiple Choice According to the Energy Information Administration, which of the following is closest to the net number of barrels of oil per day imported by the United States in 2012? W) 1 million X) 10 million Y) 100 million Z) 1 billion","X) 10 MILLION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,12) Math – Short Answer What is the complex conjugate of –4 – 36i?,–4 + 36i
+bonus,math,Short Answer,"12) Math – Short Answer What are the radius and the coordinates of the center, respectively, of the circle with equation x2 + 8x + y2 – 6y = 0?","RADIUS 5; CENTER (–4, 3)
+2016 NSB® Regional High School Questions Page 6"
+toss-up,physics,Short Answer,"13) Physics – Short Answer On a spring break trip, Sarah and her 3 friends run out of gas while driving to Florida. The nearest gas station is 1.1 kilometers away. If they apply a constant cumulative force of 1200 newtons to the car, how much work will they do, in joules, by pushing the car to the gas station?","1,320,000"
+bonus,physics,Short Answer,"13) Physics – Short Answer An electron is fired through parallel plate electrodes that are 5 millimeters apart. A 2 millitesla magnetic field is perpendicular to the electric field between the plates, which have a potential difference of 600 volts. If the electron is NOT deflected, at what speed, in meters per second and in scientific notation, is it traveling?","6.0 x 107
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"14) Energy – Short Answer What type of machine, used by both hydroelectric plants and uranium nuclear power plants, converts kinetic energy to electrical energy?",GENERATOR (DO NOT ACCEPT: TURBINE or TURBINE-GENERATOR)
+bonus,energy,Short Answer,"14) Energy – Short Answer Characterized by its ""rotten-egg smell,"" what gas released by geothermal plants is of great environmental concern?","HYDROGEN SULFIDE (ACCEPT: H S)
+2
+2016 NSB® Regional High School Questions Page 7"
+toss-up,,Multiple Choice,"15) Earth and Space – Multiple Choice Which of the following is true about radiometric dating? W) All parent material in a mineral is converted to the daughter product X) When the quantities of parent and daughter products are equal, two half-lives have transpired Y) The number of radioactive atoms that decay during one half life is always the same Z) The percentage of radioactive atoms that decay during one half life is always the same","Z) THE PERCENTAGE OF RADIOACTIVE ATOMS THAT DECAY DURING ONE
+HALF LIFE IS ALWAYS THE SAME"
+bonus,,Short Answer,15) Earth and Space – Short Answer Identify all of the following statements that are true about zodiacal light: 1) It is produced when sunlight is scattered by cosmic dust; 2) It appears as a faint white glow near the horizon; 3) It is best viewed at midnight.,"1 AND 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Multiple Choice,16) Biology – Multiple Choice The size of most mammalian cells is closest to which of the following? W) 1 picometer X) 1 micrometer Y) 1 millimeter Z) 1 centimeter,X) 1 MICROMETER
+bonus,biology,Multiple Choice,16) Biology – Multiple Choice Which of the following proteins is involved with prokaryotic transcription? W) DNA polymerase [paw-LIM-er-ace] 3 X) Sigma factor Y) Elongation factor Z) Amino acyl tRNA synthetase [ahMEEno-ASS-il tee-R.N.A. SIN-thah-tase],"X) SIGMA FACTOR
+2016 NSB® Regional High School Questions Page 8"
+toss-up,math,Short Answer,17) Math – Short Answer What is the derivative with respect to x of -5 divided by x6?,30/x7 (DO NOT ACCEPT: 30x -7)
+bonus,math,Short Answer,17) Math – Short Answer What are the linear factors of the polynomial 2ab + 3a – 8b – 12?,"a – 4 AND 2b + 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,18) Chemistry – Multiple Choice Which of the following statements is NOT true regarding alloys? W) Alloys are generally more brittle than the metals from which they are made X) Alloys are generally harder than the metals from which they are made Y) Alloys are generally better electric conductors than the metals from which they are made Z) Alloys are generally worse thermal conductors than the metals from which they are made,"Y) ALLOYS ARE GENERALLY BETTER ELECTRIC CONDUCTORS THAN THE
+METALS FROM WHICH THEY ARE MADE"
+bonus,chemistry,Multiple Choice,18) Chemistry – Multiple Choice Which of the following techniques would be most useful for determining the change in enthalpy of a reaction? W) Visible light spectroscopy X) Calorimetry [cal-or-IH-metree] Y) Crystallography Z) Gravimetry [graa-VIH-metree],"X) CALORIMETRY
+2016 NSB® Regional High School Questions Page 9"
+toss-up,physics,Short Answer,"19) Physics – Short Answer What general term refers to lighting that uses LEDs as sources of illumination rather than electrical filaments, plasma, or gas?",SOLID-STATE LIGHTING (ACCEPT: SSL)
+bonus,physics,Short Answer,"19) Physics – Short Answer What state of matter, consisting of bosons cooled to nearly absolute zero, allows for the macroscopic observation of quantum phenomena?","BOSE-EINSTEIN CONDENSATE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,"20) Chemistry – Short Answer A cylinder has an internal diameter of 3 centimeters and a piston is depressed 20 centimeters with a pressure of 2 atmospheres. Assuming that atmospheric pressure is 1 x 105 pascals, to two significant figures and in joules, how much work is done during the compression?",28
+bonus,chemistry,Short Answer,"20) Chemistry – Short Answer A 12.4 liter balloon is at 27 degrees Celsius. It is cooled at constant pressure to -23 degrees Celsius. To the nearest tenth and in liters, what is the final volume of the balloon?","10.3
+2016 NSB® Regional High School Questions Page 10"
+toss-up,,Multiple Choice,21) Earth and Space – Multiple Choice Which of the following countries has lost the greatest land area of forest to deforestation over the past decade? W) Brazil X) Ecuador Y) Zimbabwe Z) Venezuela,W) BRAZIL
+bonus,,Short Answer,"21) Earth and Space – Short Answer Arrange the following distances in our Solar System from smallest to largest, taking thickness to mean the difference between the outer and inner radii of an annulus or spherical shell: 1) Thickness of the Oort cloud; 2) Separation of Earth and Venus at inferior conjunction; 3) Thickness of the asteroid belt.","2, 3, 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"22) Math – Short Answer If all of the prime factors of 444, including multiple occurences, are added, how much greater will the result be than that for 222?",2
+bonus,math,Short Answer,22) Math – Short Answer Two circles with radii of 3 inches and 1 inch have the same center. What is the ratio of the area of the annulus between the inner circle and the outer circle to the area of the inner circle?,"8 (ACCEPT: 8 TO 1)
+2016 NSB® Regional High School Questions Page 11"
+toss-up,physics,Short Answer,23) Physics – Short Answer What particular type of Raman scattering occurs when the emitted photon is of higher wavelength than the incident one?,STOKES
+bonus,physics,Short Answer,"23) Physics – Short Answer In the BCS theory of superconductivity, the correlation between two electrons leads to a reduction in electron scattering that forms the basis of superconductivity. What is the name of this group of electrons?","A COOPER PAIR
+2016 NSB® Regional High School Questions Page 12"
