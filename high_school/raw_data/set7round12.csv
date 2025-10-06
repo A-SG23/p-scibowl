@@ -1,0 +1,68 @@
+type,subject,format,question,answer
+toss-up,physics,Short Answer,"A 1 nanocoulomb charge is held 1 meter above an infinite sheet with a surface charge density of 1 nanocoulomb per meter squared. If the charge is moved to 2 meters from the sheet, then by what factor does the electric force on the charge change?",THERE IS NO CHANGE IN THE ELECTRIC FORCE (ACCEPT: 0)
+bonus,physics,Short Answer,"You are in a spaceship and you bounce a ball off of a wall and catch it. The time between the instant you throw the ball and when it returns is 1.5 seconds. Another spaceship is travelling at a speed 4/5 the speed of light relative to your ship. From the frame of reference of the other ship, providing your answer to the nearest tenth, how long does it take in seconds for you to throw and catch the ball?",2.5
+toss-up,energy,Short Answer,"What is the term for the lifetime cost of generating electricity that is inclusive of initial capital cost and discount rate, as well as operation, fuel, and maintenance costs?",LEVELIZED COST
+bonus,energy,Multiple Choice,"When considering the total U.S. energy resources and reserves, coal represents 2.3% of the energy base. What approximate percentage does geothermal represent? W) 14% X) 23% Y) 39% Z) 51%","Y) 39%
+High School Round 12 A Page 1"
+toss-up,chemistry,Multiple Choice,Which of the following properties is generally characteristic of metals? W) High heat conductivity X) Low electrical conductivity Y) High first ionization energies Z) Tendency to form negative ions,W) HIGH HEAT CONDUCTIVITY
+bonus,chemistry,Short Answer,What separation technique would effectively separate a 50:50 mixture of ethanol and water?,FRACTIONAL DISTILLATION (ACCEPT: DISTILLATION)
+toss-up,biology,Multiple Choice,"A man with an X-linked dominant trait has children with a female who is homozygous [hoh-muh-ZY-guhs] recessive for the trait. Which of the following proportions of his offspring will be affected by the trait? W) All of his children, male or female X) All his male children Y) All his female children Z) Half of his female children",Y) ALL HIS FEMALE CHILDREN
+bonus,biology,Short Answer,Name four of the five structural characteristics shared by all Chordata at some point in their life cycle?,"any 4 of DORSAL HOLLOW NERVE CORD (ACCEPT: DORSAL NERVE CORD),
+NOTOCHORD, GILL-SLITS, POST ANAL TAIL (ACCEPT: TAIL), ENDOSTYLE
+High School Round 12 A Page 2"
+toss-up,math,Multiple Choice,How many two digit positive integers have at least one 6 as a digit? W) 17 X) 18 Y) 19 Z) 20,X) 18
+bonus,math,Short Answer,Solve the following base-10 logarithmic equation for x: x x x x [log base 10 of open parenthesis x squared plus 3x close2 parenthesis plus log base 10 of 5x equals 1 plus log base 10 of 2x]. l og( + 3 ) + log(5 ) = 1 + log(2 ),1 (DO NOT ACCEPT: -4)
+toss-up,,Short Answer,6) EARTH AND SPACE Short Answer Which element was first discovered by observing its spectral lines in the solar atmosphere?,HELIUM
+bonus,,Short Answer,6) EARTH AND SPACE Short Answer What are the two most massive galaxies in the Local Group?,"MILKY WAY AND ANDROMEDA (ACCEPT: M31)
+High School Round 12 A Page 3"
+toss-up,physics,Multiple Choice,"A field emission microscope requires which of the following? W) A conductor with a very fine point X) High energy alpha particles Y) A light source with a wavelength shorter that the smallest observable feature size Z) A low amplitude, time-varying magnetic field",W) A CONDUCTOR WITH A VERY FINE POINT
+bonus,physics,Short Answer,A 2 kilogram object experiences a force with respect to time according to the relation F = 4t newtons from time t = 0 seconds to time t = 3 seconds. What is the impulse that the object experiences in kilogram meters per second during these three seconds?,18
+toss-up,chemistry,Multiple Choice,"If an endothermic reaction is at equilibrium [ee-kwuh-LIB-ree- uhm], how will the equilibrium shift if the temperature is raised? W) Toward the reactants X) Toward the products Y) Toward both the reactants and the products Z) It will not shift in either direction",X) TOWARD THE PRODUCTS
+bonus,chemistry,Multiple Choice,"Which of the following silver salts with the given K values has sp the greatest molar solubility? W) Silver chloride, K = 1.8 x 10-10 sp X) Silver bromide, K = 5.0 x 10-13 sp Y) Silver iodide, K = 8.3 x 10-17 sp Z) Silver cyanide, K = 1.2 x 10-16 sp","W) SILVER CHLORIDE, K = 1.8 x 10-10
+sp
+High School Round 12 A Page 4"
+toss-up,biology,Multiple Choice,"In the lab, you engineer a gene so that it is specifically expressed in pancreatic cells. Which of the following aspects of the gene did you likely adjust? W) Intron sequences X) 5’ [5 prime] UTR sequences Y) Translational start sequences Z) Promoter sequences",Z) PROMOTER SEQUENCES
+bonus,biology,Multiple Choice,Which of the following is an example of a protein with quaternary structure? W) Myoglobin [my-uh-GLOH-bin] X) Hemoglobin Y) Cytochrome C [SY-tuh-krohm C] Z) Chymotrypsin [ky-mo-TRIP-sin],X) HEMOGLOBIN
+toss-up,math,Short Answer,How many edges does a hexagonal prism have?,18
+bonus,math,Short Answer,"A horse is enclosed in a square field of side 100 meters. The horse eats grass along the outside edges of the field, forming a border of uniform width inside the field. If the area of the border is 9/25 of the area of the field, what is the width in meters of the inside edge of the border?","80
+High School Round 12 A Page 5"
+toss-up,,Multiple Choice,11) EARTH AND SPACE Multiple Choice Which of the following aberrations only occurs in refracting telescopes? W) Chromatic aberration X) Spherical aberration Y) Coma Z) Astigmatism,W) CHROMATIC ABERRATION
+bonus,,Multiple Choice,11) EARTH AND SPACE Multiple Choice Which of the following is NOT true about tides? W) They are long-period waves that move through the oceans in response to forces exerted by the Moon and Sun X) They originate in the oceans and progress toward the coastlines Y) A horizontal movement of water often accompanies the rising and falling of the tide Z) The weakest currents occur before or near the time of the high and low tides,"X) THEY ORIGINATE IN THE OCEANS AND PROGRESS TOWARD THE
+COASTLINES"
+toss-up,physics,Short Answer,What are the units of the dielectric constant?,UNIT-LESS (ACCEPT: HAS NO UNIT)
+bonus,physics,Short Answer,"A parallel plate capacitor has an area of 2 square meters and plate separation of 1 millimeter. If the electric field between the plates is 10 volts per meter, and given 9 x 10-12 coulombs squared over newtons meter squared as ε [epsilon naught], providing your 0 answer in scientific notation with one significant figure, what is the energy in joules stored by the capacitor?","9 x 10-13
+High School Round 12 A Page 6"
+toss-up,energy,Multiple Choice,Growth in the production of what commodity has resulted in an excess of glycerine [GLIS-er-in]? W) Gasoline X) Natural gas Y) Ethanol Z) Biodiesel,Z) BIODIESEL
+bonus,energy,Multiple Choice,What is the approximate investment ratio per effective megawatt capacity for solar versus geothermally generated electricity? W) 2 X) 5 Y) 8 Z) 10,Y) 8
+toss-up,chemistry,Short Answer,"Give the name of the group of elements that have high melting points, are electropositive, and are frequently used in lasers and television sets.",LANTHANIDES
+bonus,chemistry,Short Answer,"Given the molar mass of oxygen is 16 grams per mole and the molar mass of magnesium is 24 grams per mole, what is the empirical formula of a compound containing 48 grams of magnesium and 32 grams of oxygen?","MgO
+High School Round 12 A Page 7"
+toss-up,biology,Multiple Choice,Which of the following is NOT a common method by which ion channels are gated? W) Osmolarity X) Voltage Y) Mechanical Z) Ligand,W) OSMOLARITY
+bonus,biology,Multiple Choice,Which of the following is NOT an energy source for active transport across a membrane? W) Electrochemical gradient of a different molecule X) Light Y) Ras proteins Z) ATP,Y) RAS PROTEINS
+toss-up,math,Short Answer,The graph of the following equation is an example of what conic section: ? 2 2 ANSWER2𝑥: H=YP2E𝑦RB+O1L3A BONUS 16) MATH Short Answer How many integers between 1 and 1000 inclusive are NOT divisible by either 2 or 5?,"400
+High School Round 12 A Page 8"
+toss-up,,Short Answer,"17) EARTH AND SPACE Short Answer In hydrostatic equilibrium [ee-kwuh-LIB-ree-uhm], which two forces are balanced against each other?",PRESSURE AND GRAVITY
+bonus,,Multiple Choice,17) EARTH AND SPACE Multiple Choice Estuaries off the coast of which of the following states demonstrate the greatest nutrient pollution? W) Louisiana X) Oregon Y) Maine Z) Texas,W) LOUISIANA
+toss-up,biology,Multiple Choice,Which of the following best describes actin treadmilling? W) New actin polymers attach to the minus end of the actin filament X) The actin filament remains static with no addition or loss of subunits Y) One end of an actin filament has a net addition of actin polymers while the other end has a net loss of actin polymers Z) One end of the actin filament adds and loses polymers at an equal rate,"Y) ONE END OF THE ACTIN FILAMENT HAS A NET ADDITION OF ACTIN
+POLYMERS WHILE THE OTHER END HAS A NET LOSS OF ACTIN POLYMERS"
+bonus,biology,Multiple Choice,"When actin reaches its steady state in a cell, which of the following is occurring? W) The actin filament is no longer adding new subunits or losing existing subunits X) The actin filament is constantly adding new and losing existing subunits Y) The actin filament forms new disulfide bonds within itself Z) The actin filament forms new alpha helix structures to maintain its shape","X) THE ACTIN FILAMENT IS CONSTANTLY ADDING NEW AND LOSING
+EXISTING SUBUNITS
+High School Round 12 A Page 9"
+toss-up,chemistry,Multiple Choice,A reaction is carried out in a constant pressure calorimeter. Appropriate measurements are taken and the energy for the change is calculated. The quantity of heat exchanged under these conditions leads to the calculation of which of the following state functions? W) ∆q [delta Q] X) ∆E Y) ∆H Z) ∆T,Y) ∆H
+bonus,chemistry,Short Answer,"Identify the number of pi bonds, respectively, in the following: 1) formaldehyde [for-MAL-duh-hyd], 2) sulfate ion, 3) acetylene [uh-SET-l-een].","1) ONE, 2) TWO, 3) TWO"
+toss-up,energy,Multiple Choice,Which of the following materials is a common catalyst in commercial polymer electrolyte membrane fuel cells? W) Platinum X) Carbon Y) Copper Z) Silver,W) PLATINUM
+bonus,energy,Short Answer,"In September 2011, an experiment at CERN appeared to show neutrinos traveling at a speed faster than light. In March of 2012, these results were disproved. However, if the experiment had been accurate, it would have violated what physical principle?","LORENTZ INVARIANCE
+High School Round 12 A Page 10"
+toss-up,chemistry,Multiple Choice,"Assuming a temperature where the net magnetic moment is nonzero, which of the following types of magnetism will have the weakest external field? W) Antiferromagnetism X) Ferromagnetism Y) Paramagnetism Z) Diamagnetism",W) ANTIFERROMAGNETISM
+bonus,chemistry,Short Answer,"Given the molar mass of silver as 107.87 grams per mole, how many moles of silver are contained in 1.806 x 1024 atoms?",3
+toss-up,biology,Multiple Choice,Which of the following is NOT an example of a human disease caused by a recessive allele that fails to produce a viable cellular protein? W) Turner’s syndrome X) Tay-sachs [tay-SAKS] Y) Cystic fibrosis Z) Phenylketonuria [fen-l-kee-toh-NOOR-ee-uh],W) TURNER’S SYNDROME
+bonus,biology,Short Answer,What are two specific types of glycocalyx [gly-koh-KAY-liks] in bacteria?,"CAPSULE, SLIME LAYER
+High School Round 12 A Page 11"
+toss-up,math,Short Answer,"If a family has four children, what is the probability of having exactly 3 girls?",¼ (ACCEPT: 0.25 OR 25%)
+bonus,math,Short Answer,"Let a … be an infinite repeating decimal with the digits 4 and 5 repeating. If a is written as a fraction in lowest terms, by how much does the denominator exceed the numerator? = 0.845454545",17
+toss-up,,Short Answer,24) EARTH AND SPACE Short Answer What is the term for radiation emitted by an electron undergoing relativistic helical motion around a magnetic field?,SYNCHROTRON
+bonus,,Multiple Choice,24) EARTH AND SPACE Multiple Choice Which of the following statements is NOT true regarding NOAA and NASA’s prediction for the next solar cycle? W) The peak is expected in May 2013 X) The peak will have a higher than average number of sunspots Y) The peak will lead to magnetic storms around Earth’s poles Z) The peak will be associated with increases in solar radio emissions,"X) THE PEAK WILL HAVE A HIGHER THAN AVERAGE NUMBER OF SUNSPOTS
+High School Round 12 A Page 12"
+toss-up,physics,Multiple Choice,"As an object falls to the Earth with air resistance present, what happens to the acceleration of the object? W) It remains a constant 9.8 meters per second squared X) It increases from 0 to 9.8 meters per second squared Y) It remains at a constant 0 meters per second squared Z) It decreases from 9.8 to 0 meters per second squared",Z) IT DECREASES FROM 9.8 TO 0 METERS PER SECOND SQUARED
+bonus,physics,Short Answer,"Rounded to the nearest thousand, how many joules of work are done in pulling a wagon with a force of 2000 newtons over a horizontal surface of 10 meters, with a chain that makes a 45º angle with the surface?","14,000
+High School Round 12 A Page 13"
