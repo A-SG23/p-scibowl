@@ -8,15 +8,8 @@ import re #regex for parsing logic
 pdf_urls = [
     "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round1.pdf",
     "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round2.pdf",
-    # add more URLs as needed...
+    # ADD MORE PDF URLS
 ]
-
-# def download_pdf(url, path):
-#     r = requests.get(url)
-#     r.raise_for_status()
-#     with open(path, 'wb') as f:
-#         f.write(r.content)
-#caused 403 error
 
 def download_pdf(url, path):
     headers = {
@@ -42,18 +35,19 @@ def extract_text(pdf_path):
 
 def parse_questions(text):
     pattern = r'(TOSS-UP|BONUS)\s+.*?(.*?)ANSWER:\s*(.*?)(?=(?:TOSS-UP|BONUS|$))'
+    #question type, answer
     matches = re.findall(pattern, text, re.DOTALL | re.IGNORECASE)
     questions = []
     for qtype, question_text, answer in matches:
         qtype_norm = qtype.lower()
-        # Extract subject
+        # SUBJECT
         subject_match = re.search(r'(BIOLOGY|CHEMISTRY|PHYSICS|ENERGY|EARTH SCIENCE|MATH)', question_text, re.IGNORECASE)
         subject = subject_match.group(1).lower() if subject_match else None
-        # Extract format
+        #QUESTION FORMAT
         format_match = re.search(r'(Short Answer|Multiple Choice)', question_text, re.IGNORECASE)
         q_format = format_match.group(1) if format_match else None
         
-        # Remove number, subject and format prefix from question text, e.g. "3) PHYSICS Short Answer " 
+        # REMOVE: number, subject and question format from question (redundant)
         prefix_pattern = r'^\s*\d+\)\s*' + (subject if subject else '') + r'\s*' + (q_format if q_format else '') 
         question_clean = re.sub(prefix_pattern, '', question_text, flags=re.IGNORECASE).strip()
         question_clean = ' '.join(question_clean.split())
@@ -77,7 +71,7 @@ def write_csv(data, filepath):
         for row in data:
             writer.writerow(row)
 
-# Loop over PDFs
+# loop thru pdfs
 for i, url in enumerate(pdf_urls, 1):
     local_pdf = f"round{i}.pdf"
     output_csv = f"raw_data/set1round{i}.csv"
