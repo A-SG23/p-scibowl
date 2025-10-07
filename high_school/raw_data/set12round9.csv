@@ -1,0 +1,70 @@
+type,subject,format,question,answer
+toss-up,math,Multiple Choice,1) Math – Multiple Choice Which of the following is NOT true? W) 37 is congruent to 6 mod 5 X) 71 is congruent to 5 mod 3 Y) 43 is congruent to 8 mod 7 Z) 17 is congruent to 2 mod 3,W) 37 IS CONGRUENT TO 6 MOD 5
+bonus,math,Short Answer,"1) Math – Short Answer Find the y-intercept of the line passing through the point (4, –3) that is perpendicular to the line 3x – 7y = 12.","19/3 (ACCEPT: 6 1/3, (0, 19/3), (0, 6 1/3))
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"2) Energy – Multiple Choice At the National Renewable Energy Lab, scientists are using sunlight to split what chemical compound during photoelectrochemical processes that employ stacks of light-absorbing semiconductors immersed in an acid-water solution? W) Methane X) Ammonia Y) Hydrogen Peroxide Z) Water",Z) WATER
+bonus,energy,Short Answer,2) Energy – Short Answer Identify all of the following three statements that are true of secondary batteries: 1) They are not rechargeable; 2) They require a constant source of energy; 3) The electricity- producing reaction in them is chemically reversible.,"3
+High School - Round 9A Page 1"
+toss-up,chemistry,Multiple Choice,3) Chemistry – Multiple Choice Addition of which of the following compounds will increase the solubility of calcium carbonate in water? W) Sodium carbonate X) Phosphoric acid Y) Sodium hydroxide Z) Calcium chloride,X) PHOSPHORIC ACID
+bonus,chemistry,Short Answer,"3) Chemistry – Short Answer What term, which can be applied to all carbon-carbon bond interactions in the compound cyclohexane, refers to a conformer in which vicinal [VIH-sin-ul] groups are separated by a 60-degree torsion angle?","GAUCHE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"4) Earth and Space – Multiple Choice Which of the following numbers corresponds to the approximate temperature in kelvins of red stars? W) 300 X) 3,000 Y) 30,000 Z) 300,000","X) 3,000"
+bonus,,Short Answer,4) Earth and Space – Short Answer Identify all of the following three statements that correctly characterize annular eclipses: 1) They occur during the waxing gibbous [JIH-bus] phase of the lunar cycle; 2) They occur when the moon is at apogee [AA-pah-jee]; 3) They are a type of lunar eclipse.,"2
+High School - Round 9A Page 2"
+toss-up,biology,Multiple Choice,5) Biology – Multiple Choice Cataracts occur in what part of the eye? W) Retina X) Posterior chamber Y) Cornea Z) Lens,Z) LENS
+bonus,biology,Short Answer,5) Biology – Short Answer What is the only full human chromosomal [chrome-ah-SOH-mul] monosomy [MAW-no-soh-mee] that results in viable offspring?,"TURNER SYNDROME (ACCEPT: MONOSOMY X)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,6) Physics – Short Answer The henry is the SI unit corresponding to what property of an electric circuit?,INDUCTANCE
+bonus,physics,Short Answer,6) Physics – Short Answer An object in uniform circular motion has its centripetal [sen-TRIH-peh-tul] acceleration halved while its radius remains constant. By what factor is its rotational period multiplied?,"√2
+High School - Round 9A Page 3"
+toss-up,energy,Multiple Choice,"7) Earth and Space – Multiple Choice If the total energy flux from a star quadruples, by what factor is its temperature multiplied? W) √2 [square root of 2] X) 2 Y) 4 Z) 16",W) √2
+bonus,,Multiple Choice,7) Earth and Space – Multiple Choice You are observing a distant star with an orbiting planet whose orbital plane is perfectly oriented so you can observe the exoplanet’s transit in front of the star. In which of the following orientations will the star-planet system appear brightest? W) When the planet is directly in front of the star X) When the planet is directly behind the star Y) Just after the planet transits in front of the star Z) Just before the planet transits behind the star,"Z) JUST BEFORE THE PLANET TRANSITS BEHIND THE STAR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,8) Biology – Short Answer Fungal cell walls are primarily composed of what compound?,CHITIN
+bonus,biology,Multiple Choice,8) Biology – Multiple Choice In what compartment of the ruminant stomach does fermentation primarily occur? W) Rumen X) Reticulum [reh-TIK-yoo-lum] Y) Omasum [oh-MAY-sum] Z) Abomasum [ab-oh-MAY-sum],"W) RUMEN
+High School - Round 9A Page 4"
+toss-up,chemistry,Multiple Choice,"9) Chemistry – Multiple Choice The pKa [p.k.a.] of deprotonation [dee-pro-tun-AY-shun] for most primary amines [ah-MEENS] is between 35 and 45. Which of the following is closest to the pKa of cyanamide [sigh-ANN-ah-mide], a primary amine in which the R group is a cyano group? W) 1 X) 15 Y) 35 Z) 45",W) 1
+bonus,chemistry,Multiple Choice,"9) Chemistry – Multiple Choice Some compounds feature two-atom covalent [koh-VAY-lent] bonds in which both electrons forming the bond are donated by one of the atoms, also known as a dative bond. Which of the following bonds is most likely to be a dative bond? W) Carbon-carbon X) Sodium-fluorine [FLOOR-een] Y) Nitrogen-boron Z) Hydrogen-chlorine","Y) NITROGEN-BORON
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"10) Physics – Short Answer According to the Standard Model of Particle Physics, what lepton [LEP- tawn]is the most massive?",TAU (ACCEPT: TAUON)
+bonus,physics,Short Answer,"10) Physics – Short Answer A particle undergoing a constant acceleration starts at rest at position x equals zero. Identify all of the following three pairs of positions it could be at after one second and then after two seconds, respectively: 1) x equals zero, then x equals zero; 2) x equals three, then x equals twelve; 3) x equals two, then x equals sixteen.","1 AND 2
+High School - Round 9A Page 5"
+toss-up,math,Short Answer,"11) Math – Short Answer A bag contains six uniquely marked marbles. One marble is drawn, and then a second, without replacement. How many different permutations are possible?",30
+bonus,math,Short Answer,11) Math – Short Answer A right triangle has hypotenuse of length 59 and one leg of length 57. What is the length of the third side?,"2√58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"12) Energy – Short Answer In order to better design materials that can tolerate the extreme pressures and temperatures of controlled fusion reactions, researchers at LANL are simulating the behavior of bubbles of what gas embedded in tungsten?",HELIUM
+bonus,energy,Multiple Choice,"12) Energy – Multiple Choice Which of the following best describes the discharge curve of a Leclanche [lah-KLAN-shay] cell when graphing output voltage versus time? W) An initial rise, then a line with zero slope X) An initial dip, then a line with zero slope Y) A line with positive slope Z) A line with negative slope","Z) A LINE WITH NEGATIVE SLOPE
+High School - Round 9A Page 6"
+toss-up,chemistry,Short Answer,13) Chemistry – Short Answer What is the systematic name of propyl iodide?,1-IODOPROPANE
+bonus,chemistry,Short Answer,13) Chemistry – Short Answer Identify all of the following three molecules that have a net dipole [DYE- pole] moment: 1) Silicon tetrachloride; 2) Chloroform; 3) Hydrogen sulfide.,"2 AND 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"14) Physics – Short Answer What is the eqivalent resistance, in ohms, of a circuit composed of a 2-ohm resistor connected in parallel to a series branch with two 3-ohm resistors?",3/2 (ACCEPT 1 ½ or 1.5)
+bonus,physics,Short Answer,14) Physics – Short Answer Two electrons are held close together and then released. Identify all of the following three statements that are true regarding this system: 1) Acceleration increases as time passes; 2) Velocity increases as time passes; 3) Force between the electrons decreases as time passes.,"2 AND 3
+High School - Round 9A Page 7"
+toss-up,,Multiple Choice,15) Earth and Space – Multiple Choice Which of the following minerals would scratch all of the others? W) Quartz X) Calcite Y) Halite Z) Topaz,Z) TOPAZ
+bonus,,Multiple Choice,15) Earth and Space – Multiple Choice Which of the following rock types is thought to originate in the deep mantle and is an economically important source of diamonds? W) Kimberlite X) Diabase Y) Anorthosite [an-OR-tho-site] Z) Amphibolite [am-FIB-oh-lite],"W) KIMBERLITE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,16) Energy – Short Answer The U.S. Department of Energy's Thomas Jefferson National Accelerator Facility is studying the components of protons and mesons. The quarks inside these particles are held together by interactions mediated by what boson [BOH-sawn]?,GLUON
+bonus,energy,Multiple Choice,"16) Energy – Multiple Choice One of the experiments at Brookhaven National Lab, PHENIX, is attempting to measure the temperature of quark-gluon plasma. Which of the following is closest to the known lower limit of this temperature? W) The temperature of the Sun's chromosphere X) The temperature of the Sun's core Y) 2500 times the temperature of the Sun's core Z) 250,000 times the temperature of the Sun's core","Z) 250,000 TIMES THE TEMPERATURE OF THE SUN'S CORE
+High School - Round 9A Page 8"
+toss-up,biology,Short Answer,"17) Biology – Short Answer In humans, what gland makes melatonin?",PINEAL
+bonus,biology,Multiple Choice,17) Biology – Multiple Choice Which of the following processes does not change allele [Ah-LEEL] frequencies in a population? W) Genetic drift X) Natural selection Y) Inbreeding Z) Gene flow,"Y) INBREEDING
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"18) Earth and Space – Short Answer What type of organized, low-pressure weather system is an intermediate stage between a tropical depression and a hurricane?",TROPICAL STORM
+bonus,,Short Answer,"18) Earth and Space – Short Answer What is the avarage plate velocity, to the nearest whole centimeter per year, of a volcanic island that has moved 2500 kilometers away from its parent hot spot in 28 million years?","9
+High School - Round 9A Page 9"
+toss-up,math,Short Answer,"19) Math – Short Answer Given f of x = 4x – 6 and g of x = 3x, what is g of f of x?",12x – 18
+bonus,math,Short Answer,"19) Math – Short Answer What is the sum of the first 12 terms of the arithmetic sequence whose first two terms are 5 and 9, respectively?","324
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"20) Physics – Short Answer Unpolarized light with an intensity of I passes through a filter that makes a 50-degree angle with respect to the horizontal. In terms of I, what is the intensity of the light after it passes through the filter?",0.5 I
+bonus,physics,Short Answer,"20) Physics – Short Answer A particle is moving along an axis so that its potential energy is decreasing from point A to B, at a critical point at point B, increasing from point B to D, at a critical point at point D, and decreasing after that. Identify all of the following three statements that are true regarding this particle: 1) Point A is a stable equilibrium; 2) Point B is an unstable equilibrium; 3) Point D is a stable equilibrium.","NONE
+High School - Round 9A Page 10"
+toss-up,chemistry,Short Answer,21) Chemistry – Short Answer Hans Bethe is famous for the development of what theory of coordination in which metal-ligand [LIH-gund] interactions are assumed to be completely ionic?,CRYSTAL FIELD THEORY (ACCEPT: CFT)
+bonus,chemistry,Short Answer,21) Chemistry – Short Answer A student constructs a ball and stick model of a linear molecule. Identify all of the following statements that could be valid for this molecule: 1) The central atom has zero lone pairs; 2) The central atom has two lone pairs; 3) The central atom has three lone pairs.,"1 AND 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,22) Biology – Short Answer What reflex describes the profound decrease in heart rate of marine mammals upon feeling cold water on the face?,DIVE (ACCEPT: DIVE REFLEX)
+bonus,biology,Short Answer,22) Biology – Short Answer Identify all of the following three amino acids that are considered nonpolar: 1) Asparagine [ass-PAIR-ah-jeen]; 2) Tryptophan [TRIP-tow-fan]; 3) Glutamine .,"2
+High School - Round 9A Page 11"
+toss-up,math,Short Answer,23) Math – Short Answer The complex number 3i lies on the boundary between what two quadrants in the complex plane?,1 AND 2 (ACCEPT: FIRST AND SECOND)
+bonus,math,Short Answer,"23) Math – Short Answer On a calculus pop quiz, 10% of the students scored 6 points, 45% scored 8 points, 20% scored 9 points, and the rest scored 10 points. What is the average score, rounded to the nearest tenth, on the quiz?","8.5
+High School - Round 9A Page 12"

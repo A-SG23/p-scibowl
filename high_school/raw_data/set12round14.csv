@@ -1,0 +1,72 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,"1) Earth and Space – Short Answer During a solar eclipse, an observer’s view of the Sun is completely blocked by the moon. The observer is therefore standing in what region of the Moon’s shadow?",UMBRA
+bonus,,Multiple Choice,"1) Earth and Space – Multiple Choice Which of the following statements best reflects our current understanding of the past and present of Mars’ atmosphere? W) It has always been about as thick Earth’s atmosphere today X) It has always been much thinner than Earth’s atmosphere today Y) It was thick shortly after formation, but has since thinned due to solar wind Z) It was thin shortly after formation, but has since thickened due to volcanic outgassing","Y) IT WAS THICK SHORTLY AFTER FORMATION, BUT HAS SINCE THINNED DUE TO
+SOLAR WIND
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,2) Chemistry – Short Answer Identify all of the following three terms that can describe the behavior of water: 1) Nucleophile [NU-klee-oh-file]; 2) Lewis base; 3) Bronsted [BRON-sted] acid.,ALL
+bonus,chemistry,Short Answer,"2) Chemistry – Short Answer Identify all of the following three statements that are true of crystal field theory: 1) d orbitals in a coordinated metal can be higher in energy than in the isolated metal ion; 2) All d orbitals are elevated in energy equally when a metal is coordinated; 3) In a coordinated metal ion, the d orbitals are degenerate.","1
+High School - Round 14A Page 1"
+toss-up,energy,Multiple Choice,"3) Energy – Multiple Choice DOE scientists working on the Dark Energy Survey at Fermilab serendipitously discovered a potential dwarf planet orbiting the Sun at 92 AU. Which of the following is closest, in Earth-years, to the orbital period of this object? W) 110 X) 1,100 Y) 11,000 Z) 110,000","X) 1,100"
+bonus,energy,Short Answer,"3) Energy – Short Answer Researchers supported by Ames Lab have recently provided spectroscopic [spek-troh-SCAW-pik] evidence for a type of material in which the electron and hole bands are connected at Weyl [wile] points, which are in turn connected by Fermi [FUR-mee] arcs. These materials are a specific type of what general group of materials in electronic band theory?","SEMIMETAL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Multiple Choice,4) Physics – Multiple Choice Which of the following thermodynamic quantities is a path function? W) Energy X) Enthalpy [EN-thul-pee] Y) Entropy [EN-troh-pee] Z) Heat,Z) HEAT
+bonus,physics,Short Answer,"4) Physics – Short Answer A solid uniform cylindrical rod has moment of inertia I when rotating about its center like a propeller. In terms of I, what is the moment of inertia of a second rod of the same density but twice the length, when rotated about its symmetry axis?","8 I
+High School - Round 14A Page 2"
+toss-up,math,Multiple Choice,"5) Math – Multiple Choice Let f(x) be a continuous and differentiable function on the closed interval [2,6]. Which of the following could be the x-value guaranteed by the mean value theorem for this situation? W) 0 X) 3 Y) 6 Z) 9",X) 3
+bonus,math,Short Answer,5) Math – Short Answer Solve the following equation for x: 4x + 2 equals the absolute value of open parenthesis 3x – 5 close parenthesis.,"3/7 (DO NOT ACCEPT: –7)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,6) Biology – Short Answer Identify all of the following three classes that contain organisms that produce amniotic eggs: 1) Reptilia; 2) Aves [AY-veez]; 3) Mammalia.,ALL
+bonus,biology,Multiple Choice,6) Biology – Multiple Choice Which of the following codons could NOT result in a nonsense mutation following a single-nucleotide substitution? W) GGA X) UCG Y) CAA Z) AGG,"Z) AGG
+High School - Round 14A Page 3"
+toss-up,,Multiple Choice,"7) Earth and Space – Multiple Choice Which of the following is closest to the average denisty, in grams per cubic centimeter, of Earth’s core? W) 5.5 X) 7.1 Y) 8.9 Z) 12.8",Z) 12.8
+bonus,,Multiple Choice,7) Earth and Space – Multiple Choice Which of the following metamorphic index minerals is typically FOUND in the metamorphic facies [FAY-sheez] granulite? W) Chlorite X) Kyanite [KYE-an-ite] Y) Andalusite [ann-dah-LOO-site] Z) Sillimanite [SILLih-mah-nite],"Z) SILLIMANITE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"8) Physics – Short Answer An engineer designs a step-down transformer to convert 240 volts-RMS down to 20 volts-RMS. If the primary winding has 600 turns, how many turns are required on the secondary winding?",50
+bonus,physics,Short Answer,"8) Physics – Short Answer In volts to the nearest tenth, what is the change in potential from a distance of 3 meters to a distance of 6 meters of a 1-nanocoulomb [nano KOO-lawm] point charge?","1.5
+High School - Round 14A Page 4"
+toss-up,biology,Short Answer,9) Biology – Short Answer What gene-editing method relies on synthetic guide RNAs to direct Cas nucleases [NEW-klee-aces] to target sites for gene editing?,"CRISPR (ACCEPT: CRISPR/CAS, CRISPR/CAS9)"
+bonus,biology,Multiple Choice,"9) Biology – Multiple Choice In a typical mouse mammalian research model, which type of epithelial [eh-pih-THEEL-ee-ul] cell would be most prevalent lining kidney tubules? W) Simple cuboidal [kyoo-BOY-dul] X) Simple columnar Y) Simple squamous [SKWAY-mus] Z) Stratified columnar","W) SIMPLE CUBOIDAL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,10) Math – Short Answer What is the largest prime factor of 165?,11
+bonus,math,Short Answer,"10) Math – Short Answer What is the standard deviation of the following list of 4 numbers: 7, 7, 9, 17?","√17
+High School - Round 14A Page 5"
+toss-up,energy,Multiple Choice,"11) Energy – Multiple Choice Scientists at Oak Ridge National Lab are simulating the breakdown of lignocellulosic [ligno-sellyoo-LOH-sik] biomass in the presence of tetrahydrofuran [tetrah-high-droh- FYOOR-an], or THF. What purpose does THF serve in this reaction? W) Catalyst X) Solvent Y) Reactant Z) Chaotropic [kay-ah-TROH-pik] agent",X) SOLVENT
+bonus,energy,Short Answer,11) Energy – Short Answer There is significant interest in thorium as a next-generation fuel for nuclear fission [FIH-zhun] reactors. Identify all of the following three statements that are true regarding thorium: 1) Thorium can be found in nature as one nonfissile isotope; 2) Thorium-232 can undergo neutron capture; 3) Thorium-232 is radioactive with a half-life of 21 minutes.,"1 AND 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,"12) Chemistry – Multiple Choice A student is interested in the optical properties of chiral [KYE-ruhl] molecules, so she successively performs a chlorination, bromination [broh-min-AY-shun], and an iodination [eye-oh-dah-NAY-shun] of methane. However, she is disappointed to find out that the resulting product demonstrates no optical rotation of polarized light. Which of the following best explains this? W) She prepared a racemic [ray-SEEM-ik] mixture X) Only certain chiral [KYE-ruhl] molecules demonstrate optical rotation Y) Geometric isomers demonstrate optical rotation, not stereoisomers [stereo-EYE-soh-murs] Z) Only larger, more complex chiral molecules demonstrate optical rotation",W) SHE PREPARED A RACEMIC MIXTURE
+bonus,chemistry,Multiple Choice,12) Chemistry – Multiple Choice Consider the reaction of 1-bromopentane with sodium hydroxide. Which of the following pairs of characteristics apply to this reaction? W) S 1 at low temperatures and E1 at high temperatures N X) E1 at low temperatures and S 1 at high temperatures N Y) S 2 at low temperatures and E2 at high temperatures N Z) E2 at low temperatures and S 2 at high temperatures N,"Y) S 2 AT LOW TEMPERATURES AND E2 AT HIGH TEMPERATURES
+N
+High School - Round 14A Page 6"
+toss-up,biology,Multiple Choice,"13) Biology – Multiple Choice In the lac [lack] operon, allolactose can be classified as what? W) Repressor X) Inducer Y) Promoter Z) Transcription factor",X) INDUCER
+bonus,biology,Multiple Choice,"13) Biology – Multiple Choice In a typical neuron, voltage-gated potassium channels are gated so that they open at what potential, in millivolts? W) –100 X) –70 Y) –30 Z) +40","Z) +40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,14) Math – Short Answer Point P is one of the vertices of a 42-sided convex polygon. How many diagonals of the polygon have point P as an endpoint?,39
+bonus,math,Short Answer,"14) Math – Short Answer Give the parametric equations in terms of t for the line that is parallel to the vector –5i – 6j + 2k and that passes through the point (4, –2, 8).","x = –5t + 4; y = –6t – 2; z = 2t + 8
+High School - Round 14A Page 7"
+toss-up,energy,Short Answer,"15) Energy – Short Answer Ames Lab researchers have been studying the atomic-scale geometry of platinum ions when they are incorporated into large, porous complexes consisting of metal cations [CAT- eye-onz] and organic ligands [LIH-gundz]. What is the name for this group of complexes?",METAL-ORGANIC FRAMEWORKS (ACCEPT: MOFs)
+bonus,energy,Short Answer,"15) Energy – Short Answer Researchers at Oak Ridge National Lab are studying a bacterial species, present in the GI tract of more than 50% of the world’s population, that is known to cause ulcers and stomach cancer. What is the full genus [JEE-nus]-species name of this bacterium?","Helicobacter pylori (ACCEPT: Campylobacter pylori)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Multiple Choice,16) Physics – Multiple Choice The Fermi [FUR-mee] energy of semiconductors lies in which of the following regions? W) Valence [VAY-lence] band X) Band gap Y) Conduction band Z) Ground state,X) BAND GAP
+bonus,physics,Short Answer,"16) Physics – Short Answer Alison measures the net charge inside a cell to be −9.0 picocoulombs [PEE- koh KOO-lawms]. Assuming this charge is perfectly enclosed by the cell membrane, what is the magnitude of the flux, to two significant figures and in newton-meters squared per coulomb, through the cell membrane?","1.0
+High School - Round 14A Page 8"
+toss-up,,Short Answer,17) Earth and Space – Short Answer What is the name given to the end moraine [mohr-AYN] that denotes the farthest advance of glacial ice?,TERMINAL MORAINE
+bonus,,Short Answer,17) Earth and Space – Short Answer Identify all of the following three eras that belong to the Phanerozoic [fah-NAIR-oh-zoh-ik] eon: 1) Paleozoic [PAY-leo-ZO-ik]; 2) Mesozoic [MEH-zoh-ZOH-ik]; 3) Cenozoic [SEN-oh-ZOH-ik].,"ALL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,18) Chemistry – Multiple Choice Which of the following atoms has an atomic radius closest to the atomic radius of sodium? W) Beryllium [beh-RILL-ee-um] X) Magnesium Y) Calcium Z) Strontium [STRAWNCH-ee-um],Y) CALCIUM
+bonus,chemistry,Short Answer,18) Chemistry – Short Answer Arrange the following three classes of organic compounds in increasing order of electrophilicity: 1) Ketone [KEE-tone]; 2) Ester; 3) Amide [AM-ide].,"3, 2, 1
+High School - Round 14A Page 9"
+toss-up,math,Short Answer,19) Math – Short Answer What is the dot product of 4i – 7j and 5i + 2j?,6
+bonus,math,Short Answer,"19) Math – Short Answer A restaurant has a special that allows you to pick any 2 of 11 possible items, and allows 2 of the same item. How many different orders are possible?","66
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"20) Earth and Space – Short Answer On the planet Jupiter, what term describes the cooler, dark bands of latitude that correspond to atmospheric downwelling?",BELTS
+bonus,,Short Answer,20) Earth and Space – Short Answer Identify all of the following three statements that are true of cosmic molecular [moh-LEK-yoo-lur] clouds: 1) Hydrogen in molecular clouds is typically present as H ; 2) They 2 contain trace amounts of small organic compounds such as formaldehyde; 3) Constituents of molecular clouds are typically present as ions.,"1 AND 2
+High School - Round 14A Page 10"
+toss-up,physics,Short Answer,"21) Physics – Short Answer In order to solve a physics problem, a student calculates the surface integral of the normal component of an electric field over a particular surface area. What physical quantity is the student determining?",ELECTRIC FLUX
+bonus,physics,Short Answer,"21) Physics – Short Answer What is the resonant frequency, in radians per second, of a parallel LC circuit with an inductance of 2 millihenries and a capacitance of 80 microfarads [micro-FAIR-ad]?","2,500
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,22) Chemistry – Short Answer P orbitals can form what two types of bonds?,SIGMA AND PI
+bonus,chemistry,Short Answer,"22) Chemistry – Short Answer Identify all of the following three molecules that, according to molecular orbital theory, have non-zero bond orders: 1) H-two [H-2]; 2) He-two [H-E-2]; 3) He-two plus [H-E-2-plus].","1 AND 3
+High School - Round 14A Page 11"
+toss-up,biology,Short Answer,"23) Biology – Short Answer In fungal [FUN-gul] reproduction, what stage is characterized by the haploid [HAP-loid] nuclei [NEW-klee-eye] of different parents fusing into a single diploid [DIH-ployd] nucleus?",KARYOGAMY
+bonus,biology,Short Answer,23) Biology – Short Answer Identify all of the following four phyla [FYE-lah] that possess a segmented body plan: 1) Arthropoda ; 2) Mollusca [mull-US-kah]; 3) Nematoda; 4) Chordata [kor-DAH-tah].,"1 AND 4
+High School - Round 14A Page 12"
