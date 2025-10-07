@@ -1,0 +1,72 @@
+type,subject,format,question,answer
+toss-up,chemistry,Multiple Choice,"1) Chemistry – Multiple Choice In a polyelectronic atom, which of the following orbitals would have the lowest energy? W) 3s X) 4s Y) 3p Z) 3d",W) 3s
+bonus,chemistry,Short Answer,1) Chemistry – Short Answer Rank the following three carboxylic [CAR-box-IHL-ik] acid derivatives in terms of increasing reactivity to nucleophilic substitution: 1) Amide; 2) Acid anhydride; 3) Ester.,"1, 3, 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,2) Math – Short Answer What is f prime of 1 for the function f of x = x times ex ?,2e
+bonus,math,Short Answer,2) Math – Short Answer What is the real quadratic polynomial with leading coefficient one that has –5 + 7i as a zero?,"x2 + 10x + 74
+2019 Regional Science Bowl – Round 16A Page 1"
+toss-up,biology,Short Answer,3) Biology – Short Answer What structure in a snail is responsible for secreting its shell?,MANTLE
+bonus,biology,Short Answer,"3) Biology – Short Answer In a retrospective study comparing smoking to lung cancer, half of smokers had cancer, while only a quarter of non-smokers had cancer. What is the odds ratio of the association between smoking and cancer?","3 (ACCEPT: THREE TO ONE)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"4) Earth and Space – Short Answer What is the name given to asteroids that share an orbit with a larger planet, and lead or trail the planet by 60 degrees?",TROJANS
+bonus,,Short Answer,4) Earth and Space – Short Answer The rate of solar rotation was originally determined by observing the movement of what features?,"SUNSPOTS
+2019 Regional Science Bowl – Round 16A Page 2"
+toss-up,physics,Short Answer,"5) Physics – Short Answer According to band gap theory, in an insulator at absolute zero, what is the highest band with any electrons in it?",VALENCE
+bonus,physics,Short Answer,"5) Physics – Short Answer Nick, who has a mass of 40 kilograms, is inflating his bike tires with a foot-pedal pump that extends 50 centimeters at a 60-degree incline to the ground. If he steps so that his entire weight acts vertically onto the tip of the pedal, then in newton-meters, what is the magnitude of the initial torque [tork] on the pump?","98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,6) Energy – Multiple Choice Researchers at SLAC National Accelerator Laboratory have developed a device to produce electromagnetic radiation with a frequency in the terahertz range. Between what two classifications of radiation does terahertz radiation fall? W) Gamma rays and X-rays X) X-rays and ultraviolet light Y) Ultraviolet light and infrared light Z) Infrared light and microwaves,Z) INFRARED LIGHT AND MICROWAVES
+bonus,energy,Short Answer,6) Energy – Short Answer Scientists at Brookhaven National Lab are studying Cooper pairs in iron-selenide superconductors. Cooper pairs are pairs of what subatomic particles?,"ELECTRONS
+2019 Regional Science Bowl – Round 16A Page 3"
+toss-up,math,Short Answer,"7) Math – Short Answer In a quadruple-elimination tournament, each game is played by two teams, there are no ties, and teams are eliminated when they have lost 4 times. What is the maximum number of games played if 41 teams enter?",163
+bonus,math,Short Answer,"7) Math – Short Answer When applying the Euclidean algorithm to find the greatest common divisor of 44 and 161, what is the remainder after the third step?","14
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Multiple Choice,"8) Physics – Multiple Choice Which of the following is necessarily true regarding capacitors? W) For capacitance in parallel, the equivalent capacitance is less than that of any individual capacitor X) For capacitance in parallel, the equivalent capacitance is the sum of reciprocals of the individual capacitors Y) For capacitance in series, the equivalent capacitance is less than that of any individual capacitor Z) For capacitance in series, the equivalent capacitance is the sum of the individual capacitors","Y) FOR CAPACITANCE IN SERIES, THE EQUIVALENT CAPACITANCE IS
+LESS THAN THAT OF ANY INDIVIDUAL CAPACITOR"
+bonus,physics,Short Answer,8) Physics – Short Answer Consider an object placed one centimeter to the left of a diverging thin lens of focal length 5 centimeters. The virtual image that is formed will appear how many centimeters left of the lens?,"5/6
+2019 Regional Science Bowl – Round 16A Page 4"
+toss-up,,Multiple Choice,9) Earth and Space – Multiple Choice Which of the following best describes why ocean water at 30 degrees latitude has higher salt content than water at the equator? W) Most rivers flow into the ocean at the equator X) Ice formation at high latitudes increases salinity Y) Precipitation exceeds evaporation at the equator Z) Low-salinity water upwells at the equator,Y) PRECIPITATION EXCEEDS EVAPORATION AT THE EQUATOR
+bonus,,Short Answer,9) Earth and Space – Short Answer Identify all of the following three characteristics that describe a typical neritic zone in the ocean water column: 1) Oxygen-poor; 2) Photic; 3) Near-shore.,"2, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,"10) Chemistry – Multiple Choice When an alkene [al-KEEN] acts as a nucleophile, what specific part of the alkene is nucleophilic? W) The higher-energy carbon atom X) The lower-energy carbon atom Y) The carbon-carbon sigma bond Z) The carbon-carbon pi [pie] bond",Z) THE CARBON-CARBON PI [pie] BOND
+bonus,chemistry,Short Answer,10) Chemistry – Short Answer N O is in equilibrium with N O in a transparent cylinder 2 2 4 fitted with a piston. Identify all of the following three changes that would increase the number of N O molecules in the cylinder: 1) Depressing the piston; 2) Increasing the temperature; 3) 2 Adding nitrogen gas.,"2
+2019 Regional Science Bowl – Round 16A Page 5"
+toss-up,energy,Multiple Choice,"11) Energy – Multiple Choice Lawrence Berkeley National Lab scientists are studying the inflammasome, which is a structure that forms around flagellin. This protein is involved in the immune response to which of the following? W) Paramecia X) Bacteria Y) Protists Z) Fungi",X) BACTERIA
+bonus,energy,Short Answer,"11) Energy – Short Answer Researchers at Argonne National Lab are researching spin coating as a technique to form thin films. Spin coating can be used to prepare photoresistors less than a micrometer thick, which can then be used in what technique?","LITHOGRAPHY (ACCEPT: PHOTOLITHOGRAPHY)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,"12) Biology – Short Answer Adrenocorticotropic [ah-DREE-noh-kordih-koh-TROH-pik] hormone, vasopressin [VAY-zoh-pressin], and thyroid-stimulating hormone are all produced in what gland?",PITUITARY
+bonus,biology,Short Answer,12) Biology – Short Answer Identify all of the following three groups of animals that are monophyletic [mono-fye-LET-ik]: 1) Mammals; 2) Reptiles; 3) Birds.,"1, 3
+2019 Regional Science Bowl – Round 16A Page 6"
+toss-up,,Multiple Choice,"13) Earth and Space – Multiple Choice In meteorology, the atmosphere’s lapse rate has which of the following units? W) Degrees Celsius per kilometer X) Watts per meter squared Y) Pascals per second Z) Meters per second",W) DEGREES CELSIUS PER KILOMETER
+bonus,,Short Answer,13) Earth and Space – Short Answer Identify all of the following three mass wasting events in which the moving debris is typically coherent: 1) Solifluction; 2) Lahar [lah-HAHR]; 3) Slump.,"1, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,14) Math – Short Answer The altitude to the hypotenuse of a right triangle divides the hypotenuse into segments of length 5 and 4. What is the length of the altitude?,2√5
+bonus,math,Short Answer,"14) Math – Short Answer What is the standard deviation of the following list of 4 numbers: 5, 5, 9, 17?","2√6
+2019 Regional Science Bowl – Round 16A Page 7"
+toss-up,physics,Multiple Choice,"15) Physics – Multiple Choice The Chernobyl disaster occurred, in part, due to the buildup of xenon-135[ZEE-non one thirty five] in the core. Which of the following best describes the role xenon-135 played in the core? W) Neutron emitter X) Control rod Y) Neutron poison Z) Catalyst",Y) NEUTRON POISON
+bonus,physics,Short Answer,15) Physics – Short Answer Identify all of the following three processes that would increase the entropy of an ideal gas: 1) Reversible isothermal expansion; 2) Reversible adiabatic [ad-ee-ah-BAT-ik] expansion; 3) Free expansion against zero pressure.,"1, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,16) Energy – Short Answer Scientists at Idaho National Lab have developed a new method to refine biodiesel. This novel process uses a carbon dioxide solvent in which the CO is in what 2 specific phase?,SUPERCRITICAL FLUID (ACCEPT: SUPERCRITICAL)
+bonus,energy,Short Answer,"16) Energy – Short Answer Scientists at Brookhaven National Lab are part of the ATLAS experiment at CERN, which recently observed light-by-light scattering, where light at high energies can be scattered by what particle?","PHOTON
+2019 Regional Science Bowl – Round 16A Page 8"
+toss-up,biology,Multiple Choice,"17) Biology – Multiple Choice In embryonic development, the archenteron is a precursor to what? W) Gut X) Brain Y) Skeletal musculature Z) Skin",W) GUT
+bonus,biology,Short Answer,17) Biology – Short Answer Fluoxetine [floo-OX-eh-teen] and citalopram [sigh-TAL-eh- pram] are useful in treating anxiety because they inhibit the reuptake of what satiety-related neurotransmitter?,"SEROTONIN (ACCEPT: 5-HT)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,18) Chemistry – Multiple Choice Which of the following electron configurations is correct for the aqueous iron 2+ ion? W) [Ar] 4s2 3d4 X) [Ar] 4s1 3d5 Y) [Ar] 3d6 Z) [Ar] 3d5 4p1,Y) [Ar] 3d6
+bonus,chemistry,Multiple Choice,18) Chemistry – Multiple Choice A heterogeneous [het-ur-oh-GENE-ee-us] catalyst surface catalyzes the hydrogenation reaction of ethylene to form ethane. Which of the following elementary steps would not occur? W) Hydrogen dissociating on the surface X) Gas phase addition of hydrogen to ethylene Y) Ethylene adsorbing Z) Adsorbed hydrogen adding to adsorbed ethylene,"X) GAS PHASE ADDITION OF HYDROGEN TO ETHYLENE
+2019 Regional Science Bowl – Round 16A Page 9"
+toss-up,math,Short Answer,"19) Math – Short Answer In base 7, what is 4 times 6?",THREE-THREE (ACCEPT: 33)
+bonus,math,Short Answer,19) Math – Short Answer What is the cross product of vectors 3i + 2j + k cross j?,"–i + 3k (ACCEPT: –i + 0j + 3k, –1i + 3k, –1i + 0j + 3k
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,20) Biology – Short Answer Identify all of the following three structures that are homologous [ha-MAWL-uh-gus] to a human hand: 1) Whale flipper; 2) Bat wing; 3) Bird claw.,"1, 2"
+bonus,biology,Short Answer,20) Biology – Short Answer Identify all of the following three groups of organisms that are protostomes: 1) Snails; 2) Sea cucumbers; 3) Earthworms.,"1, 3
+2019 Regional Science Bowl – Round 16A Page 10"
+toss-up,physics,Short Answer,21) Physics – Short Answer Kaons [KAY-ons] and pions [PIE-ons] are classified as what type of composite particle that consists of a quark and an anti-quark?,MESONS
+bonus,physics,Short Answer,"21) Physics – Short Answer What is the moment of inertia, in kilogram meters squared, of a 5-kilogram uniform solid sphere of radius 3 meters rotating about an axis that is tangent to its surface?","63
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Earth and Space – Short Answer What two planets in our solar system have the most eccentric orbits?,MARS AND MERCURY (ACCEPT IN EITHER ORDER)
+bonus,,Short Answer,"22) Earth and Space – Short Answer An astronaut is 4 light-years from Alpha Centauri, and traveling toward it. If the astronaut is traveling at 0.6c, then, from the reference frame of the astronaut, how far, in light years, will the journey appear to be?","3.2 (ACCEPT: 3 1/5, 16/5)
+2019 Regional Science Bowl – Round 16A Page 11"
+toss-up,chemistry,Short Answer,23) Chemistry – Short Answer What are the two possible molecular geometries for a five- coordinate transition metal compound?,TRIGONAL BIPYRAMIDAL AND SQUARE BIPYRAMIDAL
+bonus,chemistry,Short Answer,23) Chemistry – Short Answer Permanganate [pur-MAYNG-en-ate] ion is used to oxidize iron(II) to iron(III) in neutral aqueous solution. What insoluble precipitate is the byproduct of this reaction?,"MANGANESE DIOXIDE (ACCEPT: MANGANESE(IV) OXIDE, MnO )
+2
+2019 Regional Science Bowl – Round 16A Page 12"

@@ -1,0 +1,71 @@
+type,subject,format,question,answer
+toss-up,physics,Short Answer,1) Physics – Short Answer What phenomenon is generated when an object propagates in a medium faster than the speed of sound in that medium?,"SHOCK WAVE (ACCEPT: SHOCK, SONIC BOOM)"
+bonus,physics,Short Answer,"1) Physics – Short Answer To two significant figures and in meters, what is the wavelength of a sound wave with a frequency of 260 hertz?","1.3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,2) Earth and Space – Multiple Choice Which of the following types of lifting mechanisms would most likely occur near a mountain range? W) Frontal X) Orographic Y) Convective Z) Convergence,X) OROGRAPHIC
+bonus,,Short Answer,2) Earth and Space – Short Answer Identify all of the following three characterisitcs that describe hot spots: 1) They are zones of crustal uplift; 2)They have an elevated geotherm; 3) They can be over 100 kilometers across.,"ALL OF THEM
+2019 Regional Science Bowl – Round 4A Page 1"
+toss-up,math,Short Answer,3) Math – Short Answer A triangle has two sides of lengths 39 and 57. What is the largest possible integer length of the third side?,95
+bonus,math,Short Answer,"3) Math – Short Answer The line with equation y = 3x + 2 is reflected across the line y = x. What are the slope and y-intercept of its image, respectively?","SLOPE = 1/3, y-INTERCEPT = –2/3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,4) Chemistry – Short Answer The fact that a solution of hydrofluoric acid will become less acidic if you add sodium fluoride to it is an example of what effect?,COMMON ION EFFECT (ACCEPT: LE CHATELIER'S PRINCIPLE)
+bonus,chemistry,Short Answer,"4) Chemistry – Short Answer If a rate constant is expressed in hertz, what order must the reaction be?","FIRST (ACCEPT: ONE)
+2019 Regional Science Bowl – Round 4A Page 2"
+toss-up,energy,Short Answer,5) Energy – Short Answer Scientists at Ames Lab are developing new techniques to study substances that lower the activation energy of chemical reactions. What is the general term for these substances?,CATALYST
+bonus,energy,Short Answer,5) Energy – Short Answer Scientists at Oak Ridge National Lab are developing techniques to prevent the leakage of information in future quantum computers. This information leakage occurs because of what quantum mechanical phenomenon in which a particle crosses classically- forbidden energy barriers?,"QUANTUM TUNNELING (ACCEPT: TUNNELING)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,6) Biology – Short Answer Phages are viruses that infect what group of organisms?,BACTERIA
+bonus,biology,Multiple Choice,6) Biology – Multiple Choice Which of the following is the genetic material carried by HIV? W) dsDNA X) ssDNA Y) dsRNA Z) ssRNA,"Z) ssRNA
+2019 Regional Science Bowl – Round 4A Page 3"
+toss-up,chemistry,Multiple Choice,"7) Chemistry – Multiple Choice Consider the first-order decomposition of N O into nitrogen 2 5 dioxide and oxygen. In order to get a linear fit, which of the following parameters should be graphed against time? W) Natural log of the concentration of N O 2 5 X) Concentration of N O 2 5 Y) Concentration of N O squared 2 5 Z) One over the concentration of N O 2 5","W) NATURAL LOG OF THE CONCENTRATION OF N O
+2 5"
+bonus,chemistry,Short Answer,7) Chemistry – Short Answer Rank the following three elements in order of increasing melting point: 1) Tin; 2) Carbon; 3) Germanium [jer-MAYN-ee-um].,"1, 3, 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,"8) Math – Multiple Choice Given that the function f of x has a zero at x = 6, at what x-value must f of open parenthesis x over 2 close parenthesis have a zero? W) 3 X) 6 Y) 8 Z) 12",Z) 12
+bonus,math,Short Answer,8) Math – Short Answer Evaluate the integral from 0 to π/2 of sine 3x dx.,"1/3
+2019 Regional Science Bowl – Round 4A Page 4"
+toss-up,biology,Short Answer,9) Biology – Short Answer Order the following three stages of development chronologically: 1) Fetus; 2) Embryo; 3) Zygote.,"3, 2, 1"
+bonus,biology,Multiple Choice,9) Biology – Multiple Choice Professional antigen-presenting cells such as macrophages and dendritic [den-DRIH-dik] cells typically present foreign antigens to which of the following types of cells? W) Helper T X) Cytotoxic T Y) Memory B Z) Plasma,"W) HELPER T
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,10) Energy – Short Answer Scientists at Oak Ridge National Lab have been studying a bacterium that makes a new derivative of what cobalt-containing vitamin?,B12 (ACCEPT: COBALAMIN)
+bonus,energy,Multiple Choice,10) Energy – Multiple Choice Scientists at Brookhaven National Lab are studying medical imaging scintillators that absorb high-energy light and release lower-wavelength light that can be detected with a camera. In what type of imaging are these materials most likely used? W) X-ray imaging X) MRI Y) Photoacoustic imaging Z) Ultrasound,"W) X-RAY IMAGING
+2019 Regional Science Bowl – Round 4A Page 5"
+toss-up,,Short Answer,11) Earth and Space – Short Answer What is the adjective for a constellation that never appears to set in the night sky throughout the year?,CIRCUMPOLAR
+bonus,,Short Answer,11) Earth and Space – Short Answer Apollo 11 astronauts brought back primarily what type of rock from the Mare Tranquillitatis [MAH-ray Tran-quill-ih-TAH-tis]?,"BASALT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,12) Physics – Short Answer Identify all of the following three physical quantities that are considered scalar quantities: 1) Speed; 2) Work; 3) Acceleration.,"1, 2"
+bonus,physics,Short Answer,12) Physics – Short Answer Identify all of the following three vectors that must be constant for an object in an unperturbed orbit: 1) Angular momentum; 2) Linear momentum; 3) Acceleration.,"1
+2019 Regional Science Bowl – Round 4A Page 6"
+toss-up,biology,Multiple Choice,13) Biology – Multiple Choice Which of the following classes of macromolecules can be digested by salivary amylase? W) Proteins X) Carbohydrates Y) Lipids Z) Nucleic acids,X) CARBOHYDRATES
+bonus,biology,Short Answer,"13) Biology – Short Answer Holdfasts, stipes [sty-PEEZ], and blades are characteristic of what group of multicellular algae?","BROWN ALGAE (ACCEPT: PHAEOPHYCAE, PHAEOPHYTA)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"14) Earth and Space – Multiple Choice Gabriela is studying a map showing rivers flowing through a mountainous region. She notices that the V-shaped river valleys are often much wider than the rivers themselves. Which of the following statements best explains her observation? W) The rivers carried more water in the past X) The valleys were formed by glaciers and were later replaced by rivers Y) A series of cut-banks and point-bars formed as the rivers developed, widening the valley Z) Mass wasting and stream erosion have widened the valley",Z) MASS WASTING AND STREAM EROSION HAVE WIDENED THE VALLEY
+bonus,,Short Answer,14) Earth and Space – Short Answer Rank the following three sources in increasing order of share of the world's total freshwater: 1) Lakes and reservoirs; 2) Atmospheric water vapor; 3) Groundwater.,"2, 1, 3
+2019 Regional Science Bowl – Round 4A Page 7"
+toss-up,energy,Short Answer,15) Energy – Short Answer Research by the Pacific Northwest National Laboratory and the University of New Mexico has produced a new material for catalytic converters in vehicles. Identify all of the following three factors that drove this research: 1) The cost of platinum; 2) The lower temperatures produced by higher-efficiency engines; 3) The inefficiency of platinum as a catalyst at high temperatures.,"1, 2"
+bonus,energy,Multiple Choice,"15) Energy – Multiple Choice Oak Ridge National Lab is developing a method to produce quantum particles in a controlled, deterministic manner to improve the speed and security of transmitting encrypted data over long fiber-optic cables. What specific particles are they using to transmit this data? W) Photons X) Phonons Y) Electrons Z) Positrons","W) PHOTONS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,"16) Chemistry – Multiple Choice Which of the following best describes the enthalpy and entropy changes associated with melting ice? W) Negative delta H, negative delta S X) Negative delta H, positive delta S Y) Positive delta H, positive delta S Z) Positive delta H, negative delta S","Y) POSITIVE DELTA H, POSITIVE DELTA S"
+bonus,chemistry,Short Answer,16) Chemistry – Short Answer Rank the following three molecules in terms of increasing triple point temperature: 1) Water; 2) Carbon dioxide; 3) Methane.,"3, 2, 1
+2019 Regional Science Bowl – Round 4A Page 8"
+toss-up,math,Short Answer,17) Math – Short Answer What is 2 times 5 squared?,50 (DO NOT ACCEPT: 100)
+bonus,math,Short Answer,17) Math – Short Answer How many sides does a regular polygon have if each interior angle measures 175 degrees?,"72
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"18) Physics – Short Answer Galileo's theory of gravity states that objects will fall at the same speed regardless of their weight. Due to the atmosphere, however, some objects fall faster than others. Rank the following three objects in increasing order of their speed one second after being dropped from a building: 1) One-gram feather; 2) One-gram solid-iron sphere; 3) One-gram solid-iron cube.","1, 3, 2"
+bonus,physics,Short Answer,"18) Physics – Short Answer A pipe is carrying an incompressible liquid flowing at 8 meters per second. At a particular section, the center of the pipe is elevated by 3 meters. If the static pressure is unchanged, then what is the velocity to the nearest meter per second in the elevated section of pipe?","2
+2019 Regional Science Bowl – Round 4A Page 9"
+toss-up,biology,Short Answer,19) Biology – Short Answer Identify all of the following three functional groups that can be found in alanine: 1) Carboxyl; 2) Amine; 3) Alkene [al-KEEN].,"1, 2"
+bonus,biology,Multiple Choice,19) Biology – Multiple Choice The estrus cycle in many mammals is responsible for which of the following processes? W) Sleep X) Digestion Y) Reproduction Z) Migration,"Y) REPRODUCTION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Earth and Space – Short Answer What is the name of the largest canyon on the planet Mars?,VALLES MARINERIS (DO NOT ACCEPT: MARINER VALLEY)
+bonus,,Multiple Choice,20) Earth and Space – Multiple Choice Moving from left to right on the H-R diagram corresponds to which of the following changes? W) Increasing luminosity [loo-min-AW-sih-tee] X) Increasing temperature Y) Decreasing luminosity Z) Decreasing temperature,"Z) DECREASING TEMPERATURE
+2019 Regional Science Bowl – Round 4A Page 10"
+toss-up,chemistry,Short Answer,21) Chemistry – Short Answer Standard reduction potentials are reported using what type of electrode as the zero point?,STANDARD HYDROGEN ELECTRODE (ACCEPT: SHE)
+bonus,chemistry,Short Answer,21) Chemistry – Short Answer Concentrated hydrochloric acid is sold as a 12-molar solution in water. How many milliliters of concentrated hydrochloric acid must be used to prepare 1.5 liters of a 100-millimolar solution of hydrochloric acid?,"12.5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"22) Physics – Short Answer What is the name of the distance from an uncharged, stationary object at which the escape velocity equals the speed of light?",SCHWARTZSCHILD RADIUS
+bonus,physics,Short Answer,"22) Physics – Short Answer Andrew is designing a bird-strike-resistant nose cone for an experimental aircraft that flies at 200 meters per second. If a typical bird is 0.5 kilograms and an impact lasts 2.5 milliseconds, then in newtons, what is the average impact force that the nose cone must be able to withstand?","40,000
+2019 Regional Science Bowl – Round 4A Page 11"
+toss-up,math,Short Answer,"23) Math – Short Answer In three-space, what is the distance from the point (1, 3, 6) to the origin?",√46
+bonus,math,Short Answer,23) Math – Short Answer Solve the following equation for x over the negative integers: x3 + 2x2 – 25x – 50 = 0,"–2 AND –5 (must give both answers)
+2019 Regional Science Bowl – Round 4A Page 12"
