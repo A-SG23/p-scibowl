@@ -1,0 +1,60 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,1) Math – Short Answer What is 1152?,"13,225"
+bonus,math,Short Answer,"1) Math – Short Answer On a calculus pop quiz, 15% of the students scored 6 points, 40% scored 7 points, 35% scored 8 points, and the rest scored 9 points. What is the average score, rounded to the nearest tenth, on the quiz?","7.4
+******************"
+toss-up,chemistry,Short Answer,"2) Chemistry – Short Answer What gas law exclusively states that, at constant volume, the pressure of an ideal gas is directly proportional to its absolute temperature?",GAY-LUSSAC'S LAW
+bonus,chemistry,Short Answer,2) Chemistry – Short Answer A certain hydrocarbon has the chemical formula C H . Identify all of 5 10 the following three classes of molecules that it could be: 1) Alkene; 2) Cyclo-alkane; 3) Cyclo-alkene.,"1, 2"
+toss-up,energy,Short Answer,"3) Energy – Short Answer Princeton Plasma Physics Lab scientists are studying the rotational profile in the convective zone of the Sun. This rotational gradient contrasts with the uniformly-rotating zone underneath, which is dominated by what type of heat transfer?",RADIATION (ACCEPT: RADIATIVE)
+bonus,energy,Short Answer,3) Energy – Short Answer Researchers from Georgia State University used a supercomputer at Oak Ridge National Lab to develop an integrative model of the transcription preinitiation complex. What is the most common eukaryotic promoter DNA element over which the preinitiation complex forms?,"TATA BOX (ACCEPT: GOLDBERG-HOGNESS BOX)
+******************"
+toss-up,physics,Short Answer,"4) Physics – Short Answer A circuit is connected to an eight-volt battery which puts out a current of four amperes. In ohms, what is the overall resistance of this circuit?",2
+bonus,physics,Short Answer,"4) Physics – Short Answer A car tire with a diameter of 0.2 meters is rotating at 15 revolutions per second. To the nearest meter per second, what is the tangential [tan-JEN-chul] speed of a point on the edge of the tire?",9
+toss-up,,Multiple Choice,5) Earth & Space – Multiple Choice Which of the following stellar spectral types is the coolest? W) K X) F Y) A Z) B,W) K
+bonus,,Multiple Choice,"5) Earth & Space – Multiple Choice Although the Bayer designation alpha usually denotes the brightest star in a constellation, in which of the following constellations is the beta star usually brighter than the alpha star? W) Orion X) Canis Major Y) Lyra [LYE-rah] Z) Taurus","W) ORION
+******************"
+toss-up,biology,Short Answer,"6) Biology – Short Answer What structure in plants causes them to be turgid, rather than to lyse when immersed in a hypotonic solution?",CELL WALL (ACCEPT: SECONDARY CELL WALL)
+bonus,biology,Multiple Choice,6) Biology – Multiple Choice Which of the following ecosystems typically has the lowest net primary productivity per unit area? W) Estuary X) Boreal [BOAR-ee-ul] forest Y) Wetlands Z) Tundra,Z) TUNDRA
+toss-up,physics,Short Answer,"7) Physics – Short Answer In two minutes, you complete one lap around a circular running track with radius 70 meters. In meters per second, what was the magnitude of your average velocity for the lap?",0
+bonus,physics,Short Answer,"7) Physics – Short Answer A section of a circuit consists of a three micro-farad capacitor followed in series by a parallel combination of two capacitors of two and four micro-farads, respectively. What is the equivalent capacitance, in micro-farads, for these three capacitors?","2
+******************"
+toss-up,,Multiple Choice,8) Earth & Space – Multiple Choice Which of the following is an example of a foliated metamorphic rock? W) Marble X) Quartzite Y) Hornfels Z) Phyllite [FILL-lite],Z) PHYLLITE
+bonus,,Short Answer,"8) Earth & Space – Short Answer Foehn [fern] winds, such as the Chinook in the Great Plains, are a consequence of what orographic feature?",MOUNTAINS (ACCEPT: MOUNTAIN RANGES)
+toss-up,energy,Short Answer,"9) Energy – Short Answer The Department of Energy is supporting research on identifying new drugs to treat strep throat, which is a disease caused by what genus of bacteria?",STREPTOCOCCUS (DO NOT ACCEPT: STREPTOCOCCI)
+bonus,energy,Multiple Choice,9) Energy – Multiple Choice Researchers using Los Alamos National Lab facilities have found higher- than-expected nucleosynthesis yields for nuclei with masses between 60 and 90 atomic mass units. Which of the following elements do they predict having higher yields? W) Scandium [SCAN-dee-um] X) Arsenic Y) Molybdenum [muh-LIB-den-um] Z) Tin,"X) ARSENIC
+******************"
+toss-up,chemistry,Short Answer,10) Chemistry – Short Answer What unit was traditionally defined as the amount of heat required to raise the temperature of one gram of water by one degree Celsius?,"CALORIE (ACCEPT: SMALL CALORIE, GRAM CALORIE)"
+bonus,chemistry,Multiple Choice,10) Chemistry – Multiple Choice Which of the following sulfate salts is the most soluble in water? W) Strontium sulfate X) Zinc sulfate Y) Lead(II) [two] sulfate Z) Mercury(I) sulfate,X) ZINC SULFATE
+toss-up,biology,Short Answer,11) Biology – Short Answer What specialized plant microbodies convert fats into carbohydrates?,GLYOXYSOMES [glye-OX-ih-sowms]
+bonus,biology,Short Answer,11) Biology – Short Answer What type of cellular junction typically involves intermediate filaments in a cell’s cytoskeleton that are attached to neighboring cells via cadherin [cad-HEAR-in] proteins?,"DESMOSOME
+******************"
+toss-up,math,Short Answer,"12) Math – Short Answer What is the determinant of the 2-by-2 matrix with first row –4, –5 and second row –8, 2?",–48
+bonus,math,Short Answer,"12) Math – Short Answer The terminal side of an angle in standard position passes through the point (–5, –12). Find the sine and tangent, respectively, of the angle.","SINE = –12/13, TANGENT = 12/5 (ACCEPT 2 2/5, 2.4)"
+toss-up,,Short Answer,13) Earth & Space – Short Answer Volcanos on Venus are predominantly what type?,SHIELD
+bonus,energy,Short Answer,13) Earth & Space – Short Answer What is the term for a region of interstellar atomic hydrogen that is ionized due to energy from a nearby hot star?,"H-TWO REGION
+******************"
+toss-up,biology,Short Answer,14) Biology – Short Answer Transpiration in plants primarily results from the loss of water from what epidermal structures?,STOMATA (ACCEPT: STOMA)
+bonus,biology,Short Answer,14) Biology – Short Answer Identify all of the following three structures that are lymphoid organs: 1) Spleen; 2) Thymus; 3) Tonsil.,ALL
+toss-up,physics,Short Answer,15) Physics – Short Answer Hans Oersted [OR-sted] demonstrated that an electric current is capable of deflecting a compass needle. This is because the current produces what type of field?,MAGNETIC (ACCEPT: B FIELD)
+bonus,physics,Multiple Choice,15) Physics – Multiple Choice Which of the following uniform solids will accelerate most quickly as it rolls down a ramp of fixed incline? W) Hollow cylinder X) Solid cylinder Y) Hollow sphere Z) Solid sphere,"Z) SOLID SPHERE
+******************"
+toss-up,chemistry,Multiple Choice,16) Chemistry – Multiple Choice Which of the following molecules has a carboxyl group? W) Butyrate [BYOO-tur-ate] X) 2-cyanohexane [2-sigh-ano-HEX-ane] Y) Toluene [TALL – you – een] Z) Nitro-phenol [nitro-FEN-al],W) BUTYRATE
+bonus,chemistry,Short Answer,16) Chemistry – Short Answer What is the systematic IUPAC name for toluene?,METHYLBENZENE
+toss-up,math,Short Answer,17) Math – Short Answer An arithmetic sequence has fourth term 15 and eighth term 39. What is the positive difference between consecutive terms for the sequence?,6
+bonus,math,Short Answer,"17) Math – Short Answer What are the radius and the coordinates of the center, respectively, of the circle with equation x2 – 8x + y2 + 18y + 66 = 0?","RADIUS = √31 AND CENTER = (4, –9) (ACCEPT: x = 4 AND y = –9 for center)
+******************"
+toss-up,energy,Short Answer,18) Energy – Short Answer Scientists at SLAC [slack] National Accelerator Lab are studying the infection mechanisms of the virus that causes chickenpox and shingles. What is the species of this virus?,"VARICELLA ZOSTER VIRUS (ACCEPT: HUMAN ALPHAHERPESVIRUS 3, VZV,
+HHV3)"
+bonus,energy,Multiple Choice,"18) Energy – Multiple Choice Researchers at SLAC [slack] National Accelerator Lab are studying what happens when a material is suddenly demagnetized. If a metallic wire were wrapped around the material being demagnetized, what would occur in the wire? W) Any current would be strongly suppressed X) Alternating current would be rectified to direct current Y) The wire would show increased resistance Z) A direct current would be induced in the wire",Z) A DIRECT CURRENT WOULD BE INDUCED IN THE WIRE
+toss-up,,Short Answer,19) Earth & Space – Short Answer The boundary between the Pacific plate and the Nazca [NAZ-kah] plate is best characterized as what general type of plate boundary?,DIVERGENT
+bonus,,Short Answer,19) Earth & Space – Short Answer Identify all of the following three ocean basins that are actively undergoing seafloor spreading: 1) Atlantic; 2) Pacific; 3) Indian.,"ALL
+******************"
+toss-up,physics,Multiple Choice,"20) Physics – Multiple Choice Which of the following factors, if increased, would increase the period of oscillation of a simple pendulum? W) Amplitude of oscillation X) Mass of the pendulum Y) Length of the pendulum Z) Gravitational force",Y) LENGTH OF THE PENDULUM
+bonus,physics,Short Answer,"20) Physics – Short Answer A particle undergoes a net force F of t = 3t2, where t represents time. In SI base units, what is the change in momentum this particle undergoes from t = 0 to t = 2?",8 (ACCEPT: 8 KILOGRAM-METERS PER SECOND)
+toss-up,chemistry,Short Answer,"21) Chemistry – Short Answer In degrees, what is the bond angle between the two chlorides in the iodine dichloride anion?",180
+bonus,chemistry,Short Answer,"21) Chemistry – Short Answer Identify all of the following three compounds that are molecular solids: 1) Silicon carbide; 2) 2,2-di-methyl-do-de-cane; 3) Ammonium polyphosphate.","2 ONLY
+******************"
+toss-up,math,Short Answer,"22) Math – Short Answer If a universal set contains 42 elements, how many elements are in the complement of a set with 19 elements?",23
+bonus,math,Short Answer,"22) Math – Short Answer What is the smallest positive integer that is congruent to 4 mod 5, and congruent to 6 mod 7?",34
+toss-up,biology,Short Answer,23) Biology – Short Answer During what phase of meiosis [my-OH-sis] do sister chromatids separate?,"ANAPHASE II (DO NOT ACCEPT: ANAPHASE, ANAPHASE I)"
+bonus,biology,Short Answer,"23) Biology – Short Answer In prokaryotic [PRO-care-ee-AW-tic] DNA replication, what proteins are responsible for stabilizing the separated strands and preventing them from annealing?","SINGLE-STRAND BINDING PROTEINS (ACCEPT: SINGLE-STRAND DNA-BINDING
+PROTEINS, SSB, SSBPs)"

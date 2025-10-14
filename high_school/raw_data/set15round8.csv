@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,chemistry,Short Answer,1) Chemistry – Short Answer What state of matter has a definite volume but not a definite shape?,LIQUID
+bonus,chemistry,Short Answer,1) Chemistry – Short Answer What is the minimum number of carbon atoms a ketone can possess?,"THREE
+******************"
+toss-up,physics,Short Answer,2) Physics – Short Answer What is the ratio of the kinetic energy of a 5-kilogram mass moving at four meters per second to that of a 2-kilogram mass moving at two meters per second?,10 (ACCEPT: 10 TO 1)
+bonus,physics,Short Answer,"2) Physics – Short Answer Nick is sitting in a car that has a tennis ball hanging from a string attached to the ceiling. As the car accelerates forward at two meters per second squared, he observes the ball appear to be pulled toward the back of the car. Relative to the horizontal, what is the absolute value of the tangent of the angle the string makes to the ceiling?","4.9 (ACCEPT: 49/10, 4 9/10)"
+toss-up,energy,Multiple Choice,"3) Energy – Multiple Choice Researchers at Brookhaven National Lab are studying electron-hole pairing in the superconducting material lanthanum [LAN-tha-num] barium copper oxide, or LBCO. Which of the following is the characteristic of LBCO they are studying? W) It heats up substantially when an external magnetic field is shut off X) Its conductance increases rapidly below 40 kelvins Y) It develops a strong spontaneous electric polarization in response to mechanical stress Z) It undergoes strong resonance oscillation in response to an oscillating electric field",X) ITS CONDUCTANCE INCREASES RAPIDLY BELOW 40 KELVINS
+bonus,energy,Short Answer,"3) Energy – Short Answer Ames Lab researchers are making measurements of superconductors at temperatures of 50 milli-kelvins. To two significant figures, standard temperature is how many times hotter than 50 milli-kelvins?","5500
+******************"
+toss-up,biology,Multiple Choice,"4) Biology – Multiple Choice In humans, the cerebellum is primarily responsible for which of the following functions? W) Memory X) Balance Y) Breathing Z) Vision",X) BALANCE
+bonus,biology,Short Answer,"4) Biology – Short Answer Order the following three types of mature, mammalian blood vessels in increasing mean blood velocity in the systemic circulation: 1) Veins; 2) Capillaries; 3) Arteries.","2, 1, 3"
+toss-up,math,Short Answer,5) Math – Short Answer What is the greatest common factor of 60 and 285?,15
+bonus,math,Short Answer,"5) Math – Short Answer Each day, Bella eats 20% of the jellybeans left in a jar. At the end of the second day, there are 112 jellybeans left in the jar. How many jellybeans were in the jar originally?","175
+******************"
+toss-up,,Short Answer,6) Earth & Space – Short Answer What type of cataclysmic [katah-KLIZ-mik] event created the Crab Nebula?,SUPERNOVA (ACCEPT: TYPE TWO SUPERNOVA)
+bonus,,Short Answer,"6) Earth & Space – Short Answer Two stars in a circular binary system have masses of 1 and 3 solar masses, respectively. If the distance from the lighter star’s center of mass to the center of mass of the system is 2 AU, then, in AU, what is the distance between the stars’ centers of mass?",8/3 (ACCEPT: 2 2/3)
+toss-up,chemistry,Short Answer,7) Chemistry – Short Answer Consider a 12-gram sample of carbon-12. What is the name for the constant one obtains by dividing the mass of this sample by the atomic mass of carbon-12?,AVOGADRO’S NUMBER (ACCEPT: AVOGADRO CONSTANT)
+bonus,chemistry,Multiple Choice,7) Chemistry – Multiple Choice Which of the following would be the best indicator for the titration [tie-TRAY-shun] of ammonia with hydrochloric acid? W) Bromothymol [BROH-mo-THIGH-mawl] blue X) Phenophthalein [fee-nawlf-THAY-leen] Y) Methyl red Z) Methyl violet,"Y) METHYL RED
+******************"
+toss-up,physics,Short Answer,8) Physics – Short Answer What physical quantity describes the rate of change of angular momentum around a center of mass?,TORQUE
+bonus,physics,Short Answer,"8) Physics – Short Answer Consider a bullet with mass one gram and speed one kilometer per second that is stopped in 0.1 milliseconds upon collision with an object. In newtons, what is the average stopping force on the bullet during this interval?","10,000"
+toss-up,energy,Multiple Choice,9) Energy – Multiple Choice Scientists at Argonne National Lab are studying how Lepidopterans [leh-pid-OP-tur-anz] drink liquids. Which of the following types of animals are part of Lepidoptera? W) Beetles X) Butterflies Y) Spiders Z) Fruit flies,X) BUTTERFLIES
+bonus,energy,Short Answer,"9) Energy – Short Answer Engineers at Pacific Northwest National Lab have developed a new technology to manufacture aluminum alloys. Their method increases the plastic deformability of the alloys under stress, increasing the amount of strain the alloys can withstand before they eventually break. What is this property of metals to deform under tensile stress called?","DUCTILITY
+******************"
+toss-up,math,Short Answer,10) Math – Short Answer What is the second derivative with respect to x of 7x2 – 3x + 15 evaluated at x = 4?,14
+bonus,math,Short Answer,10) Math – Short Answer What number must be ADDED to both the numerator and denominator of 6/7 to get 8/5?,–26/3 (ACCEPT: –8 2/3)
+toss-up,,Short Answer,"11) Earth & Space – Short Answer Following the breakup of Pangea [pan-JEE-ah], modern day Antarctica was part of what major landmass?",GONDWANA (ACCEPT: GONDWANALAND)
+bonus,,Short Answer,"11) Earth & Space – Short Answer In soil, what is the term for the upper surface of the zone of saturation?","WATER TABLE
+******************"
+toss-up,biology,Short Answer,12) Biology – Short Answer Alpha cells of the pancreas secrete what hormone in response to low blood glucose?,GLUCAGON
+bonus,biology,Short Answer,"12) Biology – Short Answer In glycolysis [glye-KAWL-eh-sis], what enzyme catalyzes the transformation of fructose-6-phosphate to fructose-1,6-bis-phosphate?",PFK (ACCEPT: PHOSPHOFRUCTOKINASE)
+toss-up,math,Short Answer,"13) Math – Short Answer What is the y-intercept of the line with slope 6 that contains the point (2, 5)?",–7
+bonus,math,Short Answer,13) Math – Short Answer What is the derivative at x = ½ of the function x3 times e to the power 2x?,"e
+******************"
+toss-up,physics,Short Answer,"14) Physics – Short Answer A child spins a ball on the end of a string in such a way that it traces out a circle with a diameter of 50 centimeters. In seconds, what is the period of rotation if the ball has a constant speed of one meter per second?","PI/2 (ACCEPT: 1/2 PI, 0.5 PI)"
+bonus,physics,Short Answer,"14) Physics – Short Answer There are two long, parallel wires each carrying the same current. If the current in each wire is doubled and the distance between the two wires is also doubled, by what factor will the attractive force between the wires be multiplied?",2
+toss-up,energy,Short Answer,15) Energy – Short Answer Savannah River National Lab scientists are tracking the activity of microbes by using electrical impedance in monitoring cultures. Impedance is an AC analog of what quantity?,RESISTANCE
+bonus,energy,Short Answer,"15) Energy – Short Answer Sandia National Lab researchers are engineering Metal–Organic Polyhedra, or MOPs [mops], for targeted drug delivery. One problem with MOPs is that they are typically small enough to pass through the barriers in the glomerulus [glo-MAIR-yoo-lus]. This means that they will be rapidly eliminated by what organ?","KIDNEY
+******************"
+toss-up,,Short Answer,"16) Earth & Space – Short Answer In the northern hemisphere, the sidereal [sigh-DEER-ee-ul] time of zero hours and zero minutes corresponds with what point on the celestial sphere?","VERNAL EQUINOX (ACCEPT: SPRING EQUINOX, MARCH EQUINOX,
+NORTHWARD EQUINOX)"
+bonus,,Multiple Choice,"16) Earth & Space – Multiple Choice The precise value of the Hubble constant continues to inspire debate. Which of the following ranges, in kilometers per second per megaparsec, is closest to the modern estimate of the Hubble constant? W) 50 to 100 X) 101 to 150 Y) 151 to 200 Z) 201 to 250",W) 50 TO 100
+toss-up,chemistry,Multiple Choice,17) Chemistry – Multiple Choice Which of the following functional groups has the weakest carbon- oxygen bond? W) Alcohol X) Aldehyde [AL-deh-hide] Y) Ketone Z) Carboxylic [CAR-box-ILL-ik] acid,W) ALCOHOL
+bonus,chemistry,Short Answer,"17) Chemistry – Short Answer If it is 31 degrees Celsius outside, then, in degrees Fahrenheit, what is the temperature outside?","87.8 (DO NOT ACCEPT: 88)
+******************"
+toss-up,biology,Short Answer,18) Biology – Short Answer Polyps and medusae [meh-DOO-see] represent the alternating life cycle forms found in what phylum [FYE-lum] of animals?,CNIDARIA [nye-DARE-ee-ah] (ACCEPT: CNIDARIANS)
+bonus,biology,Short Answer,18) Biology – Short Answer Identify all of the following three actions that are characteristic of the parasympathetic nervous system: 1) Increasing heart rate; 2) Stimulated digestive activity; 3) Pupillary constriction.,"2, 3"
+toss-up,math,Short Answer,19) Math – Short Answer Simplify the product of 12x2 divided by 5y and 10y divided by 4x.,6x
+bonus,math,Short Answer,"19) Math – Short Answer Two complex numbers have absolute values of 5√2 and 3√3, and angles of 257 degrees and 136 degrees, respectively. What are the absolute value and the angle degree measure of their product?","ABSOLUTE VALUE = 15√6; ANGLE = 33 (DO NOT ACCEPT: 393)
+******************"
+toss-up,physics,Short Answer,20) Physics – Short Answer The derivative of momentum with respect to time will yield what physical quantity?,FORCE
+bonus,physics,Short Answer,"20) Physics – Short Answer You measure the root-mean-square voltage of a sinusoidal AC power source as 100 volts. In volts with two significant figures, what is the potential difference between a peak and a trough of the wave?",280
+toss-up,,Multiple Choice,21) Earth & Space – Multiple Choice Which of the following rock types has the highest melting temperature? W) Granite X) Diorite Y) Peridotite [peh-RID-oh-tite] Z) Gabbro,Y) PERIDOTITE
+bonus,,Short Answer,21) Earth & Space – Short Answer The Moho separates what two compositional layers of the Earth?,"CRUST AND MANTLE
+******************"
+toss-up,biology,Multiple Choice,22) Biology – Multiple Choice Monocytes in the blood are precursors to which of the following cell types found in tissues? W) Fibroblasts X) Erythrocytes [eh-RITH-roh-sites] Y) Macrophages Z) Endothelial cells,Y) MACROPHAGES
+bonus,biology,Short Answer,22) Biology – Short Answer Identify all of the following three processes that virulent phages can undergo: 1) Lytic [LIH-tik] cycle; 2) Lysogenic cycle; 3) Formation of a prophage [pro-fayj].,1
+toss-up,chemistry,Short Answer,23) Chemistry – Short Answer What type of bond typically forms between two atoms that have similar or equal electronegativity values?,"COVALENT (DO NOT ACCEPT: NONPOLAR, NONPOLAR COVALENT)"
+bonus,chemistry,Short Answer,23) Chemistry – Short Answer Identify all of the following three metals that have a green flame test: 1) Potassium; 2) Strontium; 3) Barium.,3

@@ -1,0 +1,72 @@
+type,subject,format,question,answer
+toss-up,physics,Short Answer,"1) Physics – Short Answer Nick applies a constant force of 2.5i + 3j newtons to push a pencil at work, displacing it by 4i + 5j meters. In joules, how much work did he do?",25
+bonus,physics,Short Answer,"1) Physics – Short Answer Identify all of the following three statements that are true about moments of inertia: 1) Axes of rotation that pass through the center-of-mass minimize the moment of inertia; 2) For planar objects, the perpendicular moment is dependent only on the in-plane moments; 3) The moment of inertia increases as mass becomes more radially spread out.","ALL OF THEM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"2) Earth and Space – Multiple Choice In geologic mapping, what term describes the angle between a rock layer and a horizontal plane? W) Strike X) Dip Y) Rake Z) Trail",X) DIP
+bonus,,Short Answer,2) Earth and Space – Short Answer Order the following three tectonic plates in order of increasing size: 1) African; 2) Eurasian; 3) Juan de Fuca [WAHN-de-FOO-ka].,"3, 1, 2
+2019 Regional Science Bowl – Round 12A Page 1"
+toss-up,energy,Short Answer,3) Energy – Short Answer Physicists at Oak Ridge National Lab have developed a spectroscopic [spek-troh-SCAW-pik] thermometer for nanomaterials and have mapped the temperature of a boron nitride [NYE-tride] nanocrystal to nanometer resolution. What hybridization shared by boron and nitrogen atoms in boron nitride gives it its unique hexagonal [hex-AG-uh-nul] shape?,SP2
+bonus,energy,Short Answer,"3) Energy – Short Answer Researchers at Fermi National Accelerator Lab were among the first to verify some of the experimental predictions of quantum chromodynamics, or QCD. Identify all of the following three particles that interact in a manner that is described by QCD: 1) Up quark; 2) W minus boson; 3) Photon.","1 (ACCEPT: UP QUARK)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,4) Chemistry – Short Answer Rank the following three bonds in terms of increasing polarity: 1) F-H; 2) N-H; 3) P-H.,"3, 2, 1"
+bonus,chemistry,Short Answer,4) Chemistry – Short Answer How many sigma bonds are formed in a Diels [DEALS]-Alder reaction?,"2
+2019 Regional Science Bowl – Round 12A Page 2"
+toss-up,math,Short Answer,"5) Math – Short Answer Counting itself, what is the third-largest integer factor of 700?",175
+bonus,math,Short Answer,5) Math – Short Answer What is the volume of a triangular right prism with each edge of length 12?,"432√3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,"6) Biology – Short Answer A common injury seen in soccer or football is a tear to the anterior cruciate ligament, also known as the ACL. What joint does this injury most directly affect?",KNEE
+bonus,biology,Short Answer,"6) Biology – Short Answer A mole of glucose, with a standard enthalpy of formation of negative 690 kilocalories per mole, can be harvested to generate 30 moles of ATP from ADP. To one significant figure, what is the percent efficiency of this energetic transformation?","30
+2019 Regional Science Bowl – Round 12A Page 3"
+toss-up,,Short Answer,7) Earth and Space – Short Answer The Orion Nebula is an example of what type of nebula?,"EMISSION (ACCEPT: REFLECTION, EMISSION-REFLECTION)"
+bonus,,Multiple Choice,7) Earth and Space – Multiple Choice Which of the following best describes why an active galaxy could become a normal galaxy? W) It stops rotating X) Star-formation ceases in the central bulge Y) The supermassive black hole runs out of fuel Z) It collides with another galaxy,"Y) THE SUPERMASSIVE BLACK HOLE RUNS OUT OF FUEL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"8) Energy – Multiple Choice Pacific Northwest National Lab scientists are depolymerizing lignin. In order to prevent the newly-cleaved lignin monomers from repolymerizing, they scavenge them with what type of molecule? W) Amine X) Alcohol Y) Alkane Z) Alkyne [AL-kine]",X) ALCOHOL
+bonus,energy,Short Answer,"8) Energy – Short Answer Scientists at the National Renewable Energy Lab are studying low- cost, highly absorptive solar cells that are made from thin films of compounds like methylammonium [meth-il-ammonium] lead trihalides [try-HAY-lieds], a member of a group of materials having crystal structures resembling CaTiO . What is this group of materials called? 3","PEROVSKITES
+2019 Regional Science Bowl – Round 12A Page 4"
+toss-up,physics,Multiple Choice,"9) Physics – Multiple Choice When radium-226 decays into radon-222, it emits an alpha particle as well as a gamma ray. Which of the following best describes this nuclear decay process? W) A unique type of double alpha-gamma decay X) The first alpha decay leaves the radon nucleus in an excited state Y) Alpha emissions are always accompanied by gamma emissions Z) The alpha particle undergoes beta decay, emitting a photon","X) THE FIRST ALPHA DECAY LEAVES THE RADON NUCLEUS IN AN
+EXCITED STATE"
+bonus,physics,Short Answer,"9) Physics – Short Answer A 5-kilogram mass is attached to a spring, and its motion is described by the function x of t equals cosine of 1.5t, where t is expressed in seconds. In newtons per meter, what is the spring constant of the spring?","11.25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,10) Math – Multiple Choice A square can be cut into two congruent parts by how many different coplanar lines? W) 2 X) 4 Y) 8 Z) An infinite number,Z) AN INFINITE NUMBER
+bonus,math,Short Answer,"10) Math – Short Answer To the nearest degree, what is the measure of each interior angle of a regular 17-sided polygon?","159
+2019 Regional Science Bowl – Round 12A Page 5"
+toss-up,chemistry,Short Answer,11) Chemistry – Short Answer What is the oxidation state of nickel in nickel tetracarbonyl [tetra-carbon-EEL]?,0
+bonus,chemistry,Short Answer,11) Chemistry – Short Answer Suppose that excess ammonia is added to an aqueous solution of cobalt (III) chloride. Identify all of the following three statements that are TRUE: 1) The solution would become more blue; 2) Covalent bonds are formed; 3) An insoluble precipitate would form.,"2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Short Answer,"12) Biology – Short Answer In coelomates [SEEL-oh-mates], the body cavity is lined with tissue from what germ layer?",MESODERM
+bonus,biology,Multiple Choice,12) Biology – Multiple Choice Which of the following molecules is a DNA-intercalating agent? W) Ethidium bromide X) Cyanogen bromide Y) Polyuridine Z) Methyl cyanide,"W) ETHIDIUM BROMIDE
+2019 Regional Science Bowl – Round 12A Page 6"
+toss-up,physics,Multiple Choice,"13) Physics – Multiple Choice The proportionality [proportion-AL-ih-tee] constant in the ideal gas equation turns out to be almost equal for all real gases in which of the following conditions? W) High temperature, high pressure X) High temperature, low pressure Y) Low temperature, high pressure Z) Low temperature, low pressure","X) HIGH TEMPERATURE, LOW PRESSURE"
+bonus,physics,Short Answer,"13) Physics – Short Answer Consider a yo-yo that is made by winding a string around a uniform disc of radius 1 centimeter. If the disc is allowed to fall vertically and unroll the string without slipping, then in terms of the acceleration g due to gravity, what is the acceleration of the yo-yo?","2g/3 (ACCEPT: 2/3 g)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Multiple Choice,14) Chemistry – Multiple Choice Which of the following best describes the orbital interactions when a cyanide ion performs nucleophilic addition into an aldehyde group? W) The HOMO of cyanide overlaps with the LUMO of the aldehyde on the carbon side X) The HOMO of cyanide overlaps with the LUMO of the aldehyde on the oxygen side Y) The LUMO of cyanide overlaps with the HOMO of the aldehyde on the carbon side Z) The LUMO of the cyanide overlaps with the HOMO of the aldehyde on the oxygen side,"W) THE HOMO OF CYANIDE OVERLAPS WITH THE LUMO OF THE
+ALDEHYDE ON THE CARBON SIDE"
+bonus,chemistry,Multiple Choice,14) Chemistry – Multiple Choice A galvanic [gal-VAN-ik] cell has a copper anode and a silver cathode. Which of the following would decrease the voltage across the two electrodes? W) Increasing the concentration of Cu2+ ions near the anode X) Increasing the concentration of Ag+ ions near the cathode Y) Increasing the area of the copper electrode Z) Increasing the electrolyte pH,"W) INCREASING THE CONCENTRATION OF Cu2+ IONS NEAR THE ANODE
+2019 Regional Science Bowl – Round 12A Page 7"
+toss-up,energy,Short Answer,"15) Energy – Short Answer Scientists at Lawrence Berkeley National Lab are studying elements in eukaryotic DNA that bind to transcription factors, but are often thousands of base pairs away from the gene they control. What is the term for these elements?",ENHANCERS
+bonus,energy,Short Answer,15) Energy – Short Answer Scientists at Princeton Plasma Physics Lab are growing nanotubes made of what element as potential transistor components?,"CARBON
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"16) Math – Short Answer What is the y-intercept of the line with slope 4 that contains the point (3, –1)?","–13 (ACCEPT: (0, –13))"
+bonus,math,Short Answer,16) Math – Short Answer Consider an infinite geometric series with sum equal to 11/3 and first term 6/5. What is the value of the common ratio r for this series?,"37/55
+2019 Regional Science Bowl – Round 12A Page 8"
+toss-up,,Multiple Choice,17) Earth and Space – Multiple Choice Which of the following is the most likely next event in the evolution of Betelgeuse [BAY-tel-jews]? W) Type one-A supernova X) Type two supernova Y) Classical nova Z) Formation of a planetary nebula,X) TYPE TWO SUPERNOVA
+bonus,,Multiple Choice,"17) Earth and Space – Multiple Choice A comet has made its closest approach to the Sun, and is now one-quarter of the way through its next complete orbit. Which of the following best describes the orientations of the comet’s gas and dust tails with respect to the comet’s orbital direction? W) Both tails lead the comet X) The gas tail leads the comet and the dust tail trails the comet Y) The dust tail leads the comet and the gas tail trails the comet Z) Both tails trail the comet","W) BOTH TAILS LEAD THE COMET
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,biology,Multiple Choice,18) Biology – Multiple Choice Which of the following human diseases is associated with flaviviruses? W) Severe acute respiratory syndrome X) Shingles Y) Yellow fever Z) Mumps,Y) YELLOW FEVER
+bonus,biology,Short Answer,18) Biology – Short Answer Identify all of the following three statements that are true of lysosomal enzymes: 1) Many lysosomal enzymes pass through the rough ER; 2) Lysosomal enzymes are most active at basic pH values; 3) Lysosomal enzyme processing occurs in the Golgi apparatus.,"1, 3
+2019 Regional Science Bowl – Round 12A Page 9"
+toss-up,math,Short Answer,"19) Math – Short Answer A pentagon is dilated with scale factor 5/4. Giving your answer as a fraction, what is the ratio of the area of the original pentagon to that of the image?",16/25
+bonus,math,Short Answer,19) Math – Short Answer Consider the graph given by the parametric equations x = t 2 – 2t and y = t + 1. At what values of y will x equal 8?,"–1 AND 5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"20) Earth and Space – Short Answer A near-surface earthquake occurred in a remote part of the world. Assuming there are no significant geographic barriers or changes in regional geology, if the arrival times of seismic energy are recorded by two seismometers at different locations, what is the maximum number of possible epicenter locations that can be deduced from these arrival times?",2
+bonus,,Short Answer,20) Earth and Space – Short Answer Identify all of the following three plate boundary types that are present at mid-ocean ridges: 1) Convergent; 2) Divergent; 3) Transform.,"2, 3
+2019 Regional Science Bowl – Round 12A Page 10"
+toss-up,chemistry,Short Answer,21) Chemistry – Short Answer Identify all of the following three compounds that contain both covalent and ionic bonds: 1) Sodium nitrate; 2) Hydrogen peroxide; 3) Lithium chloride.,1
+bonus,chemistry,Short Answer,"21) Chemistry – Short Answer What is the average kinetic energy, to the nearest tenth of a kilojoule per mole, of argon at 300 kelvins?","3.7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,physics,Short Answer,"22) Physics – Short Answer In 1932, Carl Anderson noticed a set of tracks in his cloud chamber that were similar to those created by electrons, but curving the other way. These particles are now called what?",POSITRONS (ACCEPT: ANTI-ELECTRONS)
+bonus,physics,Short Answer,"22) Physics – Short Answer A 2i + 3j force acts at a position –i – 4j relative to a point P. In vector form, what is the torque [tork] at point P?","5k
+2019 Regional Science Bowl – Round 12A Page 11"
+toss-up,biology,Short Answer,"23) Biology – Short Answer C4 photosynthesis is thought to be an adaptation that bypasses what pathway, by which RuBisCO [roo-BIS-koh] oxidizes RuBP [R-U-B-P] rather than carboxylating it?",PHOTORESPIRATION
+bonus,biology,Short Answer,"23) Biology – Short Answer Starting from the glomerulus [glo-MAIR-yoo-lus], order the following four structures in the sequence that a filtrate would pass through them: 1) Loop of Henle [HEN-lee]; 2) Bowman’s capsule; 3) Collecting duct; 4) Proximal convoluted tubule.","2, 4, 1, 3
+2019 Regional Science Bowl – Round 12A Page 12"

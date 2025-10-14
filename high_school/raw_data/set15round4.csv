@@ -1,0 +1,60 @@
+type,subject,format,question,answer
+toss-up,energy,Multiple Choice,1) Energy – Multiple Choice Scientists at Pacific Northwest National Lab are exploring gene therapy to improve drug delivery while minimizing toxic side effects. Which of the following is LEAST likely to be effectively treated with gene therapy? W) Tuberculosis X) Cystic fibrosis Y) Sickle cell anemia Z) Hemophilia A,W) TUBERCULOSIS
+bonus,energy,Multiple Choice,1) Energy – Multiple Choice Scientists at the Joint Genome Institute are studying the basidiomycete [bah-sid-ee-oh-MY-seet] that causes dry rot. To which of the following organisms is it most related? W) Aspergillus [ASS-pur-JIL-us] X) Saccharomyces [SACK-uh-ro-MY-sees] Y) Amanita [am-ah-NEE-tah] Z) Candida [kan-DEE-dah],"Y) AMANITA
+******************"
+toss-up,,Multiple Choice,2) Earth & Space – Multiple Choice Lake-effect snow in the Great Lakes region is usually caused by the movement of which of the following air masses across the water? W) Continental Polar X) Continental Tropical Y) Maritime Polar Z) Maritime Tropical,W) CONTINENTAL POLAR
+bonus,,Short Answer,"2) Earth & Space – Short Answer What is the smallest angle, in degrees, between the strike and dip direction of a rock layer?",90
+toss-up,math,Short Answer,"3) Math – Short Answer As x approaches 2, the limit of f of x is 8, the limit of g of x is 4, and the limit of h of x is 5. What is the limit as x approaches 2 of the function f minus g times h?",–12
+bonus,math,Short Answer,3) Math – Short Answer Simplify the following expression involving the complex number i: 3i + 5i2 + 7i3 + 9i4,"4 – 4i
+******************"
+toss-up,biology,Short Answer,4) Biology – Short Answer Carbonic anhydrase is an important enzyme in the blood for converting carbonic acid into carbon dioxide and what other compound?,"WATER (ACCEPT: H O)
+2"
+bonus,biology,Short Answer,4) Biology – Short Answer Identify all of the following three forms of symbiosis in which at least one species in the interaction benefits: 1) Parasitism [PARA-sit-izm]; 2) Commensalism; 3) Mutualism.,ALL
+toss-up,chemistry,Multiple Choice,5) Chemistry – Multiple Choice Which of the following sets of elements are commonly referred to as d block elements? W) Actinides and lanthanides [LAN-tha-nides] X) Transition metals Y) Alkaline metals Z) Nonmetals,X) TRANSITION METALS
+bonus,chemistry,Short Answer,5) Chemistry – Short Answer Identify all of the following three changes that would necessarily increase the rate of a one-step reaction occurring between two solutes reacting in an aqueous solution: 1) Increasing the temperature; 2) Increasing the concentration of the reactants; 3) Increasing the amount of solvent in the system.,"1, 2
+******************"
+toss-up,physics,Short Answer,"6) Physics – Short Answer Rishi tosses a 100-gram ball upward with an initial speed of 12 meters per second. In joules, what is its initial kinetic energy?","7.2 (ACCEPT: 7 1/5, 36/5)"
+bonus,physics,Short Answer,"6) Physics – Short Answer In meters, what is the wavelength of a 100-mega-hertz radio wave traveling through a vacuum?",3
+toss-up,energy,Multiple Choice,7) Energy – Multiple Choice Scientists at Lawrence Livermore National Lab are exploring how to 3D- print mechanical logic gates. What logic gate has the following behavior: zero and zero become one; zero and one become one; one and zero become one; one and one become zero. W) AND X) OR Y) NAND [nand] Z) XOR [ex-or],Y) NAND
+bonus,energy,Multiple Choice,7) Energy – Multiple Choice Scientists at Lawrence Berkeley National Lab are developing nanomaterials that bind to lectins. Which of the following is an example of a lectin? W) Neuraminidase [NOOR-ah-MIN-ih-dase] X) Ricin Y) Atropine [AT-tro-peen] Z) Substance P,"X) RICIN
+******************"
+toss-up,,Short Answer,8) Earth & Space – Short Answer What is the escape velocity at the event horizon of a Schwarzchild black hole?,SPEED OF LIGHT (ACCEPT: c)
+bonus,,Short Answer,8) Earth & Space – Short Answer Sulfuric acid in Venus's atmosphere is formed by the combination of sulfur trioxide and what other molecule?,"WATER (ACCEPT: WATER VAPOR, H O, Gaseous H O)
+2 2"
+toss-up,chemistry,Short Answer,9) Chemistry – Short Answer What quantum number of an electron in an atom indicates the energy of the atomic orbital?,PRINCIPAL (ACCEPT: n)
+bonus,chemistry,Short Answer,"9) Chemistry – Short Answer Consider the balanced chemical equation describing the reaction between sodium hydroxide and calcium bromide. Assuming smallest integer coefficients, what is the sum of the coefficients in this reaction?","6
+******************"
+toss-up,biology,Short Answer,10) Biology – Short Answer To what taxonomic class do snails and slugs belong?,GASTROPODA (ACCEPT: GASTROPODS)
+bonus,biology,Short Answer,10) Biology – Short Answer Identify all of the following three traits that scientists believe H. erectus possessed: 1) Lived in social groups; 2) Used tools; 3) Walked upright.,ALL
+toss-up,math,Short Answer,"11) Math – Short Answer A college class contains 15 freshmen, 25 sophomores, and 12 juniors. One of the students receives a phone call during the middle of the class. What is the probability that the ringing phone belongs to a junior?",3/13
+bonus,math,Short Answer,11) Math – Short Answer Find the equations of all vertical and all horizontal asymptotes for the graph of y equals the fraction with numerator 12x2 – 5x + 4 and denominator 9x2 – 16.,"x = 4/3, x = –4/3, y = 4/3 (ACCEPT: x = ±4/3, y = 4/3)
+******************"
+toss-up,physics,Short Answer,"12) Physics – Short Answer For an observer in a non-inertial rotating reference frame, two fictitious forces must be added in order to treat motion in this reference frame as if it is an inertial system. What fictitious force in a rotating reference frame accounts for the tendency of objects to travel away from the axis of rotation?",CENTRIFUGAL (DO NOT ACCEPT: CENTRIPETAL)
+bonus,physics,Short Answer,"12) Physics – Short Answer You press down with a 20-newton force on top of a 5-kilogram box that is resting on a table. In newtons, what is the normal force that the table is exerting upon the box?",69
+toss-up,energy,Multiple Choice,"13) Energy – Multiple Choice Scientists at Lawrence Berkeley National Lab are studying SARS, which is a disease caused by which of the following types of pathogens? W) A virus X) A bacterium Y) A protist Z) A fungus",W) A VIRUS
+bonus,energy,Short Answer,13) Energy – Short Answer Researchers at Oak Ridge National Lab are developing methods to reduce quantum noise in physical measurements by squeezing all of the error into a conjugate variable. What principle does this strategy exploit?,"HEISENBERG UNCERTAINTY PRINCIPLE (ACCEPT: HEISENBERG PRINCIPLE)
+******************"
+toss-up,,Multiple Choice,"14) Earth & Space – Multiple Choice On average, which of the following countries’ lithospheres is the youngest? W) Iceland X) Greenland Y) Canada Z) Australia",W) ICELAND
+bonus,,Short Answer,14) Earth & Space – Short Answer Identify all of the following three radioisotopes that can be used to date materials that are older than 1 billion years: 1) Potassium-40; 2) Carbon-14; 3) Uranium-238.,"1, 3"
+toss-up,physics,Short Answer,"15) Physics – Short Answer Cedric subjects a block to forces of various magnitudes and measures the resulting acceleration. If he graphs the force on the y-axis and the resulting acceleration on the x-axis, what physical quantity of the block will correspond to the slope?",MASS
+bonus,physics,Short Answer,"15) Physics – Short Answer Vince is in a spaceship two light-minutes away from Kevin’s spaceship, and both of them are stationary. They wish to synchronize their clocks, so Vince’s ship emits a flash of light as he resets his clock to noon. Kevin, upon seeing this flash, sets his clock to 12:02 to account for the distance between the ships. When Vince sees his clock read 12:30, what time will he see on Kevin’s clock?","12:28
+******************"
+toss-up,biology,Short Answer,"16) Biology – Short Answer If a protein’s environment is sufficiently altered, it can change shape or unfold entirely. What is the term for this process?",DENATURATION
+bonus,biology,Short Answer,"16) Biology – Short Answer The scarlet kingsnake has very similar coloration to the coral snake, but is not venomous. What is the term for this type of mimicry [MIH-mik-kree]?",BATESIAN [BAIT-see-in]
+toss-up,math,Short Answer,"17) Math – Short Answer The least-squares regression line of a trade data set is y = 1.7x + 6.3, where x is the number of boxes shipped and y is the shipping time in minutes. According to this model, what is the fixed shipping time, in minutes expended, before any boxes are shipped?","6.3 (ACCEPT: 6 3/10, 63/10)"
+bonus,math,Short Answer,17) Math – Short Answer A right triangle has hypotenuse of length 63 and one leg of length 61. What is the length of the third side?,"2√62
+******************"
+toss-up,chemistry,Multiple Choice,"18) Chemistry – Multiple Choice Which of the following assumptions is not valid under the kinetic theory of gases? W) Gas molecules are dilute X) Molecules move randomly Y) Molecules move with the same speed at a given temperature Z) Outside of collisions, molecules do not exert forces on each other",Y) MOLECULES MOVE WITH THE SAME SPEED AT A GIVEN TEMPERATURE
+bonus,chemistry,Short Answer,"18) Chemistry – Short Answer According to Charles’ law, to what temperature, in degrees Celsius, should you bring a sample of gas, initially at negative 123 degrees Celsius, if you want to double its volume?",27
+toss-up,,Short Answer,"19) Earth & Space – Short Answer During the totality of a total solar eclipse, what is the only part of the Sun that is visible?",CORONA
+bonus,,Multiple Choice,"19) Earth & Space – Multiple Choice When the Sun evolves from its current state to a red giant, which of the following represents the general direction that it will move on an H-R diagram? W) Down and to the right X) Down and to the left Y) Up and to the left Z) Up and to the right","Z) UP AND TO THE RIGHT
+******************"
+toss-up,physics,Short Answer,"20) Physics – Short Answer If the distance between two bodies is tripled, by what number is the absolute gravitational potential energy between those two bodies multiplied?",1/3
+bonus,physics,Short Answer,"20) Physics – Short Answer Two satellites are in circular orbit about the Earth. If the ratio of their orbital speeds is two, then the radius of the faster satellite's orbit is how many times that of the slower one?",1/4 (ACCEPT: 0.25)
+toss-up,math,Short Answer,"21) Math – Short Answer What is the slope of the line that passes through the points (7, 2) and (4, 3)?",–1/3
+bonus,math,Short Answer,21) Math – Short Answer What is the area between the curves y = x4 and y = 3x2 + 4 between x = 0 and x = 2?,"48/5 (ACCEPT: 9 3/5, 9.6)
+******************"
+toss-up,chemistry,Short Answer,22) Chemistry – Short Answer How many covalent bonds can be found in ammonia?,THREE
+bonus,chemistry,Short Answer,22) Chemistry – Short Answer Identify all of the following three types of data that are quantitative data: 1) The odor of a sample; 2) The volume of a sample; 3) The shape of a sample.,2
+toss-up,biology,Short Answer,23) Biology – Short Answer What is the term for the tubular structures that comprise the bodies of multicellular fungi?,HYPHAE (ACCEPT: HYPHA)
+bonus,biology,Multiple Choice,23) Biology – Multiple Choice Prostaglandins [praw-stah-glan-dins] are best classified as which of the following macromolecules? W) Lipids X) Carbohydrates Y) Nucleic [new-CLAY-ik] acids Z) Proteins,W) LIPIDS

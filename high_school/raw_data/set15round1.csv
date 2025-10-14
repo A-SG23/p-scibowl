@@ -1,0 +1,61 @@
+type,subject,format,question,answer
+toss-up,chemistry,Short Answer,1) Chemistry – Short Answer What is the SI base unit for luminous intensity?,CANDELA
+bonus,chemistry,Short Answer,1) Chemistry – Short Answer What term best describes the relationship between buckminsterfullerene [buk-min-ster-FULL-uh-reen] and graphite?,"ALLOTROPES
+******************"
+toss-up,biology,Short Answer,"2) Biology – Short Answer While its expression can also be increased in certain cancers, human chorionic [kor-ee-AWN-ik] gonadotropin [go-nad-oh-TROH-pin] is most associated with what condition in women?",PREGNANCY (ACCEPT: GESTATION)
+bonus,biology,Short Answer,"2) Biology – Short Answer In the first step of glycolysis [glye-KAWL-eh-sis], what moiety [MOY-eh-tee] is added to glucose?","PHOSPHATE (ACCEPT: PO –)
+4"
+toss-up,physics,Short Answer,"3) Physics – Short Answer Unlike momentum, angular momentum is not simply the product of angular velocity and mass. What analogous quantity must the angular velocity of a body be multiplied with to give its angular momentum?",MOMENT OF INERTIA
+bonus,physics,Short Answer,3) Physics – Short Answer Identify all of the following four types of waves that are mainly transverse: 1) Plucked violin string; 2) Sound wave; 3) Earthquake P wave; 4) Earthquake S wave.,"1, 4
+******************"
+toss-up,energy,Short Answer,4) Energy – Short Answer Scientists at Idaho National Lab are studying cyanobacteria. These organisms perform photosynthesis in what flattened sacs?,THYLAKOIDS (DO NOT ACCEPT: GRANA)
+bonus,energy,Multiple Choice,4) Energy – Multiple Choice Lawrence Berkeley National Lab researchers are developing near-infrared lasers to study chemical reactions. Near-infrared light corresponds to which of the following wavelengths? W) 1 nanometer X) 1 micrometer Y) 1 millimeter Z) 1 meter,X) 1 MICROMETER
+toss-up,math,Short Answer,5) Math – Short Answer What is the height of a triangle with area 144 and base 36?,8
+bonus,math,Short Answer,5) Math – Short Answer What is the least common multiple of the first 6 positive composite numbers?,"360
+******************"
+toss-up,,Short Answer,6) Earth & Space – Short Answer Which layer of Earth's interior is the largest by volume?,MANTLE
+bonus,,Short Answer,6) Earth & Space – Short Answer Identify all of the following four locations where groundwater may discharge: 1) Spring; 2) Lake; 3) River; 4) Bay.,ALL
+toss-up,physics,Multiple Choice,7) Physics – Multiple Choice Which of the following statements is NOT TRUE of Kepler’s laws? W) The first law concerns the possible shapes of planetary orbits X) The second law states that planets move equal distances in equal times Y) The third law implies that the orbital period is equal to that of a planet moving in a circular orbit with radius equal to semi-major axis Z) The second law is a consequence of the conservation of angular momentum,"X) THE SECOND LAW STATES THAT PLANETS MOVE EQUAL DISTANCES IN
+EQUAL TIMES"
+bonus,physics,Multiple Choice,"7) Physics – Multiple Choice Light passes from a mineral with an index of refraction of 2.5 into air. Which of the following is closest to the smallest incident angle, in degrees, at which there will be total internal reflection? W) 5 X) 25 Y) 45 Z) 65","X) 25
+******************"
+toss-up,math,Multiple Choice,8) Math – Multiple Choice Which of the following numbers is not divisible by 3? W) 2847 X) 5550 Y) 7612 Z) 9330,Y) 7612
+bonus,math,Short Answer,8) Math – Short Answer A particle moves along the x-axis. Its position p at any time t is given by p of t = t3 – 5t2 – 3t + 4. What is the particle's acceleration at t = 4?,14
+toss-up,biology,Short Answer,"9) Biology – Short Answer In contrast to apoptosis [ay-pop-TOW-sis], cells that die due to injury will typically swell and burst. What is the name for this type of cell death?",NECROSIS
+bonus,biology,Short Answer,9) Biology – Short Answer What is the term for a mutualistic association between a fungus and a plant root?,"MYCORRHIZAE
+******************"
+toss-up,energy,Multiple Choice,"10) Energy – Multiple Choice Scientists at Berkeley National Laboratory are using artificial intelligence to create dark matter simulations. In this system, one neural network learns the training data, while a second neural network tries to fool the first by generating inputs that appear to be from the training set. What is this type of network called? W) Convolutional X) Recurrent Y) Adversarial Z) Genetic",Y) ADVERSARIAL
+bonus,energy,Short Answer,"10) Energy – Short Answer Scientists at SLAC [slack] National Accelerator Lab are studying the hormone N-acetyl-5-meth-oxy-tryp-tamine, which is produced by the pineal gland that is more commonly known by what name?",MELATONIN
+toss-up,,Multiple Choice,11) Earth & Space – Multiple Choice Which of the following statements about Earth’s Moon is true? W) The Moon is a captured object X) The Moon is the largest satellite in our solar system relative to its parent planet Y) The Moon formed contemporaneously with Earth Z) The Moon has tectonic plates,"X) THE MOON IS THE LARGEST SATELLITE IN OUR SOLAR SYSTEM RELATIVE
+TO ITS PARENT PLANET"
+bonus,,Short Answer,11) Earth & Space – Short Answer Rank the following three planets in order of increasing average density: 1) Saturn; 2) Jupiter; 3) Neptune.,"1, 2, 3
+******************"
+toss-up,chemistry,Short Answer,12) Chemistry – Short Answer What is the name of the principle that states that equal volumes of gasses at the same temperature and pressure contain the same number of particles?,AVOGADRO’S PRINCIPLE (ACCEPT: AVOGADRO’S LAW)
+bonus,chemistry,Short Answer,12) Chemistry – Short Answer In what specific orbital or orbitals are a sodium plus ion’s highest energy level electrons?,2s AND 2p [must give both answers]
+toss-up,math,Short Answer,"13) Math – Short Answer In a Fibonacci-type sequence, if the ninth term is 11 and the tenth term is 18, what is the twelfth term?",47
+bonus,math,Short Answer,"13) Math – Short Answer Given g of x = x2 – 2x – 4 and f of x = x – 2, what is the composition g of f of x?","x2 – 6x + 4
+******************"
+toss-up,,Multiple Choice,14) Earth & Space – Multiple Choice What term is used to describe an apron of coalescing alluvial [ah-LOO-vee-ul] fans? W) Wadi X) Bajada [bah-HA-da] Y) Inselberg Z) Playa [PLY-ah],X) BAJADA
+bonus,,Short Answer,14) Earth & Space – Short Answer Rank the following three carbon reservoirs in order of increasing amount of carbon stored: 1) Terrestrial vegetation and soils; 2) Earth's lithosphere and mantle; 3) Earth's atmosphere.,"3, 1, 2"
+toss-up,physics,Short Answer,15) Physics – Short Answer What is the general term for the type of material that can be placed between the plates of a parallel-plate capacitor to increase the capacitance [kah-PASS-ih-tense]?,DIELECTRIC
+bonus,physics,Short Answer,"15) Physics – Short Answer A cannon fires a projectile from ground level at a speed of 20 meters per second at an angle of 30 degrees from the horizontal. To the nearest meter, how far away from the cannon will the ball hit the ground, assuming the ground is level?","35
+******************"
+toss-up,energy,Short Answer,16) Energy – Short Answer Scientists at Jefferson Lab are measuring the pressures that quarks are under. What common particle is composed of two down quarks and one up quark?,NEUTRON
+bonus,energy,Short Answer,16) Energy – Short Answer Researchers at the National Energy Technology Lab are developing new methods based on fiber-optic cables to detect corrosion in natural gas pipelines. What principle in optics guarantees that light will remain within a fiber-optic cable?,TOTAL INTERNAL REFLECTION
+toss-up,chemistry,Multiple Choice,"17) Chemistry – Multiple Choice In the stratosphere, ozone production occurs via the overall reaction of three molecules of oxygen plus ultraviolet light yields two molecules of ozone. What is the ultraviolet light converted into in the overall reaction? W) Heat X) Visible light Y) High-energy electrons Z) Free radicals",W) HEAT
+bonus,chemistry,Multiple Choice,17) Chemistry – Multiple Choice Which of the following best describes the role of ammonia in the gas-phase reaction of ammonia with boron trichloride? W) Lewis base X) Lewis acid Y) Arrhenius [ah-REE-nee-us] base Z) Arrhenius acid,"W) LEWIS BASE
+******************"
+toss-up,biology,Short Answer,18) Biology – Short Answer What plant vascular tissue is composed of sieve cells and sieve-tube members?,PHLOEM
+bonus,biology,Short Answer,18) Biology – Short Answer Basidiomycota [bah-sid-ee-oh-my-KAW-dah] is a phylum [FYE-lum] in what kingdom?,"FUNGI (ACCEPT: FUNGUS, FUNGUSES)"
+toss-up,chemistry,Short Answer,19) Chemistry – Short Answer What is the name given to a pair of organic substituents that are on adjacent carbon atoms of a benzene ring?,ORTHO
+bonus,chemistry,Short Answer,"19) Chemistry – Short Answer Identify all of the following three elements that, when they form ions, tend to form cations [CAT-eye-onz]: 1) Aluminum; 2) Neon; 3) Sodium.","1, 3
+******************"
+toss-up,math,Short Answer,20) Math – Short Answer What is the product of the two binomials 2x + 3 and 3x – 2?,6x2 + 5x – 6
+bonus,math,Short Answer,20) Math – Short Answer Identify all of the following 4 types of quadrilaterals that can always be inscribed in a circle: 1) Parallelogram; 2) Rectangle; 3) Rhombus; 4) Kite.,2
+toss-up,,Short Answer,21) Earth & Space – Short Answer What stellar spectral type has a spectrum dominated by molecular lines?,M
+bonus,,Short Answer,21) Earth & Space – Short Answer What is the most massive object in the asteroid belt?,"CERES
+******************"
+toss-up,biology,Short Answer,"22) Biology – Short Answer When Drosophila [droh-SAWF-il-ah] was introduced to Hawaii, it underwent rapid speciation to occupy several different niches on the islands due to the variety of native vegetation. What is the term for this speciation process?",ADAPTIVE RADIATION
+bonus,biology,Short Answer,22) Biology – Short Answer Some poisonous organisms are brightly colored to demonstrate their toxicity. What is the term for this type of coloring?,WARNING COLORATION (ACCEPT: APOSEMATISM)
+toss-up,physics,Multiple Choice,23) Physics – Multiple Choice Which of the following physical quantities is least precisely known? W) The number of hyperfine transitions of cesium-133 in one second X) The value of the gravitational constant Y) The value of Planck’s constant Z) The number of meters light will travel in one second,X) THE VALUE OF THE GRAVITATIONAL CONSTANT
+bonus,physics,Short Answer,"23) Physics – Short Answer A certain particle undergoes a constant forward acceleration of two meters per second squared. After five seconds, the particle has moved 45 meters. In meters per second, what was its initial speed?",4

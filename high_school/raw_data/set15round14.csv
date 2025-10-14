@@ -1,0 +1,60 @@
+type,subject,format,question,answer
+toss-up,chemistry,Short Answer,1) Chemistry – Short Answer What is the term used to describe a liquid’s resistance to flow?,VISCOSITY
+bonus,chemistry,Short Answer,1) Chemistry – Short Answer Identify all of the following three statements that are assumptions made by the kinetic-molecular theory of gasses: 1) Particles do not experience attractive or repulsive forces; 2) Collisions are inelastic; 3) Temperature is an average of the kinetic energy in a gas.,"1, 3
+******************"
+toss-up,math,Short Answer,"2) Math – Short Answer A pair of 12-sided dice, each with the numbers one through 12 printed on the faces, is rolled. What is the probability that the two numbers rolled are the same?",1/12
+bonus,math,Short Answer,"2) Math – Short Answer In the expansion of the cube of the binomial 2a – 3b, what is the coefficient of the ab2 term?",54
+toss-up,biology,Short Answer,"3) Biology – Short Answer In the alternation of generations in plants, what is the term for the diploid form?",SPOROPHYTE
+bonus,biology,Short Answer,3) Biology – Short Answer Identify all of the following three statements that are true of cytoskeletal fibers: 1) Actin filaments are smaller in diameter than microtubules; 2) Microtubules are hollow; 3) Intermediate filaments are typically more stable than actin filaments.,"ALL
+******************"
+toss-up,,Short Answer,4) Earth & Space – Short Answer Feldspar has two planes of cleavage. What is the characteristic degree measure of the angle between these planes?,90
+bonus,,Short Answer,4) Earth & Space – Short Answer Rank the following three types of geologic mass movement in order of increasing speed: 1) Earthflow; 2) Pyro-clastic flow; 3) Lahar [lah-HAR].,"1, 3, 2"
+toss-up,physics,Short Answer,"5) Physics – Short Answer Industrial applications of AC power often use three-phase power. In degrees, what is the smallest separation between the phases?",120
+bonus,physics,Short Answer,"5) Physics – Short Answer A uniform solid cylinder is rolling about its principal axis without slipping. If its total kinetic energy is 60 joules, then, in joules, what is its rotational kinetic energy?","20
+******************"
+toss-up,energy,Short Answer,6) Energy – Short Answer Lawrence Berkeley National Lab researchers are studying the oxygen- evolving complex in photosystem II. This complex creates oxygen gas by oxidizing what molecule?,"WATER (ACCEPT: H O)
+2"
+bonus,energy,Multiple Choice,6) Energy – Multiple Choice Scientists at Lawrence Berkeley National Lab are accelerating electrons to energies of 7.8 giga-electron-volts at the BELLA center. Which of the following combinations of SI base units measures the same quantity as an electron-volt? W) Kilogram-meter per second X) Kilogram-meter per second squared Y) Kilogram-meter squared per second squared Z) Coulomb per second,Y) KILOGRAM-METER SQUARED PER SECOND SQUARED
+toss-up,math,Multiple Choice,"7) Math – Multiple Choice Consider the polynomial equation 6x3 – 14x + 15 = 0. According to the rational root theorem, which of the following is NOT a possible rational root of this equation? W) –3 X) 1/3 Y) 3/5 Z) 3/2",Y) 3/5
+bonus,math,Short Answer,"7) Math – Short Answer The perimeters of two squares differ by 12 inches and their areas differ by 42 square inches. What is the perimeter, in inches, of the larger square?","34
+******************"
+toss-up,physics,Multiple Choice,8) Physics – Multiple Choice A positively-charged particle is traveling in the positive-x direction as it experiences a uniform magnetic field pointing in the positive-y direction. In which of the following directions will the particle initially be deflected? W) Negative-y X) Positive-y Y) Negative-z Z) Positive-z,Z) POSITIVE-z
+bonus,physics,Short Answer,"8) Physics – Short Answer A 5-kilogram mass is undergoing simple harmonic motion at an angular frequency of 30 radians per second. In SI base units, what is the spring constant of the oscillator?",4500 (ACCEPT: 4500 KILOGRAMS PER SECOND SQUARED)
+toss-up,,Short Answer,9) Earth & Space – Short Answer What Galilean [gal-ih-LAY-en] moon is notable for its triple bands and many other dark lineae [LIN-ee-ee] that cross its surface?,EUROPA
+bonus,,Short Answer,9) Earth & Space – Short Answer What are the SI base units of the Hubble constant?,"INVERSE SECONDS (ACCEPT: ONE OVER SECONDS, RECIPROCAL SECONDS; DO
+NOT ACCEPT: SEC–1)
+******************"
+toss-up,chemistry,Short Answer,10) Chemistry – Short Answer What is the term for isomers that result from different orientations of substituents about a double bond?,GEOMETRIC ISOMERS (ACCEPT: CIS/TRANS ISOMERS)
+bonus,chemistry,Multiple Choice,10) Chemistry – Multiple Choice Suppose you can know the exact position over time of a sample of randomly-colliding gas molecules. Which of the following types of plots would result in a straight line when averaged over the entire gas sample? W) Displacement versus time squared X) Displacement versus time Y) Mean squared displacement versus square root of time Z) Mean squared displacement versus time,Z) MEAN SQUARED DISPLACEMENT VERSUS TIME
+toss-up,energy,Short Answer,11) Energy – Short Answer Scientists at Jefferson Lab are part of a collaboration studying matter composed of what third-most-massive quark?,CHARM (ACCEPT: C)
+bonus,energy,Short Answer,11) Energy – Short Answer Lawrence Berkeley National Lab scientists are using machine learning techniques that employ neural networks to analyze health records for veterans. Identify all of the following three types of learning that neural networks can perform: 1) Supervised; 2) Semi-supervised; 3) Unsupervised.,"ALL
+******************"
+toss-up,biology,Short Answer,12) Biology – Short Answer Most trees can continue growing larger year after year without limit. What undifferentiated tissues do plants possess that can divide continually?,MERISTEMS
+bonus,biology,Short Answer,12) Biology – Short Answer Identify all of the following three responses that would occur in the human body after eating a carbohydrate-rich meal: 1) Formation of glycogen; 2) Increase in glucagon [GLOO-kah-gon] secretion; 3) Increase in insulin secretion.,"1, 3"
+toss-up,,Short Answer,"13) Earth & Space – Short Answer On ocean shores, what is the term for currents that move in the opposite direction of breaking waves?",RIP CURRENT
+bonus,,Short Answer,13) Earth & Space – Short Answer Identify all of the following three statements about sediments and sedimentary rocks that are true: 1) A rock composed of lithified pebbles is a conglomerate; 2) Ripples in sedimentary layers can indicate that the sediment was deposited in moving water; 3) Arkose is a feldspar- rich sandstone.,"ALL
+******************"
+toss-up,math,Short Answer,"14) Math – Short Answer What is the area of a triangle with vertices at the three points with coordinates (2, 5), (2, 11), and (9, 8)?",21
+bonus,math,Short Answer,"14) Math – Short Answer Four 12-sided dice, each with the numbers one through 12 printed on the faces, are rolled. What is the probability that at least two of the numbers rolled are the same?",41/96
+toss-up,physics,Multiple Choice,15) Physics – Multiple Choice Which of the following best describes how the electric field strength varies with distance away from an infinite plane of electric charge? W) It linearly increases X) It decreases as the inverse Y) It decreases as the inverse square Z) It is constant,Z) IT IS CONSTANT
+bonus,physics,Short Answer,15) Physics – Short Answer Identify all of the following three values that are possible values for the azimuthal [ay-zih-MYOO-tul] quantum number: 1) One-half; 2) Zero; 3) Negative one.,"2
+******************"
+toss-up,energy,Short Answer,16) Energy – Short Answer Scientists at Pacific Northwest National Lab have recently reported the structure of the AMPA [AM-pah] receptor. This is a receptor that plays an important role in what CNS cell type?,NEURON (ACCEPT: NERVE CELL)
+bonus,energy,Short Answer,16) Energy – Short Answer Scientists at Ames Lab are studying the properties of twisted bilayer graphene. What is the hybridization [HIGH-brih-dye-ZAY-shun] of the carbon atoms in each of these layers?,SP2
+toss-up,biology,Short Answer,17) Biology – Short Answer The myth that eating turkey makes a person sleepy originated from the fact that the amino acid tryptophan [TRIP-tow-fan] is a precursor to what neurotransmitter?,"SEROTONIN (ACCEPT: 5-HT, 5-HYDROXYTRYPTAMINE)"
+bonus,biology,Short Answer,17) Biology – Short Answer Identify all of the following three aspects of development that are characteristic of deuterostomes [DOO-tur-ah-stome]: 1) Blastopore [BLASS-tow-pore] becomes the mouth; 2) Coelom [SEE-lum] forms from pockets of the archenteron [ar-KEN-tah-run]; 3) Spiral cleavage.,"2
+******************"
+toss-up,chemistry,Short Answer,18) Chemistry – Short Answer What is the adjective for substances that can act as both acids and bases?,AMPHOTERIC
+bonus,chemistry,Multiple Choice,"18) Chemistry – Multiple Choice If you wanted to synthesize iso-butyl-benzene through a Friedel-Crafts [free-dell-crafts] alkylation [AL-kil-lay-shun] reaction, what molecule would you react with benzene and aluminum chloride? W) Iso-butyl-chloride X) Iso-butane Y) Butyl bromide Z) Iso-butyl-aldehyde [AL-deh-hide]",W) ISO-BUTYL-CHLORIDE
+toss-up,math,Short Answer,19) Math – Short Answer What is the partial derivative with respect to x of the expression x5y8?,5x4y8
+bonus,math,Short Answer,"19) Math – Short Answer What is the polynomial with least degree, real coefficients, and leading coefficient one that has –9 + 5i as a zero?","x2 + 18x + 106
+******************"
+toss-up,biology,Multiple Choice,20) Biology – Multiple Choice Which of the following hormones promotes bud formation? W) Cytokinins [sigh-toh-KYE-nins] X) Oligosaccharins [aw-lihgo-SAK-ah-rins] Y) Ethylene [ETH-il-een] Z) Abscisic [ab-SIH-zik] acid,W) CYTOKININS
+bonus,biology,Short Answer,20) Biology – Short Answer What is the ecological term for the rate at which a population of a given species will increase when there are no environmental constraints on the rate of growth?,BIOTIC POTENTIAL
+toss-up,physics,Multiple Choice,"21) Physics – Multiple Choice A p-n junction, by itself, is best suited to be which of the following circuit components? W) Transistor X) Capacitor Y) Inductor Z) Diode",Z) DIODE
+bonus,physics,Short Answer,"21) Physics – Short Answer At STP, rank the following three materials in order of increasing dielectric constant: 1) Liquid methanol; 2) Nitrogen gas; 3) Solid sulfur.","2, 3, 1
+******************"
+toss-up,,Short Answer,"22) Earth & Space – Short Answer In the triple alpha process, what element is the final product of the fusion reaction?",CARBON
+bonus,,Short Answer,22) Earth & Space – Short Answer Place the following three dwarf planets in order of increasing mass: 1) Ceres [SEER-eez]; 2) Eris [AIR-is]; 3) Pluto.,"1, 3, 2"
+toss-up,chemistry,Short Answer,23) Chemistry – Short Answer What is the IUPAC name of the salt formed when benzoic acid is mixed with sodium hydroxide?,SODIUM BENZOATE
+bonus,chemistry,Short Answer,23) Chemistry – Short Answer Rank the following three substances in order of increasing standard heat of combustion: 1) Octane; 2) Methane; 3) Propane.,"2, 3, 1"

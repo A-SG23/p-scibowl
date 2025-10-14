@@ -1,0 +1,61 @@
+type,subject,format,question,answer
+toss-up,biology,Short Answer,"1) Biology – Short Answer What type of associative learning involves the linking of an outcome with an unrelated, reflex-evoking stimulus, such that an animal learns to anticipate the outcome when given the stimulus?","PAVLOVIAN CONDITIONING (ACCEPT: CLASSICAL CONDITIONING,
+RESPONDENT CONDITIONING)"
+bonus,biology,Short Answer,1) Biology – Short Answer Golden rice is a genetically-modified strain of rice that is designed to prevent blindness caused by a deficiency of what vitamin?,"A (ACCEPT: RETINAL, RETINOL)
+******************"
+toss-up,,Short Answer,2) Earth & Space – Short Answer How many planets in our solar system have an average density less than that of water at STP?,1
+bonus,,Short Answer,2) Earth & Space – Short Answer Many stony meteorites are composed of small silicate spheres. What are these spheres called?,CHONDRULES [KON-drools] (DO NOT ACCEPT: CHONDRITES)
+toss-up,energy,Short Answer,3) Energy – Short Answer Scientists at Savannah River National Lab identify microbes found in spent nuclear fuel storage basins by sequencing their rRNA. This type of RNA forms a major component of what organelle?,RIBOSOME
+bonus,energy,Short Answer,"3) Energy – Short Answer Scientists at Ames Lab are studying solids using NMR spectroscopy. In NMR spectroscopy, J-coupling is a type of interaction that results in splitting of the NMR signal. This is because the nucleus interacts with what subatomic particle?","ELECTRON
+******************"
+toss-up,chemistry,Multiple Choice,4) Chemistry – Multiple Choice Which of the following statements is TRUE of dynamic equilibrium in chemistry? W) Forward and backward rate constants are equal to zero X) Forward and backward rate constants are equal in value Y) Forward and backward rates are equal to zero Z) Forward and backward rates are equal in value,Z) FORWARD AND BACKWARD RATES ARE EQUAL IN VALUE
+bonus,chemistry,Short Answer,4) Chemistry – Short Answer What is the formal charge on the carbon atom in the cyanide ion?,–1
+toss-up,physics,Multiple Choice,"5) Physics – Multiple Choice In order to explain the photoelectric effect, Einstein proposed the existence of particles that have zero rest mass but still possess which of the following physical quantities? W) Lepton number X) Momentum Y) Color charge Z) Electric charge",X) MOMENTUM
+bonus,physics,Short Answer,"5) Physics – Short Answer Consider three electrically-charged bodies, A, B, and C. You find that A and B attract each other. Based on this observation, identify all of the following three statements that must also be true: 1) A and B have the same charge; 2) If B and C repel each other, A and C will attract each other; 3) If B and C attract each other, A and C will attract each other.","2
+******************"
+toss-up,math,Multiple Choice,"6) Math – Multiple Choice For a twice-differentiable function f of x, f of 3 is 5, f prime of 3 is 0, and f double prime of 3 is –8. Which of the following is true of the graph of y = f of x at the point (3, 5)? W) There is a local minimum X) There is a local maximum Y) There is an inflection point Z) The graph is concave up",X) THERE IS A LOCAL MAXIMUM
+bonus,math,Short Answer,"6) Math – Short Answer A paper cup is in the shape of a circular cone, with height 9 inches and opening diameter 3 inches. How many of these paper cups of water would it take to fill a cylindrical container of height 3 inches and diameter 12 inches?",16
+toss-up,,Short Answer,"7) Earth & Space – Short Answer Sea salts from breaking waves, soot from wildfires, pollen lifted by the wind, and ash from volcanic eruptions are all examples of what type of suspended solids?",AEROSOLS
+bonus,,Short Answer,7) Earth & Space – Short Answer Identify all of the following three landforms that could be represented by closed contours on a topographic map: 1) Hill; 2) Cliff; 3) Pond.,"1, 3
+******************"
+toss-up,biology,Short Answer,8) Biology – Short Answer The tsetse [SEAT-see] fly is the vector for what human disease that is caused by a protist?,"AFRICAN TRYPANOSOMIASIS [trih-pan-oh-soh-MY-ah-sis] (ACCEPT: SLEEPING
+SICKNESS, AFRICAN SLEEPING SICKNESS)"
+bonus,biology,Short Answer,8) Biology – Short Answer Identify all of the following three types of bacterial gene transfer that require cell-to-cell contact between the recipient and the donor: 1) Transformation; 2) Transduction; 3) Conjugation.,3
+toss-up,physics,Short Answer,"9) Physics – Short Answer At 0.01 degrees Celsius and 0.6% of an atmosphere, water can exist at what intersection on its phase diagram?",TRIPLE POINT
+bonus,physics,Short Answer,"9) Physics – Short Answer A 5-kilogram potato gun is loaded with a 200-gram potato. When it is fired, the potato gun recoils directly opposite to the initial trajectory of the potato with an initial speed of 0.3 meters per second. In meters per second, what is the initial speed of the potato?","7.5 (ACCEPT: 15/2, 7 1/2)
+******************"
+toss-up,math,Short Answer,10) Math – Short Answer What is the largest prime factor of 800?,5
+bonus,math,Short Answer,"10) Math – Short Answer A sphere centered at (–2, 6, –9) has (5, 2, 4) as one endpoint of a diameter. What are the coordinates of the other endpoint of that diameter?","(–9, 10, –22) (ACCEPT: x = –9, y = 10, AND z = –22)"
+toss-up,chemistry,Short Answer,11) Chemistry – Short Answer What is the term for unsaturated hydrocarbons that contain one or more triple bonds between carbon atoms?,ALKYNE
+bonus,chemistry,Short Answer,"11) Chemistry – Short Answer If a reaction is spontaneous only at high temperatures, then what are the signs of its changes in enthalpy and entropy, respectively?","BOTH ARE POSITIVE (ACCEPT: POSITIVE, POSITIVE)
+******************"
+toss-up,energy,Multiple Choice,"12) Energy – Multiple Choice Researchers at Idaho National Laboratory have had success extracting rare-earth elements from a waste product, phosphogypsum [faws-fo-JIP-sum]. Which of the following is NOT a rare earth element? W) Terbium [TUR-bee-um] X) Gadolinium [GAD-oh-LIN-ee-um] Y) Lutetium [loo-TEE-shum] Z) Protactinium [proh-tak-TIN-ee-um]",Z) PROTACTINIUM
+bonus,energy,Short Answer,"12) Energy – Short Answer Scientists at the Joint Genome Institute are studying switchgrass, which has four copies of each of its chromosomes. This is an example of what state that is characterized by organisms having more than two pairs of each chromosome?",POLYPLOIDY (ACCEPT: TETRAPLOIDY)
+toss-up,,Short Answer,13) Earth & Space – Short Answer What is the largest satellite galaxy of the Milky Way and can be easily seen with the naked eye?,LARGE MAGELLANIC [MAH-jeh-LAN-ik] CLOUD
+bonus,,Multiple Choice,13) Earth & Space – Multiple Choice Which of the following is NOT a type of binary star system involving gravitationally-bound stars? W) Apparent X) Visual Y) Astrometric Z) Eclipsing,"W) APPARENT
+******************"
+toss-up,chemistry,Multiple Choice,14) Chemistry – Multiple Choice Which of the following pieces of glassware will most accurately transfer 10 milliliters of a solution? W) Beaker X) 100-milliliter graduated cylinder Y) 100-milliliter volumetric flask Z) Burette [byur-ETT],Z) BURETTE
+bonus,chemistry,Short Answer,"14) Chemistry – Short Answer What is the name for an elimination reaction that results in the removal of two hydrogen atoms from an alkane, forming an alkene?",DEHYDROGENATION
+toss-up,math,Short Answer,15) Math – Short Answer How many terms does the binomial expansion of open parenthesis 7x3 + 4y2 close parenthesis to the 20th power contain?,21
+bonus,math,Short Answer,"15) Math – Short Answer Three coplanar circles with radii of lengths 2, 5, and 8, respectively, have the same center, forming a shape consisting of two annuluses and a circle that are nonoverlapping. What is the ratio of the area of the smaller annulus to that of the larger annulus?","7/13 (ACCEPT: 7 TO 13)
+******************"
+toss-up,physics,Short Answer,16) Physics – Short Answer What SI derived unit is used to measure the property of a circuit element whose voltage drop is proportional to the negative time derivative of flowing current?,HENRY
+bonus,physics,Short Answer,16) Physics – Short Answer Identify all of the following three quantities whose magnitudes must be zero in order for an object to be in equilibrium: 1) Velocity; 2) Angular momentum; 3) Net torque [tork].,3
+toss-up,biology,Short Answer,17) Biology – Short Answer Managing the symptoms of Parkinson's disease can be achieved by increasing the levels of what neurotransmitter in the brain?,DOPAMINE
+bonus,biology,Short Answer,"17) Biology – Short Answer In peas, yellow seeds are dominant to green, and round seeds are dominant to wrinkled. In a dihybrid [dye-HIGH-brid] cross, what fraction of the offspring are expected to have yellow, wrinkled seeds?","3/16 (ACCEPT: 0.1875, 18.75%)
+******************"
+toss-up,energy,Short Answer,"18) Energy – Short Answer Scientists at the Department of Energy’s Energy Frontier Research Centers are developing industrial methods to produce fertilizer components using biocatalysis [bio-kah-TAL-ih-sis]. Fertilizer is generally characterized by its NPK ratio, which refers to the amounts of what three elements?","NITROGEN, PHOSPHORUS, AND POTASSIUM"
+bonus,energy,Short Answer,18) Energy – Short Answer Physicists at the Thomas Jefferson National Accelerator Lab found that increasing the number of neutrons in a nucleus caused protons to pair and get closer together. What massive virtual particles are being exchanged by these protons?,"PION (ACCEPT: PI-ZERO, PI-ZERO MESON, NEUTRAL PION, VIRTUAL PION; DO
+NOT ACCEPT: CHARGED PION)"
+toss-up,math,Short Answer,"19) Math – Short Answer If the odds against an event are 7 to 4, what is the probability of the event occurring?",4/11
+bonus,math,Short Answer,19) Math – Short Answer Express the fraction with numerator 17 – 4i and denominator 1 – 2i in standard a + bi form.,"5 + 6i
+******************"
+toss-up,physics,Short Answer,"20) Physics – Short Answer Any parallel-plate capacitor holding a charge will experience an attractive force between the two plates. If the charge on the capacitor is doubled, by what number will the attractive force be multiplied?",FOUR
+bonus,physics,Short Answer,"20) Physics – Short Answer Light with a wavelength of 600 nanometers passes through a diffraction grating with slit separation of two microns. In radians with one significant figure, what is the angular separation between the closest two peaks?",0.3
+toss-up,chemistry,Short answer,21) Chemistry – Short answer What is the term for the amount of energy required to separate one mole of the ions in an ionic compound?,LATTICE ENERGY
+bonus,chemistry,Short Answer,"21) Chemistry – Short Answer According to the Henderson-Hasselbalch [HASS-el-back] equation, what is the pH, at 25 degrees Celsius, at which a base with pKb of 9.2 will have a 10-to-1 ratio of conjugate acid to base?","3.8
+******************"
+toss-up,,Multiple Choice,22) Earth & Space – Multiple Choice To what crystal system does quartz belong? W) Triclinic X) Orthorhombic [ortho-ROM-bik] Y) Trigonal [TRIH-gunul] Z) Monoclinic,Y) TRIGONAL
+bonus,,Short Answer,22) Earth & Space – Short Answer Identify all of the following three statements about the Earth and the Moon that are true: 1) The Moon has a proportionally larger iron core; 2) The Moon does not contain enough molten iron in its core to produce a significant magnetic field; 3) The Moon has an average density about 20 percent that of Earth.,2
+toss-up,biology,Short Answer,"23) Biology – Short Answer What is the term for an infectious disease that is present at a constant, low level within a population?",ENDEMIC
+bonus,biology,Multiple Choice,23) Biology – Multiple Choice The grouping of modern humans and chimpanzees forms which of the following types of groups? W) Polyphyletic [polly-fye-LET-ik] X) Monophyletic [mono-fye-LET-ik] Y) Paraphyletic [para-fye-LET-ik] Z) Cladistic [klah-DIH-stik],W) POLYPHYLETIC

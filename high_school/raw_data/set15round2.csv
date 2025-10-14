@@ -1,0 +1,64 @@
+type,subject,format,question,answer
+toss-up,physics,Multiple Choice,1) Physics – Multiple Choice Which of the following is TRUE of the wave model of atomic theory? W) Electrons orbit the nucleus in circles X) Electrons have a well-defined position and momentum at all points in their orbit Y) Electrons compose most of the mass of the atom Z) Electrons can absorb photons to transition between states,Z) ELECTRONS CAN ABSORB PHOTONS TO TRANSITION BETWEEN STATES
+bonus,physics,Multiple Choice,"1) Physics – Multiple Choice When honey is poured from a jar, the flowing honey column gets narrower and narrower as it falls. Which of the following best explains the observed profile for steady flow? W) Flow rate decreases but speed remains constant with distance X) Flow rate remains constant but speed increases with distance Y) Viscosity increases with distance from the jar Z) Turbulence increases with distance from the jar","X) FLOW RATE REMAINS CONSTANT BUT SPEED INCREASES WITH DISTANCE
+******************"
+toss-up,,Short Answer,2) Earth & Space – Short Answer What is the chemical formula of chert?,"SiO
+2"
+bonus,,Multiple Choice,"2) Earth & Space – Multiple Choice A sedimentary sequence consists of layers A, B, and C, where A is the youngest, and C is the oldest. A nearby cross-section contains these three layers in the order A, B, C, A, B, C. Which of the following best describes the local tectonic environment? W) Tensional X) Compressional Y) Torsional [TOR-shun-ul] Z) Shear",X) COMPRESSIONAL
+toss-up,math,Short Answer,"3) Math – Short Answer A new phone costs $1,000. Each month the value of the phone decreases by 10% of its value at the beginning of the month. How many dollars would the phone be worth after three months?",729
+bonus,math,Multiple Choice,3) Math – Multiple Choice In which of the following intervals is the graph of y = sine x strictly concave upward? W) Negative pi over 2 to pi over 2 X) 0 to pi Y) Pi over 2 to 3 pi over 2 Z) Pi to 2 pi,"Z) PI TO 2 PI
+******************"
+toss-up,biology,Multiple Choice,4) Biology – Multiple Choice Which of the following hormones is a steroid hormone? W) Cortisol X) Insulin Y) Melatonin Z) Epinephrine [eh-pih-NEH-frin],W) CORTISOL
+bonus,biology,Short Answer,4) Biology – Short Answer Identify all of the following three structures that are homologous to the human arm: 1) Bat wing; 2) Cat hind leg; 3) Porpoise front flipper.,"1, 3"
+toss-up,energy,Short Answer,5) Energy – Short Answer Princeton Plasma Physics Lab researchers are developing plasma- confinement techniques to perform what type of nuclear reaction?,FUSION
+bonus,energy,Short Answer,"5) Energy – Short Answer Scientists at Berkeley National Laboratory are using transfer learning in deep learning systems, where a network trained for one purpose is adapted for use in a similar purpose. Suppose we train a network to recognize a handwritten number 1300. This network can be easily transferred to recognize what hand-written capitalized word?","BOO
+******************"
+toss-up,chemistry,Short Answer,6) Chemistry – Short Answer What device is typically used to measure atmospheric pressure?,BAROMETER
+bonus,chemistry,Short Answer,6) Chemistry – Short Answer Identify all of the following three forces that play a role in the intermolecular interactions in a sample of liquid bromine: 1) Dispersion forces; 2) Dipole-dipole forces; 3) Ionic forces.,1
+toss-up,physics,Multiple Choice,7) Physics – Multiple Choice A cue ball moving due northeast strikes a stationary billiard ball of equal mass. The other ball begins moving due east. What can be said about the final direction of the cue ball? W) It moves due west X) It moves due north Y) It moves due south Z) It continues moving due northeast,X) IT MOVES DUE NORTH
+bonus,physics,Short Answer,"7) Physics – Short Answer The position x of a particle in one dimension can be calculated from the equation x = ct2, where t is time and c is a constant. Identify all of the following three quantities of the particle that MUST be constant for this equation to hold true for all times: 1) Position; 2) Velocity; 3) Acceleration.","3
+******************"
+toss-up,biology,Multiple Choice,8) Biology – Multiple Choice Which of the following organisms possesses a water-vascular system? W) Fruit fly X) Sea cucumber Y) Jellyfish Z) Dog,X) SEA CUCUMBER
+bonus,biology,Short Answer,"8) Biology – Short Answer In eukaryotic translation, the start codon encodes what amino acid?","METHIONINE (ACCEPT: MET, M; DO NOT ACCEPT: F-MET,
+FORMYLMETHIONINE)"
+toss-up,,Short Answer,"9) Earth & Space – Short Answer What law of astronomy states that the farther a galaxy is away from us, the faster it is traveling away from us?",HUBBLE’S LAW
+bonus,,Short Answer,9) Earth & Space – Short Answer Identify all of the following three stellar objects that are typically found in the top right corner of the HR diagram: 1) White dwarfs; 2) Red supergiants; 3) Red dwarfs.,"2
+******************"
+toss-up,math,Short Answer,"10) Math – Short Answer If y varies directly with x and y = 96 when x = 8, what is the value of y when x = 30?",360
+bonus,math,Short Answer,10) Math – Short Answer Solve the following system of two equations: 5x – 3y = 1 and x + 5y = 17.,"(2, 3) (ACCEPT: x = 2 AND y = 3)"
+toss-up,chemistry,Short Answer,11) Chemistry – Short Answer Identify all of the following three types of data that are considered quantitative data: 1) Color of an object; 2) Wavelengths of light an object reflects; 3) Mass of an object.,"2, 3"
+bonus,chemistry,Short Answer,11) Chemistry – Short Answer Rank the following three acids in order of increasing acidity: 1) First deprotonation of carbonic acid; 2) First deprotonation of hydro-sulfuric acid; 3) Acetic acid.,"2, 1, 3
+******************"
+toss-up,energy,Short Answer,12) Energy – Short Answer Researchers at the National Energy Technology Laboratory are developing membranes that can capture carbon dioxide from the air before it is emitted from power plants. What is the term for the process by which gas molecules adhere to the surface of a solid?,ADSORPTION (DO NOT ACCEPT: ABSORPTION)
+bonus,energy,Multiple Choice,12) Energy – Multiple Choice SLAC [slack] National Accelerator Lab scientists are studying the physical properties of trimethylamine [try-meth-il-ah-meen]. Which of the following is closest to the pKb [p.k.b.] of this compound? W) 1 X) 4 Y) 7 Z) 10,X) 4
+toss-up,physics,Short Answer,"13) Physics – Short Answer In a system consisting of two bodies acting on each other via a central force, the angular momentum of the system is constant and dependent on the reduced mass of the system, the angular velocity, and the distance squared. This statement is equivalent to which of Kepler’s Laws?",SECOND (ACCEPT: LAW OF EQUAL AREAS IN EQUAL TIME)
+bonus,physics,Short Answer,"13) Physics – Short Answer On the moon, Neil throws a ball directly downward off a cliff with a velocity of three meters per second. Given that the moon has a surface acceleration due to gravity of 1.6 meters per second squared, then in meters per second, what is the ball’s speed after five seconds?","11 (DO NOT ACCEPT: –11)
+******************"
+toss-up,energy,Multiple Choice,14) Energy – Multiple Choice Researchers at Thomas Jefferson National Accelerator Facility are studying the internal structure of hadrons such as protons and neutrons. What are the flavors of the constituent quarks in protons and neutrons? W) Up and down X) Top and bottom Y) Strange and charmed Z) Up and bottom,W) UP AND DOWN
+bonus,energy,Short Answer,"14) Energy – Short Answer Scientists at Lawrence Berkeley National Lab are using reinforcement learning on autonomous cars to try to reduce traffic. In reinforcement learning, actions are rewarded in proportion to how often they lead to the target behavior. Suppose we are training an agent to draw a number 5. Identify all of the following four actions that will be rewarded. 1) Drawing a horizontal line; 2) Drawing a vertical line; 3) Drawing a semi-circle; 4) Drawing a circle.","1, 2, 3"
+toss-up,biology,Short Answer,"15) Biology – Short Answer In ducks, eggs of intermediate weight have the highest hatching rates. This is an example of what type of selection?",STABILIZING
+bonus,biology,Short Answer,15) Biology – Short Answer Consider a photosynthetic organism growing in oxygen-18-labeled water. What product of photosynthesis will be labeled with oxygen-18 as a result of this?,"OXYGEN (ACCEPT: OXYGEN GAS, O )
+2
+******************"
+toss-up,chemistry,Multiple Choice,"16) Chemistry – Multiple Choice Which of the following electron configurations is correct for ground state chromium, which is a group 6 metal? W) Argon 4-S-2 3-D-4 X) Argon 4-S-one 3-D-5 Y) Argon 3-D-6 Z) Argon 3-D-5 4-P-one",X) ARGON 4-S-ONE 3-D-5
+bonus,chemistry,Short Answer,16) Chemistry – Short Answer Rank the following three halo-carbons in terms of increasing boiling point: 1) 1-iodopentane [one-eye-oh-doh-PEN-tane]; 2) 1-chloropentane [one kloro-PEN-tane]; 3) 1-fluoropentane [one floor-oh-PEN-tane].,"3, 2, 1"
+toss-up,math,Short Answer,17) Math – Short Answer The polynomial x5 – 2x4 + 4x2 – 8 has how many complex zeros?,5
+bonus,math,Short Answer,"17) Math – Short Answer Expressing your answer to the nearest hundredth, what is the area of the region bounded by the graphs of y equals the square root of open parenthesis 1 minus x squared, close parenthesis, and the lines x = – 1, x = 1, and y = 1?","0.43
+******************"
+toss-up,,Short Answer,18) Earth & Space – Short Answer What scale is commonly used by geophysicists to measure the intensity of shaking that results from an earthquake at a given location?,MODIFIED MERCALLI (ACCEPT: MODIFIED MERCALLI INTENSITY SCALE)
+bonus,,Short Answer,18) Earth & Space – Short Answer Identify all of the following three statements that are true of igneous rocks: 1) Mafic [MAF-ik] rocks have higher silica content than felsic rocks; 2) Mafic rocks have higher potassium content than felsic rocks; 3) Mafic rocks have higher melting points than felsic rocks.,3
+toss-up,math,Short Answer,19) Math – Short Answer What is the percent change from 225 to 270?,20
+bonus,math,Short Answer,"19) Math – Short Answer A closed loop of yarn exactly encloses a square with area 10. If this loop of yarn is deformed, what is the largest possible area it can enclose?","40/π
+******************"
+toss-up,physics,Multiple Choice,"20) Physics – Multiple Choice Which of the following best describes the gravitational potential for a uniform spherical body as a function of radius? W) Constant inside the body, and proportional to one over radius squared outside the body X) Linearly increasing inside the body, and proportional to one over radius cubed outside the body Y) Quadratically [kwad-DRAT-ik-lee] increasing inside the body, and proportional to one over radius outside the body Z) Constant everywhere","Y) QUADRATICALLY INCREASING INSIDE THE BODY, AND PROPORTIONAL TO
+ONE OVER RADIUS OUTSIDE THE BODY"
+bonus,physics,Short Answer,20) Physics – Short Answer Rank the following three substances in order of increasing electrical conductivity: 1) Pure copper at 273 kelvins; 2) Pure copper at 373 kelvins; 3) Pure germanium [jer-MAYN-ee-um] at 273 kelvins.,"3, 2, 1"
+toss-up,,Short Answer,21) Earth & Space – Short Answer What gas composes the majority of Saturn’s atmosphere?,"HYDROGEN (ACCEPT: H , DIHYDROGEN)
+2"
+bonus,,Multiple Choice,21) Earth & Space – Multiple Choice Which of the following statements about comets is true? W) Most comets have been in their current orbits since the early solar system X) All comets are thought to originate from the Oort [ort] cloud Y) Comets are thought to be regularly supplied from the outer solar system Z) Comets have density about that of water,"Y) COMETS ARE THOUGHT TO BE REGULARLY SUPPLIED FROM THE OUTER
+SOLAR SYSTEM
+******************"
+toss-up,chemistry,Short Answer,22) Chemistry – Short Answer What state of matter has a definite shape and volume?,SOLID
+bonus,chemistry,Short Answer,"22) Chemistry – Short Answer Water has a boiling point elevation constant of 0.5 degrees Celsius per molal. Assuming a van’t Hoff factor of 2, then, to the nearest tenth of a gram, how much sodium chloride would have to be added to 100 milliliters of water to create a solution with a boiling point of 100.5 degrees Celsius?",2.9
+toss-up,biology,Short Answer,23) Biology – Short Answer To which phylum [FYE-lum] do sea urchins belong?,ECHINODERMATA (ACCEPT: ECHINODERMS)
+bonus,biology,Short Answer,23) Biology – Short Answer What is the term for a plant growth response that occurs in response to temperature or heat?,THERMOTROPISM
