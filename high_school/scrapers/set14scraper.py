@@ -40,7 +40,7 @@ def extract_text(pdf_path):
 
 def cleanUnwanted(text):
     # Removes page and round notes like "High School Round X Page Y" anywhere in the string.
-    return re.sub(r'2019 Regional Science Bowl - Round \s*\d+A Page \s*\d+', '', text, flags=re.IGNORECASE).strip()
+    return re.sub(r'2019 Regional Science Bowl – Round \s*\d+A Page \s*\d+', '', text, flags=re.IGNORECASE).strip()
                     #2019 Regional Science Bowl – Round 10A Page 2
 
 def parse_questions(text):

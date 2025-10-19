@@ -1,73 +1,58 @@
 type,subject,format,question,answer
-toss-up,energy,Short Answer,1) Energy – Short Answer Scientists at Fermi National Accelerator Lab are upgrading the CMS detector in the LHC. The CMS detector includes a large magnet consisting of a coil wrapped into a tight helix that generates a uniform magnetic field within its coils. What is the general term for this type of magnet?,SOLENOID
-bonus,energy,Short Answer,"1) Energy – Short Answer Researchers at Pacific Northwest National Lab are studying purple sulfur bacteria, which perform photosynthesis. Unlike in plants, however, their photosynthesis overall reaction does not produce what gas?","OXYGEN (ACCEPT: O )
-2
+toss-up,math,Short Answer,1) Math – Short Answer What is the square of the complex number 1 – 3i?,–8 – 6i
+bonus,math,Multiple Choice,"1) Math – Multiple Choice A differentiable function f of x has domain the closed interval from –5 to 4 and range the closed interval from 3 to 12. If f prime of x is less than 0 for all x in the domain, what is f of –5? W) –5 X) 3 Y) 4 Z) 12","Z) 12
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,,Short Answer,"2) Earth and Space – Short Answer Solar observatories sometimes spot sungrazers, which are manifestations of what type of object?",COMETS
-bonus,,Short Answer,2) Earth and Space – Short Answer Through how many constellations of the night sky does the ecliptic pass?,"13
-2019 Regional Science Bowl – Round 3A Page 1"
-toss-up,biology,Short Answer,3) Biology – Short Answer What virus is the target of vaccines that are designed to prevent cervical cancer?,HPV (ACCEPT: HUMAN PAPILLOMAVIRUS)
-bonus,biology,Short Answer,3) Biology – Short Answer Rotifers can reproduce asexually by having a female organism develop from an unfertilized egg. What is the term for this type of reproduction?,"PARTHENOGENESIS
+toss-up,biology,Short Answer,"2) Biology – Short Answer What stain, performed with crystal violet dye, provides the most common way of classifying bacteria?",GRAM
+bonus,biology,Short Answer,2) Biology – Short Answer What is the term for mobile genetic elements that can move from one location to another in a cell's genome?,TRANSPOSONS (ACCEPT: JUMPING GENE)
+toss-up,,Multiple Choice,3) Earth and Space – Multiple Choice Which of the following surface reservoirs on Earth contains the most carbon? W) Soil X) Atmosphere Y) Vegetation Z) Ocean,Z) OCEAN
+bonus,,Multiple Choice,3) Earth and Space – Multiple Choice Which of the following pairs of metamorphic rocks can both form from shale? W) Slate and phyllite [FILL-lite] X) Schist and marble Y) Quartzite and migmatite Z) Gneiss [nice] and anthracite,"W) SLATE AND PHYLLITE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,chemistry,Short Answer,4) Chemistry – Short Answer What term is used to describe a hydrocarbon that only possesses carbon-carbon single bonds?,SATURATED (ACCEPT: ALKANE)
-bonus,chemistry,Short Answer,"4) Chemistry – Short Answer Phosphorous trioxide is misnamed. If the molar mass of phosphorous trioxide is 220 grams per mole and is approximately 56% phosphorous by mass, what is its molecular formula?","P O
-4 6
-2019 Regional Science Bowl – Round 3A Page 2"
-toss-up,physics,Short Answer,"5) Physics – Short Answer Jan drops a football off a cliff and notes that it takes 4 seconds for it to hit the ground. She throws an identical football from the same height, but with a horizontal velocity of 3.4 meters per second. Assuming the ground is level, how far, in meters, from the base of the cliff will it land?",13.6
-bonus,physics,Short Answer,"5) Physics – Short Answer A disk is spinning at 950 rotations per minute. To the nearest ten radians per second, how fast is it spinning?","100
+toss-up,physics,Short Answer,"4) Physics – Short Answer An astronaut weighs 500 newtons on planet X, which has a gravitational acceleration of 4 meters per second squared. If he travels to planet Y, which has a gravitational acceleration of 12 meters per second squared, then in newtons, what is his new weight?",1500
+bonus,physics,Short Answer,"4) Physics – Short Answer Jan heats a kilogram of an unknown solid at a rate of 25 kilojoules per minute. The solid rises in temperature for 2 minutes, melts for a minute and a half, then rises in temperature for 6 minutes until Jan ends the experiment. In kilojoules per kilogram, what is the heat of fusion for this substance?","37.5 (ACCEPT: 37½, 75/2)"
+toss-up,chemistry,Short Answer,5) Chemistry – Short Answer What intermolecular force is responsible for the secondary structure of proteins?,HYDROGEN BONDING
+bonus,chemistry,Short Answer,5) Chemistry – Short Answer Rank the following three straight-chained alkanes in increasing order of their carbon-chain lengths: 1) Propane; 2) Butane; 3) Methane.,"3, 1, 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,math,Short Answer,6) Math – Short Answer What is 4/15 divided by 6/25?,10/9 (ACCEPT: 1 1/9)
-bonus,math,Short Answer,"6) Math – Short Answer If x is inversely proportional to y3 and if x = 3 when y = 4, what is the value of x when y = 3?","64/9 (ACCEPT: 7 1/9)
-2019 Regional Science Bowl – Round 3A Page 3"
-toss-up,biology,Short Answer,7) Biology – Short Answer Gigantism in humans is typically caused by a tumor in the pituitary gland that produces an excess of what hormone?,"HUMAN GROWTH HORMONE (ACCEPT: HGH, GH, GROWTH HORMONE)"
-bonus,biology,Multiple Choice,7) Biology – Multiple Choice Alpha- and beta-adrenergic agonists are medications whose structures mimic which of the following hormones? W) Insulin X) Glucagon Y) Acetylcholine Z) Epinephrine,"Z) EPINEPHRINE
+toss-up,energy,Short Answer,"6) Energy – Short Answer Scientists at Oak Ridge National Lab are using the Titan supercomputer to model diesel engines. Unlike the Otto cycle, the Diesel cycle relies on what to ignite the fuel?",COMPRESSION
+bonus,energy,Short Answer,6) Energy – Short Answer Chemists at SLAC National Lab have developed a copper catalyst with a large surface area that converts carbon dioxide to ethanol in an acidic environment. Identify all of the following three statements that are TRUE of this process: 1) Carbon dioxide is oxidized in this reaction; 2) This is an example of homogenous catalysis; 3) The reaction has many side products.,3
+toss-up,physics,Multiple Choice,7) Physics – Multiple Choice A torque [tork] integrated over an angle describes which of the following quantities? W) Force X) Work Y) Angular momentum Z) Linear momentum,X) WORK
+bonus,physics,Short Answer,7) Physics – Short Answer Consider a box containing an unknown number of charges with unknown magnitude. Identify all of the following three quantities that can be determined by performing a test with a known charge at a single point in space outside the box: 1) Number of charges inside the box; 2) Net charge inside the box; 3) Sign of each charge in the box.,"2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,chemistry,Multiple Choice,8) Chemistry – Multiple Choice Which of the following mixtures of solvents would have a negative deviation from Raoult's [rah-OOLZ] law? W) Water and acetone X) Water and ethanol Y) Hexane and acetone Z) Hexane and pentane,W) WATER AND ACETONE
-bonus,chemistry,Short Answer,8) Chemistry – Short Answer Rank the following three alkanes in increasing order of their melting points: 1) Pentane; 2) Ethane; 3) Nonane.,"2, 1, 3
-2019 Regional Science Bowl – Round 3A Page 4"
-toss-up,physics,Short Answer,9) Physics – Short Answer Identify all of the following three statements that are true of specific gravity: 1) It can be expressed in grams per liter; 2) Some materials can have a negative specific gravity; 3) Aluminum has a positive specific gravity.,3
-bonus,physics,Short Answer,"9) Physics – Short Answer Kate pushes a box 3 meters horizontally by applying a 200-newton force at an angle of 60 degrees to the horizontal. In joules, how much work did she do on the box?","300
+toss-up,math,Short Answer,"8) Math – Short Answer If exactly 14 diagonals of a particular convex polygon contain the same vertex, how many total sides does the polygon have?",17
+bonus,math,Short Answer,"8) Math – Short Answer Evaluate the summation, from n = 1 to infinity, of the fraction with numerator 40 and denominator 5n.",10
+toss-up,,Multiple Choice,9) Earth and Space – Multiple Choice A waning gibbous [JIH-bus] moon describes which of the following parts of the lunar cycle? W) Third quarter moon to new moon X) Full moon to third quarter moon Y) First quarter moon to full moon Z) New moon to first quarter moon,X) FULL MOON TO THIRD QUARTER MOON
+bonus,,Short Answer,"9) Earth and Space – Short Answer Telescope A has 2 times the light gathering power of telescope B. If telescopes A and B are of the same type of telescope, what is the ratio of the diameter of telescope A to that of telescope B?","√2 (ACCEPT: √2 TO ONE)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,,Multiple Choice,10) Earth and Space – Multiple Choice Which of the following is NOT a geologic period? W) Devonian X) Jurassic Y) Paleogene Z) Cenozoic [SEN-oh-ZOH-ik],Z) CENOZOIC
-bonus,,Multiple Choice,10) Earth and Space – Multiple Choice Which soil horizon typically contains clay transported from overlying horizons? W) A X) E Y) B Z) C,"Y) B
-2019 Regional Science Bowl – Round 3A Page 5"
-toss-up,math,Short Answer,11) Math – Short Answer The graph of the equation y = 4x + 5 has points in all quadrants except which one?,4 (ACCEPT: FOURTH)
-bonus,math,Short Answer,11) Math – Short Answer What is the units digit of 9 to the 66th power?,"1
+toss-up,energy,Short Answer,"10) Energy – Short Answer Researchers at Ames Lab are developing a sub-diffraction Raman platform. In this case, sub-diffraction refers to the diffraction of what?","LIGHT (ACCEPT: ELECTROMAGNETIC WAVES, PHOTONS)"
+bonus,energy,Short Answer,10) Energy – Short Answer The DES at Fermi National Accelerator Lab is studying the properties of what energy in the universe that is thought to counteract the effects of gravity?,DARK ENERGY
+toss-up,chemistry,Short Answer,11) Chemistry – Short Answer Rank the following three species in terms of increasing basicity: 1) Chloride; 2) Cyanide; 3) Water.,"1, 3, 2"
+bonus,chemistry,Short Answer,11) Chemistry – Short Answer 2-methylpropene can react with hydrogen bromide to form 2-bromo-2-methyl-propane. Identify all of the following three species that act as nucleophiles in this reaction: 1) Bromide; 2) Pi [pie] bond; 3) Sigma bond.,"1, 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,energy,Short Answer,12) Energy – Short Answer Researchers at the Joint BioEnergy Institute are searching for temperature-stable cellulase enzymes. What group of extremophiles [extreme-oh-files] may contain these enzymes?,THERMOPHILES
-bonus,energy,Short Answer,12) Energy – Short Answer Scientists at Oak Ridge National Lab are using neutron spallation to study rocks fractured in the process of fracking. These rocks fractured because they were subjected to what substance at very high pressures?,"WATER (ACCEPT: H O)
-2
-2019 Regional Science Bowl – Round 3A Page 6"
-toss-up,chemistry,Short Answer,13) Chemistry – Short Answer What part of a galvanic [gal-VAN-ik] cell allows ions to flow between the compartments without mixing of the solutions in those compartments?,SALT BRIDGE (ACCEPT: POROUS DISK)
-bonus,chemistry,Short Answer,13) Chemistry – Short Answer How many radial nodes are in a 5p orbital?,"3
+toss-up,biology,Multiple Choice,12) Biology – Multiple Choice Which of the following plant hormones play a role in fruit ripening? W) Gibberellins [jib-er-ELL-ins] X) Abscisic [ab-SIH-zik] acid Y) Cytokinins [sigh-toh-KYE-nins] Z) Brassinosteroids,W) GIBBERELLINS
+bonus,biology,Short Answer,12) Biology – Short Answer Identify all of the following three substances that are able to pass through the glomerulus [glo-MAIR-yoo-lus] of a healthy nephron [NEF-ron] into the filtrate: 1) Albumin; 2) Glucose; 3) Red blood cell.,2
+toss-up,physics,Short Answer,13) Physics – Short Answer The mass of an oscillator [AWS-ih-later] is doubled. Identify all of the following three systems in which the resulting period of oscillation will NOT significantly change as a result of the change in mass: 1) Pendulum; 2) Spring; 3) Orbiting satellite.,"1, 3"
+bonus,physics,Short Answer,"13) Physics – Short Answer The permeability of free space is 1.26×10-6 when expressed in SI base units. If a current of 10 amperes flows through a wire, then to the nearest whole microtesla, what is the strength of the induced magnetic field 1 meter from the wire?","2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,math,Short Answer,14) Math – Short Answer What is the second derivative with respect to x of 2x3 + 4x – 7?,12x
-bonus,math,Short Answer,"14) Math – Short Answer A class of 10 students selects a different student of the month each month during February, March, April, and May. In how many different ways can the 4 honored students be selected?","5040
-2019 Regional Science Bowl – Round 3A Page 7"
-toss-up,energy,Short Answer,"15) Energy – Short Answer Observations made with the Laser Interferometer [inter-feer-AW-meh-ter] Gravitational-Wave Observatory, or LIGO, mark the dawn of gravitational wave astronomy. What is the ratio of the speed of gravitational waves to the speed of light?",ONE (ACCEPT: ONE TO ONE)
-bonus,energy,Multiple Choice,"15) Energy – Multiple Choice In a nuclear reactor, the consumption of uranium fuel results in the production of fission gases. Which of the following noble gases is commonly produced? W) Helium X) Argon Y) Xenon [ZEE-non] Z) Neon","Y) XENON
+toss-up,chemistry,Short Answer,14) Chemistry – Short Answer What gas law implies that the volume of an ideal gas is directly proportional to its temperature?,CHARLES’S LAW
+bonus,chemistry,Short Answer,14) Chemistry – Short Answer Identify all of the following three nuclides that are likely to undergo beta-minus decay over other forms of nuclear decay: 1) Carbon-14; 2) Nitrogen-13; 3) Polonium [pawl-OH-nee-um]-210.,1
+toss-up,,Short Answer,"15) Earth and Space – Short Answer What is the name of the climate phenomenon in which high atmospheric pressure builds in the Western Pacific, causing the trade winds to weaken or reverse direction?",EL NIÑO (DO NOT ACCEPT: LA NIÑA)
+bonus,,Short Answer,"15) Earth and Space – Short Answer A slab of oceanic lithosphere is subducting at a rate of 8 centimeters per year. How far, in meters, will the slab subduct in 5 centuries if current rates are maintained?","40
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,physics,Short Answer,16) Physics – Short Answer Identify all of the following three statements that are true about friction: 1) Friction is a non-conservative force; 2) Tires require friction in order to roll; 3) The coefficient of static friction is typically less than the coefficient of kinetic friction.,"1, 2"
-bonus,physics,Short Answer,16) Physics – Short Answer Identify all of the following three quantities associated with a test charge in an electrostatic system that are dependent on the magnitude of the charge on the test charge: 1) Electric field; 2) Electrical potential; 3) Electric potential energy.,"3
-2019 Regional Science Bowl – Round 3A Page 8"
-toss-up,,Multiple Choice,17) Earth and Space – Multiple Choice What principle of geology states that sedimentary beds originate as continuous layers that extend in all directions and eventually grade into different sediments or thin out? W) Superposition X) Original horizontality Y) Faunal succession Z) Lateral continuity,Z) LATERAL CONTINUITY
-bonus,,Short Answer,17) Earth and Space – Short Answer Identify all of the following three types of storms that are tropical cyclones: 1) Tornado; 2) Typhoon; 3) Derecho [de-RAY-cho].,"2
+toss-up,biology,Multiple Choice,16) Biology – Multiple Choice Which of the following types of signaling best describes cellular communication via hormones? W) Exocrine [EX-oh-krin] X) Endocrine [EN-doh-krin] Y) Paracrine [para-krin] Z) Autocrine [auto-krin],X) ENDOCRINE
+bonus,biology,Short Answer,16) Biology – Short Answer Identify all of the following three conditions that apply to a population in Hardy-Weinberg equilibrium: 1) Selection pressure; 2) Gene flow to other populations; 3) Random mating.,3
+toss-up,math,Short Answer,17) Math – Short Answer Solve the following equation for x: log base 2 of open parenthesis x + 5 close parenthesis = 5?,27
+bonus,math,Short Answer,17) Math – Short Answer An isosceles trapezoid with integer side lengths has bases of length 24 and 40. What is the minimum possible length of its shortest side?,"9
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,biology,Short Answer,18) Biology – Short Answer Pulmonary veins bring blood to what chamber of the mammalian heart?,LEFT ATRIUM
-bonus,biology,Short Answer,18) Biology – Short Answer Chytrid [KIH-trid] cell walls are supported by what polymer?,"CHITIN
-2019 Regional Science Bowl – Round 3A Page 9"
-toss-up,math,Short Answer,"19) Math – Short Answer The point (7, 6) is reflected across the y-axis, and the resulting point is then translated 2 units down. What are the coordinates of the final image point?","(–7, 4) (ACCEPT: x = –7 AND y = 4))"
-bonus,math,Short Answer,19) Math – Short Answer For what values of c is x = c a vertical asymptote for the function f of x = the fraction with numerator x2 – 49 and denominator 2x2 + 9x – 35?,"5/2 (ACCEPT: 2.5, 2½)
+toss-up,energy,Multiple Choice,18) Energy – Multiple Choice Research from the Pacific Northwest National Lab indicates that plant mortality in the moist tropics can be largely attributed to what two factors? W) Carbon glut and hydraulic failure X) Carbon starvation and hydraulic failure Y) Carbon glut and overhydration Z) Carbon starvation and overhydration,X) CARBON STARVATION AND HYDRAULIC FAILURE
+bonus,energy,Multiple Choice,"18) Energy – Multiple Choice Fermi National Lab scientists demonstrated the accuracy of lattice quantum chromodynamics, which is a theory that, among other predictions, predicts which of the following experimental observations? W) Color confinement X) Electron capture Y) Beta plus decay Z) Nuclear fission",W) COLOR CONFINEMENT
+toss-up,,Short Answer,19) Earth and Space – Short Answer What is the boundary between an isolated volume of space-time and the rest of the universe?,EVENT HORIZON
+bonus,,Short Answer,19) Earth and Space – Short Answer What name is given to the regions of the asteroid belt that contain few asteroids and correspond to orbital resonances with Jupiter?,"KIRKWOOD GAPS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,biology,Short Answer,20) Biology – Short Answer The nucleolus in eukaryotic cells is the site of the synthesis of the components of what organelle?,RIBOSOME
-bonus,biology,Short Answer,20) Biology – Short Answer Place the following three structures in the order in which air would pass through them during expiration: 1) Pharynx; 2) Larynx; 3) Trachea.,"3, 2, 1
-2019 Regional Science Bowl – Round 3A Page 10"
-toss-up,physics,Short Answer,21) Physics – Short Answer Planet X has the same mass as Earth but one-third of its surface gravitational acceleration. What is the ratio of planet X’s radius to Earth’s radius?,√3 (ACCEPT: √3 TO ONE)
-bonus,physics,Short Answer,"21) Physics – Short Answer Identify all of the following three statements that are true of electric dipoles in an electric field: 1) A non-uniform field can cause translational acceleration; 2) In a uniform field, the net torque is directly proportional to the field strength; 3) In a uniform field, the net force is zero.","ALL OF THEM
+toss-up,chemistry,Short Answer,20) Chemistry – Short Answer Sodium metal is produced by the electrolysis of sodium chloride in what special type of cell?,DOWNS CELL
+bonus,chemistry,Short Answer,20) Chemistry – Short Answer What is the oxidation state of oxygen in hydrogen peroxide?,NEGATIVE ONE
+toss-up,math,Short Answer,"21) Math – Short Answer If f of x equals 4x2 – x + 3, what is f of –2?",21
+bonus,math,Short Answer,"21) Math – Short Answer An airplane is traveling at 380 miles per hour with respect to the Earth. The Sun’s reflection off the plane illuminates a small area on the surface of the Earth. A passenger on the plane observes this illuminated spot move between two houses in 15 seconds. Expressing your answer as a decimal to the nearest tenth of a mile, how far apart are the two houses?","1.6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-toss-up,chemistry,Short Answer,"22) Chemistry – Short Answer In organic chemistry, what is the term for a species with empty orbitals that tends to accept electrons in a chemical reaction?",ELECTROPHILE
-bonus,chemistry,Short Answer,22) Chemistry – Short Answer Rank the following three isotopes in terms of increasing number of neutrons; 1) Cobalt-57; 2) Iron-57; 3) Manganese-57.,"1, 2, 3
-2019 Regional Science Bowl – Round 3A Page 11"
-toss-up,,Short Answer,23) Earth and Space – Short Answer Ishtar Terra is a surface province on what solar system object?,VENUS
-bonus,,Short Answer,"23) Earth and Space – Short Answer What prominent star in the night sky has the approximate celestial sphere coordinates of 2 hours, 32 minutes right ascension and 89 degrees, 16 minutes declination?","POLARIS (ACCEPT: NORTH STAR, ALPHA URSAE MINORIS)
-2019 Regional Science Bowl – Round 3A Page 12"
+toss-up,biology,Short Answer,22) Biology – Short Answer Stones made of precipitated bile products can sometimes cause problems in the digestive system. What organ can be surgically removed to remedy this?,GALLBLADDER
+bonus,biology,Short Answer,"22) Biology – Short Answer Based on modern taxonomy, how many domains of life are there?",3
+toss-up,physics,Short Answer,"23) Physics – Short Answer A Leyden [LAY-den] jar, which has a layer of metal coating the inside and outside of a glass jar, is an early form of what circuit component?",CAPACITOR
+bonus,physics,Short Answer,"23) Physics – Short Answer Given that the electric constant is 8.9 times 10 –12 farads [FAIR- adz] per meter and a charge of 8 times 10 –11 coulombs is at the center of a spherical surface, then, to the nearest volt-meter, what is the electric flux that passes through the surface?",9

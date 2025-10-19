@@ -2,21 +2,12 @@ import requests
 import pdfplumber
 import csv
 import os
-import re #regex for parsing logic
+import re 
 
-#collection of URLS for many pdfs (around 17 per SET. each person does 3-4 sets)
 pdf_urls = [
-    # "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-1A.pdf",
-    # "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-2A.pdf",
-    "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-3A.pdf",
-    "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-4A.pdf",
-    "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-5A.pdf",
-    "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-6A.pdf",
-    "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-15A.pdf",
-    "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-16A.pdf",
-    "https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-13/2019-NSB-HSR-Round-17A.pdf"
+    
+   #MIDDLE SCHOOL PDF URLS GO HERE!!! THANK U FOR DOING THIS NOBLE WORK
 
-    # ADD MORE PDF URLS
 ]
 
 def download_pdf(url, path):
@@ -43,7 +34,8 @@ def extract_text(pdf_path):
 
 def cleanUnwanted(text):
     # Removes page and round notes like "High School Round X Page Y" anywhere in the string.
-    return re.sub(r'2019 Regional Science Bowl – Round \s*\d+A Page \s*\d+', '', text, flags=re.IGNORECASE).strip()
+    return re.sub(r'High School Round\s*\d+\s*Page\s*\d+', '', text, flags=re.IGNORECASE).strip()
+        #LOOK CAREFULLY -- EXAMINE THE UNWANTED PAGE FOOTERS AND PUT THAT SAME EXPRESSION HERE
 
 def parse_questions(text):
     pattern = r'(TOSS-UP|BONUS)\s+.*?(.*?)ANSWER:\s*(.*?)(?=(?:TOSS-UP|BONUS|$))'
@@ -76,6 +68,7 @@ def parse_questions(text):
     return questions
 
 
+
 def write_csv(data, filepath):
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
     with open(filepath, mode='w', newline='', encoding='utf-8') as f:
@@ -88,7 +81,7 @@ def write_csv(data, filepath):
 # loop thru pdfs
 for i, url in enumerate(pdf_urls, 1):
     local_pdf = f"round{i}.pdf"
-    output_csv = f"high_school/raw_data/set13round{i}.csv"
+    output_csv = f"middle_school/raw_data/set1round{i}.csv" #CHANGE THE SET NUMBER!!!!!
     print(f"Processing {url}...")
     download_pdf(url, local_pdf)
     pdf_text = extract_text(local_pdf)
