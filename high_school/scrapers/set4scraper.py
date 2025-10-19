@@ -48,6 +48,8 @@ def extract_text(pdf_path):
             text += page.extract_text() + "\n"
     return text
 
+#REMOVE: ROUND __ PAGE ___
+
 def parse_questions(text):
     pattern = r'(TOSS-UP|BONUS)\s+.*?(.*?)ANSWER:\s*(.*?)(?=(?:TOSS-UP|BONUS|$))'
     #question type, answer

@@ -2,76 +2,63 @@ type,subject,format,question,answer
 toss-up,biology,Multiple Choice,Robert Hooke coined the term ‘cell’ mostly because of: W) his observations of red blood cells X) his observations of cork cells Y) his analysis of hundreds of different protozoans Z) his readings of the works of other early microscopists,X) HIS OBSERVATIONS OF CORK CELLS
 bonus,biology,Short Answer,Name all of the following 4 organisms that would be considered to have radial symmetry: flatworms; cestodes; Echinoderms; sea urchins,ECHINODERMS; SEA URCHINS
 toss-up,chemistry,Multiple Choice,Which of the following properties BEST explains why small liquid water droplets on a clean sheet of glass often coalesce into larger spherical water droplets: W) tensile strength X) capillary action Y) surface tension Z) viscosity,Y) SURFACE TENSION
-bonus,chemistry,Short Answer,Arrange the following 3 liquids in order of DECREASING surface tension at 20ºC: water; ethanol; mercury,"MERCURY; WATER; ETHANOL
-2007 Regional Science Bowl – Page 1"
+bonus,chemistry,Short Answer,Arrange the following 3 liquids in order of DECREASING surface tension at 20ºC: water; ethanol; mercury,MERCURY; WATER; ETHANOL
 toss-up,physics,Multiple Choice,"For a given time interval, when is the average velocity of an object equal to the instantaneous velocity for every time in the interval: W) never X) always Y) only when the velocity is changing at a constant rate Z) only when the velocity is constant",Z) ONLY WHEN THE VELOCITY IS CONSTANT
 bonus,physics,Multiple Choice,"In a tug-of-war, each person on a team pulls with an average force of 500 newtons. What is the tension in the center of the rope if there are 10-man teams on each side: W) 0 newtons X) 2,500 newtons Y) 5,000 newtons Z) 10,000 newtons","Y) 5,000 NEWTONS"
 toss-up,math,Multiple Choice,"Which of the following numbers is evenly divisible by 4: W) 1,722 X) 2,636 Y) 4,114 Z) 6,126","X) 2,636
 (Solution: 36, the last 2 digits, is a multiple of 4)"
 bonus,math,Short Answer,"Rounded to the nearest centimeter, if side A of a right triangle measures 2 centimeters and side B measures 10 centimeters, what is the length of the hypotenuse?","10
-(Solution: 22 + 102 = c2; c = 10.20 = 10)
-2007 Regional Science Bowl – Page 2"
+(Solution: 22 + 102 = c2; c = 10.20 = 10)"
 toss-up,earth science,Multiple Choice,Which of the following BEST describes Earth’s current climate type: W) glacial X) interglacial Y) pre-ice age Z) post-ice age,X) INTERGLACIAL
 bonus,earth science,Multiple Choice,Which of the following is NOT true about volcanoes: W) stratovolcanoes are typically found at convergent plate boundaries X) 80% of all magma erupted by volcanoes on Earth is basaltic Y) Mount Kilimanjaro is a stratovolcano Z) the Ring of Fire is dominated by volcanoes that erupt basaltic magma,"Z) THE RING OF FIRE IS DOMINATED BY VOLCANOES THAT ERUPT
 BASALTIC MAGMA"
 toss-up,,Multiple Choice,"6) GENERAL SCIENCE Multiple Choice Which of the following numbers has 6 significant figures: W) 55.0000 X) 555,000 Y) 0.00500 Z) 0.55000",W) 55.0000
-bonus,,Short Answer,6) GENERAL SCIENCE Short Answer What is the Roman numeral equivalent of the year 1776?,"MDCCLXXVI
-2007 Regional Science Bowl – Page 3"
+bonus,,Short Answer,6) GENERAL SCIENCE Short Answer What is the Roman numeral equivalent of the year 1776?,MDCCLXXVI
 toss-up,,Multiple Choice,7) ASTRONOMY Multiple Choice Which of the following is NOT true: W) Vega is part of the summer triangle X) the Seven Sisters is a star cluster Y) Cassiopeia is a constellation generally shaped like a W Z) cosmic rays are electromagnetic radiation of very high energies,"Z) COSMIC RAYS ARE ELECTROMAGNETIC RADIATION OF VERY HIGH
 ENERGIES"
 bonus,,Short Answer,7) ASTRONOMY Short Answer The north magnetic pole of the Sun reverses every so many years. How many years does it take for one complete cycle for the Sun to return to its original state or what might be looked at as two reversals?,22
 toss-up,biology,Multiple Choice,The cloaca (read as: klo-AY-ka) is a reproductive structure of: W) female bird X) male shark Y) female cestode Z) male lobster,W) FEMALE BIRD
-bonus,biology,Multiple Choice,Which of the following does NOT belong to the Arthropoda: W) Arachnida X) Diplopoda Y) Chilopoda Z) Nematoda,"Z) NEMATODA
-2007 Regional Science Bowl – Page 4"
+bonus,biology,Multiple Choice,Which of the following does NOT belong to the Arthropoda: W) Arachnida X) Diplopoda Y) Chilopoda Z) Nematoda,Z) NEMATODA
 toss-up,chemistry,Short Answer,"The conversion of olein, a liquid oil, into stearin, a solid fat, by the addition of hydrogen in the presence of a catalyst and high heat is commonly known as what type of reaction?",HYDROGENATION
 bonus,chemistry,Short Answer,How many parts per million of arsenic are in a 2-gram water sample if it contains 8.0 micrograms of arsenic?,"4
 (Solution: 8 × 10-6g/2g = 4 × 10-6g = 4 ppm)"
 toss-up,physics,Short Answer,What are typically given as the two parameters of a velocity vector?,MAGNITUDE AND DIRECTION (ACCEPT: SPEED FOR MAGNITUDE)
-bonus,physics,Multiple Choice,Which of the following conditions must be true for Hooke’s law to apply: W) the spring must be within its proportional elastic limit X) the spring must me made of cold formed steel coils Y) the deflection of the spring must be less than one tenth the spring’s free length Z) the carbon content of the metal must be over 0.023 percent,"W) THE SPRING MUST BE WITHIN ITS PROPORTIONAL ELASTIC LIMIT
-2007 Regional Science Bowl – Page 5"
+bonus,physics,Multiple Choice,Which of the following conditions must be true for Hooke’s law to apply: W) the spring must be within its proportional elastic limit X) the spring must me made of cold formed steel coils Y) the deflection of the spring must be less than one tenth the spring’s free length Z) the carbon content of the metal must be over 0.023 percent,W) THE SPRING MUST BE WITHIN ITS PROPORTIONAL ELASTIC LIMIT
 toss-up,math,Short Answer,Boolean algebra involves ideas or subjects that have how many possible states?,2
 bonus,math,Short Answer,"What is the least common denominator of the following 3 fractions: 2 7 7 , and 5 6 12",60
 toss-up,earth science,Multiple Choice,The zone of aeration is BEST described as pores in rock or soil that contain: W) only water X) only oil Y) air and water Z) oil and water,Y) AIR AND WATER
-bonus,earth science,Multiple Choice,Which of the following is a compressional elastic seismic wave that causes rock particles to move back and forth parallel to wave direction: W) Rayleigh-wave X) P-wave Y) S-wave Z) L-wave,"X) P-WAVE
-2007 Regional Science Bowl – Page 6"
+bonus,earth science,Multiple Choice,Which of the following is a compressional elastic seismic wave that causes rock particles to move back and forth parallel to wave direction: W) Rayleigh-wave X) P-wave Y) S-wave Z) L-wave,X) P-WAVE
 toss-up,,Multiple Choice,13) GENERAL SCIENCE Multiple Choice Which of the following is MOST closely related to the mosquito: W) fly X) wasp Y) human body louse Z) dragonfly,W) FLY
 bonus,,Multiple Choice,13) GENERAL SCIENCE Multiple Choice Which of the following vitamins is NOT properly matched with its function in humans: W) vitamin E and antioxidant action X) vitamin C and collagen production Y) vitamin D and calcium absorption Z) vitamin A and absorption of iron,Z) VITAMIN A AND ABSORPTION OF IRON
 toss-up,,Multiple Choice,14) ASTRONOMY Multiple Choice Which of the following would have a Widmanstätten Pattern: W) meteorite X) comet Y) planet Z) constellation,W) METEORITE
 bonus,,Multiple Choice,14) ASTRONOMY Multiple Choice Which of the following is the BEST description of the H-R Diagram: W) it plots apparent brightness versus age X) it plots luminosity versus surface temperature with highest temperatures on the right Y) it plots luminosity versus surface temperature with highest temperatures on the left Z) it plots apparent magnitude versus average stellar temperature,"Y) IT PLOTS LUMINOSITY VERSUS SURFACE TEMPERATURE WITH
-HIGHEST TEMPERATURES ON THE LEFT
-2007 Regional Science Bowl – Page 7"
+HIGHEST TEMPERATURES ON THE LEFT"
 toss-up,biology,Multiple Choice,Which of the following is a function of the pollen tube in flowering plants: W) attaches pollen to the developing anther X) allows pollen to absorb nutrients as they develop in the anther Y) enables the ovule to breach through the micropyle Z) carries the sperm nuclei to the ovule,Z) CARRIES THE SPERM NUCLEI TO THE OVULE
 bonus,biology,Short Answer,Most of the molecular oxygen in Earth’s atmosphere came from what biological process?,PHOTOSYNTHESIS
 toss-up,chemistry,Short Answer,What simple alcohol is commercially produced by reacting carbon monoxide and hydrogen gas under pressure and heat and in the presence of a catalyst?,"METHANOL (ACCEPT: CH OH or METHYL ALCOHOL or WOOD ALCOHOL)
 3
 (Solution: CO + 2H à CH OH)
 2 3"
-bonus,chemistry,Short Answer,"In standard chemical nomenclature, what is the ground-state electron configuration for fluorine?","1s22s22p5 (ACCEPT: [He]2s22p5)
-2007 Regional Science Bowl – Page 8"
+bonus,chemistry,Short Answer,"In standard chemical nomenclature, what is the ground-state electron configuration for fluorine?",1s22s22p5 (ACCEPT: [He]2s22p5)
 toss-up,physics,Short Answer,Which one of the following 5 colors of light has the LEAST angle of refraction in normal glass: blue; green; orange; yellow; red,RED
 bonus,physics,Short Answer,"For a standing wave on a guitar string, the first overtone represents what harmonic?",SECOND
 toss-up,math,Short Answer,"Simplify the following, giving your answer in simplest radical form: 9 x6 (read as: the ninth root of x to the sixth power)",3 x2
-bonus,math,Short Answer,"Multiply the following, giving your answer in standard form and without 2 2 negative exponents or radicals: (a3 +b3)2 4 2 2 4","a3 +2a3b3 +b3
-2007 Regional Science Bowl – Page 9"
+bonus,math,Short Answer,"Multiply the following, giving your answer in standard form and without 2 2 negative exponents or radicals: (a3 +b3)2 4 2 2 4",a3 +2a3b3 +b3
 toss-up,earth science,Multiple Choice,Glacial till is: W) sorted and stratified X) sorted and unstratified Y) unsorted and stratified Z) unsorted and unstratified,Z) UNSORTED AND UNSTRATIFIED
 bonus,earth science,Multiple Choice,In which period of the Geological Time Scale did trilobites first appear: W) Permian X) Cambrian Y) Devonian Z) Silurian,X) CAMBRIAN
 toss-up,,Multiple Choice,20) GENERAL SCIENCE Multiple Choice Which of the following is NOT true: W) phosphorous is used in the manufacture of detergents X) nitric acid is used in the manufacture of fertilizers Y) lead ore is most commonly mined in bauxite Z) flotation separation is used in the preparation of ores,"Y) LEAD ORE IS MOST COMMONLY MINED IN BAUXITE
 (Solution: lead ore is galena)"
-bonus,,Multiple Choice,20) GENERAL SCIENCE Multiple Choice Which of the following is one of the MAIN ways of preventing Brucellosis in humans: W) avoid person-to-person contact X) consume only pasteurized dairy products Y) avoid flea bites Z) boil all drinking water,"X) CONSUME ONLY PASTEURIZED DAIRY PRODUCTS
-2007 Regional Science Bowl – Page 10"
+bonus,,Multiple Choice,20) GENERAL SCIENCE Multiple Choice Which of the following is one of the MAIN ways of preventing Brucellosis in humans: W) avoid person-to-person contact X) consume only pasteurized dairy products Y) avoid flea bites Z) boil all drinking water,X) CONSUME ONLY PASTEURIZED DAIRY PRODUCTS
 toss-up,,Multiple Choice,21) ASTRONOMY Multiple Choice Which of the following constellations are circumpolar for people in North America and are found on opposite sides and close to Polaris: W) Cassiopeia and Ursa Major X) Orion and Leo Y) Aquarius and Capricorn Z) Leo and Sagittarius,W) CASSIOPEIA AND URSA MAJOR
 bonus,,Short Answer,21) ASTRONOMY Short Answer What is the astronomical distance at which a star would have a parallax of 1 arcsecond?,PARSEC
 toss-up,biology,Short Answer,What is the scientific name for the openings in the grasshopper body through which air enters?,SPIRACLES
 bonus,biology,Short Answer,Name all of the following 4 cellular structures that are NOT typically found in diploid higher plant cells: centrioles; flagella; lysosomes; plasmodesmata,"CENTRIOLES; FLAGELLA; LYSOSOMES
-(Solution: flagella are found in certain plants sperm cells; centrioles in some algae)
-2007 Regional Science Bowl – Page 11"
+(Solution: flagella are found in certain plants sperm cells; centrioles in some algae)"
 toss-up,chemistry,Multiple Choice,Which of the following classifications of crystalline solids is NOT true: W) quartz is a covalent network solid X) calcium carbonate is an ionic solid Y) sucrose is a molecular solid Z) iron sulfide is a glassy solid,Z) IRON SULFIDE IS A GLASSY SOLID
 bonus,chemistry,Short Answer,What is the empirical formula for the following: C H N O 18 33 6 3,"C H N O
 6 11 2"
 toss-up,physics,Short Answer,"At normal operating speed for a motor vehicle, how many times as much kinetic energy does a car have if its velocity is doubled?",4 TIMES
 bonus,physics,Short Answer,"Relative to the floor, what is the gravitational potential energy, in joules, of a 25-newton bag of beans on a shelf 5 meters above the floor?","125
-(Solution: PE = 25 N × 5 m = 125 J)
-2007 Regional Science Bowl – Page 12"
+(Solution: PE = 25 N × 5 m = 125 J)"
 toss-up,biology,Short Answer,Organisms that have radial symmetry and belong to the Radiata typically have how many germ layers?,2
-bonus,biology,Short Answer,Name all of the following 5 animal groups that are NOT echinoderms: sea urchins; sand dollars; tunicates; rotifers; brittle stars,"TUNICATES; ROTIFERS
-2007 Regional Science Bowl – Page 13"
+bonus,biology,Short Answer,Name all of the following 5 animal groups that are NOT echinoderms: sea urchins; sand dollars; tunicates; rotifers; brittle stars,TUNICATES; ROTIFERS
