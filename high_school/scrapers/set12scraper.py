@@ -49,9 +49,12 @@ def extract_text(pdf_path):
             text += page.extract_text() + "\n"
     return text
 
+def cleanUnwanted(text):
+    # Removes page and round notes like "High School Round X Page Y" anywhere in the string.
+    return re.sub(r'High School - Round \s*\d+A Page \s*\d+', '', text, flags=re.IGNORECASE).strip()
+
 def parse_questions(text):
     pattern = r'(TOSS-UP|BONUS)\s+.*?(.*?)ANSWER:\s*(.*?)(?=(?:TOSS-UP|BONUS|$))'
-    #question type, answer
     matches = re.findall(pattern, text, re.DOTALL | re.IGNORECASE)
     questions = []
     for qtype, question_text, answer in matches:
@@ -59,21 +62,24 @@ def parse_questions(text):
         # SUBJECT
         subject_match = re.search(r'(BIOLOGY|CHEMISTRY|PHYSICS|ENERGY|EARTH SCIENCE|MATH)', question_text, re.IGNORECASE)
         subject = subject_match.group(1).lower() if subject_match else None
-        #QUESTION FORMAT
+        # QUESTION FORMAT
         format_match = re.search(r'(Short Answer|Multiple Choice)', question_text, re.IGNORECASE)
         q_format = format_match.group(1) if format_match else None
-        
+
         # REMOVE: number, subject and question format from question (redundant)
         prefix_pattern = r'^\s*\d+\)\s*' + (subject if subject else '') + r'\s*' + (q_format if q_format else '') 
         question_clean = re.sub(prefix_pattern, '', question_text, flags=re.IGNORECASE).strip()
         question_clean = ' '.join(question_clean.split())
+        
+        # Remove spurious header/footer from answer
+        answer_clean = cleanUnwanted(answer.strip())
 
         questions.append({
             'type': qtype_norm,
             'subject': subject,
             'format': q_format,
             'question': question_clean,
-            'answer': answer.strip()
+            'answer': answer_clean
         })
     return questions
 

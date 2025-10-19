@@ -4,78 +4,65 @@ bonus,,Short Answer,"1) EARTH AND SPACE Short Answer By name or number, put the 
 HUMANS, FORMATION OF THE GREAT LAKES (ACCEPT: 2, 4, 1, 3)
 _______________________________________________________"
 toss-up,physics,Short Answer,"Turbulent flow is more likely to occur under conditions where Reynolds numbers are high. Under these conditions, what forces are dominant in the system's fluid?",INERTIAL
-bonus,physics,Short Answer,"A 10-meter long cannon is pointed directly up and launches a 1- kilogram cannon ball. The cannon ball is accelerated up the length of the cannon with a constant force of 13.2 newtons due to the explosion. Given g as 10 meters per second squared and assuming no energy loss due to friction, what is the velocity, in meters per second, of the cannon ball as it leaves the cannon?","8
-Round 2 Page 1"
+bonus,physics,Short Answer,"A 10-meter long cannon is pointed directly up and launches a 1- kilogram cannon ball. The cannon ball is accelerated up the length of the cannon with a constant force of 13.2 newtons due to the explosion. Given g as 10 meters per second squared and assuming no energy loss due to friction, what is the velocity, in meters per second, of the cannon ball as it leaves the cannon?",8
 toss-up,,Multiple Choice,"3) EARTH AND SPACE Multiple Choice Which of the following BEST describes what happens to continental crust as glaciers melt and retreat? W) Springs fill in low-lying regions left behind X) The crust remains deformed, leaving large synclines Y) The crust isostatically rebounds Z) There is no impact on the crust",Y) THE CRUST ISOSTATICALLY REBOUNDS
 bonus,,Multiple Choice,"3) EARTH AND SPACE Multiple Choice Sinkholes, disappearing streams, and caves are found in which of the following types of regions? W) Marshes X) Glaciated alpine Y) Outwash plains Z) Karst topography","Z) KARST TOPOGRAPHY
 _______________________________________________________"
 toss-up,energy,Short Answer,"What is the term for the liquid, consisting of precipitation and waste decomposition, that has been filtered through a landfill?",LEACHATE
-bonus,energy,Short Answer,"What is the name of an energy storage technology in which electrical energy is stored by accelerating a rotor, maintaining the energy in the system as rotational energy?","FLYWHEEL
-Round 2 Page 2"
+bonus,energy,Short Answer,"What is the name of an energy storage technology in which electrical energy is stored by accelerating a rotor, maintaining the energy in the system as rotational energy?",FLYWHEEL
 toss-up,biology,Multiple Choice,"Wolves are introduced to an island populated with white-tailed deer. After several generations, the average sprint speed of the deer increased significantly relative to the wolf introduction period. In evolutionary terms, of which of the following kinds of selection is this is an example? W) Disruptive X) Stabilizing Y) Directional Z) Kin",Y) DIRECTIONAL
 bonus,biology,Short Answer,What is the name of the major excretory organ found in insects?,"MALPIGHIAN TUBULE
 _______________________________________________________"
 toss-up,math,Short Answer,What is the multiplicative identity of the complex numbers in standard a + bi form?,1 + 0i (ACCEPT: 1)
-bonus,math,Short Answer,Factor the following polynomial completely over the real numbers: x3 + 3x2 – 5x – 15.,"(x + 3)(x + 5)(x - 5) (IN ANY ORDER)
-Round 2 Page 3"
+bonus,math,Short Answer,Factor the following polynomial completely over the real numbers: x3 + 3x2 – 5x – 15.,(x + 3)(x + 5)(x - 5) (IN ANY ORDER)
 toss-up,biology,Multiple Choice,"In insects, larval imaginal discs typically produce all of the following adult structures, EXCEPT: W) Legs X) Wings Y) Abdomens Z) Antennae",Y) ABDOMENS
 bonus,biology,Short Answer,A plant has both megasporangiate (read as: meh-gah-spoh-RAHN- jeet) and microsporangiate (read as: my-krōe-spoh-RAHN-jeet) flowers on the same plant. Indicate the term that describes this type of plant.,"MONOECIOUS
 _______________________________________________________"
 toss-up,energy,Short Answer,What element is the primary component of most photovoltaic cells?,SILICON
-bonus,energy,Short Answer,"What do we call the point in time when the maximum rate of global petroleum extraction is reached, after which the rate of production declines?","PEAK OIL
-Round 2 Page 4"
+bonus,energy,Short Answer,"What do we call the point in time when the maximum rate of global petroleum extraction is reached, after which the rate of production declines?",PEAK OIL
 toss-up,physics,Short Answer,"If we double the voltage in a simple DC circuit and reduce the resistance by half, what will happen to the value of the current?",QUADRUPLE
 bonus,physics,Short Answer,"By name or number, identify all of the following three choices that are apparent differences between a muon and an electron: 1) mass, 2) electric charge, 3) half life?","MASS AND HALF LIFE (ACCEPT: 1 AND 3)
 _______________________________________________________"
 toss-up,biology,Multiple Choice,Which of the following is a model of enzyme action? W) Induced fit X) Lipid bilayer Y) Activator action Z) Active site,W) INDUCED FIT
-bonus,biology,Multiple Choice,Which of the following is the primary determinant of secondary protein structure? W) Hydrogen bonding X) Amino acid sequence Y) Protein free energy Z) Global energy minimum,"W) HYDROGEN BONDING
-Round 2 Page 5"
+bonus,biology,Multiple Choice,Which of the following is the primary determinant of secondary protein structure? W) Hydrogen bonding X) Amino acid sequence Y) Protein free energy Z) Global energy minimum,W) HYDROGEN BONDING
 toss-up,math,Short Answer,What is the exponent of 5 in the prime factorization of 325?,2
 bonus,math,Short Answer,For which real values of x does the following the series converge: ∞ xn (read as the summation from n equals 0 to infinity of [pause] x to the power of n over n n=0 n! factorial)?,"ALL REAL NUMBERS
 _______________________________________________________"
 toss-up,chemistry,Multiple Choice,A pure element when mixed with an ionic compound is most likely to undergo which of the following kinds of reactions? W) Single replacement X) Double replacement Y) Synthesis Z) Combustion,W) SINGLE REPLACEMENT
-bonus,chemistry,Multiple Choice,"Which of the following is an alternative name for 1,3-xylene? W) Ortho-xylene X) Meta-xylene Y) Para-xylene Z) Cis-xylene","X) META-XYLENE
-Round 2 Page 6"
+bonus,chemistry,Multiple Choice,"Which of the following is an alternative name for 1,3-xylene? W) Ortho-xylene X) Meta-xylene Y) Para-xylene Z) Cis-xylene",X) META-XYLENE
 toss-up,,Multiple Choice,"13) EARTH AND SPACE Multiple Choice According to data from the Voyager I and II spacecrafts, at what range, in astronomical units, is the heliopause from the Sun? W) 0 to 100 X) 100 to 200 Y) 200 to 300 Z) 300 to 400",X) 100 to 200
 bonus,,Short Answer,"13) EARTH AND SPACE Short Answer By name or number, identify all of the following four formations that were caused by subduction: 1) Cascade Mountains, 2) North American craton, 3) Hawaiian Islands, 4) folded Himalayan mountains?","CASCADE MOUNTAINS (ACCEPT: 1)
 _______________________________________________________"
 toss-up,chemistry,Short Answer,"Specifying the sign, what is the oxidation state of nitrogen in the neutral compound iron (II) nitrate?",+5 (DO NOT ACCEPT: 5)
-bonus,chemistry,Short Answer,"When calcium chloride is dissolved in water, its van’t Hoff factor would be closest to what whole number?","3
-Round 2 Page 7"
+bonus,chemistry,Short Answer,"When calcium chloride is dissolved in water, its van’t Hoff factor would be closest to what whole number?",3
 toss-up,biology,Short Answer,What is the term for the process of securing carbon from the environment by incorporating it into a stable organic compound?,CARBON FIXATION
 bonus,biology,Short Answer,The energy investment phase of glycolysis (read as: gly-KOH-li- sis) results in the formation of which triose sugar?,"GADP (ACCEPT: DHAP, GLYCERALDEHYDE 3-PHOSPHATE)
 _______________________________________________________"
 toss-up,chemistry,Multiple Choice,"When the change of enthalpy of a reaction is negative and the change of entropy of the same reaction is positive, the reaction is which of the following? W) Always spontaneous X) Spontaneous only under high temperature conditions Y) Spontaneous only under low temperature conditions Z) Never spontaneous",W) ALWAYS SPONTANEOUS
 bonus,chemistry,Short Answer,"By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H , 2) B , 3) ClBr, 4) OF. 2 2","H , B , ClBr (ACCEPT: 1, 2, AND 3)
-2 2
-Round 2 Page 8"
+2 2"
 toss-up,math,Multiple Choice,Which of the following decreases when 5 is subtracted from each item of a data set? W) Standard deviation X) Range Y) Mean Z) Variance,Y) MEAN
 bonus,math,Short Answer,"Providing your answer as an improper fraction in simplest form in terms of π, what is the volume of the solid generated when the area bounded by y = x3 , x = 2, and the x axis is revolved around the x-axis?","128/7 π
 _______________________________________________________"
 toss-up,physics,Short Answer,"What is the frequency, in megahertz, of a wave of period 2 × 108 − seconds?",50
-bonus,physics,Short Answer,"Given that the heat of fusion of water is 80 kilocalories per kilogram and providing your answer as a decimal to the nearest hundredth, what is the change in entropy per kilogram, in kilocalories per Kelvin, when ice at 0° Celsius is converted into water at 0° Celsius?","0.29
-Round 2 Page 9"
+bonus,physics,Short Answer,"Given that the heat of fusion of water is 80 kilocalories per kilogram and providing your answer as a decimal to the nearest hundredth, what is the change in entropy per kilogram, in kilocalories per Kelvin, when ice at 0° Celsius is converted into water at 0° Celsius?",0.29
 toss-up,biology,Short Answer,Which specific region of the human brainstem regulates heart rate?,MEDULLA OBLONGATA
 bonus,biology,Multiple Choice,Which of the following plants is NOT a succulent? W) Cactus X) Eucalyptus Y) Aloe Z) Yucca,"X) EUCALYPTUS
 _______________________________________________________"
 toss-up,chemistry,Short Answer,What do we call a liquid that has been heated to a temperature beyond its boiling point?,SUPERHEATED
-bonus,chemistry,Short Answer,"By name or number, identify all of the following five elements that can form compounds with an expanded octet: 1) beryllium, 2) oxygen, 3) phosphorus, 4) fluorine, 5) xenon.","PHOSPHORUS AND XENON (ACCEPT: 3 AND 5)
-Round 2 Page 10"
+bonus,chemistry,Short Answer,"By name or number, identify all of the following five elements that can form compounds with an expanded octet: 1) beryllium, 2) oxygen, 3) phosphorus, 4) fluorine, 5) xenon.",PHOSPHORUS AND XENON (ACCEPT: 3 AND 5)
 toss-up,physics,Multiple Choice,An electron is released in space in an electric field. Which of the following statements is TRUE? W) The electron will accelerate at a rate directly proportional to its mass X) The electron will move parallel to the equipotential lines Y) The field will do work on the particle Z) The electron will move from positive to negative potential,Y) THE FIELD WILL DO WORK ON THE PARTICLE
 bonus,physics,Multiple Choice,"A planet orbits a star in an elliptical orbit. When the planet is furthest from the star, which of the following statements is true? W) The angular momentum of the planet is at a maximum X) The angular momentum of the planet is at a minimum Y) The kinetic energy of the planet is at a minimum Z) The kinetic energy of the planet is at a maximum","Y) THE KINETIC ENERGY OF THE PLANET IS AT A MINIMUM
 _______________________________________________________"
 toss-up,,Multiple Choice,22) EARTH AND SPACE Multiple Choice Why are there so many more land fossils than marine fossils in early Mesozoic rocks? W) Less continental mass existed then X) Shorelines were inundated with terrigenous sediment from mountains Y) Shallow seas were abundant Z) More continental mass existed then,"X) SHORELINES WERE INUNDATED WITH TERRIGENOUS SEDIMENT FROM
 MOUNTAINS"
-bonus,,Short Answer,"22) EARTH AND SPACE Short Answer By name or number, identify all of the following four life forms that are NOT a part of the Paleozoic rock record: 1) arthropods, 2) brachiopods (read as: BRA-kee-oh-pods), 3) cephalopods (read as: SEH-fah-loh-pods), 4) sauropods.","SAUROPODS (ACCEPT: 4)
-Round 2 Page 11"
+bonus,,Short Answer,"22) EARTH AND SPACE Short Answer By name or number, identify all of the following four life forms that are NOT a part of the Paleozoic rock record: 1) arthropods, 2) brachiopods (read as: BRA-kee-oh-pods), 3) cephalopods (read as: SEH-fah-loh-pods), 4) sauropods.",SAUROPODS (ACCEPT: 4)
 toss-up,math,Short Answer,Which two mathematicians are generally credited with the invention of calculus?,LEIBNIZ AND NEWTON
 bonus,math,Multiple Choice,"Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees? 0 −1 W) (read as: row 1: 0, -1; row 2: 1, 0) 1 0 0 1 X) (read as: row 1: 1, 1; row 2: -1, 0) −1 0 0 −1 Y) (read as: row 1: 0, -1; row 2: -1, 0) −1 0 0 1 Z) (read as: row 1: 0, 1; row 2: 1, 0) 1 0 0 1","X)
 −1 0
 _______________________________________________________"
 toss-up,energy,Short Answer,What is the SI unit of magnetic flux?,WEBER
-bonus,energy,Short Answer,"By name or number, rank the following four countries in annual geothermal energy generation as a percentage of total domestic energy production from least to greatest: 1) Kenya, 2) United States, 3) Mexico, 4) Iceland.","UNITED STATES, MEXICO, KENYA, ICELAND (ACCEPT: 2, 3, 1, 4)
-Round 2 Page 12"
+bonus,energy,Short Answer,"By name or number, rank the following four countries in annual geothermal energy generation as a percentage of total domestic energy production from least to greatest: 1) Kenya, 2) United States, 3) Mexico, 4) Iceland.","UNITED STATES, MEXICO, KENYA, ICELAND (ACCEPT: 2, 3, 1, 4)"
 toss-up,math,Short Answer,"If a = cos(x), what is cos(2x) in terms of a?",2a2 – 1
 bonus,math,Short Answer,"A triangular prism has a base that is an equilateral triangle with sides of length x. If the height of the prism is x, express the volume of the prism in terms of x. x3 3","V=
-4
-Round 2 Page 13"
+4"
