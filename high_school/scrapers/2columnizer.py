@@ -8,6 +8,7 @@ import glob
 
 # big cleaned CSV file
 df = pd.read_csv('high_school/cleaned_data/all_rounds_clean.csv')
+df.columns = df.columns.str.strip()
 
 def clean_question_text(question):
     # remove leading numbers like "1) " from question text
@@ -23,9 +24,10 @@ def create_prompt(row):
 #  cleaning and prompt creation
 df['text'] = df.apply(create_prompt, axis=1)
 df['target'] = df['question'].apply(clean_question_text)
+df['prompt'] = df['text'].astype(str) + " " + df['target'].astype(str)
 
 # select only the two columns needed for fine-tuning
-output_df = df[['text', 'target']]
+output_df = df[['text', 'target', 'prompt']]
 
 # write the 2-column csv file to the cleaned data folder
 output_df.to_csv('high_school/cleaned_data/fine_tune_dataset.csv', index=False)
