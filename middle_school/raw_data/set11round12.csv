@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,"1) Math – Short Answer Points A, B, and C all lie on a circle. What is the measure of angle ABC in degrees if it intercepts an arc of 122°?",61
+bonus,math,Short Answer,1) Math – Short Answer What is the volume of a circular cylinder formed by rotating a 7 by 6 rectangular region about one of its longer sides?,"252π
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"2) Earth and Space – Multiple Choice In the year 79 AD, the people of Pompeii were asphyxiated and then buried by ash from what volcano? W) Mount Pelee X) Mount Vesuvius Y) Mount Tambora Z) Mount Mayon",X) MOUNT VESUVIUS
+bonus,,Multiple Choice,2) Earth and Space – Multiple Choice Which of the following devices would an astronomer most likely use to detect electromagnetic radiation entering the Earth's atmosphere? W) Astrolabe X) Bolometer Y) Refractor telescope Z) Optical interferometer,X) BOLOMETER
+toss-up,math,Short Answer,"3) Math – Short Answer A right triangle has sides of length 6, 8, and 10. What is the length of the altitude to the side of length 6?",8
+bonus,math,Short Answer,3) Math – Short Answer The mean of a list of 12 numbers is 14. What number would need to be added to the list to make the mean of the 13-number list 11?,"–25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,4) Energy – Short Answer Coke is produced as a byproduct of the burning of what fuel?,COAL
+bonus,energy,Multiple Choice,"4) Energy – Multiple Choice Electric vehicles convert about 60% of the electrical energy from the grid to power at the wheels. In a gasoline-powered vehicle, which of the following is closest to the percentage of the energy stored in gasoline that is converted to energy at the wheels? W) 5 X) 10 Y) 20 Z) 50",Y) 20
+toss-up,,Short Answer,5) Life Science – Short Answer What is the term for molecules that are used as endocrine-signaling agents?,HORMONES
+bonus,,Short Answer,5) Life Science – Short Answer What general type of enzyme catalyzes reactions that add phosphate groups to substrates?,"KINASES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) Physical Science – Multiple Choice Which of the following will produce ions when dissolved in water? W) Ethylene [ETH-il-een] X) Ethylamine [ethel-ah-MEEN] Y) Ethanol Z) Ethyne [ETH-eye-n],X) ETHYLAMINE
+bonus,energy,Short Answer,"6) Physical Science – Short Answer In molecular orbital theory, what type of orbital is always lower in energy than the atomic orbitals from which it is composed?",BONDING ORBITAL
+toss-up,energy,Multiple Choice,7) Energy – Multiple Choice Which of the following types of electricity generation would be WORST for providing baseload power? W) Wind X) Hydroelectric Y) Biomass Z) Coal,W) WIND
+bonus,energy,Multiple Choice,"7) Energy – Multiple Choice One benefit to storing carbon dioxide in a deep coal seam is the potential capture of what valuable resource, produced when the carbon dioxide displaces it? W) Methanol X) Propane Y) Octane Z) Methane","Z) METHANE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,8) Physical Science – Short Answer What is the term for the relationship between graphite and diamond?,ALLOTROPE
+bonus,,Short Answer,8) Physical Science – Short Answer Identify all of the following three statements that are true of atomic theory: 1) Hydrogen gas has a mass of 1 AMU; 2) Compounds can contain any real number of atoms; 3) One liter of argon at STP contains the same number of atoms as one liter of neon at STP.,3
+toss-up,,Short Answer,"9) Life Science – Short Answer In photosynthesis, carbon dioxide, light, and water are converted to sugar, oxygen, and water. From which of the starting materials is the oxygen gas produced?",WATER (ACCEPT: H2O)
+bonus,,Multiple Choice,9) Life Science – Multiple Choice Which of the following cell types would be most important for an allergy response? W) Neutrophils [NEW-troh-fills] X) Basophils [BAY-zoh-fils] Y) Eosinophils [ee-oh-SIN-oh-filz] Z) Monocytes,"X) BASOPHILS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,10) Energy – Multiple Choice Hydraulic fracturing is used to release natural gas and oil from what type of geological formation? W) Limestone X) Shale Y) Granite Z) Peat,X) SHALE
+bonus,energy,Multiple Choice,"10) Energy – Multiple Choice Typically, gasoline contains hydrocarbons that contain a number of carbon atoms per molecule in which of the following ranges? W) From 4 to 12 inclusive X) From 13 to 18 inclusive Y) From 19 to 26 inclusive Z) From 27 to 32 inclusive",W) FROM 4 TO 12 INCLUSIVE
+toss-up,,Short Answer,11) Earth and Space – Short Answer What is the name of the layer of the atmosphere that we live in?,TROPOSPHERE
+bonus,,Short Answer,11) Earth and Space – Short Answer The outer layer of the Sun's atmosphere is called what?,"CORONA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,12) Math – Short Answer What is the largest three-digit integer for which the digits sum to 16?,970
+bonus,math,Short Answer,12) Math – Short Answer Solve the following equation for x over the negative integers: x4 – 15x2 + 54 = 0,–3
+toss-up,,Short Answer,13) Earth and Space – Short Answer What is the term for the unconsolidated material deposited by a stream?,ALLUVIUM
+bonus,,Short Answer,13) Earth and Space – Short Answer What Danish explorer began exploration of the seas off Alaska and northeastern Siberia and discovered the sea route around Siberia to China?,"VITUS BERING
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"14) Physical Science – Short Answer In mechanics, what name is given to the useful quantity that is equal to the sum of the kinetic energy and the potential energy of an object?","TOTAL ENERGY (ACCEPT: MECHANICAL ENERGY, TOTAL MECHANICAL ENERGY)"
+bonus,,Short Answer,14) Physical Science – Short Answer Identify all of the following three units that could be used to measure acceleration: 1) Meters per second squared; 2) Newtons per kilogram; 3) Kilometers per hour.,1 AND 2
+toss-up,,Short Answer,"15) Earth and Space – Short Answer On a meteorogical map, lines are drawn to connect areas of equal pressure. What is the term for these lines?",ISOBARS
+bonus,,Multiple Choice,15) Earth and Space – Multiple Choice Saturn's moon Titan has a dense atmosphere composed primarily of what gas? W) Oxygen X) Hydrogen sulfide Y) Nitrogen Z) Argon,"Y) NITROGEN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,16) Life Science – Short Answer During what phase of mitosis [my-TOW-sis] do sister chromatids [CROW-mah-tids] split and move towards opposite ends of the cell?,ANAPHASE
+bonus,,Multiple Choice,16) Life Science – Multiple Choice Which of the following organisms has a hydrostatic skeleton? W) Human X) Sea star Y) Fish Z) Lobster,X) SEA STAR
+toss-up,,Multiple Choice,17) Physical Science – Multiple Choice Silver nitrate reacts with copper metal to form copper nitrate and silver metal. What type of reaction is this? W) Combustion X) Double displacement Y) Redox [REE-dox] Z) Neutralization,Y) REDOX
+bonus,,Multiple Choice,17) Physical Science – Multiple Choice A very light weight black film is hung by a thin thread in a vacuum chamber. You shine a laser beam onto the surface of the black film and you notice the film is deflected away from the laser and hangs at a slight angle relative to the vertical. This observation shows that light has which of the following? W) Momentum X) Electrical charge Y) Polarization Z) Mass,"W) MOMENTUM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"18) Math – Short Answer Given f inverse of x equals 1/x, what is f(x)?",1/x
+bonus,math,Short Answer,"18) Math – Short Answer To the nearest integer, what is 123 decreased by 37%?",77
+toss-up,,Multiple Choice,19) Earth and Space – Multiple Choice What is the minimum number of seismic stations required to determine the epicenter of an earthquake? W) 2 X) 3 Y) 4 Z) 5,X) 3
+bonus,,Short Answer,"19) Earth and Space – Short Answer In most of the Northern hemisphere, constellations such as Ursa minor and Ursa major do not ever dip below the horizon. What is the adjective that describes this property?","CIRCUMPOLAR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Life Science – Short Answer Southern blots are used to analyze what macromolecule?,DNA (ACCEPT: DEOXYRIBONUCLEIC ACID)
+bonus,,Multiple Choice,20) Life Science – Multiple Choice Which of the following fix nitrogen in soil? W) Evergreens X) Legumes Y) Succulents Z) Grasses,X) LEGUMES
+toss-up,,Short Answer,"21) Physical Science – Short Answer According to VSEPR theory, what is the molecular geometry of methane?",TETRAHEDRAL
+bonus,,Short Answer,"21) Physical Science – Short Answer A student is spinning a yo-yo in a vertical loop. When the yo-yo is at the top of the loop, in what direction is the acceleration vector of the yo-yo pointing?","DOWN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,22) Math – Short Answer What is the log base 2 of 128?,7
+bonus,math,Short Answer,22) Math – Short Answer Two lines in space are each perpendicular to a third line. Identify all of the following three relationships that could be true of the first two lines: 1) They are perpendicular; 2) They are parallel; 3) They are skew.,"ALL (ACCEPT: 1, 2, 3)"
+toss-up,,Short Answer,23) Life Science – Short Answer In what type of plant ground tissue are cell walls generally impregnated with lignin?,SCLERENCHYMA
+bonus,,Short Answer,"23) Life Science – Short Answer What type of biological structures have no apparent function, but resemble structures that are found in the evolutionary history of an organism?",VESTIGIAL STRUCTURES

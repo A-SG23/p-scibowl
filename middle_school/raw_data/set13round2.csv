@@ -1,0 +1,62 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,1) Earth and Space – Short Answer What is the second-most-abundant element in the universe?,HELIUM
+bonus,,Short Answer,"1) Earth and Space – Short Answer What unit of astronomical distance is approximately 206,000 astronomical units?","PARSEC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Life Science – Short Answer Mammals are named after glands that produce what substance?,MILK
+bonus,,Multiple Choice,2) Life Science – Multiple Choice To what group of plants do sequoias belong? W) Conifers X) Cycads [SIGH-cads] Y) Angiosperms Z) Ginkgos,W) CONIFERS
+toss-up,math,Multiple Choice,3) Math – Multiple Choice The equation 3 times 4 = 4 times 3 illustrates which of the following properties of multiplication? W) Associative X) Commutative Y) Distributive Z) Identity,X) COMMUTATIVE
+bonus,math,Short Answer,"3) Math – Short Answer A rectangle's long sides are three times the length of its shorter sides. If its perimeter is 48, what is its area?","108
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"4) Energy – Short Answer Scientists at the National Energy Technology Lab are studying the use of anhydrous, nonvolatile solvents for carbon capture. What specific compound is being captured?","CARBON DIOXIDE (ACCEPT: CO )
+2"
+bonus,energy,Short Answer,4) Energy – Short Answer Scientists at Oak Ridge National Lab have used electron energy gain spectroscopy using a monochromated beam to directly observe the atomic vibration energies. What kind of device did they create?,THERMOMETER
+toss-up,,Short Answer,"5) Life Science – Short Answer What is the largest and most prominent region of the human brain, which is thought to be responsible for voluntary activities?",CEREBRUM
+bonus,,Short Answer,5) Life Science – Short Answer What is the term for the granular material inside the nucleus that consists of DNA bound to protein?,"CHROMATIN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,6) Physical Science – Short Answer What is the general term for a device used to measure atmospheric pressure?,BAROMETER
+bonus,,Short Answer,"6) Physical Science – Short Answer The isotope carbon-14 has six protons and eight neutrons. If it undergoes beta-minus decay, how many neutrons will the decay product have?",7
+toss-up,energy,Short Answer,7) Energy – Short Answer Researchers at Oak Ridge National Lab are studying how groundwater moves through fractured rock using neutron scattering experiments. What is the term for an underground water-permeable layer composed of porous or fractured rock?,AQUIFER
+bonus,energy,Short Answer,7) Energy – Short Answer Jefferson Lab researchers are imaging alpha particles to better understand the nucleus of what element?,"HELIUM (ACCEPT: He)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,8) Life Science – Short Answer Humans are part of what phylum [FYE- lum]?,CHORDATA (DO NOT ACCEPT: CHORDATES)
+bonus,,Short Answer,8) Life Science – Short Answer What part of cellular respiration oxidizes the original carbon atoms from glucose and releases them as carbon dioxide?,"KREBS CYCLE (ACCEPT: CITRIC ACID CYCLE, TRICARBOXYLIC ACID
+CYCLE)"
+toss-up,,Multiple Choice,9) Earth and Space – Multiple Choice Which of these would lead to the formation of a deep ocean trench? W) Compressional tectonic forces X) Extensional tectonic forces Y) Volcanic activity Z) Hydrothermal activity,W) COMPRESSIONAL TECTONIC FORCES
+bonus,,Short Answer,9) Earth and Space – Short Answer Rank the following three reservoirs of Earth's water supply from largest to smallest: 1) Ground water; 2) Lakes; 3) Glaciers,"3, 1, 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"10) Earth and Space – Short Answer In the rock cycle, what is the adjective for the type of rock that forms as magma cools and solidifies?","IGNEOUS (ACCEPT: INTRUSIVE IGNEOUS, DO NOT ACCEPT: EXTRUSIVE
+IGNEOUS)"
+bonus,,Multiple Choice,10) Earth and Space – Multiple Choice Which of the following is closest to the ratio of the thickness of the mantle to that of the outer core? W) 1 to 1 X) 2 to 1 Y) 5 to 1 Z) 10 to 1,W) 1 TO 1
+toss-up,,Multiple Choice,11) Physical Science – Multiple Choice Which of the following substances is most likely to be able to combust? W) Octane X) Silicon dioxide Y) Sodium chloride Z) Iron three oxide,W) OCTANE
+bonus,,Multiple Choice,11) Physical Science – Multiple Choice A chemist might use filter paper and a funnel when she wants to do which of the following separations? W) Liquid-liquid X) Solid-liquid Y) Solid-solid Z) Liquid-gas,"X) SOLID-LIQUID
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"12) Math – Short Answer What is the greatest common factor of the 3 numbers 2, 8, and 13?",1
+bonus,math,Short Answer,12) Math – Short Answer Consider the function f of x = x2 – 3x. What is the polynomial that is equal to the composite function f of f of x?,x4 – 6x3 + 6x2 + 9x
+toss-up,energy,Short Answer,13) Physical Science – Short Answer What type of energy is associated with an object's motion?,KINETIC ENERGY
+bonus,,Short Answer,"13) Physical Science – Short Answer A ball starts rolling down a hill at a velocity of 4 centimeters per second. After 15 seconds, the ball is now rolling at 49 centimeters per second. In centimeters per second squared, what is the average acceleration of the ball over this interval?","3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Life Science – Short Answer What is the adjective for the type of external symmetry that a dragonfly demonstrates?,BILATERAL
+bonus,,Short Answer,"14) Life Science – Short Answer Mammals, like dogs and humans, fall into a group that possess a unique organ formed from tissues from both the mother and the embryo during pregnancy. What is the term for this organ?",PLACENTA
+toss-up,,Short Answer,15) Earth and Space – Short Answer The asteroid belt lies just within the orbit of what planet?,JUPITER
+bonus,,Multiple Choice,15) Earth and Space – Multiple Choice Approximately where on a Hertzsprung-Russell diagram could you find a star like our Sun? W) Near the center X) Top right Y) Top left Z) Bottom left,"W) NEAR THE CENTER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,16) Energy – Short Answer Researchers at Princeton Plasma Physics Lab are using lithium oxide as a coating inside a tokamak to reduce plasma instabilities. What is the chemical formula of lithium oxide?,"Li O
+2"
+bonus,energy,Short Answer,16) Energy – Short Answer Researchers at Oak Ridge National Lab are using the MAJORANA [my-or-AH-na] DEMONSTRATOR to study the symmetry between subatomic particles and their antiparticles. What is the commonly used term for the collision and destruction of a particle and its antiparticle?,ANNIHILATION
+toss-up,math,Short Answer,17) Math – Short Answer What is the area of a circle with diameter 16?,64π
+bonus,math,Short Answer,17) Math – Short Answer What is the smallest positive integer that has a remainder of 1 when divided by 5 and a remainder of 3 when divided by 7?,"31
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Physical Science – Multiple Choice Isotopes of the same element differ in the number of which of the following particles? W) Protons X) Neutrons Y) Electrons Z) Positrons,X) NEUTRONS
+bonus,,Short Answer,"18) Physical Science – Short Answer When filling up a bicycle tire, Zoe presses down on her pump, compressing it from 4 liters to 3.5 liters by applying a constant external pressure of 1.2 atmospheres. In liter-atmospheres, what is the magnitude of the work Zoe did on the gas inside the pump?",0.6 (ACCEPT: 3/5)
+toss-up,,Short Answer,19) Earth and Space – Short Answer What is the term for a chunk of interplanetary debris that lands on the surface of the Earth?,"METEORITE (DO NOT ACCEPT: METEOR, METEOROID)"
+bonus,,Short Answer,19) Earth and Space – Short Answer The greenhouse effect on Venus is so strong because its atmosphere is primarily composed of what gas?,"CARBON DIOXIDE (ACCEPT: CO2)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,20) Math – Short Answer What is the sum of 2/3 and 3/4?,17/12 (ACCEPT: 1 5/12)
+bonus,math,Short Answer,20) Math – Short Answer What is the volume of a sphere inscribed in a cube with edge length 12?,288π
+toss-up,,Multiple Choice,21) Life Science – Multiple Choice A diatom is an example of what? W) Bacterium X) Fungus Y) Protist Z) Archaean,Y) PROTIST
+bonus,,Short Answer,21) Life Science – Short Answer What is the location at which one neuron transmits an impulse to another neuron via chemical signaling?,"SYNAPSE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Physical Science – Short Answer Water has a high specific heat capacity due in part to its strong intermolecular interactions known as what?,HYDROGEN BONDS (ACCEPT: H BONDS)
+bonus,,Short Answer,"22) Physical Science – Short Answer A meter stick has a mass of 1-kilogram that is uniformly distributed through the stick. Margaret ties a 1-kilogram rock to one end of the stick. In centimeters, at what distance from the rock is the center of mass of the system?",25
+toss-up,math,Short Answer,23) Math – Short Answer What is the degree measure of the supplement of 43 degrees?,137
+bonus,math,Short Answer,"23) Math – Short Answer Mary left home at 8:00 a.m. and drove until 2:45 p.m. If the distance she traveled is 351 miles, what was her average speed, in miles per hour, during the trip?",52

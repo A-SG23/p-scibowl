@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,energy,Multiple Choice,1) Energy – Multiple Choice Which of the following is not a type of heat pump? W) Air-to-air X) Radiant Y) Geothermal Z) Water source,X) RADIANT
+bonus,energy,Short Answer,1) Energy – Short Answer What is the name of the device that uses hydrogen as a fuel and creates an electric current with the main waste product being water?,"HYDROGEN FUEL CELL (ACCEPT: FUEL CELL)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"2) Math – Short Answer Whan an integer is divided by 8, what are the smallest and largest possible remainders, respectively?","SMALLEST = 0, LARGEST = 7"
+bonus,math,Short Answer,"2) Math – Short Answer What are the sum of the roots and the product of the roots, respectively, for the following quadratic equation: 4x2 – 12x – 7 = 0?","SUM = 3; PRODUCT = –7/4 (ACCEPT: –1¾, –1.75)"
+toss-up,,Multiple Choice,3) Physical Science – Multiple Choice Which of the following phase changes releases heat? W) Melting X) Boiling Y) Sublimation [sub-lihm-AY-shun] Z) Freezing,Z) FREEZING
+bonus,,Short Answer,3) Physical Science – Short Answer How many neutrons does a single atom of carbon-13 possess?,"SEVEN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,4) Earth and Space – Multiple Choice Which of the following are the two parts of sunspots? W) Aphelion and Parahelion X) Central Umbra and Penumbra Y) Crest and Trough Z) Static and Dynamic,X) CENTRAL UMBRA AND PENUMBRA
+bonus,,Short Answer,4) Earth and Space – Short Answer What is the term for the phenomenon by which light from a distant object can be bent by a massive intervening object?,GRAVITATIONAL LENSING
+toss-up,,Short Answer,5) Life Science – Short Answer Some cells are known to secrete signaling molecules that then bind to receptors on the same cell. What is the term for this type of signaling?,AUTOCRINE
+bonus,,Short Answer,5) Life Science – Short Answer How many molecules of ATP are produced during the citric acid cycle?,"ONE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,6) Math – Short Answer An isosceles trapezoid has an interior angle measuring 155 degrees. What is the degree measure of its smallest interior angle?,25
+bonus,math,Short Answer,6) Math – Short Answer What is the units digit of 3 to the 33rd power?,3
+toss-up,energy,Multiple Choice,7) Energy – Multiple Choice The largest portion of biomass fuel in the United States is made from which of the following? W) Methane X) Biochar Y) Biogas Z) Wood,Z) WOOD
+bonus,energy,Multiple Choice,7) Energy – Multiple Choice Which of the following is closest to the power required to run a dishwasher? W) 1 microwatt X) 1 watt Y) 100 watts Z) 1000 watts,"Z) 1000 WATTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,8) Math – Short Answer What is the coefficient of the ac term in the trinomial expansion of open parenthesis 6a + 3b – 5c close parenthesis squared?,–60
+bonus,math,Short Answer,"8) Math – Short Answer 53 teams play in a single-elimination tournament; that is, each game is played by two teams, and the losing team is eliminated. Some teams have byes in the first round and don’t have to play, but, after the first round, each remaining team plays every round until they are eliminated. How many games are played in the first round?",21
+toss-up,energy,Multiple Choice,9) Energy – Multiple Choice Which of the following energy sources is nonrenewable? W) Solar X) Wind Y) Uranium Z) Geothermal,Y) URANIUM
+bonus,energy,Multiple Choice,"9) Energy – Multiple Choice According to the American Wind Energy Association, wind energy is currently on pace to meet which of the following percentages of U.S. electricity production by 2020? W) 5 X) 10 Y) 15 Z) 20","X) 10
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,10) Life Science – Short Answer What cellular organelle [organ-ELL] contains grana and is responsible for harvesting energy from light?,CHLOROPLAST
+bonus,,Short Answer,10) Life Science – Short Answer Beta-galactosidase [[BAY-tah gah-lac-toh-SIGH-dase] is an enzyme that cleaves what disaccharide?,LACTOSE
+toss-up,,Short Answer,11) Earth and Space – Short Answer Stars that undergo cataclysmic explosions and produce temporary bright objects in the sky are called what?,SUPERNOVAE
+bonus,,Short Answer,11) Earth and Space – Short Answer What are the only two planets in our solar system that rotate east to west?,"URANUS AND VENUS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,12) Physical Science – Multiple Choice The formation of a mirage in the desert is an example of? W) Reflection X) Refraction Y) Polarization Z) Absorption,X) REFRACTION
+bonus,,Short Answer,"12) Physical Science – Short Answer Expressing your answer in meters, to 2 significant figures, what is the wavelength of a light wave that has a frequency of 200,000 hertz?",1500
+toss-up,,Short Answer,13) Earth and Space – Short Answer Hematite is an ore of what metal?,IRON
+bonus,,Multiple Choice,"13) Earth and Space – Multiple Choice What freshwater lake is 1,700 meters deep, currently believed to be the deepest freshwater lake on Earth, and is estimated to house 20 percent of Earth's unfrozen fresh water? W) Lake Victoria X) Lake Superior Y) Lake Erie Z) Lake Baikal","Z) LAKE BAIKAL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,14) Physical Science – Multiple Choice Which of the following elements has the lowest atomic number? W) Tantalum [TANT-tah-lum] X) Fermium [FUR-mee-um] Y) Thallium [THAL-yum] Z) Dysprosium [dis-PRO-zee-um],Z) DYSPROSIUM
+bonus,,Multiple Choice,14) Physical Science – Multiple Choice Which of the following statements is true regarding resonance? W) A molecule will equilibrate through its resonance structures X) All resonance structures contribute equally Y) The nitrate ion has three valid resonance structures Z) Sigma bonds are most often involved in resonance,Y) THE NITRATE ION HAS THREE VALID RESONANCE STRUCTURES
+toss-up,,Multiple Choice,15) Earth and Space – Multiple Choice Which statement best describes the conditions under which a cone of depression forms? W) The water table rises in a local area X) Shallow wells run dry Y) Recharge rates exceed pumping rates Z) Pumping rates exceed recharge rates,Z) PUMPING RATES EXCEED RECHARGE RATES
+bonus,,Short Answer,"15) Earth and Space – Short Answer What is the zone of rapid nutrient change with depth in the water column, often as a result of entrainment of water from a lower depth that is higher in concentration of a particular nutrient?","NUTRICLINE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"16) Math – Short Answer The point (5, 3) is reflected across the x-axis and the resulting point is then translated 3 units right. What are the coordinates of the final image point?","(8, –3)"
+bonus,math,Short Answer,16) Math – Short Answer A pyramid with 9 faces has how many edges?,16
+toss-up,,Short Answer,17) Life Science – Short Answer Sanger [SANE-gur] sequencing is a technique used to determine the sequence of what?,NUCLEIC ACIDS (ACCEPT: DNA or RNA)
+bonus,,Multiple Choice,"17) Life Science – Multiple Choice Which of the following is closest, in days, to the average red blood cell's circulation lifetime? W) 5 X) 20 Y) 120 Z) 300","Y) 120
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Physical Science – Multiple Choice Which of the following is true about liquids in general? W) Their volume shrinks when becoming a solid X) They form droplets due to viscosity [vis-CAW-sih-tee] Y) They are more densely packed than solids Z) They always efficiently conduct electricity,W) THEIR VOLUME SHRINKS WHEN BECOMING A SOLID
+bonus,,Short Answer,18) Physical Science – Short Answer Identify all of the following three statements that are true regarding sound: 1) The speed of sound depends on the medium; 2) Sound is a pressure wave; 3) Sound travels faster in water than in air.,ALL OF THEM
+toss-up,,Short Answer,19) Life Science – Short Answer What enzymes are responsible for charging tRNA molecules with amino acids?,AMINOACYL TRNA SYNTHETASE
+bonus,,Multiple Choice,19) Life Science – Multiple Choice Digestion begins in the mouth because saliva contains salivary amylase [AM-ill-ace]. What macromolecule does amylase digest? W) Fat X) Protein Y) Starch Z) Nucleic acid,"Y) STARCH
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"20) Physical Science – Short Answer A 0.5-kilogram mass, initially at rest, has a 4-newton force applied to it for 10 seconds. What is the speed, in meters per second, of the mass at the end of the 10 seconds?",80
+bonus,,Short Answer,"20) Physical Science – Short Answer A single, charged particle is placed at the origin. The resulting potential at point (0, 2) is V. What is the potential at point (0, 4)?",V/2
+toss-up,,Short Answer,21) Life Science – Short Answer What term is used to describe organisms that possess two sets of chromosomes in their somatic cells?,DIPLOID
+bonus,,Multiple Choice,21) Life Science – Multiple Choice Which of the following North American spiders' bite could be fatal to humans? W) Golden garden spider X) Fisher spider Y) Tarantula Z) Brown recluse,"Z) BROWN RECLUSE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,22) Math – Short Answer What is the x-coordinate of the point of intersection of the graphs of x + y = 14 and x – y = 13?,"27/2 (ACCEPT: 13.5, 13 1/2)"
+bonus,math,Short Answer,"22) Math – Short Answer To the nearest whole number, what is the circumference of a circle with radius 6?",38
+toss-up,,Short Answer,23) Earth and Space – Short Answer The Fujita scale is used to measure the strength of what phenomena?,TORNADO
+bonus,,Short Answer,"23) Earth and Space – Short Answer Order the following 4 units of distance from the shortest to the longest: 1) AU; 2) Light-year; 3) Parsec, 4) Light-minute.","4, 1, 2, 3"

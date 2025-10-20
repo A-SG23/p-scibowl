@@ -1,0 +1,65 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,1) Earth & Space – Short Answer What type of volcano is typically broad with shallow slopes and produces effusive eruptions?,SHIELD
+bonus,,Multiple Choice,"1) Earth & Space – Multiple Choice You find a coarse-grained igneous rock that contains a mixture of feldspar, pyroxene [pie-ROX-een], and hornblende. Which of the following best describes this rock? W) Mafic [MAF-ik] and extrusive X) Mafic and intrusive Y) Felsic and extrusive Z) Felsic and intrusive","X) MAFIC AND INTRUSIVE
+******************"
+toss-up,,Short Answer,2) Life Science – Short Answer What is the term for a region of DNA that encodes all of the information for a specific protein?,GENE
+bonus,,Short Answer,2) Life Science – Short Answer Some organisms make high-frequency calls and then listen to the reflected sound to build an image of their environment. What is the term for this method?,ECHOLOCATION (ACCEPT: BIOSONAR)
+toss-up,math,Short Answer,3) Math – Short Answer A coin is tossed three times. What is the probability that all three tosses result in tails?,1/8 (ACCEPT: 0.125)
+bonus,math,Short Answer,3) Math – Short Answer How many possible integer side lengths are there for the third side of a triangle with two sides of lengths 29 and 13?,"25
+******************"
+toss-up,energy,Multiple Choice,4) Energy – Multiple Choice Researchers at Los Alamos National Lab are building long-range radio networks for real-time sensors. Which of the following could be the wavelength of a radio wave? W) 10 nanometers X) 1 micron Y) 100 microns Z) 10 meters,Z) 10 METERS
+bonus,energy,Short Answer,"4) Energy – Short Answer Los Alamos National Lab researchers are modeling the behavior of histone proteins, which are typically localized to what organelle?",NUCLEUS
+toss-up,energy,Short Answer,5) Life Science – Short Answer Chloroplasts use energy from what energy source to make food molecules?,LIGHT (ACCEPT: THE SUN)
+bonus,,Short Answer,5) Life Science – Short Answer Identify all of the following three cellular structures that are directly used for movement: 1) Mitochondrion; 2) Cilium [SILL-ee-um]; 3) Flagellum.,"2, 3
+******************"
+toss-up,,Short Answer,6) Physical Science – Short Answer What physical property of a substance measures the amount of mass per unit volume?,DENSITY
+bonus,,Short Answer,"6) Physical Science – Short Answer A student stands on the roof of a 320-meter building and drops a ball. In seconds to the nearest integer, how long does it take for the ball to reach the ground?",8
+toss-up,,Multiple Choice,"7) Earth & Space – Multiple Choice Jasmine observes that there is offset along a North-South running fault running through her yard. She is standing on the Eastern side, and sees that her mailbox across the fault has moved South. What type of fault is this? W) Thrust X) Dip-slip Y) Right-lateral Z) Left-lateral",Z) LEFT-LATERAL
+bonus,,Multiple Choice,7) Earth & Space – Multiple Choice Which of the following best describes why the annual temperature range at most latitudes in the Southern Hemisphere is less than that in the Northern Hemisphere? W) Earth is closer to the Sun in the Southern Hemisphere summer X) A larger percentage of the Southern Hemisphere is mountainous Y) There are more cloudy days over the Southern Hemisphere Z) A larger percentage of the Southern Hemisphere is covered by water,"Z) A LARGER PERCENTAGE OF THE SOUTHERN HEMISPHERE IS COVERED BY
+WATER
+******************"
+toss-up,,Multiple Choice,8) Life Science – Multiple Choice Which of the following eukaryotic organelles contains digestive enzymes at maturity? W) Lysosome [LYE-soh-sohm] X) Chloroplast Y) Golgi apparatus Z) Nucleus,W) LYSOSOME
+bonus,,Short Answer,8) Life Science – Short Answer What law of genetics states that the alleles for one trait separate independently of the alleles for another trait?,LAW OF INDEPENDENT ASSORTMENT
+toss-up,energy,Short Answer,"9) Energy – Short Answer Department of Energy-supported researchers are developing donor-bridge- acceptor systems that, upon excitation with light, cause an electron transfer reaction. These systems will serve to model biochemical processes occurring in what eukaryotic organelle?",CHLOROPLAST
+bonus,energy,Multiple Choice,"9) Energy – Multiple Choice Researchers at Thomas Jefferson National Accelerator Facility are studying ways to polish niobium superconducting cavities without hydrofluoric acid. Which of the following best describes the problem with using hydrofluoric acid? W) It is extremely dangerous to human health X) It is not a strong acid, so it cannot polish very well Y) Very high pressures are required to keep it in liquid form Z) It interferes with the superconducting properties of niobium","W) IT IS EXTREMELY DANGEROUS TO HUMAN HEALTH
+******************"
+toss-up,,Multiple Choice,10) Earth & Space – Multiple Choice Which of the following objects in the solar system has the lowest surface temperature? W) Mars X) Earth’s moon Y) Charon [KAIR-on] Z) Titan,Y) CHARON
+bonus,,Multiple Choice,"10) Earth & Space – Multiple Choice The Earth’s sidereal [sigh-DEER-ee-ul] year takes approximately 365.26 solar days, while the tropical year only takes 365.24 solar days. This difference is due to what process? W) Nutation X) The moon’s gravitational pull Y) Precession of the vernal equinox Z) The slow dimming of the Sun",Y) PRECESSION OF THE VERNAL EQUINOX
+toss-up,,Multiple Choice,11) Physical Science – Multiple Choice What is the difference between the two stable isotopes boron 10 and boron 11? W) One proton X) One neutron Y) Two quarks Z) One electron,X) ONE NEUTRON
+bonus,,Multiple Choice,"11) Physical Science – Multiple Choice Andrew has a scale, which he decides to calibrate using a one- kilogram mass. Which of the following sets of measurements in kilograms reflect the most accurate calibration? W) 2.1, 2.1, 2.0 X) 1.5, 0.5, 1.0 Y) 1.7, 0.8, 1.3 Z) 1.7, 1.3, 1.0","X) 1.5, 0.5, 1.0
+******************"
+toss-up,math,Short Answer,12) Math – Short Answer What is 3/4 + 1/12?,5/6
+bonus,math,Short Answer,"12) Math – Short Answer A three-toed sloth moves at a speed of 0.15 miles per hour. At this rate, how many minutes would it take the sloth to travel one mile?",400
+toss-up,,Short Answer,"13) Physical Science – Short Answer Melissa is building a circuit with a special component that cannot withstand currents above 15 amps. She is drawing power from the electrical grid that delivers alternating current with a peak amplitude of 120 volts. In ohms, what is the minimum resistance she can add to her circuit to prevent damage to the component?",8
+bonus,,Short Answer,"13) Physical Science – Short Answer A 6-kilogram quadcopter has four rotors, each of which exerts 20 newtons of upward thrust. Given that the quadcopter starts at rest, how long, to the nearest second, will it take to reach a height of 30 meters by flying directly upwards?","4
+******************"
+toss-up,,Short Answer,14) Life Science – Short Answer What is the term for blood vessels that carry blood away from the heart?,ARTERIES
+bonus,,Multiple Choice,14) Life Science – Multiple Choice Which of the following is closest to the percentage of species that have lived on Earth that are now extinct? W) 10 X) 55 Y) 79 Z) 99,Z) 99
+toss-up,,Short Answer,15) Earth & Space – Short Answer The atmosphere of Saturn’s moon Titan is primarily composed of what gas?,"NITROGEN (ACCEPT: MOLECULAR NITROGEN, DINITROGEN, N )
+2"
+bonus,,Short Answer,15) Earth & Space – Short Answer The light-gathering power of a reflecting telescope with diameter 2 meters is how many times that of one with diameter 50 centimeters?,"16
+******************"
+toss-up,energy,Short Answer,"16) Energy – Short Answer Scientists at Lawrence Berkeley National Lab are using deep learning systems with transfer learning, where a network trained for one purpose is adapted for use in a similar purpose. Suppose we train a network to recognize the handwritten letter S. This network can be most easily transferred to recognize what handwritten number?",5
+bonus,energy,Short Answer,"16) Energy – Short Answer Researchers at Brookhaven National Lab are studying electron-hole pairing in the material lanthanum [LAN-tha-num] barium copper oxide, or LBCO. What is the only non- metallic element that is present in this ceramic compound?",OXYGEN
+toss-up,math,Short Answer,17) Math – Short Answer What is the area of a semicircle of radius 6?,18π
+bonus,math,Short Answer,17) Math – Short Answer What is the equation for the horizontal asymptote of the graph of the function f of x = the fraction with numerator 6x2 + 7 and denominator 3x2 + 7x + 5?,"y = 2
+******************"
+toss-up,,Short Answer,"18) Physical Science – Short Answer After bombarding gold foil with alpha particles, Rutherford noticed that the gold atoms were heavier, but still behaved chemically like gold. What particle did his student, James Chadwick, suggest had been added to the gold?",NEUTRON
+bonus,,Short Answer,"18) Physical Science – Short Answer Jessica exerts 240 joules of work on a 30-kilogram box to slide it across the floor. The coefficient of friction between the box and the floor is 0.5. To two significant figures and in meters, how far will the box slide?",1.6
+toss-up,,Short Answer,19) Earth & Space – Short Answer What is the term for the feature separating adjacent drainage basins?,"DIVIDE (ACCEPT: WATERSHED BOUNDARY, CATCHMENT BOUNDARY, RIDGE,
+RIDGELINE; DO NOT ACCEPT: WATERSHED, CATCHMENT)"
+bonus,,Short Answer,"19) Earth & Space – Short Answer Calving is a process in which pieces of a glacier break off and become partially submerged in water, producing what structures?","ICEBERGS
+******************"
+toss-up,math,Short Answer,"20) Math – Short Answer What is the y-coordinate of the midpoint of the segment with endpoints (30, 3) and (10, 5)?",4
+bonus,math,Short Answer,"20) Math – Short Answer On a 100-mile road trip, you drive the first 40 miles at 60 miles per hour, the next 40 miles at 30 miles per hour, and the final 20 miles at 40 miles per hour. To the nearest mile per hour, what is your average speed on the road trip?","40
+0"
+toss-up,,Multiple Choice,21) Life Science – Multiple Choice Keratin and hemoglobin are both examples of which of the following macromolecules? W) Carbohydrates X) Nucleic [new-CLAY-ik] acids Y) Proteins Z) Lipids,Y) PROTEINS
+bonus,,Multiple Choice,21) Life Science – Multiple Choice Which of the following statements best describes the histone code? W) DNA transcription is regulated by chemical modifications of histone tails X) Chromatin is tightly coiled around histone proteins forming nucleosomes Y) The number of histone proteins per cell correlates directly with transcriptional activity Z) Histone euchromatin is characterized by highly repetitive sequences,"W) DNA TRANSCRIPTION IS REGULATED BY CHEMICAL MODIFICATIONS OF
+HISTONE TAILS
+******************"
+toss-up,,Multiple Choice,22) Physical Science – Multiple Choice The ability of a water strider to float and travel on the water surface is an example of what property? W) Viscosity X) Tensile strength Y) Capillary action Z) Surface tension,Z) SURFACE TENSION
+bonus,,Multiple Choice,22) Physical Science – Multiple Choice Which of the following best describes the magnetic field lines around a current-carrying wire? W) Rings encircling about the core of the wire X) Radial lines pointing outward from the wire Y) Radial lines pointing inward toward the wire Z) Loops connecting the top of the wire to the bottom of the wire,"W) RINGS ENCIRCLING ABOUT THE CORE OF THE WIRE
+1"
+toss-up,math,Short Answer,"23) Math – Short Answer Rachel is 5 feet 3 inches tall. Her friend Andy is 70 inches tall. In inches, how much taller is Andy than Rachel?",7
+bonus,math,Short Answer,"23) Math – Short Answer For positive integer values of n, identify all of the following four expressions for the nth term of a sequence that result in a geometric sequence: 1) n; 2) n2; 3) The nth power of –3; 4) 2 to the nth power.","3, 4
+2"

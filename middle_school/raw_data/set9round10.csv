@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,math,Multiple Choice,"1) Math – Multiple Choice Annie has 12 candy bars in a bag. Nine of them are Snick bars and 3 of them are Milky bars. If she randomly selects a candy bar from the bag, what are the odds that the bar will be a Milky bar? W) 1 to 12 X) 1 to 4 Y) 1 to 3 Z) 3 to 1",Y) 1 to 3
+bonus,math,Multiple Choice,"1) Math – Multiple Choice A student makes the following conjecture: “If a quadrilateral is a rectangle, then it must be a parallelogram.” If someone doesn’t believe this conjecture is true, which of the following would be necessary to have a counterexample to it? W) A rectangle that is a parallelogram X) A parallelogram that is a rectangle Y) A rectangle that is not a parallelogram Z) A parallelogram that is not a rectangle","Y) A RECTANGLE THAT IS NOT A PARALLELOGRAM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,2) Physical Science – Multiple Choice A pencil sitting in a glass of water appears bent because light bends as it passes from water to the surrounding air and vice versa. This is an example of what process? W) Reflection X) Refraction Y) Diffraction Z) Absorption,X) REFRACTION
+bonus,,Short Answer,2) Physical Science – Short Answer Einstein received the Nobel Prize for his analysis of what physical phenomenon?,PHOTOELECTRIC EFFECT
+toss-up,,Multiple Choice,3) Earth and Space – Multiple Choice The dynamo effect enables Earth's core to generate what? W) Electric field X) Mantle convection Y) Magnetic field Z) Radioactive elements,Y) MAGNETIC FIELD
+bonus,,Short Answer,3) Earth and Space – Short Answer What devices are used to measure humidity?,"HYGROMETERS (ACCEPT: PSYCHROMETERS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,4) Life Science – Short Answer What part of the brain is responsible for muscle coordination and is involved with muscle memory?,CEREBELLUM
+bonus,,Short Answer,4) Life Science – Short Answer By what process do bacterial cells divide?,BINARY FISSION
+toss-up,energy,Short Answer,5) Energy – Short Answer What is the SI unit of electric current?,AMPERE (ACCEPT: AMPS)
+bonus,energy,Short Answer,5) Energy – Short Answer Order the following countries from least to greatest in terms of the percentage of their power generation that comes from renewable energy sources: 1) United States; 2) Iceland; 3) Brazil.,"1, 3, 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) General Science – Multiple Choice Where are Haversian canals found? W) Pancreatic ducts X) Liver portal veins Y) Inside of bones Z) Hair follicles,Y) INSIDE OF BONES
+bonus,,Short Answer,6) General Science – Short Answer What is the common name of the chemical NH ? 3,AMMONIA (DO NOT ACCEPT: AMMONIUM)
+toss-up,,Multiple Choice,7) Life Science – Multiple Choice At which of the following pH values would pepsin be most active? W) 2 X) 4 Y) 6 Z) 8,W) 2
+bonus,,Short Answer,7) Life Science – Short Answer What is the process of constructing an mRNA molecule from DNA?,"TRANSCRIPTION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) Physical Science – Multiple Choice The nucleus of the most common isotope of hydrogen is formed from which of the following? W) A single proton X) A single neutron Y) One proton and one electron Z) One neutron and one proton,W) A SINGLE PROTON
+bonus,,Multiple Choice,8) Physical Science – Multiple Choice An electron is emitted by an atomic nucleus in the process of: W) Alpha decay X) Beta decay Y) Nuclear fission Z) Nuclear fusion,X) BETA DECAY
+toss-up,,Short Answer,"9) General Science – Short Answer If a computer’s hard drive can hold 2 to the 40th bytes, it can hold one of what unit of storage capacity?",TERABYTE
+bonus,,Short Answer,9) General Science – Short Answer What name is given to a group of organisms that are the first to establish themselves in an area after a disruption?,"PIONEER SPECIES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,10) Math – Multiple Choice Fifty is multiplied by a number between 0 and 1. Which of the following must be true about the product? W) It is less than 1 X) It is between 0 and 50 Y) It is rational Z) It is irrational,X) IT IS BETWEEN 0 AND 50
+bonus,math,Multiple Choice,"10) Math – Multiple Choice Bobby saved $32 when he purchased a jacket at a clearance sale. If the sale price was 40% off the regular price, what was the regular price of the jacket? W) $48 X) $72 Y) $80 Z) $128",Y) $80
+toss-up,energy,Short Answer,"11) Energy – Short Answer In a photovoltaic cell, two types of semiconductors are placed next to each other. What is the term for this point of contact?",P-N JUNCTION
+bonus,energy,Short Answer,11) Energy – Short Answer Order the following three sectors from least to greatest in terms of propane consumption in the US: 1) Residential; 2) Transportation; 3) Chemical and industrial.,"2, 1, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,12) Earth and Space – Short Answer What is the spectral class of the Sun?,G (ACCEPT: G2)
+bonus,,Short Answer,12) Earth and Space – Short Answer What is the term for the continuous or broken ring of coral reef that surrounds a lagoon?,ATOLL
+toss-up,,Short Answer,13) General Science – Short Answer Place the following four steps of mitosis in their proper order: 1) Anaphase; 2) Telophase; 3) Metaphase; 4) Prophase.,"4, 3, 1, 2"
+bonus,,Short Answer,13) General Science – Short Answer What is the name of the monosaccharide that RNA possesses and DNA does not?,"RIBOSE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,14) Physical Science – Multiple Choice The ionosphere is a region of ionized gas in the upper atmosphere. The ionosphere is extremely important to: W) The color of the sky X) Rainbows Y) Radio communication Z) The ability of satellites to orbit earth,Y) RADIO COMMUNICATION
+bonus,,Short Answer,14) Physical Science – Short Answer What property of water causes it to form small droplets and allows water striders to walk across pools of water?,SURFACE TENSION
+toss-up,math,Multiple Choice,15) Math – Multiple Choice Which of the following tests is most useful for determining whether or not a relation defined by a graph is a function? W) Horizontal line test X) Vertical line test Y) Increasing test Z) First derivative test,X) VERTICAL LINE TEST
+bonus,math,Short Answer,"15) Math – Short Answer If each edge of a cube is decreased by 80%, by what percentage is the volume decreased?","99.2 (ACCEPT: 99 1/5)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,16) Life Science – Short Answer Photophosphorylation is used in the plant cell to generate what molecule?,ATP (ACCEPT: ADENOSINE TRIPHOSPHATE)
+bonus,,Short Answer,16) Life Science – Short Answer Identify all of the following three conditions that would denature a protein: 1) Heating to 130 degrees Celsius; 2) Adding 6 molar urea; 3) Adding 0.1 molar sodium chloride.,1 AND 2
+toss-up,,Short Answer,17) Earth and Space – Short Answer What type of volcano is characterized by gently sloping sides and fluid basaltic lavas?,SHIELD VOLCANO
+bonus,,Short Answer,17) Earth and Space – Short Answer What is the term for large areas on continents that are composed of very ancient rocks?,"CRATONS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,18) Life Science – Short Answer In what organelle does the citric acid cycle occur?,MITOCHONDRIA
+bonus,,Short Answer,18) Life Science – Short Answer Sponges are part of what phylum?,PORIFERA
+toss-up,energy,Short Answer,19) Energy – Short Answer What state generates the most solar power in the United States?,CALIFORNIA
+bonus,energy,Short Answer,19) Energy – Short Answer A photovoltaic cell doped with phosphorous will result in what type of semiconductor?,"N-TYPE SEMICONDUCTOR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"20) Math – Short Answer As a decimal rounded to the hundredths place, what is 20% of 80% of 14?",2.24
+bonus,math,Short Answer,"20) Math – Short Answer A mail order movie store is having a sale. For a limited time, DVD’s are $8.80 each and the shipping and handling charge for the order is $3.27. What is the largest number of DVD’s that can be bought for $100?",10
+toss-up,,Short Answer,"21) Earth and Space – Short Answer What term is used to describe recognizable groups of stars that are not constellations, such as the Big Dipper?",ASTERISM
+bonus,,Short Answer,21) Earth and Space – Short Answer What atmospheric gas is most responsible for ocean acidification?,"CARBON DIOXIDE (CO )
+2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) General Science – Short Answer What type of process occurs without heat entering or leaving the system?,ADIABATIC
+bonus,,Short Answer,22) General Science – Short Answer What pair of endocrine glands secrete epinephrine and norepinephrine?,ADRENAL GLANDS
+toss-up,,Short Answer,"23) Physical Science – Short Answer According to Newton’s Laws, the net force acting on a body is the product of what two quantities?",MASS AND ACCELERATION
+bonus,,Short Answer,23) Physical Science – Short Answer What functional group is represented by –NH ? 2,AMINE (ACCEPT: AMINO)

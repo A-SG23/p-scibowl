@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,1) Math – Short Answer Express 0.0009013 in scientific notation.,9.013 × 10-4
+bonus,math,Short Answer,"1) Math – Short Answer While eating out, you and your friend each tip the server 8 dollars on your separate bills. Your tip is 10% of your bill, while your friend’s tip is 20% of her bill. What is the difference, in dollars, between your bills?","40 DOLLARS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,2) Physical Science – Multiple Choice What state of matter has a definite volume but not a definite shape? W) Acid X) Liquid Y) Solid Z) Gas,X) LIQUID
+bonus,,Multiple Choice,2) Physical Science – Multiple Choice A balloon is filled with air at room temperature and is then dipped into liquid nitrogen. Which of the following will occur? W) It will pop X) It will collapse Y) It will stay the same Z) It will elongate,X) IT WILL COLLAPSE
+toss-up,,Multiple Choice,3) Life Science – Multiple Choice Where are DNA molecules located in prokaryotes? W) Nucleus X) Cytoplasm Y) Ribosomes Z) Histones,X) CYTOPLASM
+bonus,,Short Answer,3) Life Science – Short Answer What gland in the human body produces melatonin?,"PINEAL GLAND
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,4) Earth and Space – Short Answer What type of extremely dense star is left behind after a supernova?,NEUTRON STAR
+bonus,,Multiple Choice,4) Earth and Space – Multiple Choice Eclipses of the sun occur during which of the following? W) Full moon X) Any time Y) New moon Z) First or third quarter,Y) NEW MOON
+toss-up,energy,Short Answer,5) Energy – Short Answer The principle behind the operation of photovoltaic cells was first explained by what scientist?,ALBERT EINSTEIN
+bonus,energy,Short Answer,5) Energy – Short Answer What devices store chemical potential energy and convert it to electrical energy?,"BATTERIES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) General Science – Multiple Choice An object's specific gravity is determined by which of the following? W) Measuring the mass of an object X) Comparing the object's density with the density of water Y) Weighing the object without a gravitational pull Z) Floating the object in salt water,X) COMPARING THE OBJECT'S DENSITY WITH THE DENSITY OF WATER
+bonus,,Multiple Choice,6) General Science – Multiple Choice What force is responsible for the formation of the Earth from the planetary nebula? W) Strong force X) Weak force Y) Electromagnetic force Z) Gravity,Z) GRAVITY
+toss-up,,Multiple Choice,7) Earth and Space – Multiple Choice Karst topography refers to landscapes that have been shaped by what agent of erosion? W) Wind X) Water Y) Ablation Z) Anthropogenic agents,X) WATER
+bonus,,Short Answer,"7) Earth and Space – Short Answer What fuel source is classified into bituminous, anthracite, and lignite?","COAL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) General Science – Multiple Choice The first cervical vertebrae is called the: W) Atlas X) Axis Y) Symphysis Z) Cervical prominence,W) ATLAS
+bonus,,Multiple Choice,8) General Science – Multiple Choice Which of the following processes is not part of the water cycle? W) Transpiration X) Precipitation Y) Distillation Z) Evaporation,Y) DISTILLATION
+toss-up,math,Short Answer,9) Math – Short Answer A quadrilateral has one angle that measures 108 degrees and two right angles. What is the measure of the 4th angle?,72
+bonus,math,Multiple Choice,"9) Math – Multiple Choice The sum of two numbers is S. If each number is tripled and then 5 is added to each number, what is the sum of the final two numbers? W) 3S + 5 X) 3S + 10 Y) 3S + 15 Z) 6S + 5","X) 3S + 10
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,10) Life Science – Multiple Choice Which of the following is the hereditary material in most living things? W) DNA X) Lipids Y) Oxygen Z) Carbon dioxide,W) DNA
+bonus,,Short Answer,10) Life Science – Short Answer What specific form of RNA is used to transfer amino acids to a protein in the process of translation?,tRNA
+toss-up,,Short Answer,"11) Physical Science – Short Answer Vince travels in a straight line to a city 200 miles away in 2.5 hours. What is his average speed, in miles per hour, during the trip?",80
+bonus,,Short Answer,"11) Physical Science – Short Answer A student rolls a basketball down a half pipe and it rolls all the way up the other side. At the lowest point on the half pipe, in what direction does the acceleration vector of the basketball point?","UP
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,12) Energy – Multiple Choice Which of the following locations would be most ideal for a wind farm? W) Coastal regions X) Seaward mountain sides Y) Mountains Z) River banks,W) COASTAL REGIONS
+bonus,energy,Multiple Choice,12) Energy – Multiple Choice Which of the following fuel types is extracted by hydraulic fracturing? W) Geothermal X) Coal Y) Natural gas Z) Hydrothermal energy,Y) NATURAL GAS
+toss-up,,Short Answer,13) Physical Science – Short Answer What particle found in the nucleus has a positive charge?,PROTON
+bonus,,Short Answer,13) Physical Science – Short Answer Bending of waves around a barrier is called what?,"DIFFRACTION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) General Science – Short Answer By what process is the surface of a planet heated by the absorption of reflected thermal radiation by certain gases in the atmosphere?,GREENHOUSE EFFECT
+bonus,,Short Answer,14) General Science – Short Answer The Aurora Borealis is the name given to the light show that occurs in the sky in the northern hemisphere at high latitudes. What is the analogue in the southern hemisphere?,AURORA AUSTRALIS (ACCEPT: SOUTHERN LIGHTS)
+toss-up,,Short Answer,15) Life Science – Short Answer Identify all of the following three processes or structures that a cell can use to move: 1) Cilia [sil-ee-uh]; 2) Flagellum; 3) Pseudopodia [soo-doh-poh-dee-uh].,"1, 2, 3 (ACCEPT: ALL)"
+bonus,,Short Answer,"15) Life Science – Short Answer When a red blood cell is placed in a hypotonic solution, what happens to the cell as water moves between the cell and the solution?","LYSIS (ACCEPT: CELL BURSTS, CELL DISRUPTION, CELL RUPTURE)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,16) Math – Multiple Choice What is the degree of the polynomial 2x2 – x3 + 3x – 5? W) 0 X) 1 Y) 2 Z) 3,Z) 3
+bonus,math,Short Answer,"16) Math – Short Answer What is the distance between the points (2, 5) and (6, 8)?",5
+toss-up,,Short Answer,17) Earth and Space – Short Answer What lines on a map run directly east-west?,LINES OF LATITUDE (ACCEPT: PARALLELS)
+bonus,,Multiple Choice,17) Earth and Space – Multiple Choice Argentite is an ore of what element? W) Mercury X) Silver Y) Cobalt Z) Gold,"X) SILVER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Physical Science – Multiple Choice Five batteries are connected in series. A sixth battery is added to the circuit in series without changing the resistance of the circuit. What happens to the current? W) Decreases X) Increases Y) Does not change Z) Increases only if the new battery has a higher voltage than the others,X) INCREASES
+bonus,,Multiple Choice,18) Physical Science – Multiple Choice Which of the following correctly explains how nails become rusty? W) Nails attract rust particles from the air X) The iron in the nail becomes another element Y) Iron reacts with oxygen and moisture in the air to become rust Z) A decrease in temperature causes rust to form,Y) IRON REACTS WITH OXYGEN AND MOISTURE IN THE AIR TO BECOME RUST
+toss-up,,Multiple Choice,19) Earth and Space – Multiple Choice What type of fault is the San Andreas fault in California? W) Normal X) Reverse Y) Strike-slip Z) Dip-slip,Y) STRIKE-SLIP
+bonus,,Short Answer,19) Earth and Space – Short Answer Spectral lines are split by what external stimulus in the Zeeman effect?,"MAGNETIC FIELD
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) General Science – Short Answer What is a semiconductor device used to amplify and switch electronic signals called?,TRANSISTOR
+bonus,,Short Answer,20) General Science – Short Answer What is the name given to the longest day of the year?,SUMMER SOLSTICE
+toss-up,math,Multiple Choice,21) Math – Multiple Choice An equilateral triangle has a perimeter of 18. What is the height of the triangle? W) 3 X) 3 times the square root of 2 Y) 3 times the square root of 3 Z) 6,Y) 3 TIMES THE SQUARE ROOT OF 3
+bonus,math,Short Answer,"21) Math – Short Answer A sequence of 10 terms has the property that every term starting with the third is the sum of the previous two terms. If the ninth term is 110 and the seventh term is 42, what is the fifth term?","16
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Life Science – Short Answer Name the part of the plant that produces pollen.,STAMEN
+bonus,,Short Answer,22) Life Science – Short Answer What is the genus and species identifier of the domestic dog?,CANIS LUPUS
+toss-up,energy,Short Answer,23) Energy – Short Answer What type of device uses external work to remove heat from a cold reservoir and release it into a hot reservoir?,"HEAT PUMP (ALSO ACCEPT: REFRIGERATOR, FREEZER, OR AIR CONDITIONER)"
+bonus,energy,Short Answer,"23) Energy – Short Answer How much energy, to the nearest hundred Joules, is dissipated by a 5-watt fan running for 4 minutes?",1200

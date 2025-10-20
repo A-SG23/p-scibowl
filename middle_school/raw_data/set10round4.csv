@@ -1,0 +1,61 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,1) General Science – Multiple Choice Which of the following best describes a scientific law? W) A proposed explanation for a narrow set of phenomena X) Broad explanations for a wide range of phenomena Y) A statement that is verified by observation and describes how phenomena are related Z) An opinion based on observations of phenomena,"Y) A STATEMENT THAT IS VERIFIED BY OBSERVATION AND DESCRIBES HOW
+PHENOMENA ARE RELATED"
+bonus,,Short Answer,1) General Science – Short Answer What does a paleoclimatologist study?,"ANCIENT CLIMATES (DO NOT ACCEPT: ANCIENT WEATHER)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,2) Physical Science – Short Answer What type of energy is generally thought of as the energy of movement?,KINETIC
+bonus,,Short Answer,"2) Physical Science – Short Answer A pen weighing 1 newton is thrown into the air. At the top of its flight, what is the net force, in newtons, on the pen?",1
+toss-up,math,Short Answer,3) Math – Short Answer How many real solutions are there to the equation 2x2 – 3x + 4 = 0?,0 (ACCEPT: NONE)
+bonus,math,Short Answer,"3) Math – Short Answer At the Hamburger Den, John sold m + 17 hamburgers on Saturday. Jenny sold 3m – 7 hamburgers. If Jenny sold more hamburgers than John, what is the smallest possible value of m?","13
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,4) Earth and Space – Short Answer The Colorado River carved what well-known steep-sided landform in the United States?,THE GRAND CANYON
+bonus,,Multiple Choice,4) Earth and Space – Multiple Choice What layer of the Earth lies directly beneath the tectonic plates? W) Core X) Asthenosphere Y) Crust Z) Lithosphere,X) ASTHENOSPHERE
+toss-up,,Multiple Choice,"5) Life Science – Multiple Choice In comparison to sexual reproduction, asexual reproduction produces which of the following? W) Less genetic variation among offspring X) Smaller offspring Y) Fewer offspring Z) More genetic variation among offspring",W) LESS GENETIC VARIATION AMONG OFFSPRING
+bonus,energy,Multiple Choice,5) Life Science – Multiple Choice Which of the following energy conversions takes place during photosynthesis? W) Light energy to mechanical energy X) Chemical energy to mechanical energy Y) Light energy to chemical energy Z) Light energy to mechanical energy to chemical energy,"Y) LIGHT ENERGY TO CHEMICAL ENERGY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,6) Energy – Multiple Choice Electricity used to power a home in the United States is sold by what unit? W) Kilojoule X) Kilojoule per hour Y) Kilowatt Z) Kilowatt hour,Z) KILOWATT HOUR
+bonus,energy,Short Answer,6) Energy – Short Answer Light water nuclear reactors use primarily what element isotope as a fuel for fission?,URANIUM-235
+toss-up,,Short Answer,7) Earth and Space – Short Answer What is the chemical formula of the mineral quartz?,"SiO
+2"
+bonus,,Multiple Choice,7) Earth and Space – Multiple Choice A lunar eclipse can only happen during which of the following? W) New moon X) First quarter Y) Full moon Z) Third quarter,"Y) FULL MOON
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) General Science – Multiple Choice Which of the following types of scientists studies celestial bodies? W) Astronomer X) Astrologist Y) Astronaut Z) Exobiologist,W) ASTRONOMER
+bonus,,Multiple Choice,8) General Science – Multiple Choice Which of the following is NOT a type of sampling used by field scientists? W) Systematic sampling X) Stratified random sampling Y) Nested sampling Z) Null sampling,Z) NULL SAMPLING
+toss-up,,Multiple Choice,9) Life Science – Multiple Choice What is the name for the large green complex organelles that perform photosynthesis and are typically found in plant cells and algae? W) Lysosomes X) Cytosol Y) Chlorophyll Z) Chloroplasts,Z) CHLOROPLASTS
+bonus,,Multiple Choice,9) Life Science – Multiple Choice Which of the following is NOT a characteristic of bacteria? W) Single-celled X) Prokaryotic Y) Contain nuclei Z) Lack membrane bound organelles,"Y) CONTAIN NUCLEI
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,10) Math – Short Answer What is 23 – 32?,–1
+bonus,math,Short Answer,10) Math – Short Answer What is the area of an equilateral triangle with sides of length 8?,16√3
+toss-up,energy,Short Answer,11) Energy – Short Answer What specific fuel is predominantly used in modern blast furnaces?,COKE (DO NOT ACCEPT: COAL)
+bonus,energy,Short Answer,"11) Energy – Short Answer In 1997, the United Nations negotiated a treaty to reduce greenhouse gas emissions from industrialized countries. What is the name of this treaty?","KYOTO PROTOCOL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,12) Physical Science – Short Answer A lightbulb can be modeled as a heat-dependent version of what type of electrical circuit component?,RESISTOR
+bonus,,Short Answer,"12) Physical Science – Short Answer If the diameter of a doorknob is 10 centimeters and the radius of the axle is 1.25 centimeters, what is the mechanical advantage?",4
+toss-up,energy,Multiple Choice,13) Energy – Multiple Choice What is the category of vehicles that can run on a mixture of up to 85% ethanol in gasoline? W) Plug-in X) Hybrid Y) Flexible fuel Z) Mixed fuel,Y) FLEXIBLE FUEL
+bonus,energy,Multiple Choice,13) Energy – Multiple Choice You have decided to build a biomass plant that will use waste from the corn harvest. Which of the following would be the best place to build your plant? W) California-Nevada border X) Pennsylvania-New York border Y) Iowa-Illinois border Z) Ohio-Kentucky border,"Y) IOWA-ILLINOIS BORDER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,14) Life Science – Multiple Choice Which of the following is the best reason that snakes do not reproduce with worms? W) Temporal isolation X) Habitat isolation Y) Behavioral isolation Z) Mechanical isolation,Z) MECHANICAL ISOLATION
+bonus,,Short Answer,14) Life Science – Short Answer What term is used to describe the developmental course of an organism from fertilization to maturity?,ONTOGENY
+toss-up,,Multiple Choice,15) Physical Science – Multiple Choice The cesium atom is used to define which of the following SI units? W) Meter X) Gram Y) Second Z) Lumen,Y) SECOND
+bonus,physics,Short Answer,"15) Physical Science – Short Answer In physics, what does the acronym ""laser"" stand for?","LIGHT AMPLIFICATION BY STIMULATED EMISSION OF RADIATION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Earth and Space – Multiple Choice Which of the following are the two types of glaciers? W) Terrestrial and marine X) Drumlin and moraine Y) Alpine and continental Z) Divergent and convergent,Y) ALPINE AND CONTINENTAL
+bonus,,Short Answer,16) Earth and Space – Short Answer What planet in the inner solar system has exactly 2 natural satellites that are thought to be captured asteroids?,MARS
+toss-up,math,Short Answer,"17) Math – Short Answer If the perimeter of a triangle is 48 centimeters, and the lengths of two of its sides are 14 and 13 centimeters, find the length of the third side, in centimeters.",21
+bonus,math,Short Answer,"17) Math – Short Answer Six marbles marked one through six are placed into a bag, and you draw two of them at random. What is the probability that the two marbles you draw are marked 5 and 3?","1/15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,18) General Science – Short Answer The frequency of alternating current from an electric power plant is measured in cycles per second. What is the name of the unit for this measurement?,HERTZ
+bonus,,Short Answer,18) General Science – Short Answer What two common safety devices are used to cut off the electrical supply if the current becomes too great for the device being powered?,CIRCUIT BREAKER (ALSO ACCEPT: BREAKER) AND FUSE
+toss-up,,Short Answer,19) Physical Science – Short Answer Identify all of the following three objects that can be affected by gravity: 1) A human; 2) A planet; 3) A ray of light.,ALL OF THEM
+bonus,,Short Answer,19) Physical Science – Short Answer What is the term for a solution containing more dissolved material than would be possible at normal conditions?,"SUPERSATURATED (DO NOT ACCEPT: SATURATED)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Life Science – Short Answer What acid is produced from pyruvic acid in muscles during strenuous exercise?,LACTIC ACID
+bonus,,Multiple Choice,"20) Life Science – Multiple Choice Estuaries, like wetlands, are extremely productive in terms of biotic factors. What is the main source of the nutrients that facilitate the metabolic processes necessary for this productivity? W) The river X) The sea Y) The soil in the estuary Z) The living organisms",W) THE RIVER
+toss-up,,Multiple Choice,21) Earth and Space – Multiple Choice Which of the following features is most likely to occur in deserts after heavy rainfall? W) Ephemeral [eh-FEM-ur-ul] streams X) Riparian [rye-PAIR-ee-an] corridors Y) Desert pavement Z) Alluvial fan,W) EPHEMERAL STREAMS
+bonus,,Multiple Choice,21) Earth and Space – Multiple Choice Which of the following prevailing wind belts is most affected by El Niño? W) North polar easterlies X) South polar easterlies Y) Midlatitude westerlies Z) Trade winds,"Z) TRADE WINDS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,22) Math – Short Answer Evaluate the following expression when b equals 9: 2b plus b minus 6,21
+bonus,math,Short Answer,22) Math – Short Answer What is the volume in liters of a circular cylindrical container with a radius of 40 centimeters and a height of 1 meter?,160 pi
+toss-up,,Multiple Choice,23) Physical Science – Multiple Choice Which of the following best explains why the Northern and Southern Hemispheres of the earth have different seasons? W) The same face of the moon is always pointed towards the Earth X) The orbit of the moon is tilted 5° with respect to the Earth’s solar orbit Y) The Earth’s rotational axis is tilted 23° with respect to its solar orbit Z) The moon orbits the Earth in a direction opposite to the Earth’s rotation,"Y) THE EARTH’S ROTATIONAL AXIS IS TILTED 23° WITH RESPECT TO ITS
+SOLAR ORBIT"
+bonus,,Multiple Choice,23) Physical Science – Multiple Choice Where are the atoms with largest atomic radii found on the periodic table? W) Upper left corner X) Upper right corner Y) Lower left corner Z) Lower right corner,Y) LOWER LEFT CORNER

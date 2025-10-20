@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,"1) Math – Short Answer The point (4, 2) is reflected through the y-axis and then reflected through the line y = x. What are the coordinates of the resulting point?","(2, –4) (ACCEPT: x = 2 AND y = –4)"
+bonus,math,Short Answer,1) Math – Short Answer Convert 204 in base 10 to base 6.,"FIVE-FOUR-ZERO (ACCEPT: 540)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Earth and Space – Short Answer Enceladus [en-SELL-ah-dus] is a moon of particular interest because its cryovolcanos [cry-oh-volcanoes] have been observed to expel plumes mainly composed of what substance?,WATER (ACCEPT: WATER VAPOR)
+bonus,,Short Answer,2) Earth and Space – Short Answer What planet in our solar system has a 3 to 2 spin-orbit resonance?,MERCURY
+toss-up,,Short Answer,3) Physical Science – Short Answer What temperature scale defines the zero point as absolute zero and defines one unit of temperature as the same size as one Celsius degree?,KELVIN
+bonus,,Short Answer,"3) Physical Science – Short Answer In high-density polyethylene, or HDPE, each carbon atom bonds to how many other carbon atoms?","2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,4) Life Science – Short Answer The pons and the medulla oblongata [awb-lawn-GAH-tah] are parts of what brain structure that connects the spinal cord to the rest of the brain?,BRAINSTEM
+bonus,,Short Answer,4) Life Science – Short Answer What division of the autonomic nervous system can increase heart rate and stimulate adrenal glands?,SYMPATHETIC
+toss-up,energy,Multiple Choice,5) Energy – Multiple Choice Scientists at Los Alamos National Lab are measuring the flux of charged particles entering Earth’s upper atmosphere. Most of these charged particles come from which of the following? W) Nearby pulsars X) Radioactive decay of elements Y) Active galactic nuclei Z) Solar wind,Z) SOLAR WIND
+bonus,energy,Short Answer,5) Energy – Short Answer Researchers at Princeton Plasma Physics Lab are studying how planets must be shielded from their star's stellar wind to support life. What region surrounding Earth shields it from the solar wind?,"MAGNETOSPHERE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,6) Earth and Space – Short Answer What term is used by oceanographers to describe a body of water within the ocean that is characterized by its temperature and salinity?,WATER MASS
+bonus,,Short Answer,6) Earth and Space – Short Answer Identify all of the following three geologic time groupings that are eras: 1) Proterozoic [proh-tair-oh-ZOH-ik]; 2) Oligocene [AW-lih-goh-seen]; 3) Paleogene.,1
+toss-up,,Short Answer,"7) Physical Science – Short Answer A 3-ohm resistor is subjected to a voltage difference of 6 volts. In amperes, what is the current that passes through the resistor?",2
+bonus,,Short Answer,"7) Physical Science – Short Answer Suppose that a mass is accelerated at a constant acceleration of 5 meters per second squared from a velocity of 10 meters per second to 20 meters per second. In meters, what is the distance traveled by the object in this duration?","30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"8) Math – Short Answer According to the division algorithm, when an integer is divided by 12, what are the largest and smallest possible remainders, respectively?","LARGEST = 11, SMALLEST = 0"
+bonus,math,Short Answer,"8) Math – Short Answer What is the slope-intercept equation of the line that contains points (–3, –25) and (2, 20)?",y = 9x + 2
+toss-up,,Short Answer,9) Life Science – Short Answer Carpal tunnel syndrome is caused by the pinching of nerves in the region of what joint?,WRIST (ACCEPT: RADIOCARPAL)
+bonus,,Short Answer,9) Life Science – Short Answer Identify all of the following three animals that possess a placenta: 1) Kangaroo; 2) Echidna [eh-KID-nah]; 3) Parrot.,"1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,10) Energy – Short Answer Researchers at Oak Ridge National Lab have recently reported a new catalyst that can convert methane to what single-carbon alcohol?,"METHANOL (ACCEPT: CH OH)
+3"
+bonus,energy,Short Answer,"10) Energy – Short Answer The Axion Dark Matter Experiment, or ADMX, has achieved a milestone: it is the first experiment to have achieved the necessary sensitivity to detect theorized dark matter particles, known as axions. What part of the galaxy is thought to be made of axions?",GALACTIC HALO (ACCEPT: HALO)
+toss-up,,Multiple Choice,"11) Earth and Space – Multiple Choice Which of the following is closest to the average orbital period, in Earth years, of an asteroid in the asteroid belt? W) 5 X) 11 Y) 23 Z) 32",W) 5
+bonus,,Short Answer,11) Earth and Space – Short Answer The alpha process in stars will synthesize heavier and heavier elements until it culminates in the build-up of what stable element?,"IRON
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"12) Life Science – Short Answer Two species of songbirds can theoretically interbreed to form viable offspring, but they have different mating songs. What type of isolation is this?",BEHAVIORAL ISOLATION
+bonus,,Short Answer,"12) Life Science – Short Answer In the amniotic egg, what membrane stores waste produced by the embryo?",ALLANTOIS
+toss-up,math,Short Answer,"13) Math – Short Answer Simplify the following expression: log base 3 of open parenthesis, 1 over 4x, close parenthesis, plus log base 3 of open parenthesis, 36x, close parenthesis.",2
+bonus,math,Short Answer,13) Math – Short Answer What is the sum of the first 8 terms of the geometric sequence with first term –2 and common ratio –2?,"170
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,14) Energy – Multiple Choice Researchers at SLAC National Accelerator Laboratory have developed a new electron gun that uses a superconducting chamber made from niobium [nye-OH-bee-um] metal. How did the scientists lower the electrical resistance of the niobium to nearly zero? W) Subjected the niobium to intense pressures X) Heated the niobium to 1000 degrees Celsius Y) Cooled the niobium to 4 kelvins Z) Bombarded the niobium with neutrons,Y) COOLED THE NIOBIUM TO 4 KELVINS
+bonus,energy,Short Answer,14) Energy – Short Answer Biologists at Pacific Northwest National Lab are studying the H5N1 influenza virus. What protein does the “N” in this virus refer to?,NEURAMINIDASE
+toss-up,,Short Answer,"15) Physical Science – Short Answer In an ionic equation, what is the term for ions that are present on both sides of the equation and do not participate in the reaction?",SPECTATOR IONS
+bonus,,Multiple Choice,"15) Physical Science – Multiple Choice Given the pressure, volume, and temperature of a gas sample, the ideal gas constant allows you to determine what about that gas sample? W) Chemical identity X) Number of molecules Y) Mass per molecule Z) Root-mean-square velocity","X) NUMBER OF MOLECULES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Earth and Space – Multiple Choice Mass wasting occurs when what pair of forces become unbalanced? W) Gravity and shear force X) Shear force and normal force Y) Gravity and friction Z) Friction and normal force,Y) GRAVITY AND FRICTION
+bonus,,Short Answer,16) Earth and Space – Short Answer Identify all of the following three locations that will always fall on a fault plane of an earthquake: 1) Epicenter; 2) Hypocenter; 3) Focus.,"2, 3"
+toss-up,,Short Answer,17) Life Science – Short Answer The ventricles in the brain are filled with what fluid?,CSF (ACCEPT: CEREBROSPINAL FLUID)
+bonus,,Short Answer,17) Life Science – Short Answer A phage can incorporate its DNA into the bacterial chromosome in the lysogenic cycle of infection. What is the term for the viral DNA that is embedded in the host DNA?,"PROPHAGE (ACCEPT: PROVIRUS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,18) Math – Short Answer How many faces does a pentagonal pyramid have?,6
+bonus,math,Short Answer,"18) Math – Short Answer How many positive integers can be formed using only the digits 1, 2, and 3, at most once each?",15
+toss-up,,Multiple Choice,19) Physical Science – Multiple Choice Which of the following is closest to the frequency corresponding to a radio wave with a wavelength of 30 centimeters? W) 1 kilohertz X) 1 megahertz Y) 1 gigahertz Z) 1 terahertz,Y) 1 GIGAHERTZ
+bonus,,Multiple Choice,"19) Physical Science – Multiple Choice In a light wave at a given position, the electric field oscillates proportionally to the function cosine of open parenthesis w times t close parenthesis, where t is given in seconds. To which of the following quantities does w best correspond? W) Color X) Brightness Y) Speed Z) Duration of light pulse","W) COLOR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Earth and Space – Short Answer What is the name of the brightest star in the constellation Canis Major?,SIRIUS
+bonus,,Short Answer,"20) Earth and Space – Short Answer After a glacier has melted, a cirque basin will often become what type of small lake?",TARN
+toss-up,,Short Answer,"21) Life Science – Short Answer In the earthworm digestive system, what is the term for the pouch in which mechanical digestion of food occurs?",GIZZARD
+bonus,,Short Answer,21) Life Science – Short Answer Identify all of the following three features that are characteristic of monocots: 1) Branched venation in leaves; 2) Fibrous roots; 3) Scattered vascular bundles in stem.,"2, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"22) Math – Short Answer If a triangle has two sides with respective lengths of 20 and 13, what is the maximum possible integer length of the third side?",32
+bonus,math,Short Answer,22) Math – Short Answer Three cats and three dogs are to be placed in a line. How many arrangements have all of the cats grouped together?,144
+toss-up,,Short Answer,23) Physical Science – Short Answer What is the term for the curvature of the top of a liquid in a container?,MENISCUS
+bonus,,Short Answer,23) Physical Science – Short Answer Identify all of the following three molecules that are polar: 1) Ammonia; 2) Phosphine; 3) Methane.,"1, 2"

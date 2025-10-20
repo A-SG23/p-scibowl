@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,"1) Math – Short Answer What is the slope-intercept equation of the line through the origin that contains the point (3, 6) ?",y = 2x (ACCEPT: y = 2x + 0)
+bonus,math,Short Answer,"1) Math – Short Answer The mean of the numbers of weekly work hours for 11 part-time employees at Happy Dan’s is 24. The mean number of hours for 4 of the employees is 19. To the nearest whole number, what is the mean number of hours for the rest of Dan’s employees?","27
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Life Science – Short Answer What term is used to describe the natural separation of leaves from the body of the plant?,ABSCISSION
+bonus,,Multiple Choice,2) Life Science – Multiple Choice Experiments crossing different colored pea plants demonstrate what genetic concept? W) Gametophyte reproductive cycles X) Haploid and diploid variation Y) Recessive and dominant genes Z) Mitotic division,Y) RECESSIVE AND DOMINANT GENES
+toss-up,energy,Multiple Choice,3) Energy – Multiple Choice What type of battery is commonly found in rechargeable consumer electronics? W) Alkaline X) Lead acid Y) Lithium-ion Z) Aluminum-air,Y) LITHIUM-ION
+bonus,energy,Short Answer,"3) Energy – Short Answer In order for bioethanol to be miscible with gasoline, what contaminant must first be removed?","WATER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,4) Physical Science – Short Answer How many electrons does argon have in its valence electron shell?,8
+bonus,,Short Answer,"4) Physical Science – Short Answer How much work, in joules, is required to raise a 37-newton sofa 5 meters upward?",185
+toss-up,,Multiple Choice,5) Earth and Space – Multiple Choice The Gulf of Mexico Dead Zone is an ocean region with extremely low dissolved oxygen. What is the primary cause of this Dead Zone? W) Oil drilling X) Deep ocean upwelling Y) High salt content Z) Agricultural run-off,Z) AGRICULTURAL RUN-OFF
+bonus,,Short Answer,5) Earth and Space – Short Answer Identify all of the following three solar system objects on which NASA has successfully soft-landed unmanned exploration vehicles: 1) Earth's Moon; 2) The planet Mercury; 3) The asteroid Eros.,"1 AND 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) General Science – Multiple Choice Which of the following is a best practice for immediate treatment of chemical burns of the skin? W) Moisturize with a light oil and cover X) Flush with copious amounts of water Y) Flush with a solution of silver nitrate and water Z) Neutralize with weak alkaline solutions,X) FLUSH WITH COPIOUS AMOUNTS OF WATER
+bonus,,Short Answer,"6) General Science – Short Answer Assuming the following numbers represent measured quantities, what is the quotient of 2.000 divided by 20.0? (Note to reader: be sure to read all of the zeroes.)",0.100 (ACCEPT: .100)
+toss-up,,Short Answer,7) Life Science – Short Answer What is the common name of the type of blood cells found in elevated numbers in a person who has an infection?,WHITE BLOOD CELLS (ACCEPT: LEUKOCYTES)
+bonus,,Short Answer,"7) Life Science – Short Answer The human retina is made up of tiny, light-sensitive cells. Which of these cells enable us to distinguish colors?","CONES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) Earth and Space – Multiple Choice What part of the sun is normally visible from Earth? W) Core X) Photosphere Y) Corona Z) Solar nebula,X) PHOTOSPHERE
+bonus,,Short Answer,8) Earth and Space – Short Answer What two elements are the most abundant in the Earth's crust?,OXYGEN AND SILICON
+toss-up,,Multiple Choice,9) General Science – Multiple Choice The first step of any vertebrate dissection laboratory should include which of the following? W) Examining any openings before making an incision X) Making a single cut along the ventral side Y) Properly mounting the specimen to the dissection tray Z) Identifying external features of your specimen,Z) IDENTIFYING EXTERNAL FEATURES OF YOUR SPECIMEN
+bonus,,Short Answer,9) General Science – Short Answer What gas is most commonly found inside incandescent lightbulbs?,"ARGON
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,10) Physical Science – Short Answer What is the adjective for a chemical reaction that emits heat?,EXOTHERMIC
+bonus,,Short Answer,"10) Physical Science – Short Answer Together, the Lorentz force law and Maxwell's equations govern the behavior of what fundamental force?",ELECTROMAGNETIC
+toss-up,math,Multiple Choice,11) Math – Multiple Choice Mike works in sales at a video gaming store. This week the total amount that he sold is represented by V dollars. His manager tells him to increase his sales next week by 15%. Which of the following is a correct representation for the desired sales next week? W) V + 0.15 X) V + 15 Y) 0.15V Z) 1.15V,Z) 1.15 V
+bonus,math,Short Answer,11) Math – Short Answer What is 8/15 minus 22/35?,"–2/21
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,12) Energy – Short Answer The use of coal to generate electricity in the U.S. has declined recently due to an abundance of what other fuel?,NATURAL GAS
+bonus,energy,Short Answer,12) Energy – Short Answer What is the derivative of coal that is commonly used as the reducing agent when smelting metals?,COKE
+toss-up,energy,Multiple Choice,"13) Energy – Multiple Choice In a fission nuclear reactor, which of the following processes occurs, resulting in released energy? W) Neutrons split uranium atoms X) Uranium atoms spontaneously decay Y) Uranium atoms fuse Z) Alpha particles bombard uranium atoms",W) NEUTRONS SPLIT URANIUM ATOMS
+bonus,energy,Multiple Choice,13) Energy – Multiple Choice Which of the following correctly explains why cellulosic ethanol is more expensive to produce than starch ethanol? W) Cellulose is an expensive feedstock X) Conversion of glucose into ethanol is expensive Y) Cellulose contains many impurities that are expensive to remove Z) More chemical reactions must be performed,"Z) MORE CHEMICAL REACTIONS MUST BE PERFORMED
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Physical Science – Short Answer What term describes the lowest temperature at which vapors will ignite given an ignition source?,FLASH POINT
+bonus,,Short Answer,"14) Physical Science – Short Answer A 3-volt battery is connected to two 4-ohm resistors that are connected in parallel. What is the power, in watts, dissipated by this circuit?",4.5
+toss-up,,Multiple Choice,15) General Science – Multiple Choice A student tests the germination of seeds to see if the amount of water affects the rate of germination. She uses 15 seeds wrapped in paper towels with varying amounts of water. What is her independent variable? W) The amount of water on each towel X) The type of seeds used Y) The number of seeds used Z) The rate of germination,W) THE AMOUNT OF WATER ON EACH TOWEL
+bonus,,Multiple Choice,"15) General Science – Multiple Choice Which of the following statements is NOT true regarding Charles Darwin's voyages aboard the HMS Beagle? W) Darwin formulated his famous theory of evolution during the voyages X) He traveled for nearly five years with the Beagle Y) He was an unpaid volunteer while onboard Z) He brought home thousands of skins, bones, and carcasses","W) DARWIN FORMULATED HIS FAMOUS THEORY OF EVOLUTION DURING THE
+VOYAGES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,16) Life Science – Short Answer What chemical is released from mast cells during allergic response?,HISTAMINE
+bonus,,Short Answer,"16) Life Science – Short Answer In the body, beta-carotene is produced from what vitamin?",VITAMIN A
+toss-up,,Multiple Choice,17) Earth and Space – Multiple Choice Which of the following contain the most groundwater? W) Caves and lakes X) Pores and cracks Y) Tubes and tunnels Z) Rivers and streams,X) PORES AND CRACKS
+bonus,,Short Answer,17) Earth and Space – Short Answer What layers of the Earth’s atmosphere are characterized by temperatures that increase with altitude?,"THERMOSPHERE AND STRATOSPHERE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,18) Math – Short Answer What is the degree measure of an angle that is the supplement of a one- degree angle?,179
+bonus,math,Short Answer,18) Math – Short Answer Solve the following equation for x: the square root of open parenthesis x + 20 close parenthesis = x,5 (DO NOT ACCEPT: -4)
+toss-up,,Short Answer,19) Physical Science – Short Answer What thermodynamic cycle describes a perfectly reversible engine?,CARNOT CYCLE
+bonus,,Multiple Choice,19) Physical Science – Multiple Choice A chemical reaction will always be spontaneous under which of the following conditions? W) When it is endothermic and with a decrease in entropy X) When it is exothermic and with an increase in entropy Y) When it is exothermic and with a decrease in entropy Z) When it is endothermic and with an increase in entropy,"X) WHEN IT IS EXOTHERMIC AND WITH AN INCREASE IN ENTROPY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Life Science – Short Answer What is the term for the stalk of a leaf?,PETIOLE
+bonus,,Short Answer,20) Life Science – Short Answer What is the name of an infolding of the plasma membrane that is involved in photosynthesis and also extends into the cytoplasm?,CHROMATOPHORES (ACCEPT: THYLAKOIDS)
+toss-up,math,Short Answer,21) Math – Short Answer What is 112 – 92?,40
+bonus,math,Short Answer,"21) Math – Short Answer If the ratio of the heights of 2 similar circular cylinders is 3 to 2 and the surface area of the smaller cylinder is 268, what is the surface area of the larger cylinder?","603
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,22) Earth and Space – Multiple Choice What is the term for an underground layer of permeable rock or loose sediments whose pore spaces are filled with water? W) Water table X) Aquifer Y) Well Z) Aquiclude,X) AQUIFER
+bonus,,Multiple Choice,22) Earth and Space – Multiple Choice Which of the following describes one way that changes in land use may exacerbate global warming? W) By increasing the pH of the oceans X) By sequestering carbon from the atmosphere Y) By releasing stored carbon to the atmosphere Z) By reducing the solar constant,Y) BY RELEASING STORED CARBON TO THE ATMOSPHERE
+toss-up,,Multiple Choice,23) Physical Science – Multiple Choice Heating an endothermic reaction will shift equilibrium towards which of the following? W) An exothermic reaction X) The products Y) An explosion Z) The reactants,X) THE PRODUCTS
+bonus,energy,Short Answer,"23) Physical Science – Short Answer When referring to the ground state and excited states of a molecule, what specific subatomic particles are changing in energy?",ELECTRONS

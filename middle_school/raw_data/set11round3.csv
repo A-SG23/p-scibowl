@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,energy,Multiple Choice,1) Energy – Multiple Choice What state has the largest geothermal power generation capacity? W) Arizona X) California Y) Idaho Z) Utah,X) CALIFORNIA
+bonus,energy,Short Answer,1) Energy – Short Answer What derived SI unit is used to measure electric potential?,"VOLT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,2) Life Science – Multiple Choice Which of the following is true of virus genomes [JEE-nomes]? W) They are always composed of DNA X) They are always circular Y) They may be composed of either DNA or RNA Z) They are diploid,Y) THEY MAY BE COMPOSED OF EITHER DNA OR RNA
+bonus,,Multiple Choice,2) Life Science – Multiple Choice You are using a light microscope to look at cells stained with a dye that detects chromatin [KROH-mah-tin] and can see densely-colored regions that you recognize as chromosomes. Which of the following must be true? W) The cell is undergoing mitosis [my-TOW-sis] X) The genome [JEE-nome] is diploid [DIH-ployd] Y) The genome is haploid [HA-ploid] Z) The cell is in interphase,W) THE CELL IS UNDERGOING MITOSIS
+toss-up,math,Short Answer,3) Math – Short Answer What is the area of a circle inscribed in a square of side 14?,49π
+bonus,math,Short Answer,3) Math – Short Answer What is 3/7 divided by 8/21 divided by 15/4?,"3/10 (ACCEPT: 0.3)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,4) Physical Science – Multiple Choice Which of the following instruments does not primarily rely on a lens? W) Refracting telescope X) Reflecting telescope Y) Binocular Z) Monocular,X) REFLECTING TELESCOPE
+bonus,,Short Answer,4) Physical Science – Short Answer What principle of fluid mechanics describes the buoyant force?,ARCHIMEDES PRINCIPLE
+toss-up,,Multiple Choice,5) Life Science – Multiple Choice Which of the following magnifications is most appropriate for viewing bacteria through a light microscope? W) 5 times X) 50 times Y) 500 times Z) 5000 times,Y) 500 TIMES
+bonus,,Multiple Choice,"5) Life Science – Multiple Choice After a signaling molecule binds to a receptor, what enzymes often set off a cascade of phosphorylation [faws-four-il-AY-shun] events? W) Kinases [KYE-nayses] X) Phosphatases [FAWS-fa-tases] Y) Amylases [AM-ill-aces] Z) Lipases [LYE-paces]","W) KINASES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"6) Earth and Space – Multiple Choice Which of the following is the group of minerals formed when metals combine with a halogen element such as iodine, chlorine, bromine, or florine? W) Halides X) Halites Y) Tretrahalogens Z) Halogens",W) HALIDES
+bonus,,Multiple Choice,6) Earth and Space – Multiple Choice Hurricanes are rated by categories on what five-point scale? W) Fujita scale X) Richter scale Y) Torino scale Z) Saffir-Simpson scale,Z) SAFFIR-SIMPSON SCALE
+toss-up,math,Short Answer,7) Math – Short Answer What is 503?,"125,000"
+bonus,math,Short Answer,7) Math – Short Answer What is the maximum possible number of intersection points of a circle and a rectangle?,"8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"8) Life Science – Multiple Choice Which of the following groups of organic compounds in the human body are the most diverse in size, shape, and function? W) Carbohydrates X) Lipids Y) Proteins Z) Nucleic [new-CLAY-ik] acids",Y) PROTEINS
+bonus,,Multiple Choice,8) Life Science – Multiple Choice Which of the following is a sex-linked trait in humans? W) Eye color X) Skin tone Y) Color blindness Z) Freckles,Y) COLOR BLINDNESS
+toss-up,,Multiple Choice,9) Physical Science – Multiple Choice Which of the following is an example of a radiation detector? W) Geiger [GYE-gur] counter X) Anemometer Y) LCR meter Z) Refractometer,W) GEIGER COUNTER
+bonus,,Multiple Choice,"9) Physical Science – Multiple Choice If an object experiences a change in its velocity, which of the following statements must be TRUE about its acceleration? W) It is positive X) It is negative Y) It is non-zero Z) It is constant","Y) IT IS NON-ZERO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,10) Math – Multiple Choice For which of the following x-values is x3 greater than or equal to x2? W) –2 X) –½ Y) ½ Z) 2,Z) 2
+bonus,math,Short Answer,10) Math – Short Answer Express the following in scientific notation rounded to two significant digits: the fraction with numerator 4.5 × 105 and denominator 3.5 × 10–2.,1.3 × 107
+toss-up,energy,Multiple Choice,11) Energy – Multiple Choice Commercially available photovoltaic [photo-vawl-TAY-ik] cells are primarily made of what element? W) Germanium [jer-MAYN-ee-um] X) Arsenic Y) Carbon Z) Silicon,Z) SILICON
+bonus,energy,Short Answer,11) Energy – Short Answer What nonrenewable fuel source represents the largest percentage of US energy consumption?,"PETROLEUM (ACCEPT: OIL)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"12) Earth and Space – Multiple Choice The inshore marine environment, from the surface to the sea floor, where water depths do not exceed 200 meters, is known as which of the following? W) Oceanic zone X) Neritic zone Y) Intertidal zone Z) Benthic zone",X) NERITIC ZONE
+bonus,,Multiple Choice,"12) Earth and Space – Multiple Choice Which of the following lists of features is associated with a convergent plate boundary? W) Primarily shallow earthquakes, rifting, volcanic activity X) Trench, primarily shallow earthquakes, volcanoes Y) Hot spots, few earthquakes, trench Z) Subduction, trench, volcanic activity, shallow to deep earthquakes","Z) SUBDUCTION, TRENCH, VOLCANIC ACTIVITY, SHALLOW TO DEEP EARTHQUAKES"
+toss-up,,Multiple Choice,13) Life Science – Multiple Choice Which of the following plant phyla [FYE-lah] has the most extant species? W) Ginkgophyta [GINK-oh-fitah] X) Coniferophyta [kaw-nif-er-AW-fih-tah] Y) Psilophyta [sigh-LAW-fih-tah] Z) Anthophyta [an-THAW-fih-tah],Z) ANTHOPHYTA
+bonus,,Multiple Choice,13) Life Science – Multiple Choice Which of the following cytoskeletal [SIGH-toh-skeletul] components has the largest diameter? W) Intermediate filaments X) Keratin filaments Y) Microtubules [micro-TUBE-yules] Z) Microfilaments,"Y) MICROTUBULES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,14) Math – Short Answer Increasing a number by 200% is equivalent to multiplying it by what number?,3
+bonus,math,Short Answer,14) Math – Short Answer Solve the following equation for x: x2 – 7x – 120 = 0.,"-8, 15 (must give both answers)"
+toss-up,,Short Answer,"15) Physical Science – Short Answer To two significant figures and in meters per second squared, what is the acceleration due to gravity near the Earth's surface?",9.8
+bonus,,Multiple Choice,15) Physical Science – Multiple Choice Which of the following best illustrates the particle nature of light? W) Diffraction X) Interference Y) Polarization Z) Photoelectric effect,"Z) PHOTOELECTRIC EFFECT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,16) Earth and Space – Short Answer What is the term for an object that is so massive that gravity prevents light from escaping it?,BLACK HOLE
+bonus,,Short Answer,16) Earth and Space – Short Answer What planet was not fully imaged until 2011 when it was visited by the MESSENGER spacecraft?,MERCURY
+toss-up,,Short Answer,17) Physical Science – Short Answer What subatomic particle is composed of two up quarks and one down quark?,PROTON
+bonus,,Multiple Choice,17) Physical Science – Multiple Choice Which of the following is NOT a base unit of measure in the metric system? W) Meter X) Second Y) Gram Z) Ampere,"Y) GRAM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,18) Energy – Multiple Choice Which industrial process is used to separate the many components of crude oil into useful petroleum products? W) Absorption X) Membrane diffusion Y) Refrigeration Z) Distillation,Z) DISTILLATION
+bonus,energy,Multiple Choice,18) Energy – Multiple Choice Government agencies and utilities offer various incentives to encourage people to improve the energy efficiency of buildings and vehicles. Which of the following is NOT a typical incentive? W) Tax credits X) Loans or loan guarantees Y) Hardware installation Z) Rebates,Y) HARDWARE INSTALLATION
+toss-up,,Short Answer,19) Physical Science – Short Answer How many moles of hydrogen gas may be obtained from one mole of water?,1
+bonus,,Multiple Choice,19) Physical Science – Multiple Choice How many atoms of magnesium are present in two molecules of the compound Mg N ? 3 2 W) 2 X) 3 Y) 6 Z) 8,"Y) 6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,20) Earth and Space – Multiple Choice Which of the following degree measures is closest to the angle of repose of cinders in a cinder cone volcano? W) 5 X) 10 Y) 20 Z) 30,Z) 30
+bonus,,Multiple Choice,20) Earth and Space – Multiple Choice Which of the following minerals has the same chemical composition as glass? W) Halite X) Fluorite Y) Pyrite Z) Quartz,Z) QUARTZ
+toss-up,,Short Answer,"21) Life Science – Short Answer What long, rope-like structure do some bacteria use to move around?",FLAGELLUM
+bonus,,Short Answer,21) Life Science – Short Answer A cell's surface protein pump stops working when ATP is not present. What is the type of transport these protein pumps carry out?,"ACTIVE TRANSPORT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Earth and Space – Short Answer Identify all of the following three planets that are considered Jovian: 1) Jupiter; 2) Uranus; 3) Saturn.,"ALL (ACCEPT: 1, 2, AND 3)"
+bonus,,Short Answer,22) Earth and Space – Short Answer Identify all of the following three minerals that are silicates: 1) Calcite; 2) Halite; 3) Muscovite.,3 (ACCEPT: MUSCOVITE)
+toss-up,math,Short Answer,"23) Math – Short Answer Giving your answer as a decimal, what is the sum of the three numbers 2, 2/4, and 2/8?",2.75
+bonus,math,Short Answer,23) Math – Short Answer Simplify the fraction with numerator 1 – √3 and denominator 1 + √3.,–2 + √3 (ACCEPT: √3 – 2)

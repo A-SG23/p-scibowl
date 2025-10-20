@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,1) Life Science – Multiple Choice Which of the following statements is correct? W) Mitochondria [my-tow-KON-dree-ah] generate ATP X) Ribosomes [RYE-beh-sohms] synthesize DNA Y) Nuclei [NEW-klee-eye] recycle waste Z) Ribosomes [RYE-beh-sohms] synthesize RNA,W) MITOCHONDRIA GENERATE ATP
+bonus,,Short Answer,"1) Life Science – Short Answer What part of the brain coordinates the movements of the body and is thought to be the location of ""muscle memory?""","CEREBELLUM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Physical Science – Short Answer What is the term that describes the phase change from a gas to a liquid?,CONDENSATION (ACCEPT: LIQUEFACTION)
+bonus,,Short Answer,2) Physical Science – Short Answer Give the name of the compound formed by combining oxygen with the iron +2 ion.,FERROUS OXIDE
+toss-up,,Short Answer,3) Earth and Space – Short Answer What is the name of the tropical easterly winds that were traditionally used by sailors to cross the ocean?,TRADE WINDS
+bonus,energy,Multiple Choice,"3) Earth and Space – Multiple Choice Traditionally, a decrease in carbon emissions was linked to economic recession. However, since 2000, more than 20 countries have decoupled their emissions and economic development. What could this imply? W) Economic development and carbon emissions are inversely proportional X) Those countries are spending more money on carbon emissions Y) Those countries are increasingly relying on clean energy alternatives Z) Carbon emissions are decreasing globally","Y) THOSE COUNTRIES ARE INCREASINGLY RELYING ON CLEAN ENERGY ALTERNATIVES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"4) Energy – Short Answer What cardinal direction should solar panels face, if a power utility’s primary goal is to combat peak electricity demand?",WEST
+bonus,energy,Multiple Choice,4) Energy – Multiple Choice Waste-to-energy plants generally cost more to operate than coal-fired plants. What benefit do they provide? W) Fewer sulfur emissions X) Fewer nitrogen emissions Y) More efficient burning Z) Reducing landfill disposal,Z) REDUCING LANDFILL DISPOSAL
+toss-up,math,Short Answer,5) Math – Short Answer A trapezoid has bases of length 14 and 8. What is the length of its median?,11
+bonus,math,Short Answer,"5) Math – Short Answer What is the area of a triangle whose three vertices are located at (2, –3), (2, 7), and (6, 9)?","20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"6) Life Science – Short Answer When conducting experiments on a vine growing upon a tree, a botanist discovers that the vine’s health solely depends on the tree but the tree’s nutrients are diminished by the vine’s existence. What type of relationship is this?",PARASITISM
+bonus,,Short Answer,6) Life Science – Short Answer How many chambers does the human heart have?,FOUR
+toss-up,,Multiple Choice,7) Earth and Space – Multiple Choice What is the name for the model that describes the opening and closing of ocean basins? W) Wegener cycle X) Lyell cycle Y) Wilson cycle Z) Heezen cycle,Y) WILSON CYCLE
+bonus,,Short Answer,7) Earth and Space – Short Answer What is the name of the effect for the Earth's axis slightly shifting due to the gravitational tug of the moon as it orbits the Earth?,"NUTATION (DO NOT ACCEPT: PRECESSION)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,8) Math – Short Answer What is the remainder when 72 is divided by 13?,7
+bonus,math,Short Answer,"8) Math – Short Answer Rounded to the nearest integer, what is the area of a circle of circumference 8?",5
+toss-up,energy,Multiple Choice,9) Energy – Multiple Choice What accounts for the largest use of fresh water in the U.S. today? W) Agriculture X) Mineral recovery Y) Cooling power plants Z) Human consumption,Y) COOLING POWER PLANTS
+bonus,energy,Short Answer,9) Energy – Short Answer What grade of coal has the highest energy density?,"ANTHRACITE (ACCEPT: BITUMINOUS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,10) Math – Short Answer What is the percentage increase from 75 to 120?,60
+bonus,math,Short Answer,"10) Math – Short Answer What is the sum of the mean, median, and mode of the following list of eight numbers: 1, 2, 3, 3, 6, 9, 11, 13?","13.5 (ACCEPT: 27/2, 13 ½)"
+toss-up,,Short Answer,11) Physical Science – Short Answer The third minimum in a double slit interference pattern occurs when the waves have a path difference of how many wavelengths?,2.5 (ACCEPT: 5/2)
+bonus,,Short Answer,"11) Physical Science – Short Answer A driver is traveling at 90 kilometers per hour when he yawns and closes his eyes for half a second. How far, in meters to the nearest tenth, does the car travel when his eyes are closed?","12.5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"12) Energy – Multiple Choice According to the U.S. Energy Information Administration, which of the following encompasses the least portion of energy usage in the modern American home? W) Air conditioning X) Electronics, lighting, and appliances Y) Space heating Z) Water heating",W) AIR CONDITIONING
+bonus,energy,Multiple Choice,"12) Energy – Multiple Choice In the U.S., where is most high-level nuclear waste presently stored? W) Yucca Mountain X) The Grand Canyon Y) On-site at nuclear reactors Z) In breeder reactors",Y) ON-SITE AT NUCLEAR REACTORS
+toss-up,,Short Answer,"13) Earth and Space – Short Answer To the nearest tenth, how many times does Mercury rotate per orbit around the sun?","1.5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+bonus,,Short Answer,13) Earth and Space – Short Answer The process of accretion is caused by what fundamental force?,"GRAVITATIONAL FORCE (ACCEPT: GRAVITY)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,14) Math – Short Answer What is the area of an isosceles triangle incribed in a rectangle with sides of length 1 and 4?,2
+bonus,math,Short Answer,"14) Math – Short Answer On a math exam, every question gives two explicit choices, A and B, but the answer can be any combination of these two choices. The answer includes choice A 70% of the time and choice B 50% of the time. The answer is neither A nor B 10% of the time. For what percentage of questions is the answer both A and B?",30
+toss-up,,Short Answer,15) Earth and Space – Short Answer What earthquake intensity scale classifies earthquakes based on the damage they cause?,MODIFIED-MERCALLI SCALE (ACCEPT: MERCALLI INDEX)
+bonus,,Short Answer,15) Earth and Space – Short Answer Order the following three dissolved ions from most abundant to least abundant in the Earth's oceans: 1) Na+; 2) Cl-; 3) Mg +. 2,"2, 1, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"16) Physical Science – Multiple Choice What is responsible for the luster, conductivity and ductility [duk-TIL-ih-tee] of metals? W) The metallic bond X) The density of the metal Y) The position on the periodic table Z) The number of protons in the metal",W) THE METALLIC BOND
+bonus,,Short Answer,"16) Physical Science – Short Answer If an isotope undergoes first-order radioactive decay with a half-life of 5 years, how long will it take, in years, until only 12.5% of the isotope remains?",15
+toss-up,,Short Answer,17) Life Science – Short Answer What general cell type is primarily responsible for nourishing neurons?,GLIA
+bonus,,Short Answer,17) Life Science – Short Answer Identify all of the following three types of muscle that are considered striated: 1) Smooth; 2) Cardiac; 3) Skeletal.,"2 AND 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"18) Physical Science – Short Answer If the diameter of a tube through which a fluid is traveling increases, what happens to the speed of that fluid?",IT DECREASES
+bonus,,Short Answer,"18) Physical Science – Short Answer Two children sit on opposite sides of a teeter-totter. If one child has mass 30 kilograms and sits 2.5 meters away from the fulcrum, how far away, in meters, must the other child, who has mass 25 kilograms, sit from the fulcrum to keep the teeter-totter balanced?",3
+toss-up,,Short Answer,"19) Life Science – Short Answer What cells are composed of a cell body, dendrites, and axons?",NEURONS
+bonus,,Short Answer,19) Life Science – Short Answer Bones are primarily composed of calcium phosphate and what fibrous protein?,"COLLAGEN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Physical Science – Short Answer By what single process does a solid become a gas?,SUBLIMATION
+bonus,,Short Answer,20) Physical Science – Short Answer Identify all of the following three chemicals that are strong acids: 1) Sodium hydroxide; 2) Hydrochloric [HIGH-droh-KLOR-ic] acid; 3) Acetic [ah-SEE-tik] acid.,2
+toss-up,math,Short Answer,21) Math – Short Answer Name one of the linear factors of x2 – x – 72.,x – 9 OR x + 8 (must give at least one)
+bonus,math,Short Answer,21) Math – Short Answer A 3-digit number has 3 different digits. The number formed by reversing its digits is also a 3-digit number. What is the largest possible sum of these two numbers?,"1857
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Life Science – Short Answer What organ produces the majority of plasma proteins?,LIVER
+bonus,,Short Answer,22) Life Science – Short Answer How many stomach chambers do ruminants possess?,FOUR
+toss-up,,Short Answer,23) Earth and Space – Short Answer Identify all of the following four places where scientists recorded plastic pollution in the ocean: 1) Pelagic zones; 2) Abyssal zones; 3) Arctic sea ice; 4) Stomach contents of sea birds.,"ALL (ACCEPT: 1, 2, 3, AND 4)"
+bonus,,Short Answer,23) Earth and Space – Short Answer Order the following 4 layers of the sun from the coolest to the warmest: 1) Core; 2) Photosphere; 3) Chromosphere; 4) Corona.,"2, 3, 4, 1"

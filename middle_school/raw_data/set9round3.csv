@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,energy,Short Answer,1) Physical Science – Short Answer What kind of collision conserves both kinetic energy and linear momentum?,ELASTIC (ACCEPT: PERFECTLY ELASTIC)
+bonus,,Short Answer,1) Physical Science – Short Answer An object in free-fall on the Earth will eventually stop accelerating. What is the term for the speed of the object when it reaches this point?,"TERMINAL VELOCITY (ACCEPT: TERMINAL SPEED)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Earth and Space – Short Answer What term is used to describe the fraction of light that is reflected by a surface?,ALBEDO
+bonus,,Multiple Choice,2) Earth and Space – Multiple Choice At which of the following locations is seafloor spreading occurring? W) Marianas trench X) African rift valley Y) Mid-Atlantic ridge Z) Tanna fault,Y) MID-ATLANTIC RIDGE
+toss-up,energy,Short Answer,3) Energy – Short Answer Ethanol in the US is primarily produced from what crop?,CORN
+bonus,energy,Multiple Choice,3) Energy – Multiple Choice Which of the following is closest to the percentage of electricity produced in the US using renewable energy sources? W) 80% X) 50% Y) 30% Z) 10%,"Z) 10%
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"4) General Science – Multiple Choice To guard against sparks causing a fire, mechanics aboard submarines during World War II often used tools made from which of the following: W) Chrome plated steel X) Vanadium Y) Cold rolled steel Z) Bronze",Z) BRONZE
+bonus,,Multiple Choice,4) General Science – Multiple Choice Life on Earth is based on building blocks of what element? W) Oxygen X) Carbon Y) Fluorine Z) Nitrogen,X) CARBON
+toss-up,,Multiple Choice,5) Life Science – Multiple Choice The exchange of gases between blood and the tissue occurs normally in: W) Venules X) Arterioles Y) Veins Z) Capillaries,Z) CAPILLARIES
+bonus,,Short Answer,5) Life Science – Short Answer In what phylum are all vertebrate organisms?,"CHORDATA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,6) Math – Multiple Choice The county fair charges a $4 entrance fee. The cost of each ride is $2. Which of the following equations represents the cost (y) of getting into the fair and going on x rides? W) y = 6 + x X) y = 2 + 4x Y) y = 4 + 2x Z) y = 6x,Y) y = 4 + 2x
+bonus,math,Short Answer,"6) Math – Short Answer If a circle has a circumference of 10 meters, what is its area, to the nearest whole square meter?",8
+toss-up,energy,Short Answer,"7) Energy – Short Answer If a transformer has an input voltage of 440 volts and an output voltage of 110 volts, what is the ratio of the number of turns in the input coil to the number of turns in the output coil?",4 to 1
+bonus,energy,Short Answer,7) Energy – Short Answer What method is currently used to produce most of the world’s renewable energy?,"HYDROPOWER (ACCEPT: HYDROELECTRIC)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) Physical Science – Multiple Choice Which of the following provides a measure of the amount of matter in a substance? W) Mass X) Volume Y) Density Z) Weight,W) MASS
+bonus,,Short Answer,8) Physical Science – Short Answer What derived SI unit is used to express power?,WATT
+toss-up,,Multiple Choice,9) General Science – Multiple Choice Through which of the following mediums does sound travel the slowest? W) Air X) Water Y) Copper Z) Ice,W) AIR
+bonus,,Short Answer,9) General Science – Short Answer Continental rifts and mid-ocean ridges are found at which type of plate boundary?,"DIVERGENT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,10) Earth and Space – Multiple Choice What type of lava flows can be observed at the volcanic hot spots in Hawaii? W) Felsic X) Andesitic Y) Basaltic Z) Picritic,Y) BASALTIC
+bonus,,Multiple Choice,10) Earth and Space – Multiple Choice What type of telescope uses convex lenses to bend light? W) Radio telescope X) Refracting telescope Y) Reflecting telescope Z) Hubble telescope,X) REFRACTING TELESCOPE
+toss-up,,Multiple Choice,11) Life Science – Multiple Choice Which of the following organisms is known to only produce a small number of offspring at a time? W) Frog X) Oyster Y) Fruit fly Z) Chimpanzee,Z) CHIMPANZEE
+bonus,,Multiple Choice,11) Life Science – Multiple Choice Which of the following is an example of a change in the primary structure of a protein? W) An amino acid substitution X) A protein folding into a beta sheet Y) A disulfide bond exchange Z) Subunits of a protein dimerizing,"W) AN AMINO ACID SUBSTITUTION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,12) Math – Short Answer Donna rolls two standard dice. What is the most likely sum of the results of the two dice?,7
+bonus,math,Short Answer,"12) Math – Short Answer You are given the following list of 9 numbers: 71, 80, 93, 101, 83, 19, 54, 80, 74. Calculate the difference between the median and mode.",0
+toss-up,energy,Short Answer,13) Energy – Short Answer Landfills are a potential source of what kind of biofuel?,"BIOGAS (ACCEPT: VEGETABLE OIL, COOKING OIL)"
+bonus,energy,Short Answer,13) Energy – Short Answer Identify all of the following three units that correspond to energy: 1) Watts; 2) Joules; 3) Kilowatt-hours.,"2 AND 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,14) Math – Short Answer How many vertices does a pentagonal prism have?,10
+bonus,math,Multiple Choice,"14) Math – Multiple Choice Sherman’s car holds 20 gallons of gas. He drove 375 miles, using 3/4 of a tank. How many miles per gallon does his car get? W) 20 X) 25 Y) 30 Z) 35",X) 25
+toss-up,,Multiple Choice,"15) Life Science – Multiple Choice In bean and corn seeds, the food supply that is used by the seed to germinate and grow is found in the: W) Cotyledon [kot-uhl-ee-dun] X) Root tip Y) Abcission zone [ab-sis-shun zone] Z) Petiole [pet-ee-ohl]",W) COTYLEDON
+bonus,,Short Answer,15) Life Science – Short Answer Identify all of the following four choices that would not be visible under a standard laboratory light microscope when visualizing a plant cell: 1) DNA; 2) Ribosome; 3) Cell wall; 4) Chloroplast.,"1 AND 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,16) Earth and Space – Short Answer What layer of the mantle is found below the lithosphere?,ASTHENOSPHERE
+bonus,,Short Answer,16) Earth and Space – Short Answer Order the following four choices from lowest altitude to highest altitude: 1) Weather balloon; 2) Mesosphere; 3) Contrails; 4) Aurora Borealis.,"3, 1, 2, 4"
+toss-up,,Short Answer,17) General Science – Short Answer The movement of lithospheric plates over the asthenosphere is explained by which theory?,CONTINENTAL DRIFT
+bonus,,Multiple Choice,"17) General Science – Multiple Choice When crossing two heterozygous plants, what percentage of the offspring do you expect to be homozygous? W) 0 X) 25 Y) 50 Z) 75","Y) 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Physical Science – Multiple Choice A balanced chemical equation must possess which of the following? W) The same number of molecules on both sides of the equation X) The same kinds of molecules on both sides of the equation Y) The same number of each kind of atom on both sides of the equation Z) The same leading coefficient on both sides of the equation,"Y) THE SAME NUMBER OF EACH KIND OF ATOM ON BOTH SIDES OF THE
+EQUATION"
+bonus,,Short Answer,18) Physical Science – Short Answer What statistical law of thermodynamics states that entropy increases in a closed system?,SECOND LAW OF THERMODYNAMICS
+toss-up,,Multiple Choice,19) Life Science – Multiple Choice A nucleotide contains all except which of the following? W) Phosphate group X) 5-carbon sugar Y) Nitrogenous base Z) Amino acid,Z) AMINO ACID
+bonus,,Short Answer,"19) Life Science – Short Answer What group of plants, characterized by the presence of bundle-sheath and mesophyll cells, is adapted to photosynthesis in arid conditions?","C4 PLANTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,20) Earth and Space – Multiple Choice Arêtes [a-reets] and drumlins are formed by what agent of weathering? W) Stream flow X) Winds Y) Glaciers Z) Precipitation,Y) GLACIERS
+bonus,,Multiple Choice,20) Earth and Space – Multiple Choice An example of a source region for continental arctic air is: W) Mexican plateau X) Gulf of Alaska Y) Northern Great Plains of the United States Z) Siberia,Z) SIBERIA
+toss-up,energy,Multiple Choice,21) Physical Science – Multiple Choice An electron in the second main energy level and the second sublevel of an atom is described by which of the following orbital designations? W) 1s X) 2s Y) 1p Z) 2p,Z) 2p
+bonus,,Multiple Choice,21) Physical Science – Multiple Choice Which of the following is the oxidation number of fluorine gas? W) -1 X) 0 Y) +1 Z) +2,"X) 0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"22) Math – Short Answer The measure of angle B in isosceles trapezoid BIRD [B-I-R-D] is 40 degrees. What is the measure, in degrees, of angle R?",140
+bonus,math,Short Answer,22) Math – Short Answer Order the following three numbers from least to greatest: 1) 42%; 2) 0.402; 3) 2/5.,"2/5; 0.402; 42% (ACCEPT: 3, 2, 1)"
+toss-up,,Short Answer,"23) General Science – Short Answer If a microscope has an ocular lens with a magnification of 10 and an objective lens with a magnification of 40, what is the overall magnification?",400
+bonus,,Short Answer,23) General Science – Short Answer What is the name of the process in which sediments compact under pressure and gradually become solid rock?,LITHIFICATION

@@ -1,0 +1,60 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,1) Math – Short Answer What are the distinct prime factors of 110?,"2, 5, AND 11"
+bonus,math,Short Answer,1) Math – Short Answer Convert 112 in base 10 to base 6.,"THREE-ZERO-FOUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Earth and Space – Short Answer Gully erosion is caused by what agent of erosion?,WATER
+bonus,,Multiple Choice,2) Earth and Space – Multiple Choice Exposed Precambrian crystalline igneous and metamorphic rocks that form tectonically stable areas are which type of geologic province? W) Shield X) Platform Y) Orogen Z) Basin,W) SHIELD
+toss-up,energy,Multiple Choice,"3) Energy – Multiple Choice Until the mid-1800s, biomass provided a significant portion of US energy needs. Which of the following is closest to the percentage of US energy usage that was provided by biomass before 1850? W) 10 X) 30 Y) 60 Z) 90",Z) 90
+bonus,energy,Multiple Choice,3) Energy – Multiple Choice What is the primary method used by a reactor operator to reduce the power level in a boiling water nuclear reactor? W) Insertion of control rods X) Removal of control rods Y) Addition of water to the reactor vessel Z) Removal of water from the reactor vessel,"W) INSERTION OF CONTROL RODS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"4) Math – Short Answer Rounded to the nearest 100, what is 346 + 275 + 512?",1100
+bonus,math,Short Answer,4) Math – Short Answer What is the degree measure of each interior angle of a regular 60-sided polygon?,174
+toss-up,,Multiple Choice,5) Life Science – Multiple Choice Which of the following is an example of a plant with bulb stems? W) Onion X) Potato Y) Strawberry Z) Asparagus,W) ONION
+bonus,,Multiple Choice,5) Life Science – Multiple Choice A biker falls and now has trouble balancing. Which of the following structures is likely damaged? W) Auditory canal X) Tympanic membrane Y) Semicircular canal Z) Cochlea [KOH-klee-ah],"Y) SEMICIRCULAR CANAL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) Physical Science – Multiple Choice Which of the following is a characteristic of all strong acids? W) Complete dissociation in water X) High pH number Y) Has a halogen Z) Not an oxidant,W) COMPLETE DISSOCIATION IN WATER
+bonus,,Short Answer,"6) Physical Science – Short Answer Add the following three terms and give the answer in centimeters to the appropriate number of significant figures: 2.5 centimeters, 0.50 centimeters, and 0.055 centimeters.",3.1
+toss-up,,Multiple Choice,"7) Earth and Space – Multiple Choice According to the U.S. government, the BP oil spill was responsible for the release of approximately how many million gallons of oil into the Gulf of Mexico? W) 90 X) 150 Y) 210 Z) 305",Y) 210
+bonus,,Short Answer,7) Earth and Space – Short Answer What is the primary source for winds on the terrestrial planets?,"SUNLIGHT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,8) Energy – Multiple Choice Which country has the largest proven coal reserves? W) China X) India Y) Russia Z) United States,Z) UNITED STATES
+bonus,energy,Multiple Choice,8) Energy – Multiple Choice Which product of coal gasification can be used for power production? W) Hydrogen sulfide X) Oxygen Y) Carbon dioxide Z) Hydrogen,Z) HYDROGEN
+toss-up,,Short Answer,9) Life Science – Short Answer How many different species in the genus Homo are extant?,ONE
+bonus,,Short Answer,9) Life Science – Short Answer Most unicellular eukaryotes [YOU-care-ee-oats] are grouped into what kingdom?,"PROTISTA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,10) Energy – Multiple Choice Which of the following types of energy production yields the most energy per gram of fuel? W) Combustion of coal X) Fission of uranium Y) Fusion of deuterium [doo-TEER-ee-um] and tritium [TRIH-tee-um] Z) Hydrogen fuel cell,Y) FUSION OF DEUTERIUM AND TRITIUM
+bonus,energy,Short Answer,"10) Energy – Short Answer What are the chemical compounds used as the anode [ANN-ode] and cathode [CATH-ode], respectively, of a standard alkaline AA battery?","ANODE: ZINC; CATHODE: MANGANESE OXIDE (ACCEPT: ZINC AND MANGANESE OXIDE, IN
+THAT ORDER)"
+toss-up,math,Short Answer,11) Math – Short Answer A right triangle has its hypotenuse of length 24 and one angle that measures 60 degrees. What is the length of its longer leg?,12√3
+bonus,math,Short Answer,11) Math – Short Answer Four to the 32nd power divided by 32 to the 4th power equals 2 to what power?,"44
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,12) Physical Science – Multiple Choice Which of the following types of radiation has the lowest energy? W) Infrared X) Microwave Y) Blue light Z) Visible,X) MICROWAVE
+bonus,,Short Answer,12) Physical Science – Short Answer What two elements are liquids at standard room temperature and pressure?,MERCURY AND BROMINE
+toss-up,,Multiple Choice,13) Earth and Space – Multiple Choice The Intertropical Convergence Zone is the area encirling the Earth near the equator where the northeast and southeast trade winds come together. This area was known to sailors as which of the following? W) Horse latitudes X) Monsoon trough Y) Doldrums Z) Trade lows,Y) DOLDRUMS
+bonus,,Short Answer,13) Earth and Space – Short Answer A particular star has an apparent magnitude of 13 and an absolute magnitude of 8. How many parsecs away is this star?,"100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Life Science – Short Answer During what cellular process do synapsis [sin-AP-sis] and crossing over occur?,MEIOSIS (ACCEPT: PROPHASE I)
+bonus,,Short Answer,14) Life Science – Short Answer Phagocytosis [fag-oh-sye-TOW-sis] and pinocytosis [PEE-noh-sigh-TOW-sis] are both examples of what type of general cellular process?,"ENDOCYTOSIS (ACCEPT: ACTIVE TRANSPORT, BULK TRANSPORT)"
+toss-up,,Multiple Choice,"15) Earth and Space – Multiple Choice According to the conveyor belt model of ocean circulation, which of the following happens when water reaches the poles? W) The salinity of the water decreases X) The density of the water increases Y) The density of the water decreases Z) The temperature of the water increases",X) THE DENSITY OF THE WATER INCREASES
+bonus,,Short Answer,15) Earth and Space – Short Answer What layer of the atmosphere is the location of the ozone layer?,"STRATOSPHERE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,16) Math – Short Answer How many feet are in two miles?,"10,560"
+bonus,math,Short Answer,"16) Math – Short Answer What is the slope-intercept equation of the line that contains points (–1, 1) and (4, 21)?",y = 4x + 5
+toss-up,,Short Answer,"17) Physical Science – Short Answer When graphing force versus time, what physical quantity can be determined from the area underneath the curve?",IMPULSE
+bonus,,Short Answer,"17) Physical Science – Short Answer A 100-kilogram vehicle is accelerating at 7 meters per second squared. In newtons, what is the force on this vehicle?","700
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Earth and Space – Multiple Choice Which of the following best explains why the sun never sets in Northern Finland in mid-summer? W) Because it is always sunny in summer in Finland X) Because when it is summer in Finland it is winter in Africa Y) Because the Finns need a long growing season Z) Because the rotational axis of the Earth is tilted relative to Earth’s orbit around the sun,"Z) BECAUSE THE ROTATIONAL AXIS OF THE EARTH IS TILTED RELATIVE TO EARTH’S ORBIT
+AROUND THE SUN"
+bonus,,Short Answer,18) Earth and Space – Short Answer Which of the Galilean moons has the shortest orbital period?,IO
+toss-up,,Multiple Choice,19) Physical Science – Multiple Choice A piece of zinc is in a beaker of water. As you add hydrochloric acid to the beaker you see small gas bubbles forming around the zinc. What is this gas? W) Chlorine gas X) Water vapor Y) Hydrogen gas Z) Oxygen gas,Y) HYDROGEN GAS
+bonus,,Short Answer,19) Physical Science – Short Answer What scientist is famous for the deduction that blackbody radiation must be quantized?,"MAX PLANCK (ACCEPT: PLANCK)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Life Science – Short Answer In what area of the cell does glycolysis [glye-KAWL-eh-sis] occur?,CYTOSOL
+bonus,,Short Answer,20) Life Science – Short Answer What molecules diffuse across synapses [sin-AP-seez] and bind to ligand [LIH-gund] gated ion channels?,NEUROTRANSMITTERS
+toss-up,,Multiple Choice,21) Physical Science – Multiple Choice What happens to a light wave that passes from air into water? W) Its speed increases and its frequency remains constant X) Its wavelength increases and its speed decreases Y) Its frequency increases and its wavelength remains constant Z) Its speed decreases and its frequency remains constant,Z) ITS SPEED DECREASES AND ITS FREQUENCY REMAINS CONSTANT
+bonus,,Short Answer,"21) Physical Science – Short Answer If a wave has a period of 0.125 seconds, what is the frequency in hertz?","EIGHT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Life Science – Short Answer What scientist is famous for her x-ray diffraction experiments that contributed to the discovery of the structure of DNA?,ROSALIND FRANKLIN
+bonus,,Short Answer,22) Life Science – Short Answer What type of viruses exclusively attack bacteria?,BACTERIOPHAGES
+toss-up,math,Short Answer,"23) Math – Short Answer If 48 students play in the band, and they represent 25% of the students in a school, how many total students attend the school?",192
+bonus,math,Short Answer,"23) Math – Short Answer To the nearest whole number, what is the slant height of a right circular cone with radius 8 and height 11?",14

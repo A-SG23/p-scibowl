@@ -1,0 +1,61 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,1) Life Science – Multiple Choice Which of the following organs is NOT part of the endocrine system? W) Pancreas X) Spleen Y) Ovary Z) Hypothalamus,X) SPLEEN
+bonus,,Short Answer,"1) Life Science – Short Answer Arrange these four groups in order of age of origin, from earliest to latest: 1) Amphibians; 2) Birds; 3) Fish; 4) Crocodiles.","3, 1, 4, 2 (ACCEPT: FISH, AMPHIBIANS, CROCODILES, BIRDS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"2) Physical Science – Short Answer Neglecting air resistance, at what angle, in degrees, should a projectile be fired from ground level in order to maximize its range?",45
+bonus,,Short Answer,"2) Physical Science – Short Answer A particle initially at rest had a constant acceleration applied to it for 12 seconds, at which point it had been displaced by 216 meters from its original position. What was the magnitude, in meters per second squared, of the applied acceleration?",3
+toss-up,math,Multiple Choice,3) Math – Multiple Choice A polynomial function has a zero at x = –6. Which of the following must be a factor of the polynomial? W) –6x X) 6x Y) x + 6 Z) x – 6,Y) x + 6
+bonus,math,Short Answer,"3) Math – Short Answer An isosceles right triangle with legs of length 10 is inscribed in a circle in such a way that its hypotenuse coincides with a diameter of the circle. To the nearest integer, what is the area of the circle?","157
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"4) Earth and Space – Multiple Choice Radiocarbon dating is a commonly used technique for determining the age of organic material. Which of the following numbers is closest to the age, in years, after which organic material is unsuitable for carbon dating? W) 5,000 X) 50,000 Y) 500,000 Z) 5 million","X) 50,000"
+bonus,,Multiple Choice,4) Earth and Space – Multiple Choice Which of the following materials should a geochronologist study to get the best estimate of the age of the Earth? W) Oldest continental crust X) Oldest oceanic crust Y) Lunar rock Z) Meteorites,Z) METEORITES
+toss-up,energy,Short Answer,"5) Energy – Short Answer In what California desert is the Ivanpah Solar Electric Generation System, the world's largest solar thermal power station?",MOJAVE DESERT
+bonus,energy,Multiple Choice,"5) Energy – Multiple Choice When nuclear fuel rods are placed underwater, a blue glow can be observed around them. What is the term for this phenomenon? W) Cherenkov radiation X) Mendeleev radiation Y) Gamma radiation Z) Ultraviolet radiation","W) CHERENKOV RADIATION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,6) General Science – Short Answer Who estimated the circumference of the Earth using geometry in about 230 B.C.?,ERATOSTHENES
+bonus,,Multiple Choice,6) General Science – Multiple Choice Which of the following describes the type of growth represented by a population pyramid with a wide base and a narrow peak? W) Expansive growth X) Constrictive growth Y) Decreasing Z) Neutral,W) EXPANSIVE GROWTH
+toss-up,,Short Answer,7) Life Science – Short Answer Iodine deficiency is associated with the swelling of what gland?,THYROID
+bonus,,Short Answer,"7) Life Science – Short Answer In adult humans, what leukocyte type composes the largest percentage of leukocytes in circulation?","NEUTROPHIL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,8) General Science – Short Answer Identify all of the following three scientific ideas and explanations that are considered to be a proven fact: 1) A law; 2) A theory; 3) A hypothesis.,NONE OF THEM
+bonus,,Short Answer,8) General Science – Short Answer Arrange the following four events in chronological order from earliest to most recent: 1) Newton invents calculus; 2) Galileo discovers sunspots; 3) Copernicus hypothesizes that the planets revolve around the sun; 4) Bernoulli proposes the laws of fluid mechanics.,"3, 2, 1, 4"
+toss-up,math,Multiple Choice,9) Math – Multiple Choice What is the equation of the axis of symmetry for the graph of y = x2 – 4x + 4? W) x = –2 X) y = –2 Y) x = 2 Z) y = 2,Y) x = 2
+bonus,math,Short Answer,9) Math – Short Answer How many diagonals does a convex 13-sided polygon have?,"65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,10) Earth and Space – Multiple Choice Which of the following is TRUE of the apparent path of the Sun across the sky in the United States in June? W) The Sun rises North of East and sets North of West X) The Sun rises North of East and sets South of West Y) The Sun rises South of East and sets North of West Z) The Sun rises South of East and sets South of West,W) THE SUN RISES NORTH OF EAST AND SETS NORTH OF WEST
+bonus,,Short Answer,10) Earth and Space – Short Answer Identify all of the following three statements about pulsars that are true: 1) They are rotating white dwarfs; 2) There are four in our Solar System; 3) They were discovered by Jocelyn Bell.,3
+toss-up,chemistry,Short Answer,11) Physical Science – Short Answer What area of chemistry is concerned with studying the rates of chemical reactions?,KINETICS
+bonus,,Short Answer,11) Physical Science – Short Answer Gluons are the carrier of what fundamental force?,"STRONG FORCE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"12) Energy – Multiple Choice In a lithium-ion battery, what happens to the battery when the anode and cathode reactions are run in reverse? W) It goes dead X) It short-circuits Y) It runs twice as long Z) It recharges",Z) IT RECHARGES
+bonus,energy,Multiple Choice,"12) Energy – Multiple Choice High-voltage transmission line voltages are typically at least which of the following voltages? W) 220 X) 1,100 Y) 44,000 Z) 110,000","Z) 110,000"
+toss-up,,Multiple Choice,"13) Earth and Space – Multiple Choice In 2012, what commercial spacecraft successfully flew to the International Space Station and back? W) Arecibo [ah-ray-SEE-boh] X) Dragon Y) Constellation Z) Vostok 1",X) DRAGON
+bonus,,Short Answer,13) Earth and Space – Short Answer Arrange the following three units of distance from shortest to longest: 1) Astronomical unit; 2) Parsec; 3) Light-year.,"1, 3, 2 (ASTRONOMICAL UNIT, LIGHT-YEAR, PARSEC)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Life Science – Short Answer Nondisjunction can result in an abnormal number of chromosomes. What is the name for this condition?,ANEUPLOIDY
+bonus,,Short Answer,"14) Life Science – Short Answer If a cell contains 18 chromatids in metaphase of mitosis, how many chromosomes exist in each daughter cell after cytokinesis?",9
+toss-up,energy,Multiple Choice,15) General Science – Multiple Choice What is the SI unit of energy? W) Volt X) Joule Y) Watt Z) Ampere,X) JOULE
+bonus,,Short Answer,"15) General Science – Short Answer To two significant figures, how many ounces is equivalent to 400 grams?","14
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,16) Physical Science – Short Answer What particle was found as a result of historic cathode ray experiments?,"ELECTRON
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"16) Physical Science – Multiple Choice A discharged capacitor is connected to a DC battery. One-half second after the connection is made, an ammeter in line with the capacitor shows that the current is 1.2 amps. As you continue to watch the ammeter, what will you see? W) The current will remain constant at 1.2 amps X) The current will stay constant at 1.2 amps and then rapidly drop to zero Y) The current will slowly increase to a maximum and then slowly decrease to zero Z) The current will steadily decrease to zero",Z) THE CURRENT WILL STEADILY DECREASE TO ZERO
+toss-up,math,Short Answer,17) Math – Short Answer Solve the following equation for x: open absolute value x – 3 close absolute value equals 9.,"–6, 12 (must give both answers)"
+bonus,math,Short Answer,"17) Math – Short Answer Find the length, rounded to the nearest whole number, of a space diagonal in a right rectangular prism with edges of length 5, 7, and 10.","13
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"18) Energy – Multiple Choice According to the Department of Energy, as of 2014, which of the following is closest to the percentage of U.S. energy used for transportation that is provided by oil? W) 56 X) 71 Y) 92 Z) 100",Y) 92
+bonus,energy,Multiple Choice,"18) Energy – Multiple Choice According to the EPA, which of the following is closest to the percentage of U.S. greenhouse gas emissions in 2009 that resulted from the provision of food? W) 1 X) 7 Y) 13 Z) 19",Y) 13
+toss-up,,Multiple Choice,19) Earth and Space – Multiple Choice Which of the following sediment loads in a stream can be transported by saltation? W) Dissolved X) Suspended Y) Bed Z) Floating,Y) BED
+bonus,,Multiple Choice,19) Earth and Space – Multiple Choice Which of the following statements is NOT true regarding plate tectonics? W) The Mid-Atlantic ridge is a divergent plate boundary X) Convergent and transform boundaries are responsible for most major earthquakes Y) Approximately 75% of the world's volcanoes are associated with the circum-Pacific belt Z) The Juan de Fuca plate is diverging from the North American plate,"Z) THE JUAN DE FUCA PLATE IS DIVERGING FROM THE NORTH AMERICAN
+PLATE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"20) Math – Short Answer If theta is an angle in a right triangle and sine of theta = 3/5, what is cosine of theta?",4/5 (ACCEPT: 0.8)
+bonus,math,Short Answer,"20) Math – Short Answer Solve the following system of two equations for x and y: x + y = 5, x – 3y = 13","(7, –2) (ACCEPT: x = 7, y = –2)"
+toss-up,,Short Answer,"21) Physical Science – Short Answer According to alkane nomenclature, the two in 2-methylpentane indicates the position of what functional group?",METHYL (ALSO ACCEPT: ALKYL)
+bonus,,Multiple Choice,21) Physical Science – Multiple Choice Which of the following is the correctly balanced equation for the electrolysis of water? W) H O yields H + O 2 2 2 X) H + O yields H O 2 2 2 Y) 2H O yields 2H + O 2 2 2 Z) 2H + O yields 2H O 2 2 2,"Y) 2H O YIELDS 2H + O
+2 2 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,22) Physical Science – Short Answer What is the term for the amount of energy required to homolytically break a bond between two atoms?,BOND DISSOCIATION ENERGY (ALSO ACCEPT: BOND DISSOCIATION)
+bonus,energy,Short Answer,"22) Physical Science – Short Answer What is the kinetic energy, in joules, of an object with a mass of 15 kilograms and a velocity of 5 meters per second?",187.5
+toss-up,,Multiple Choice,"23) Life Science – Multiple Choice If a person has cyanosis, what color is his or her skin? W) Blue X) Red Y) Yellow Z) Pale or Blanched",W) BLUE
+bonus,,Short Answer,"23) Life Science – Short Answer Villi and microvilli in the small intestine, cristae in the mitochondrial inner membrane, and thylakoids in the plant chloroplast are structures that evolved to maximize what physical property?",SURFACE AREA

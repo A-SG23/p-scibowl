@@ -1,0 +1,62 @@
+type,subject,format,question,answer
+toss-up,energy,Short Answer,"1) Energy – Short Answer Researchers at Thomas Jefferson National Accelerator Facility are using an electron beam to study the internal structure of protons. What particles, which come in six flavors, are found within protons?",QUARKS
+bonus,energy,Multiple Choice,1) Energy – Multiple Choice Scientists at Lawrence Berkeley National Lab are using molecules such as fluorescein [FLORE-eh-scene] isothiocyanate [eye-soh-THIGH-oh-SIGH ah-nate] for experiments that depend on the emission of light. What technique are they performing with this molecule? W) Electron microscopy X) Mass spectrometry Y) Fluorescence microscopy Z) NMR spectroscopy,"Y) FLUORESCENCE MICROSCOPY
+******************"
+toss-up,,Short Answer,"2) Earth & Space – Short Answer Detrital, organic, and chemical are terms used to refer to the origins of what general type of rock?",SEDIMENTARY
+bonus,,Short Answer,2) Earth & Space – Short Answer Identify all of the following three substances that are minerals: 1) Copper metal; 2) Coal; 3) Synthetic diamond.,1
+toss-up,,Short Answer,3) Life Science – Short Answer Penicillin is able to inhibit bacterial growth without harming human cells because it targets what bacterial structure that animal cells lack?,CELL WALL
+bonus,,Short Answer,"3) Life Science – Short Answer In the human heart, what other chamber contracts at the same time as the left ventricle?","RIGHT VENTRICLE
+******************"
+toss-up,,Short Answer,4) Physical Science – Short Answer What type of heat transfer process occurs when heat flows from a hot object to a cold object that it is directly touching?,CONDUCTION
+bonus,,Short Answer,4) Physical Science – Short Answer Identify all of the following three statements that are true regarding astronauts in low Earth orbit: 1) Their mass is nearly zero; 2) Their weight is nearly zero; 3) They experience no gravitational force from the Earth.,2
+toss-up,,Short Answer,"5) Earth & Space – Short Answer Using Tycho Brahe's [TEE-koh BRAH-haze] observations, what scientist is credited for discovering the elliptical nature of planetary orbits?",KEPLER (ACCEPT: JOHANNES KEPLER)
+bonus,,Short Answer,5) Earth & Space – Short Answer What type of celestial object is the smallest mass object capable of deuterium fusion and is considered to have characteristics of both a planet and a star?,"BROWN DWARF
+******************"
+toss-up,math,Short Answer,"6) Math – Short Answer Two cross-country runners want to finish their 6-kilometer practice run at the same time. The runners run at rates covering one kilometer in 5.5 minutes and 7 minutes, respectively. How many minutes of head start should the faster runner give the slower runner?",9
+bonus,math,Short Answer,"6) Math – Short Answer To the nearest whole number, what is the length of the hypotenuse in a right triangle with legs of length 17 and 12?",21
+toss-up,energy,Short Answer,7) Energy – Short Answer Oak Ridge National Lab produces actinium [ak-TIN-ee-um]-225 for radiation therapy in which it acts as an alpha emitter. An alpha particle is composed of two protons and how many neutrons?,TWO
+bonus,energy,Short Answer,"7) Energy – Short Answer Scientists at Savannah River National Lab are using the multi-component potential theory of adsorption to model the purification of a raw, gaseous mixture normally composed of ethane and methane. What is the common name for this mixture when it is retrieved from underground sources?","NATURAL GAS
+******************"
+toss-up,,Short Answer,8) Earth & Space – Short Answer The Permian [purr-MEE-an] extinction occurred near the end of what geologic era?,PALEOZOIC
+bonus,,Short Answer,8) Earth & Space – Short Answer Rock strata exposed by the Colorado River at the Grand Canyon are separated by intervals where no net sedimentary deposition occurred. What is the general term for these unrecorded intervals of time in the rock record?,"UNCONFORMITY (ACCEPT: DISCONFORMITY; DO NOT ACCEPT: THE GREAT
+UNCONFORMITY)"
+toss-up,,Short Answer,"9) Physical Science – Short Answer When two different waves end up in the same location, they undergo what phenomenon that can either be constructive or destructive?",INTERFERENCE
+bonus,,Short Answer,"9) Physical Science – Short Answer A 3-volt battery is connected to a resistor with resistance of six ohms. In watts, what is the power dissipated by the resistor?","1.5 (ACCEPT: 3/2, 1 1/2)
+******************"
+toss-up,energy,Short Answer,"10) Energy – Short Answer Researchers at SLAC [slack] National Accelerator Lab are improving the intensity of their Linac Coherent Light Source, or LCLS, laser, that they currently use to determine the structures of biological molecules and crystals. This laser operates in what region of the electromagnetic spectrum?",X-RAY
+bonus,energy,Short Answer,"10) Energy – Short Answer Researchers at SLAC [slack] National Accelerator Lab are studying phase- change materials, which are used in the RAM of computers and smartphones. These materials change from a glassy phase to a crystalline phase with a thermal pulse, and then lock in that phase at a lower temperature. While the crystalline phase is ordered, what term best describes the glassy phase because it is a solid material that lacks long range order?",AMORPHOUS
+toss-up,math,Short Answer,11) Math – Short Answer What is the x-intercept of the line with equation 5x – 6y = –60?,"–12 (ACCEPT: (–12, 0)"
+bonus,math,Short Answer,"11) Math – Short Answer For the function f of x = x2 + 3, evaluate f of open parenthesis 3a close parenthesis minus 3 f of a when a = 5.","144
+******************"
+toss-up,,Short Answer,"12) Life Science – Short Answer In female mammals, the initiation of meiosis [my-OH-sis] only occurs in what organ?",OVARY
+bonus,,Short Answer,"12) Life Science – Short Answer During birth, oxytocin [ox-ee-TOW-sin] results in uterine contractions, which eventually results in the production of more oxytocin. Of what type of regulation is this an example?",POSITIVE FEEDBACK (ACCEPT: POSITIVE FEEDBACK LOOP)
+toss-up,,Short Answer,13) Physical Science – Short Answer What is the general term for a process that results in a chemical change?,CHEMICAL REACTION
+bonus,,Short Answer,13) Physical Science – Short Answer The net torque [tork] on an object describes the rate of change of what quantity over time?,"ANGULAR MOMENTUM
+******************"
+toss-up,math,Short Answer,14) Math – Short Answer What is the volume of a right rectangular prism with dimensions 3 by 5 by 6?,90
+bonus,math,Short Answer,"14) Math – Short Answer Two children have a pile of building blocks. Mark used 1/3 of the blocks to build a house, and Mary used 3/8 of the blocks to build a ship. If 140 unused blocks remained, how many blocks were there to begin with?",480
+toss-up,,Multiple Choice,15) Earth & Space – Multiple Choice Which of the following would be most useful for determining the age of an asteroid? W) Composition X) Degree of differentiation Y) Concentration of radioactive elements Z) Temperature,Y) CONCENTRATION OF RADIOACTIVE ELEMENTS
+bonus,,Short Answer,"15) Earth & Space – Short Answer When the core of a sun-like star runs out of most of its hydrogen fuel, it can grow in size, cool down, and start fusing helium. What is the term for this type of star?","RED GIANT
+******************"
+toss-up,,Short Answer,16) Life Science – Short Answer What series of chemical reactions are performed by plants to synthesize sugars from water and carbon dioxide?,PHOTOSYNTHESIS
+bonus,energy,Short Answer,16) Life Science – Short Answer Identify all of the following three trophic levels that directly contribute energy flow to detritivores [deh-TRY-tih-vores]: 1) Primary producers; 2) Primary consumers; 3) Secondary consumers.,ALL
+toss-up,math,Short Answer,"17) Math – Short Answer Round 6,157.58 to the nearest hundred.","6,200"
+bonus,math,Short Answer,"17) Math – Short Answer A hula hoop with a radius of 16 inches is cut into 5 congruent pieces. To the nearest whole number of inches, what is the length of each piece?","20
+******************"
+toss-up,,Short Answer,18) Earth & Space – Short Answer What layer of Earth’s atmosphere is the densest?,TROPOSPHERE
+bonus,,Short Answer,18) Earth & Space – Short Answer Identify all of the following three outcomes that result from increased dissolution of carbon dioxide into the world’s oceans: 1) Seawater will become more acidic; 2) Seawater will dissolve more seafloor carbonate; 3) Coral reefs will decline.,ALL
+toss-up,,Short Answer,"19) Life Science – Short Answer You put two solutions with different concentrations of salt in a container, separated by a semi-permeable membrane. Later, you observe that the water level on one side of the container is higher than the other. What effect is responsible for this?",OSMOSIS
+bonus,,Short Answer,"19) Life Science – Short Answer When only considering the ABO blood group, identify all of the following three types of blood that a person with blood type O could safely receive: 1) A; 2) B; 3) AB.","NONE
+******************"
+toss-up,,Short Answer,20) Physical Science – Short Answer What is the term for the electric configuration of an object composed of a positive charge separated by a distance to a negative charge of equal magnitude?,DIPOLE (ACCEPT: ELECTRIC DIPOLE MOMENT)
+bonus,,Multiple Choice,20) Physical Science – Multiple Choice The carboxyl functional group is MOST associated with which of the following classes of molecules? W) Alcohols X) Amines [ah-MEENS] Y) Ketones Z) Organic acids,"Z) ORGANIC ACIDS
+0"
+toss-up,,Short Answer,"21) Life Science – Short Answer Some animals, such as frogs and butterflies, undergo a process in which their larval form makes a large transformation in body shape as they become adults. What is the term for this process?",METAMORPHOSIS
+bonus,,Short Answer,21) Life Science – Short Answer What is the largest organ in the human integumentary [in-TEG-you-MEN-tary] system?,"SKIN
+******************"
+toss-up,math,Short Answer,22) Math – Short Answer Give one of the linear factors of x2 + 3x – 40.,x – 5 OR x + 8 [must give at least one]
+bonus,math,Short Answer,22) Math – Short Answer A rhombus has diagonals of length 13 and 22. What is its area?,"143
+1"
+toss-up,energy,Short Answer,23) Physical Science – Short Answer What is the term for a device that converts radiant energy directly into electrical energy?,PHOTOVOLTAIC
+bonus,,Short Answer,23) Physical Science – Short Answer What solid-state electrical component only allows current to flow in one direction?,"DIODE
+2"

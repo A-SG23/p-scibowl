@@ -1,0 +1,35 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,1) Physical Science – Short Answer The product of force on an object and the time interval over which that force is applied results in what physical quantity?,IMPULSE
+bonus,energy,Short Answer,"1) Physical Science – Short Answer Identify all of the following three factors that, according to the kinetic molecular theory of gases, increase as a gas’s temperature increases at constant volume: 1) Pressure; 2) Kinetic energy; 3) Speed of the gas particles.",ALL
+toss-up,,Short Answer,2) Earth and Space – Short Answer What glacier features are elongated hills composed of glacial tills and indicate the direction of glacial advancement?,DRUMLINS
+bonus,,Short Answer,2) Earth and Space – Short Answer Identify all of the following three mineral groups that typically exhibit cleavage planes that meet at approximately 120 and 60-degree angles: 1) Pyroxene [pie-ROX-een]; 2) Feldspars; 3) Amphiboles [AM-fih-bowls].,3
+toss-up,energy,Short Answer,3) Energy – Short Answer Scientists at Oak Ridge National Lab are studying materials in which electrons do not flow freely. What is the term for these materials?,INSULATOR (ACCEPT: ELECTRICAL INSULATOR)
+bonus,energy,Multiple Choice,"3) Energy – Multiple Choice Scientists at Pacific Northwest National Lab are studying coronavirus, which contains what type of genome? W) dsRNA X) ssRNA Y) dsDNA Z) ssDNA",X) ssRNA
+toss-up,,Short Answer,"4) Life Science – Short Answer What phase of the cell cycle is comprised of the three subphases G1, S, and G2?",INTERPHASE
+bonus,,Short Answer,4) Life Science – Short Answer The primary pacemaker of the human heart is found in the wall of which of its chambers?,RIGHT ATRIUM
+toss-up,math,Short Answer,5) Math – Short Answer What is the coefficient of the bc term in the trinomial expansion of open parenthesis 7a + 3b – 6c close parenthesis squared?,–36
+bonus,math,Short Answer,"5) Math – Short Answer How many 9-digit positive integers use each of the digits 1 through 9 exactly once, and alternate even and odd digits?",2880
+toss-up,,Short Answer,6) Physical Science – Short Answer How many lone pairs are present in the Lewis dot structure of a single water molecule?,TWO
+bonus,,Short Answer,6) Physical Science – Short Answer Rank the following three metal oxides in order of increasing exothermicity of formation: 1) Silver; 2) Lead; 3) Magnesium.,"1, 2, 3"
+toss-up,,Short Answer,7) Earth and Space – Short Answer The proton-proton chain in the Sun produces positrons. With what particle do these positrons interact to produce light?,ELECTRON
+bonus,,Short Answer,7) Earth and Space – Short Answer Identify all of the following three characteristics that typically describe captured moons: 1) Inclined orbit; 2) Prograde orbit; 3) Orbit close to planet.,1
+toss-up,energy,Short Answer,8) Energy – Short Answer Scientists at Lawrence Berkeley National Lab are making artificial mimics of the Y-shaped immune system proteins that the body uses to neutralize pathogens. What is the term for these proteins?,ANTIBODIES (ACCEPT: IMMUNOGLOBULINS)
+bonus,energy,Short Answer,"8) Energy – Short Answer Researchers at Pacific Northwest National Lab are using neural networks to design energy-efficient buildings. In their neural networks, each node has a state of either 0 or 1. What biological phenomenon is the 1 state meant to represent?","ACTION POTENTIAL (ACCEPT: SPIKE; do not accept:
+IMPULSE)"
+toss-up,,Multiple Choice,"9) Life Science – Multiple Choice Which of the following compounds stimulates the generation of red blood cells, and is banned by most major athletic organizations? W) Angiotensin [an-jee-oh-TEN-sin] X) Hemoglobin Y) Erythropoietin [eh-rith-roh-poy-EET-n] Z) Corticosteroids",Y) ERYTHROPOIETIN
+bonus,,Multiple Choice,"9) Life Science – Multiple Choice Andrew synthesizes some bacteriophage viral particles that contain biomolecules labeled with both phosphorus-32 and sulfur-35. He then infects some unlabeled bacteria with the viral particles. Which of the following observations would he NOT be able to make after the infection? W) The original viral particles still contain sulfur-35-labeled molecules X) The bacteria contain sulfur-35-labeled molecules Y) The bacteria contain phosphorus-32-labeled molecules Z) If the bacteria are allowed to produce more viral particles, they will contain phosphorus-32-labeled molecules","X) THE BACTERIA CONTAIN SULFUR-35 LABELED
+MOLECULES"
+toss-up,math,Short Answer,"10) Math – Short Answer If a number is decreased by 30%, by what percent is its square decreased?",51
+bonus,math,Short Answer,"10) Math – Short Answer How many numbers from 1 to 100, inclusive, are divisible by neither 6 nor 7?",72
+toss-up,,Short Answer,"11) Physical Science – Short Answer To the nearest whole degree Celsius, what temperature corresponds to the triple point of water?",ZERO
+bonus,,Short Answer,11) Physical Science – Short Answer The following three objects with equal mass and radius are placed on an inclined plane in such a way that they will roll down the plane. Rank them by increasing acceleration as they roll down the incline: 1) Hoop; 2) Solid cylinder; 3) Solid sphere.,"1, 2, 3"
+toss-up,,Short Answer,12) Earth and Space – Short Answer The 21-centimeter radiation line originates from what element?,HYDROGEN
+bonus,,Short Answer,"12) Earth and Space – Short Answer In 1979, scientists discovered that two images of the same quasar were visible in the sky, separated by a few arc-seconds. What phenomenon produced this observation?","GRAVITATIONAL LENSING (do not accept:
+MICROLENSING)"
+toss-up,energy,Multiple Choice,13) Energy – Multiple Choice Scientists supported by the Department of Energy are studying electron transfer reactions in organic molecules. These molecules are typically used as what? W) Molecular wires X) Catalysts Y) Deposition substrates Z) Polymers,W) MOLECULAR WIRES
+bonus,energy,Multiple Choice,13) Energy – Multiple Choice Scientists at Brookhaven National Lab are studying gases composed of bosons. Which of the following is an example of a boson? W) Proton X) Neutron Y) Photon Z) Up quark,Y) PHOTON
+toss-up,,Multiple Choice,14) Life Science – Multiple Choice Ubiquitin [you-BIH-kwih-tin] tags can be used to direct proteins to a proteasome [PRO-tee-uh-zohm]. What happens to the protein there? W) It is sent to the nucleus X) It is degraded Y) It is secreted Z) It is post-translationally modified,X) IT IS DEGRADED
+bonus,,Short Answer,14) Life Science – Short Answer Prematurely-born mammals have a difficult time breathing. This is because they lack what substance that coats mature lung alveoli [al-VEE-uh-lye] to reduce surface tension?,"SURFACTANT (ACCEPT: PULMONARY
+SURFACTANT)"
+toss-up,math,Short Answer,15) Math – Short Answer A prism with 26 faces has how many edges?,72
+bonus,math,Short Answer,"15) Math – Short Answer A Fibonacci-type sequence has the property that every term starting with the third is the sum of the previous two terms. If the seventh term is 50 and the tenth term is 212, what is the fifth term?",19

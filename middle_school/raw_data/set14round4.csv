@@ -1,0 +1,62 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,"1) Earth & Space – Short Answer What is the term for a rock fragment that originated from an asteroid or planetesimal, passed through Earth's atmosphere, and landed on the surface?",METEORITE (DO NOT ACCEPT: METEOR OR METEOROID)
+bonus,,Multiple Choice,"1) Earth & Space – Multiple Choice Which of the following values is closest to the mass, in solar masses, that a star must have in order to burn silicon? W) 0.1 X) 1 Y) 3 Z) 10","Z) 10
+******************"
+toss-up,energy,Multiple Choice,2) Energy – Multiple Choice Researchers at Lawrence Livermore National Lab are working to develop new reflective optics for use with X-ray imaging. Which of the following wavelengths would be considered X-ray? W) 4 micrometers X) 400 nanometers Y) 40 nanometers Z) 4 nanometers,Z) 4 NANOMETERS
+bonus,energy,Short Answer,2) Energy – Short Answer Sandia National Lab researchers have developed a chip that models the junction at which two neurons communicate with one another. What is the name of this junction?,SYNAPSE
+toss-up,math,Short Answer,3) Math – Short Answer What is the multiplicative inverse of –7?,–1/7
+bonus,math,Short Answer,"3) Math – Short Answer To the nearest whole number, what temperature in degrees Celsius is equivalent to 117 degrees Fahrenheit?","47
+******************"
+toss-up,,Multiple Choice,4) Life Science – Multiple Choice The semicircular canals in the ears are responsible for which of the following functions? W) Hearing X) Balance Y) Olfaction Z) Pain sensation,X) BALANCE
+bonus,,Short Answer,"4) Life Science – Short Answer What element, while not strictly essential for humans, is needed to maintain healthy tooth structure?",FLUORINE (DO NOT ACCEPT: FLUORIDE)
+toss-up,energy,Multiple Choice,5) Energy – Multiple Choice Scientists at Lawrence Berkeley National Lab are making biomimetics [bio-mih-MEH-tiks] that imitate glycoproteins. These biomimetics are peptoids covered with what? W) Nucleic [new-CLAY-ik] acids X) Sugars Y) Amino acids Z) Fats,X) SUGARS
+bonus,energy,Short Answer,"5) Energy – Short Answer Savannah River National Lab is investigating the effects of radiation on piezoelectric [PEE-zoh-electric] sensors. To do so, they are using radiation from the highest-energy part of the electromagnetic spectrum. What is the name of this type of radiation?","GAMMA (ACCEPT: GAMMA RAYS)
+******************"
+toss-up,,Short Answer,"6) Earth & Space – Short Answer Relative to an observer, the point that a rainbow is centered around is always directly opposite to what?",THE SUN (ACCEPT: SOL)
+bonus,,Multiple Choice,6) Earth & Space – Multiple Choice Why are feldspars less abundant in sedimentary rocks than quartz? W) Feldspars primarily collects in ocean sediments X) Feldspars metamorphose more easily Y) Feldspars weather more rapidly Z) Feldspars are less abundant in crustal rock,Y) FELDSPARS WEATHER MORE RAPIDLY
+toss-up,,Short Answer,7) Physical Science – Short Answer What is the term for a molecule that is composed of a very large number of individual monomers bonded together?,POLYMER
+bonus,,Short Answer,"7) Physical Science – Short Answer You pull on a 10-kilogram cart that is initially at rest with a force of 40 newtons. In meters per second, what is the speed of the cart after 3 seconds of pulling?","12
+******************"
+toss-up,,Short Answer,8) Life Science – Short Answer What is the type of cell division that diploid eukaryotic cells undergo to produce gametes [GAM-eets]?,MEIOSIS
+bonus,,Multiple Choice,8) Life Science – Multiple Choice Which of the following groups of organisms is responsible for most of the photosynthetic activity in the oceans? W) Plants X) Protists Y) Cyanobacteria Z) Proteobacteria,X) PROTISTS
+toss-up,math,Short Answer,9) Math – Short Answer What is the diameter of a circle with area 16π?,8
+bonus,math,Short Answer,"9) Math – Short Answer Rounding your answer to the nearest 10,000, what is 447 times 356?","160,000
+******************"
+toss-up,,Multiple Choice,10) Earth & Space – Multiple Choice The Encke [EN-kee] Gap is found in which of the following? W) Asteroid belt X) Kuiper [KYE-pur] belt Y) Oort [ort] cloud Z) Saturn’s rings,Z) SATURN’S RINGS
+bonus,,Short Answer,10) Earth & Space – Short Answer Rank the following three stellar spectral classes in order of increasing star temperature: 1) A; 2) B; 3) O.,"1, 2, 3"
+toss-up,energy,Short Answer,"11) Energy – Short Answer Scientists working on the DOE’s Energy Exascale Earth System Model, or E3SM, are modeling decades of plastic flow in the glaciers found on what continent?",ANTARCTICA
+bonus,energy,Short Answer,11) Energy – Short Answer Researchers at Thomas Jefferson National Accelerator Facility recently measured the pressure felt by quarks inside of a proton. What fundamental force is responsible for this confining pressure to the constituent quarks?,"STRONG FORCE (ACCEPT: STRONG NUCLEAR FORCE)
+******************"
+toss-up,,Short Answer,"12) Life Science – Short Answer In sickle cell disease, red blood cells become distorted into abnormal shapes because of mutations in what oxygen-carrying protein?","HEMOGLOBIN (ACCEPT: HEMOGLOBIN-BETA, BETAGLOBIN)"
+bonus,,Short Answer,"12) Life Science – Short Answer Conifers typically have two main types of cones, one that is the familiar-looking ovulate [AW-vyoo-late] cone, and the other which produces what?",POLLEN
+toss-up,,Multiple Choice,"13) Physical Science – Multiple Choice Suppose your weight is A newtons. If M is the mass of the Earth, which of the following expressions equals the magnitude of the gravitational force that you exert on the Earth? W) A X) A times M Y) A divided by M Z) A divided by M squared",W) A
+bonus,,Short Answer,13) Physical Science – Short Answer Rank the following three objects in increasing order of specific heat: 1) 5 milliliters of liquid water; 2) 30 grams of water ice; 3) A kilogram of copper.,"3, 2, 1
+******************"
+toss-up,math,Short Answer,14) Math – Short Answer The line with equation y = 4x – 5 contains points in each quadrant except which one?,2 (ACCEPT: SECOND)
+bonus,math,Short Answer,14) Math – Short Answer Evaluate 5 log base 2 of 16 plus one-half log base 3 of 81 minus 3 log base 4 of 1024.,7
+toss-up,,Multiple Choice,15) Earth & Space – Multiple Choice The Himalayan Mountains are the result of ongoing uplift brought about by which of the following plate boundaries? W) Ocean-continent convergent X) Continent-continent convergent Y) Continent-continent divergent Z) Continent-continent transform,X) CONTINENT-CONTINENT CONVERGENT
+bonus,,Multiple Choice,15) Earth & Space – Multiple Choice Which of the following locations on Earth will likely have the largest difference in average temperature between the months of July and January? W) Indonesia X) Congo basin Y) British Isles Z) Inland Siberia,"Z) INLAND SIBERIA
+******************"
+toss-up,,Multiple Choice,16) Life Science – Multiple Choice Which of the following best describes the role of most white blood cells? W) Immune response X) Clotting Y) Gas transport Z) Osmotic buffering,W) IMMUNE RESPONSE
+bonus,,Short Answer,16) Life Science – Short Answer Parathyroid hormone helps increase calcium levels in the blood in part by increasing the production of what vitamin?,"D (ACCEPT: CALCITRIOL, CHOLECALCIFEROL)"
+toss-up,,Short Answer,"17) Physical Science – Short Answer What is the general term for a substance that, if added to water, would lower the pH of the water?",ACID
+bonus,,Short Answer,"17) Physical Science – Short Answer You drop a 100-gram ball from a height of 50 centimeters, and then you drop a 1-kilogram brick from a height of 2 meters. Just before each hit the ground, the brick had how many times the momentum of the ball?","20
+******************"
+toss-up,,Short Answer,18) Earth & Space – Short Answer What two planets in the solar system have rotational periods of approximately 24 hours?,EARTH AND MARS
+bonus,,Short Answer,18) Earth & Space – Short Answer Identify all of the following three planets that exhibit a full set of phases when observed from Earth: 1) Mercury: 2) Mars; 3) Jupiter.,1
+toss-up,math,Short Answer,"19) Math – Short Answer What is the average of the 3 numbers 7, 9, and 17?",11
+bonus,math,Short Answer,19) Math – Short Answer A fence is built along the perimeter of a 200-foot-by-400-foot rectangular field. Posts are placed at the four corners and every 8 feet thereafter. How many posts are required?,"150
+******************"
+toss-up,,Short Answer,"20) Physical Science – Short Answer If a spring that obeys Hooke’s law is compressed by 10 centimeters, it produces 300 newtons of restoring force. In newtons, what is the magnitude of the force produced if the spring is now brought back to its initial equilibrium position?",0
+bonus,,Multiple Choice,20) Physical Science – Multiple Choice The frictional force acting on a moving object is most directly proportional to which of the following quantities? W) Weight X) Normal force Y) Applied force Z) Coefficient of static friction,"X) NORMAL FORCE
+0"
+toss-up,,Short Answer,"21) Life Science – Short Answer At chemical synapses, neurons can communicate with each other using what general family of chemicals?",NEUROTRANSMITTERS
+bonus,,Short Answer,"21) Life Science – Short Answer In mammals, what is the first heart chamber into which newly oxygenated blood flows?","LEFT ATRIUM
+******************"
+toss-up,math,Short Answer,"22) Math – Short Answer Expressing your answer to the nearest hundred, find the sum of the three numbers 425, 279, and 633.",1300
+bonus,math,Short Answer,"22) Math – Short Answer Two triangles are similar with scale factor 3/4. If the area of the smaller triangle is 288, what is the area of the larger triangle?","512
+1"
+toss-up,,Short Answer,"23) Physical Science – Short Answer In hertz to one significant figure, a sound wave in air with a wavelength of half a meter would have what frequency?",700
+bonus,,Short Answer,23) Physical Science – Short Answer What molecule is the solute in vinegar?,"ACETIC ACID (ACCEPT: ACETATE, CH COOH, C H O )
+3 2 4 2
+2"

@@ -1,0 +1,61 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,1) Math – Short Answer Evaluate the following expression: 8 plus 3 times 4,20
+bonus,math,Short Answer,"1) Math – Short Answer Short Answer What are the mean and median, respectively, of the following list of six numbers: 9, 8, 2, 8, 5, 4?","6 AND 6.5 (ACCEPT: 6½, 13/2 for median)
+******************"
+toss-up,,Multiple Choice,2) Earth & Space – Multiple Choice Which of the following organic sedimentary [sed-ih-MEN-taree] rocks is the most chemically similar to the detrital plant matter from which it forms? W) Anthracite X) Lignite Y) Bituminous Z) Peat,Z) PEAT
+bonus,,Short Answer,"2) Earth & Space – Short Answer A wind that reverses direction based on the season, a scenario most notable for determining rainfall in South Asia, is characteristic of what type of weather system?",MONSOON
+toss-up,,Short Answer,3) Physical Science – Short Answer What is the general term for a reaction that releases heat?,EXOTHERMIC
+bonus,,Short Answer,"3) Physical Science – Short Answer If you are driving along a straight road at 20 meters per second, and then accelerate at 5 meters per second squared for 8 seconds, your final speed will be how many times your original speed?","3
+******************"
+toss-up,,Short Answer,4) Life Science – Short Answer What is the largest artery in the human body?,AORTA
+bonus,,Short Answer,4) Life Science – Short Answer Identify all of the following three actions that occur during mitosis in the process of replicating a cell: 1) DNA is copied; 2) Nuclear envelope disappears; 3) Daughter chromosomes are pulled apart.,"2, 3"
+toss-up,energy,Short Answer,5) Energy – Short Answer Researchers at Oak Ridge National Lab are studying the spin of electrons in chromium iodide. What is the value of the spin quantum number of the electron?,1/2
+bonus,energy,Short Answer,5) Energy – Short Answer Scientists at Lawrence Berkeley National Lab are studying the thermal emissions of certain materials. What law of quantum physics describes the spectral density of thermal emissions of black body materials?,"PLANCK’S LAW (ACCEPT: PLANCK’S)
+******************"
+toss-up,,Short Answer,"6) Earth & Space – Short Answer Elliptical, irregular, and spiral are classifications that astronomers use to describe what?",GALAXIES
+bonus,,Short Answer,6) Earth & Space – Short Answer Many early measurements of the Hubble constant were done using what type of variable star as a standard candle?,CEPHEID [SEF-ee-id]
+toss-up,,Short Answer,7) Physical Science – Short Answer What is the term for the force that is necessary for keeping an object in uniform circular motion?,CENTRIPETAL (DO NOT ACCEPT: CENTRIFUGAL)
+bonus,,Short Answer,7) Physical Science – Short Answer Identify all of the following three gas laws that make the assumption that the pressure of a system is kept constant: 1) Boyle's; 2) Charles's; 3) Gay-Lussac's [LOO-sax].,"2
+******************"
+toss-up,math,Short Answer,"8) Math – Short Answer If the odds in favor of an event are 4 to 3, what is the probability of the event occurring?",4/7
+bonus,math,Short Answer,"8) Math – Short Answer A bacteria population is estimated to be modeled by 3 to the t power, where t represents time measured in days. What is the smallest integer value of t for which the bacteria population is over 10,000?",9
+toss-up,,Short Answer,9) Life Science – Short Answer What human organ system produces hormones to control various functions in the body?,ENDOCRINE
+bonus,,Short Answer,"9) Life Science – Short Answer During the summer, identify all of the following three plant structures that will typically act as net sugar sources: 1) Leaves; 2) Fruits; 3) Roots.","1
+******************"
+toss-up,energy,Short Answer,10) Energy – Short Answer Department of Energy researchers are studying microalgae as a source of biofuels. Of what domain of life are microalgae part?,"EUKARYOTA (ACCEPT: EUKARYOTES, EUKARYA)"
+bonus,energy,Short Answer,"10) Energy – Short Answer Scientists at Ames Lab are studying the properties of superconductors at temperatures of around 50 milli-kelvins. To the nearest degree, what temperature in Celsius does this equal?",–273
+toss-up,math,Short Answer,11) Math – Short Answer What is the degree measure of an angle that is complementary to a 13-degree angle?,77
+bonus,math,Short Answer,"11) Math – Short Answer Giving your answer in slope-intercept form, what is the equation of the line that contains the points (–2, –23) and (5, –2)?","y = 3x – 17
+******************"
+toss-up,,Short Answer,"12) Life Science – Short Answer Edward Jenner found that inoculating patients with cowpox virus would cause a mild illness but would grant immunity to a much more deadly disease. What was this disease, which is now eradicated?",SMALLPOX (ACCEPT: VARIOLA)
+bonus,,Short Answer,12) Life Science – Short Answer Trilobites [TRY-low-bites] are thought to have emerged during what geologic period?,CAMBRIAN
+toss-up,,Short Answer,13) Earth & Space – Short Answer A location that has sea breezes during the day may undergo what complementary process during nighttime?,LAND BREEZE (ACCEPT: OFFSHORE BREEZE)
+bonus,,Multiple Choice,13) Earth & Space – Multiple Choice Which of the following statements is TRUE regarding Moh's scale of mineral hardness? W) Absolute hardness increases linearly with increasing Moh's hardness X) Fluorite has a higher Moh's hardness number than calcite Y) Topaz is harder than corundum Z) Gypsum is the softest known mineral,"X) FLUORITE HAS A HIGHER MOH'S HARDNESS NUMBER THAN CALCITE
+******************"
+toss-up,energy,Multiple Choice,"14) Energy – Multiple Choice DOE researchers at the Lawrence Berkeley National Laboratory used the Advanced Light Source to perform X-ray diffraction on a mineral grain that was 10 microns in diameter, to determine its chemical makeup. This mineral grain’s size is closest to which of the following? W) 10 thousand picometers X) 10 million picometers Y) 10 billion picometers Z) 10 trillion picometers",X) 10 MILLION PICOMETERS
+bonus,energy,Short Answer,"14) Energy – Short Answer Scientists at Lawrence Berkeley National Lab have developed the PhyloChip [FYE-loh-chip], which is able to detect pathogenic microbial contamination in drinking water. The PhyloChip functions by detecting a particular class of bacterial macromolecules which hybridize [HIGH-brih-dize] with fluorescent probe molecules on the chip’s microarray. What are these macromolecules?",DNA (ACCEPT: NUCLEIC ACIDS)
+toss-up,,Short Answer,15) Physical Science – Short Answer Lead's atomic number is 82. How many electrons does lead (II) [lead-two] have in total?,80
+bonus,,Short Answer,"15) Physical Science – Short Answer You throw a pencil directly upwards and measure that it reached a height of 2.5 meters above the point of release. In meters per second, what was the initial speed of the pencil?","7
+******************"
+toss-up,,Short Answer,16) Earth & Space – Short Answer What planet in our solar system has the lowest density?,SATURN
+bonus,,Multiple Choice,"16) Earth & Space – Multiple Choice Which of the following statements of Earth’s tides is true? W) A spring tide occurs when the Earth, Moon, and Sun form a 90-degree angle X) A first quarter moon occurs at neap tide Y) The sun and the moon have equal tidal influence over Earth Z) The tidal influence of the moon is speeding up the Earth’s rotation",X) A FIRST QUARTER MOON OCCURS AT NEAP TIDE
+toss-up,,Short Answer,17) Life Science – Short Answer The binomial name for an organism refers to what two levels of taxonomy?,GENUS AND SPECIES (ACCEPT IN ANY ORDER)
+bonus,,Short Answer,"17) Life Science – Short Answer Golden rice plants have been genetically modified to supply what vitamin, the deficiency of which can result in blindness?","A (ACCEPT: RETINAL, RETINALDEHYDE, RETINOL)
+******************"
+toss-up,math,Short Answer,"18) Math – Short Answer In which quadrant does the point (–3, –7) lie?",THIRD (ACCEPT: 3)
+bonus,math,Short Answer,"18) Math – Short Answer A horse on the outer edge of a circular carousel is 35 feet from the center of rotation. A horse on the inner edge is 10 feet from the center. During a ride of 6.5 rotations, to the nearest hundred feet, how much further in linear distance will the outer horse travel than the inner horse?",1000
+toss-up,,Multiple Choice,19) Physical Science – Multiple Choice Which of the following is a unit of pressure? W) Ampere X) Becquerel [beh-ka-RELL] Y) Pascal Z) Ohm,Y) PASCAL
+bonus,,Short Answer,"19) Physical Science – Short Answer A bird takes 4 seconds to fly 8 meters horizontally and 6 meters vertically. In meters per second, what is the magnitude of the bird's average velocity?","2.5 (ACCEPT: 2 1/2, 5/2)
+******************"
+toss-up,,Short Answer,"20) Earth & Space – Short Answer What outermost layer of the Sun’s atmosphere is relatively dim, and can therefore only be seen during a total solar eclipse?",CORONA
+bonus,,Short Answer,20) Earth & Space – Short Answer Identify all of the following three descriptions that characterize Earth: 1) Differentiated; 2) Jovian; 3) Highly eccentric orbit.,"1
+0"
+toss-up,,Short Answer,"21) Life Science – Short Answer In mammals, what cells are responsible for transporting oxygen throughout the body?",RED BLOOD CELLS (ACCEPT: ERYTHROCYTES)
+bonus,,Multiple Choice,21) Life Science – Multiple Choice Which of the following structures would likely be the most resistant to heat denaturation? W) Bovine serum albumin X) Jellyfish-derived GFP Y) Bacterial endospore Z) Hepatitis B DNA,"Y) BACTERIAL ENDOSPORE
+******************"
+toss-up,math,Short Answer,"22) Math – Short Answer To the nearest whole number, what is 51.27 plus 83.65?",135
+bonus,math,Short Answer,22) Math – Short Answer Solve the following equation for x over the negative real numbers: x4 – 4x2 – 21 = 0.,"–√7
+1"
+toss-up,,Short Answer,"23) Physical Science – Short Answer You are running on a flat road at a constant speed of 2 meters per second while holding onto a water bottle with mass 700 grams. In joules, how much work do you exert on the water bottle in the course of 1 minute?",ZERO
+bonus,,Short Answer,23) Physical Science – Short Answer What is the empirical [em-PEER-ih-kul] formula for hydrogen peroxide?,"HO (ACCEPT: OH)
+2"

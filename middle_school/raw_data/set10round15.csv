@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,energy,Short Answer,"1) Physical Science – Short Answer At a material's melting point, what intrinsic quantity does NOT change as more heat energy is added to the system?",TEMPERATURE
+bonus,,Short Answer,"1) Physical Science – Short Answer If a photon has a wavelength of 300 nanometers, then, in scientific notation with one significant figure, what is its frequency in hertz?","1 x 1015
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,2) Energy – Multiple Choice What element is currently the most promising nuclear fuel alternative to uranium due to its greater abundance and better resistance to proliferation? W) Thorium X) Protactinium [proh-tak-TIN-ee-um] Y) Neptunium Z) Plutonium,W) THORIUM
+bonus,energy,Short Answer,2) Energy – Short Answer Identify all of the following three lightbulbs that have a filament that must be heated to create visible light: 1) Incandescent; 2) Compact fluorescent; 3) Halogen.,"1, 3 (ALSO ACCEPT: INCANDESCENT AND HALOGEN)"
+toss-up,,Short Answer,3) Life Science – Short Answer What is the process that occurs when changes in allele frequencies are caused by random chance?,GENETIC DRIFT
+bonus,,Multiple Choice,"3) Life Science – Multiple Choice Which of the following classifications would be inclusive of eucalyptus, cattails, duckweed and buttercups? W) Angiosperms X) Dicots Y) Monocots Z) Chlorophyta [klor-oh-FYE-tah]","W) ANGIOSPERMS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,4) General Science – Multiple Choice What scientist was most responsible for the widespread adoption of antiseptics during surgical procedures? W) Edward Jenner X) Louis Pasteur Y) Joseph Lister Z) Alexander Fleming,Y) JOSEPH LISTER
+bonus,,Multiple Choice,"4) General Science – Multiple Choice To minimize exposure to histoplasmosis, soil samples should be which of the following? W) Collected from confirmed archeological sites X) Handled only in a fume hood Y) Inoculated prior to handling Z) Free of chicken, pigeon, or bat droppings","Z) FREE OF CHICKEN, PIGEON, OR BAT DROPPINGS"
+toss-up,math,Multiple Choice,"5) Math – Multiple Choice When a right triangular region is rotated about one of its legs, what solid is formed? W) Right circular cone X) Right circular cylinder Y) Right triangular pyramid Z) Right triangular prism",W) RIGHT CIRCULAR CONE
+bonus,math,Short Answer,"5) Math – Short Answer What is the area of the triangular region formed by the lines with equations x = 2, y = -1, and y = 2x + 1?","9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) Earth and Space – Multiple Choice Which of the following processes happens at the slowest rate? W) Rise and fall of tides X) Uplift of mountains Y) Recycling of seawater Z) Regrowth of burnt vegetation,X) UPLIFT OF MOUNTAINS
+bonus,,Short Answer,6) Earth and Space – Short Answer Half Dome in Yosemite National Park is a portion of what type of massive granitic intrusive igneous structure?,BATHOLITH
+toss-up,,Multiple Choice,7) Earth and Space – Multiple Choice What type of coal has the highest carbon content? W) Lignite X) Bituminous [bih-TOOM-in-us] Y) Anthracite Z) Peat,Z) PEAT
+bonus,,Multiple Choice,7) Earth and Space – Multiple Choice Through which of the following parts of Earth's interior would an S-wave NOT travel? W) Lithosphere X) Asthenosphere Y) Lower mantle Z) Outer core,"Z) OUTER CORE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) Physical Science – Multiple Choice Which of the following four processes is endothermic? W) Combustion of wood X) Explosion of TNT Y) Condensation of water Z) Melting of ice cubes,Z) MELTING OF ICE CUBES
+bonus,,Short Answer,8) Physical Science – Short Answer You double the length of a simple pendulum. By what factor does this multiply the period of the pendulum swing?,SQUARE ROOT OF TWO
+toss-up,,Multiple Choice,"9) General Science – Multiple Choice When the slope of a line representing velocity over time is zero, acceleration is: W) Negative X) Positive Y) Infinite Z) Zero",Z) ZERO
+bonus,,Short Answer,"9) General Science – Short Answer What is the name associated with the large explosion that occurred in Siberia in 1908, flattening 2000 square kilometers of forest?","TUNGUSKA EVENT (ACCEPT: TUNGUSKA)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,10) Math – Short Answer Convert two-six in base 8 to base 10.,22
+bonus,math,Short Answer,"10) Math – Short Answer If a right triangular prism has all edges equal to 2, then, to the nearest integer, what is its total surface area?",15
+toss-up,,Multiple Choice,"11) Life Science – Multiple Choice In mammals, in which of the following is the cochlea located? W) Trachea X) Spleen Y) Ear Z) Eye",Y) EAR
+bonus,,Multiple Choice,11) Life Science – Multiple Choice Which of the following blood vessels carries oxygenated blood? W) Pulmonary vein X) Pulmonary trunk Y) Pulmonary artery Z) Superior vena cava,"W) PULMONARY VEIN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,12) Energy – Multiple Choice Which of the following sources accounts for the largest fraction of consumed renewable energy in the US? W) Natural gas X) Biomass Y) Wind Z) Solar,X) BIOMASS
+bonus,energy,Short Answer,12) Energy – Short Answer Solar water heaters were popular in Florida and California from the 1920s until the mid-1950s. What low-cost fuel displaced solar to heat water in the 1950s?,NATURAL GAS
+toss-up,,Multiple Choice,"13) Earth and Space – Multiple Choice The circumstellar habitable zone, or “Goldilocks Zone”, refers to the range of distances from a star within which what substance can exist on an orbiting planet’s surface? W) Oxygen gas X) Liquid water Y) Liquid methane Z) Water ice",X) LIQUID WATER
+bonus,,Multiple Choice,"13) Earth and Space – Multiple Choice Which of the following is closest to the distance, in megaparsecs, from Earth to a galaxy that has an apparent radial velocity of 910 kilometers per second? W) 7 X) 10 Y) 13 Z) 16","Y) 13
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"14) Math – Short Answer What is the least common multiple of the three quantities 6x, 15x3, and 18x3?",90 x3
+bonus,math,Short Answer,"14) Math – Short Answer A flower bed is formed in the shape of a 135-degree sector of a circle of radius 8 feet. To the nearest foot, what is the perimeter of the flower bed?",35
+toss-up,,Multiple Choice,"15) Life Science – Multiple Choice Pyrimidines are important components in nucleic acids, vitamins, drugs, and many other compounds. Which of the following nucleotide bases is NOT a pyrimidine? W) Adenine X) Cytosine Y) Thymine Z) Uracil",W) ADENINE
+bonus,,Multiple Choice,15) Life Science – Multiple Choice What is the name of the respiratory disease that is categorized by the inflammation of the mucus membrane? W) Asthma X) Bronchitis Y) Chronic obstructive pulmonary disease Z) Emphysema,"X) BRONCHITIS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Physical Science – Multiple Choice Which of the following is NOT a property of a base? W) Reacts with carbonates to form carbon dioxide X) Has a bitter taste Y) Turns litmus paper blue Z) Feels slippery,W) REACTS WITH CARBONATES TO FORM CARBON DIOXIDE
+bonus,,Short Answer,16) Physical Science – Short Answer A particle has a position defined by the equation x = 6t2 + 3t + 18. What is the average velocity of the particle between t = 2 and t = 5?,45
+toss-up,,Multiple Choice,17) General Science – Multiple Choice Which of the following are characteristics of a strong hypothesis? W) Simple and generic X) Complex and specific Y) Falsifiable and testable Z) Specific and provable,Y) FALSIFIABLE AND TESTABLE
+bonus,,Short Answer,17) General Science – Short Answer Arrange the following four classifications of humans in order from least to most specific: 1) Hominidae; 2) Sapiens; 3) Chordata; 4) Primate.,"3, 4, 1, 2 (ALSO ACCEPT: CHORDATA, PRIMATE, HOMINIDAE, SAPIENS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,18) Energy – Multiple Choice Which of the following is introduced at the cathode of a hydrogen fuel cell? W) Hydrogen X) Oxygen Y) Water Z) Protons,X) OXYGEN
+bonus,energy,Multiple Choice,"18) Energy – Multiple Choice When at half of its flow capacity, the typical percent efficiency range of a modern wheel micro-hydropower system is which of the following? W) 10 - 30 X) 30 - 50 Y) 50 - 70 Z) 70 - 90",Y) 50 - 70
+toss-up,math,Short Answer,19) Math – Short Answer What is 87 times 73?,6351
+bonus,math,Short Answer,"19) Math – Short Answer Using the origin as center, the point with coordinates (1, 2) is dilated by a factor of 2, and then the result is rotated by 90 degrees counterclockwise. What are the coordinates of the final image point?","(-4, 2)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,20) Life Science – Multiple Choice What is the endocrine gland that controls how the body regulates metabolism and is associated with Graves’ disease? W) Pineal gland X) Adrenal gland Y) Thyroid gland Z) Pituitary gland,Y) THYROID GLAND
+bonus,,Multiple Choice,"20) Life Science – Multiple Choice In plants, what cells secrete the waxy cuticle that protects plants from water loss? W) Epidermal cells X) Guard cells Y) Xylem cells Z) Phloem cells",W) EPIDERMAL CELLS
+toss-up,,Short Answer,21) Physical Science – Short Answer What category of simple machine is responsible for both opening and joining the teeth in a zipper?,WEDGE
+bonus,energy,Short Answer,21) Physical Science – Short Answer What is the term for the broad group of metabolic reactions that break down large molecules into smaller ones and release energy?,"Catabolism
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Earth and Space – Short Answer What anion is the most common form of dissolved inorganic carbon in the Earth's oceans?,BICARBONATE
+bonus,,Short Answer,"22) Earth and Space – Short Answer What theoretical limit, approximately 1.4 solar masses, constrains the maximum mass that a white dwarf can attain?",CHANDRASEKHAR LIMIT
+toss-up,,Short Answer,"23) Physical Science – Short Answer If an isotope with a mass number of 208 decays by one alpha particle, what is the mass number of the resulting atom?",204
+bonus,,Short Answer,"23) Physical Science – Short Answer A circuit has 4 resistors of 3, 4, 5, and 6 ohms, respectively. The 6 ohm and 3 ohm resistors are in parallel and that combination is in series with the 4 ohm and 5 ohm resistors. If a 7-amp current is passed through the circuit, then, in volts, what is the potential difference across the circuit?",77

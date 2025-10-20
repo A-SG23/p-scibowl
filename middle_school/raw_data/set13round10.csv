@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,energy,Short Answer,"1) Energy – Short Answer Scientists at Oak Ridge National Lab have developed a method to use nanoscale spikes of carbon atoms to reduce gaseous nitrogen to what colorless, pungent gas important in the manufacturing of fertilizer?",AMMONIA
+bonus,energy,Multiple Choice,1) Energy – Multiple Choice DOE researchers at Idaho National Lab are developing practical methods to reduce the cost of biodiesel production. From which of the following stocks is biodiesel made? W) Corn X) Wheat Y) Vegetable oil Z) Algae,"Y) VEGETABLE OIL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Earth and Space – Short Answer What mechanism of heat transfer in the mantle drives plate tectonics?,CONVECTION
+bonus,,Short Answer,2) Earth and Space – Short Answer Identify all of the following substances that would be able to scratch the mineral apatite: 1) Fluorite; 2) Quartz; 3) Gypsum.,2
+toss-up,,Short Answer,3) Life Science – Short Answer What is the term for a rod-shaped bacterium?,BACILLUS (ACCEPT: BACILLI)
+bonus,,Multiple Choice,3) Life Science – Multiple Choice Which of the following hormones requires iodine for its synthesis? W) Thyroid-stimulating hormone X) Thyroxine [thigh-ROX-in] Y) Luteinizing [LOO-tin-eye-zing] hormone Z) Testosterone,"X) THYROXINE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"4) Math – Short Answer Calculate the mean of the following 4 numbers: 12, 18, 30, 20",20
+bonus,math,Short Answer,"4) Math – Short Answer To the nearest whole number, what is the area of a circle with circumference 20?",32
+toss-up,,Multiple Choice,5) Physical Science – Multiple Choice The pH scale can be used to quantify which of the following properties of a solution? W) Saturation X) Basicity [bay-SIH-sid-ee] Y) Boiling point Z) Osmolarity [oz-mow-LAIR-it-ee],X) BASICITY
+bonus,,Short Answer,"5) Physical Science – Short Answer After Rutherford's experiments in 1918, scientists were confident that the atom was composed of what two particles?","PROTONS AND ELECTRONS (ACCEPT IN ANY ORDER)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"6) Earth and Space – Multiple Choice Which of the following star masses, given in solar masses, is closest to the minimum amount of mass needed to form a black hole? W) 3 X) 10 Y) 18 Z) 25",W) 3
+bonus,,Short Answer,6) Earth and Space – Short Answer Order the following four star colors in decreasing order of related surface temperature: 1) Yellow; 2) White; 3) Red; 4) Blue.,"4, 2, 1, 3"
+toss-up,energy,Short Answer,"7) Energy – Short Answer Scientists at SLAC National Accelerator Lab are studying superconducting materials using computational modeling. In these materials, Cooper pairs form between what particles to allow the conduction of currents?",ELECTRON
+bonus,energy,Short Answer,"7) Energy – Short Answer Scientists at Pacific Northwest National Lab are supercooling liquid water to 136 kelvins, where it freezes extremely quickly to generate a glass-like ice. What is this temperature to the nearest degree Celsius?","–137
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,8) Math – Short Answer What is the slope of the line with equation 3x + 5y = –30?,–3/5 (ACCEPT: –0.6)
+bonus,math,Short Answer,8) Math – Short Answer Simplify the fraction with numerator 2 + √2 and denominator 2 – √2.,3 + 2√2 (ACCEPT: 2√2 + 3)
+toss-up,,Short Answer,9) Life Science – Short Answer What type of tissue gives flexibility and elasticity to structures such as the ear and nose?,CARTILAGE
+bonus,,Short Answer,9) Life Science – Short Answer Identify all of the following three animals that typically have an exoskeleton: 1) Lobster; 2) Tuna; 3) Ant.,"1, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"10) Physical Science – Short Answer What type of electrical device stores electrical energy in the form of an electric field, such as between two conducting plates?",CAPACITOR
+bonus,energy,Short Answer,"10) Physical Science – Short Answer If a 50-kilogram person expends 1000 joules of energy climbing up stairs, then to the nearest meter, what is the maximum theoretical height the person could climb?",2
+toss-up,,Multiple Choice,11) Earth and Space – Multiple Choice Relative humidity is calculated using what two quantities? W) Water vapor pressure and total atmospheric pressure X) Temperature and total atmospheric pressure Y) Water vapor pressure and saturation vapor pressure Z) Temperature and saturation vapor pressure,Y) WATER VAPOR PRESSURE AND SATURATION VAPOR PRESSURE
+bonus,,Multiple Choice,11) Earth and Space – Multiple Choice A geologist has a metamorphic rock sample that she observes to be nonfoliated and appears to react with dilute acid. Which of the following rocks could she have? W) Marble X) Quartzite Y) Slate Z) Schist,"W) MARBLE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"12) Math – Short Answer Rounded to the nearest 100, what is 417 times 8?",3300
+bonus,math,Short Answer,"12) Math – Short Answer A cube and a right rectangular prism have the same volume. If the dimensions of the prism are 6, 10, and 12, what is the length of each edge of the cube?",2 TIMES THE CUBE ROOT OF 90
+toss-up,,Short Answer,13) Life Science – Short Answer Tanning salons can increase the risk of skin cancer due to exposure to light of what region of the electromagnetic spectrum?,UV (ACCEPT: ULTRAVIOLET)
+bonus,,Short Answer,13) Life Science – Short Answer Identify all of the following three organisms that are bryophytes [BRYE-oh-fites]: 1) Mosses; 2) Ferns; 3) Pine trees.,"1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Physical Science – Short Answer What term do chemists use to describe the tendency of an atom to attract shared electrons in a covalent bond?,ELECTRONEGATIVITY
+bonus,,Short Answer,14) Physical Science – Short Answer What is the pH of a solution at 25 degrees Celsius if the concentration of hydroxide ions is 10 –4 molar?,10
+toss-up,,Multiple Choice,15) Earth and Space – Multiple Choice Which of the following types of clouds would be most predictive of heavy rain? W) Cumulonimbus [KYOOM-yoo-loh-NIM-bus] X) Cirrus [SEER-us] Y) Altocumulus Z) Stratus,W) CUMULONIMBUS
+bonus,,Short Answer,15) Earth and Space – Short Answer Hoarfrost is produced when water vapor undergoes what physical change?,"DEPOSITION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Life Science – Multiple Choice Which of the following is an example of a zoonotic [ZOH-uh-naw-tik] disease? W) Measles X) Bubonic plague Y) Cholera Z) Chicken pox,X) BUBONIC PLAGUE
+bonus,,Short Answer,16) Life Science – Short Answer Identify all of the following three diseases that are caused by viruses: 1) West Nile; 2) Influenza; 3) Tetanus.,"1, 2"
+toss-up,math,Short Answer,17) Math – Short Answer What is the remainder when 86 is divided by 14?,2
+bonus,math,Short Answer,17) Math – Short Answer What is the area of a right triangle with hypotenuse of length 13 and one leg of length 11?,"22√3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"18) Energy – Multiple Choice Nuclear power plants in the United States typically either generate power at their full rated capacity, or not at all, even though they have the capability to vary power output. Researchers at Argonne National Lab recently conducted a study that demonstrated the benefits of varying power output to help grid operators rebalance supply and demand in response to unexpected power events. Which of the following alternative energy sources, if attached to the grid, would be most likely to result in unplanned surpluses or shortfalls? W) Biofuel X) Geothermal Y) Wind Z) Biomass",Y) WIND
+bonus,energy,Multiple Choice,18) Energy – Multiple Choice Los Alamos National Lab researchers are studying a group of pumps known as RND efflux pumps. These proteins perform which of the following types of transport? W) Passive diffusion X) Osmosis Y) Active transport Z) Facilitated diffusion,Y) ACTIVE TRANSPORT
+toss-up,,Multiple Choice,19) Physical Science – Multiple Choice Which of the following substances likely has the strongest odor? W) NaCl X) Cu Y) NH 3 Z) SiO 2,"Y) NH
+3"
+bonus,,Short Answer,"19) Physical Science – Short Answer You toss a baseball. Neglecting air resistance, identify all of the following three quantities that stay constant as the baseball travels: 1) Total speed; 2) Vertical speed; 3) Horizontal speed.","3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Earth and Space – Short Answer The gas tail of a comet points away from the Sun due to its interaction with what stream of particles?,SOLAR WIND
+bonus,,Short Answer,"20) Earth and Space – Short Answer What paradox states that, if the universe is infinite and static, then the night sky should be as bright as the Sun?",OLBER'S PARADOX
+toss-up,math,Short Answer,"21) Math – Short Answer What is the degree of the product of the three binomials x + 3, x6 – 7x2, and x4 – 12?",11
+bonus,math,Short Answer,"21) Math – Short Answer All 24 people at a party want to shake hands with everyone else. To accomplish this, how many handshakes must take place?","276
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"22) Life Science – Short Answer If you listen to someone’s heart, the sounds you hear originate from the motion of what structures within the heart?",VALVES
+bonus,,Short Answer,"22) Life Science – Short Answer In marine birds, glands near their eyes will secrete a fluid that drips off their beaks. What is the primary substance that this process is intended to excrete?","SALT (ACCEPT: SODIUM CHLORIDE, SODIUM)"
+toss-up,,Short Answer,"23) Physical Science – Short Answer When pushing a friend on a swing, there is a natural frequency that you can apply to the pushes so that your friend achieves maximal height. What is the adjective for this frequency?",RESONANT
+bonus,,Short Answer,23) Physical Science – Short Answer Identify all of the following three objects that are chiral: 1) Human hands; 2) Soda can; 3) Shoe.,"1, 3"

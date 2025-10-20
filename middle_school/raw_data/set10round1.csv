@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,1) Math – Short Answer What is the square of the binomial x – 11?,x2 - 22x + 121
+bonus,math,Short Answer,1) Math – Short Answer What is the square root of the expression 12 minus 3 plus 4 times 10?,"7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,2) Earth and Space – Multiple Choice What is the primary reason for the movement of mass downslope during erosion? W) Friction X) Electricity Y) Gravity Z) Buoyancy,Y) GRAVITY
+bonus,,Short Answer,2) Earth and Space – Short Answer The main asteroid belt is located between the orbits of what two planets?,MARS AND JUPITER
+toss-up,,Multiple Choice,3) General Science – Multiple Choice Which of the following steps should NOT be used in the event of an electrical fire? W) Extinguish with water X) Use a carbon dioxide fire extinguisher Y) Turn off the power source Z) Call the fire department,W) EXTINGUISH WITH WATER
+bonus,,Short Answer,3) General Science – Short Answer What metric prefix is equivalent to one trillion?,"TERA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"4) Physical Science – Short Answer Dry ice is the solid form of what substance, which is typically found in gaseous phase at standard temperatures and pressures?",CARBON DIOXIDE
+bonus,,Multiple Choice,"4) Physical Science – Multiple Choice In the radioactive decay of uranium, what is the final stable element? W) Thorium X) Lead Y) Plutonium Z) Radium",X) LEAD
+toss-up,energy,Multiple Choice,5) Energy – Multiple Choice Utilities distribute electrical power at high voltage from generating plants to industrial and residential customers through a network of wires. Which of the following is the term for these wires? W) Transmission lines X) Step-up lines Y) Grid transformers Z) Power cables,W) TRANSMISSION LINES
+bonus,energy,Short Answer,5) Energy – Short Answer Order the following three states from least to greatest in terms of coal production: 1) Pennsylvania; 2) California; 3) West Virginia.,"2, 1, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) Life Science – Multiple Choice Which of the following processes does not add carbon dioxide to the atmosphere? W) Photosynthesis X) Respiration Y) Combustion Z) Carbonic acid decomposition,W) PHOTOSYNTHESIS
+bonus,,Multiple Choice,6) Life Science – Multiple Choice An amphibian species is on the verge of being lost from all ecosystems in which it previously lived. Which term best describes this species? W) Endangered X) Extinct Y) Threatened Z) Thriving,W) ENDANGERED
+toss-up,,Multiple Choice,7) Physical Science – Multiple Choice Which of the following correctly describes a magnifying glass? W) Single convex lens X) Two convex lenses Y) Single concave lens Z) Two concave lenses,W) SINGLE CONVEX LENS
+bonus,,Multiple Choice,"7) Physical Science – Multiple Choice When water is electrolyzed, what collects at the anode? W) Hydrogen X) Oxygen Y) Sodium hydroxide Z) Water","X) OXYGEN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"8) Math – Short Answer For the following 4 percentages, identify the two that have the same value: 1) 25% of 60; 2) 50% of 20; 3) 60% of 25; 4) 75% of 15.",1 and 3
+bonus,math,Short Answer,"8) Math – Short Answer For the function f(x) = x2 – 1, evaluate f of open parenthesis 2a close parenthesis minus 2 f of a when a = 9.",163
+toss-up,,Multiple Choice,9) General Science – Multiple Choice Which of the following types of scientists studies how water moves on Earth? W) Meteorologist X) Botanist Y) Marine biologist Z) Hydrologist,Z) HYDROLOGIST
+bonus,,Multiple Choice,"9) General Science – Multiple Choice If you are a hiker and want to know about the shape of the land, you would use what type of map? W) Topographic X) Planimetric Y) Nautical Z) Geologic","W) TOPOGRAPHIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,10) Life Science – Multiple Choice How many pairs of chromosomes do human somatic cells have? W) 12 X) 23 Y) 46 Z) 48,X) 23
+bonus,,Short Answer,10) Life Science – Short Answer What is the common name of the Ursidae family of mammals?,BEARS
+toss-up,energy,Multiple Choice,11) Energy – Multiple Choice In what area of the United States are most geothermal power plants? W) New England X) Great Lakes Region Y) Midwest Z) Rocky Mountain Region,Z) ROCKY MOUNTAIN REGION
+bonus,energy,Multiple Choice,11) Energy – Multiple Choice Which of the following fuel types was used in the past to prevent engine knocking? W) Leaded X) Hydrogenated Y) B20 Z) E85,"W) LEADED
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,12) Earth and Space – Short Answer What type of volcano is most commonly found in the Ring of Fire?,STRATOVOLCANO (ACCEPT: COMPOSITE CONE)
+bonus,,Short Answer,12) Earth and Space – Short Answer Order the following four layers of the atmosphere from lowest to highest elevation: 1) Thermosphere; 2) Troposphere; 3) Mesosphere; 4) Stratosphere.,"2, 4, 3, 1 (ACCEPT: TROPOSPHERE, STRATOSPHERE, MESOSPHERE,
+THERMOSPHERE)"
+toss-up,energy,Short Answer,13) Physical Science – Short Answer Stored energy and energy related to position are both called what type of energy?,POTENTIAL
+bonus,,Multiple Choice,13) Physical Science – Multiple Choice Which of the following is a measure of linear stiffness? W) Shear modulus X) Coefficient of expansion Y) Young's modulus Z) Group strain,"Y) YOUNG'S MODULUS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,14) Energy – Multiple Choice The primary use of natural gas by the residential sector is which of the following? W) Electricity production X) Heating Y) Lighting Z) Chemical feedstock,X) HEATING
+bonus,energy,Short Answer,"14) Energy – Short Answer When measuring solar energy available at a given location, the energy is often measured per day. What are the most commonly used units of this measure?",KILOWATT HOUR PER METER SQUARED PER DAY
+toss-up,,Multiple Choice,15) General Science – Multiple Choice Which of the following pieces of lab equipment would provide the most accurate means for measuring the volume of liquids? W) Beaker X) Graduated cylinder Y) Erlenmeyer flask Z) Balance,X) GRADUATED CYLINDER
+bonus,,Short Answer,"15) General Science – Short Answer The American National Standards Institute has classified lasers based on their potential to cause biological harm. What class of lasers require strict controls because they can burn the skin or cause permanent eye damage, even when viewed indirectly?","CLASS 4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,16) Earth and Space – Short Answer The sun is predominantly composed of what element?,HYDROGEN
+bonus,,Multiple Choice,16) Earth and Space – Multiple Choice Which type of current is the Gulf Stream? W) Transverse current X) Eastern boundary current Y) Western boundary current Z) Density current,Y) WESTERN BOUNDARY CURRENT
+toss-up,math,Short Answer,"17) Math – Short Answer If two similar triangles have a scale factor of 2 to 3, and a side of the larger has length 7.5, what is the length of the corresponding side of the smaller triangle?",5
+bonus,math,Short Answer,"17) Math – Short Answer If an 8-by-12 rectangle has its linear dimensions increased by 25%, what is the area of the new larger rectangle?","150
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,18) Life Science – Short Answer What protein predominantly composes human hair?,KERATIN
+bonus,,Multiple Choice,18) Life Science – Multiple Choice Indoleacetic acid is the most common of what group of hormones? W) Auxins X) Histamines Y) Gibberellins Z) Cytokines,W) AUXINS
+toss-up,math,Short Answer,"19) Math – Short Answer What is the average of the following 3 numbers? 70, 85, 100",85
+bonus,math,Short Answer,"19) Math – Short Answer The total volume of 5 identical tanks that are circular cylinders is 1250π. If the depth of one tank is 10, what is its radius?","5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,20) Life Science – Multiple Choice What property of water gives it such a high specific heat? W) Hydrogen bonds X) London dispersion forces Y) Dipole-dipole interactions Z) Hydrophobic effect,W) HYDROGEN BONDS
+bonus,,Short Answer,20) Life Science – Short Answer What is the term for biological protein-based catalysts?,ENZYMES
+toss-up,,Short Answer,"21) Physical Science – Short Answer A circuit contains a 6-volt battery and a 2-ohm resistor. What is the power, in watts, of this circuit?",18
+bonus,physics,Short Answer,21) Physical Science – Short Answer What law of physics relates voltage to current and resistance?,"OHM’S LAW
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,22) Earth and Space – Multiple Choice Which of the following is NOT a fossil fuel? W) Coal X) Wood Y) Shale oil Z) Natural gas,X) WOOD
+bonus,,Short Answer,22) Earth and Space – Short Answer Identify all of the following four characteristics that are part of the definition of a mineral: 1) Specific crystal structure; 2) Invented in a laboratory; 3) Specific chemical composition; 4) Organic.,"1, 3"
+toss-up,math,Short Answer,23) Math – Short Answer Evaluate 1 and 2/3 divided by 1/6.,10
+bonus,math,Short Answer,"23) Math – Short Answer At Vinnie’s Deli, for a meal combo a customer chooses one of 8 different sandwiches, one of 6 types of chips, and one of 6 kinds of bottled soda. If Deb and her friend each get the meal combo, what is the probability that they choose exactly the same combo?",1/288

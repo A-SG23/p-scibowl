@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,energy,Multiple Choice,"1) Energy – Multiple Choice Currently, almost all used nuclear fuel from power plants in the U.S. is stored at which of the following? W) The power plant site X) A high-level waste repository Y) A low-level waste storage facility Z) A monitored retrieval storage facility",W) THE POWER PLANT SITE
+bonus,energy,Short Answer,"1) Energy – Short Answer Rank the following heat sources in order of increasing efficiency: 1) Geothermal heat pump, 2) Electric space heater, 3) Combustion furnace.","2, 3, 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Physical Science – Short Answer How many oxygen atoms are there in a peroxide ion?,2
+bonus,,Multiple Choice,"2) Physical Science – Multiple Choice A ball is thrown into the air with a velocity of 3 meters per second to the east and 4 meters per second away from the Earth. At the top of its arc, what is the velocity of the ball in meters per second? W) 5, up and east X) 5, east Y) 3, up and east Z) 3, east","Z) 3, EAST"
+toss-up,,Short Answer,3) General Science – Short Answer Bacteria or fungi are commonly grown in a lab on what semi-solid substance?,"AGAR (ACCEPT AGAR PLATES, NUTRIENT AGAR)"
+bonus,,Short Answer,3) General Science – Short Answer What unit is most frequently used to measure the thickness of the ozone layer?,"DOBSON UNITS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"4) Math – Short Answer To the nearest whole number, how many days will it take to travel 4800 miles traveling at a constant speed of 60 miles per hour?",3
+bonus,math,Short Answer,"4) Math – Short Answer Given the arithmetic sequence with first three terms –12, –10, –8, what is the 60th term?",106
+toss-up,,Short Answer,5) Earth and Space – Short Answer Fulgurites are tubes of fused silica produced during what type of natural event?,LIGHTNING (ACCEPT: A LARGE ELECTRICAL DISCHARGE)
+bonus,,Multiple Choice,5) Earth and Space – Multiple Choice Which of the following sectors of American society uses the greatest amount of freshwater? W) Agriculture X) Mining Y) Industry Z) Public use,"W) AGRICULTURE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"6) Life Science – Short Answer In fishes, what structures, located in fluid-filled sacs in the inner ear, stimulate sensory cells lining the sacs that convert mechanical to electrical energy?",OTOLITHS (ACCEPT: EARSTONES)
+bonus,,Multiple Choice,"6) Life Science – Multiple Choice Although not scientifically verified, which of the following plant communities has been hypothesized to utilize allelopathy? W) Chaparral X) Grassland Y) Kelp forest Z) Tundra",W) CHAPARRAL
+toss-up,energy,Multiple Choice,7) Energy – Multiple Choice Which of the following processes is NOT used to produce hydrogen gas fuel? W) Gasification X) Electrolysis Y) Dry milling Z) Fermentation,Y) DRY MILLING
+bonus,energy,Multiple Choice,7) Energy – Multiple Choice Which of the following chemical processes combines methane with water to produce hydrogen gas and carbon monoxide? W) Gas synthesis X) Incomplete combustion Y) Decomposition Z) Steam reforming,"Z) STEAM REFORMING
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,8) Physical Science – Short Answer An engine does 10 joules of work while exhausting 40 joules of waste heat. What is the percent efficiency of the engine?,20
+bonus,,Short Answer,"8) Physical Science – Short Answer Two identical metallic spheres, the first with 5 coulombs of charge and the second with -3 coulombs of charge, are touched together for an instant. What is the charge on the first sphere, in coulombs, after the two spheres touch?",1
+toss-up,math,Multiple Choice,9) Math – Multiple Choice Which of the following fractions is largest? W) 8/3 X) 9/4 Y) 12/5 Z) 16/7,W) 8/3
+bonus,math,Short Answer,9) Math – Short Answer What is the remainder when the polynomial x6 – x4 + x + 3 is divided by x + 2?,"49
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"10) Earth and Space – Multiple Choice If you were looking at isobars on a weather map showing high latitudes and high altitudes, which of the following would indicate the fastest wind speed? W) 4-millibar lines over a 100-kilometer spacing X) 4-millibar lines over a 50-kilometer spacing Y) 2-millibar lines over a 100-kilometer spacing Z) 2-millibar lines over a 50-kilometer spacing",X) 4-MILLIBAR LINES OVER A 50-KILOMETER SPACING
+bonus,,Short Answer,"10) Earth and Space – Short Answer Categorize the following three plate pairs by whether they meet at divergent, convergent, or transform boundaries: 1) North American and Eurasian plates; 2) Indian and Eurasian plates; 3) Australian and Pacific plates.",1-DIVERGENT; 2-CONVERGENT; 3-CONVERGENT
+toss-up,,Multiple Choice,11) Life Science – Multiple Choice What portion of the human digestive system is responsible for nearly all nutrient absorption? W) Cecum [SEE-kum] X) Stomach Y) Small intestine Z) Large intestine,Y) SMALL INTESTINE
+bonus,,Multiple Choice,11) Life Science – Multiple Choice Your neighbor just cut down a tree that he claims germinated the year he was born. What do you need to count to determine the plausibility of your neighbor's story? W) Sapwood rings X) Heartwood rings Y) Phloem rings Z) Xylem rings,"Z) XYLEM RINGS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,12) General Science – Multiple Choice Randomized block design differs from complete randomization by: W) Blocking or eliminating ineligible experimental subjects prior to treatment X) Blocking or eliminating results from a randomized treatment that are too far outside the acceptable results Y) Sorting experimental subjects into homogenous groups prior to treatment Z) Sorting experimental subjects into homogenous groups based on results,"Y) SORTING EXPERIMENTAL SUBJECTS INTO HOMOGENOUS GROUPS PRIOR TO
+TREATMENT"
+bonus,,Short Answer,12) General Science – Short Answer What is a crescograph used to measure?,PLANT GROWTH RATE
+toss-up,,Multiple Choice,13) Earth and Space – Multiple Choice Which of the following best explains why the Mediterranean Sea is presently saltier than most marine bodies of water? W) Anthropogenic pollution X) Higher evaporation than precipitation Y) High surface run-off Z) No freshwater inputs,X) HIGHER EVAPORATION THAN PRECIPITATION
+bonus,,Multiple Choice,13) Earth and Space – Multiple Choice Which of the following is NOT true of the Kuiper [KYE-pur] belt? W) It is smaller in size and mass than the asteroid belt X) It exists in a region of the solar system beyond the eight planets Y) The second Kuiper belt object was discovered in 1992 Z) Pluto is its largest known member,"W) IT IS SMALLER IN SIZE AND MASS THAN THE ASTEROID BELT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Physical Science – Short Answer What group of elementary particles has electric charges of either positive 2/3 or negative 1/3?,QUARKS
+bonus,,Short Answer,14) Physical Science – Short Answer By what phenomenon can materials produce an electric current in response to strain?,PIEZOELECTRICITY
+toss-up,energy,Short Answer,15) Energy – Short Answer What country has almost all of its municipal heating needs served by geothermal energy?,ICELAND
+bonus,energy,Short Answer,15) Energy – Short Answer What is the largest capacity hydropower station in the world?,"THREE GORGES DAM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) General Science – Multiple Choice Which of the following tests would best help determine the tensile strength of a material? W) Hammering X) Heating Y) Pulling Z) Twisting,Y) PULLING
+bonus,,Multiple Choice,"16) General Science – Multiple Choice In a titration procedure, which of the following groups of liquids are needed? W) Solution, reactor, reagent X) Titrant, reactor, reagent Y) Reactor, reagent, indicator Z) Solution, titrant, indicator","Z) SOLUTION, TITRANT, INDICATOR"
+toss-up,math,Short Answer,17) Math – Short Answer What is the measure of each interior angle of a regular nonagon?,140°
+bonus,math,Short Answer,17) Math – Short Answer The bases of a right trapezoid have lengths 6 and 10. The non-perpendicular side connecting them has length 12. What is the height of the trapezoid?,"8√2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Life Science – Multiple Choice Which of the following membrane transport methods is most important for release of neurotransmitters like acetylcholine during synaptic signaling? W) Exocytosis X) Ion channels Y) Active transport Z) Facilitated diffusion,W) EXOCYTOSIS
+bonus,,Multiple Choice,18) Life Science – Multiple Choice What is the smallest bone in the human body? W) Patella X) Metatarsals Y) Stapes Z) Axial vertebra,Y) STAPES
+toss-up,,Short Answer,19) Physical Science – Short Answer What is the term for the change in direction that a wave experiences when it goes from one medium to another?,"REFRACTION (DO NOT ACCEPT: REFLECTION, DIFFRACTION)"
+bonus,,Short Answer,19) Physical Science – Short Answer What acid is produced when carbon dioxide reacts with water during carbon sequestration?,"CARBONIC ACID
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,20) Life Science – Multiple Choice Plastids surrounded by a double membrane are evidence for what? W) Secondary endosymbiosis X) Evolution from mitochondria Y) Plastid fusion Z) Archaean origins,W) SECONDARY ENDOSYMBIOSIS
+bonus,,Multiple Choice,"20) Life Science – Multiple Choice A pair of gene homologs are from a mouse and a human, respectively. Which of the following gene regions is likely to be most well-conserved? W) Exons X) Introns Y) 5-prime upstream region Z) 3-prime downstream region",W) EXONS
+toss-up,math,Short Answer,"21) Math – Short Answer If a cube has edges of length 6, what is the length of its space diagonal?",6√3
+bonus,math,Short Answer,"21) Math – Short Answer A certain medication has an 80% success rate of curing people who have a specific illness. If three people with the illness are selected at random and take the medicine, what is the probability that exactly two of the three people will be cured?","48/125 (ACCEPT: 0.384 or 38.4%)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Earth and Space – Short Answer Of what specific rock type are the lunar maria composed?,BASALT
+bonus,,Short Answer,22) Earth and Space – Short Answer Order the following three organisms from oldest to newest by their occurence in the geologic record: 1) Tyrannosaurus rex; 2) Trilobite; 3) Australopithecus.,"2, 1, 3"
+toss-up,math,Short Answer,23) Math – Short Answer What is the slope of a line perpendicular to the line with equation 7x – 3y = -21?,-3/7
+bonus,math,Short Answer,23) Math – Short Answer A pyramid with 18 edges has how many faces?,10

@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,energy,Short Answer,"1) Physical Science – Short Answer When you lift up a tennis ball from the ground and hold it high into the air, it is said to have gained what type of energy?",POTENTIAL (ACCEPT: GRAVITATIONAL POTENTIAL)
+bonus,,Short Answer,"1) Physical Science – Short Answer A 1-ohm resistor and a 2-ohm resistor are connected in parallel. This circuit is connected in series to a 9-volt battery. In ohms, what is the total resistance of the circuit?","2/3
+******************"
+toss-up,,Multiple Choice,2) Earth & Space – Multiple Choice Seismic P-waves propagate in what type of motion? W) Rolling X) Shearing Y) Torsion [TOR-shun] Z) Compression,Z) COMPRESSION
+bonus,,Short Answer,2) Earth & Space – Short Answer Rank the following four carbon reservoirs in order of increasing amount of carbon stored: 1) Terrestrial vegetation and soils; 2) Earth's lithosphere [LITH-oh-sfeer] and mantle; 3) Earth's atmosphere; 4) The deep ocean.,"3,1,4,2"
+toss-up,,Short Answer,"3) Life Science – Short Answer In the human embryo, the fingers initially develop with webbing in between them. What process occurs in these cells as the webbing disappears?",APOPTOSIS [ah-poh-TOW-sus]
+bonus,,Multiple Choice,3) Life Science – Multiple Choice Which of the following animals is most closely related in phylogeny [fye-LAW-jen-ee] to a slug? W) Octopus X) Jellyfish Y) Earthworm Z) Beetle,"W) OCTOPUS
+******************"
+toss-up,math,Short Answer,4) Math – Short Answer What is 51 times 61?,3111
+bonus,math,Short Answer,4) Math – Short Answer How many diagonals does a convex 26-sided polygon have?,299
+toss-up,energy,Multiple Choice,5) Energy – Multiple Choice Scientists at Brookhaven National Lab are studying how increasing atmospheric carbon dioxide and increasing Arctic temperatures may result in greater Arctic carbon dioxide uptake as plants begin to grow there. Which of these most closely describes this example? W) Feedforward regulation X) Cyclic regulation Y) Positive feedback Z) Negative feedback,Z) NEGATIVE FEEDBACK
+bonus,energy,Multiple Choice,5) Energy – Multiple Choice Lawrence Berkeley National Lab is utilizing deep learning techniques to analyze health records. Deep learning is a type of which of the following? W) Machine learning technique X) Study technique Y) Statistical significance test Z) An algorithm for p-hacking,"W) MACHINE LEARNING TECHNIQUE
+******************"
+toss-up,,Short Answer,"6) Earth & Space – Short Answer In stellar fusion, two helium nuclei can react to form beryllium. Beryllium is very unstable and will decay quickly unless it reacts with a third helium atom to form what isotope?",CARBON-12
+bonus,,Multiple Choice,6) Earth & Space – Multiple Choice Which of the following types of nebulas is the Sun most likely to form in the course of its evolution? W) Planetary nebula X) Supernova remnant Y) Dark nebula Z) Reflection nebula,W) PLANETARY NEBULA
+toss-up,,Short Answer,"7) Life Science – Short Answer In mammals, the Barr body is an inactivated form of which chromosome?",X
+bonus,,Short Answer,7) Life Science – Short Answer Identify all of the following three diseases that are caused by fungi: 1) Yeast infection; 2) Tuberculosis; 3) Ringworm.,"1, 3
+******************"
+toss-up,,Short Answer,8) Physical Science – Short Answer P-type and N-type are varieties of what types of materials that make up electrical circuits?,SEMICONDUCTOR
+bonus,,Short Answer,"8) Physical Science – Short Answer Identify all of the following three changes that would increase the density of a sample, given that all else is held equal: 1) Increasing its mass; 2) Increasing its volume; 3) Decreasing its volume.","1, 3"
+toss-up,energy,Short Answer,"9) Energy – Short Answer Scientists at the National Renewable Energy Laboratory are using computer models to predict the energy levels of molecules. In these models, how many electrons can be contained in each nondegenerate energy level?",TWO
+bonus,energy,Short Answer,9) Energy – Short Answer Scientists at Idaho National Lab are developing fission reactors that use molten chloride salts as a coolant. This coolant is typically enriched in chlorine-37 because chlorine-35 can absorb a neutron and then undergo beta minus decay into what element?,"ARGON
+******************"
+toss-up,,Multiple Choice,10) Earth & Space – Multiple Choice Which of the following is not a form of physical weathering? W) Frost wedging X) Thermal expansion Y) Root wedging Z) Oxidation,Z) OXIDATION
+bonus,,Multiple Choice,"10) Earth & Space – Multiple Choice Which of the following ages, in millions of years old, is closest to the age of the oldest oceanic crust? W) 18 X) 180 Y) 1,800 Z) 18,000",X) 180
+toss-up,math,Short Answer,11) Math – Short Answer What is the largest prime number that divides 40 factorial?,37
+bonus,math,Short Answer,"11) Math – Short Answer Eight marbles marked one through eight are placed into a bag, and you draw three of them simultaneously at random. What is the probability that the three marbles you draw are marked 3, 4, and 5?","1/56
+******************"
+toss-up,,Short Answer,12) Life Science – Short Answer Sharks and rays are considered Chondrichthyans [kon-DRIK-thee-ans] due their bones being primarily composed of what substance?,CARTILAGE
+bonus,,Short Answer,12) Life Science – Short Answer Identify all of the following three statements that are true regarding mitosis: 1) Spindle microtubules undergo crosslinking during cytokinesis [sigh-toh-kin-EE-sis]; 2) Sister chromatids are held together at the centromere [SEN-troh-meer]; 3) Spindle fibers attach to the kinetochore [kin-EHT-oh-core] complexes on chromatids.,"2, 3"
+toss-up,energy,Multiple Choice,"13) Energy – Multiple Choice Researchers at Fermi National Accelerator Facility are constructing DUNE, the Deep Underground Neutrino Experiment. In this experiment, neutrinos will travel 800 miles before being detected. How will the neutrinos travel the 800 miles? W) Neutrinos will travel through underground electrical wiring X) Neutrinos will be routed over land by a series of superconducting magnets Y) Neutrinos will be fired through an 800 mile linear accelerator Z) Neutrinos will be fired underground and pass through Earth",Z) NEUTRINOS WILL BE FIRED UNDERGROUND AND PASS THROUGH EARTH
+bonus,energy,Multiple Choice,"13) Energy – Multiple Choice Researchers supported by the Department of Energy are developing quantum dots that emit visible light. In order to do this, they are irradiated with what type of light? W) Ultraviolet X) Infrared Y) Microwave Z) Radio","W) ULTRAVIOLET
+******************"
+toss-up,math,Short Answer,14) Math – Short Answer What is the sum of the roots of the quadratic equation x2 + 2x – 35 = 0?,–2
+bonus,math,Short Answer,"14) Math – Short Answer One Science Bowl team, which can have either four or five players, is to be picked from a class of 8 students. How many different teams could be picked?",126
+toss-up,,Short Answer,"15) Physical Science – Short Answer Mark walks 30 meters east and then 40 meters south. In meters, what is the magnitude of his net displacement?",50
+bonus,,Short Answer,15) Physical Science – Short Answer All movable pulley systems that consist of only a single pulley have a mechanical advantage of what value?,"2
+******************"
+toss-up,,Multiple Choice,16) Earth & Space – Multiple Choice Which of the following best describes the state of matter in the core of the sun? W) Liquid metallic hydrogen X) Exposed nuclei and free electrons Y) Partially ionized gas Z) Solid helium,X) EXPOSED NUCLEI AND FREE ELECTRONS
+bonus,,Multiple Choice,16) Earth & Space – Multiple Choice Which of the following best describes the history of the formation of large craters on the Moon? W) Formed early in the Moon’s history X) Formed at a near constant rate throughout the Moon’s history Y) Formed late in the Moon’s history Z) Formed during major events occurring throughout the Moon’s history,W) FORMED EARLY IN THE MOON’S HISTORY
+toss-up,,Multiple Choice,17) Life Science – Multiple Choice During what period are the first reptiles thought to have emerged? W) Ordovician [OR-doh-VIH-shin] X) Jurassic Y) Triassic [tri-ASS-ik] Z) Carboniferous,Z) CARBONIFEROUS
+bonus,,Multiple Choice,"17) Life Science – Multiple Choice When water accidentally enters your trachea, sensory neurons send information through a reflex arc in the brain to trigger coughing. In what structure in the nervous system are the interneurons of this reflex arc located? W) Pons X) Medulla [meh-DULL-ah] Y) Cerebrum Z) Spinal cord","X) MEDULLA
+******************"
+toss-up,math,Short Answer,"18) Math – Short Answer A triangle has sides of length 10, 8, and 4. Connecting the midpoints of the sides of this triangle forms a smaller triangle. What is the perimeter of the smaller triangle?",11
+bonus,math,Short Answer,18) Math – Short Answer What is the volume of a triangular right prism with each edge of length 8?,128√3
+toss-up,,Short Answer,19) Physical Science – Short Answer Rank the following three hydrocarbons in order of increasing number of carbon atoms: 1) Ethane; 2) Propane; 3) Butane.,"1, 2, 3"
+bonus,,Short Answer,"19) Physical Science – Short Answer Andrew places a 5-kilogram block on a pedestal with an area of 0.01 meters squared. In pascals, what is the pressure the block exerts on the pedestal?","4900
+******************"
+toss-up,,Short Answer,20) Life Science – Short Answer What muscles in the human eye control the shape of the lens?,CILIARY MUSCLES (ACCEPT: CILIARY BODY)
+bonus,,Short Answer,20) Life Science – Short Answer Identify all of the following three responses that result from sympathetic stimulation: 1) Heart rate increased; 2) Stomach contractions reduced; 3) Pupillary [PYOO-pill-air-ee] dilation [dye-LAY-shun].,ALL
+toss-up,math,Short Answer,"21) Math – Short Answer In square feet, what is the lateral surface area of a circular cylindrical pipe 8 feet long with radius 3 feet?",48π
+bonus,math,Short Answer,"21) Math – Short Answer Giving your answer in base 7, what is ONE-SIX base 7 times FIVE-FOUR base 7?","ONE-THREE-TWO-THREE (ACCEPT: 1323)
+******************"
+toss-up,,Multiple Choice,22) Earth & Space – Multiple Choice Venus has a very weak magnetic field compared to the Earth. Which of the following best explains why this is puzzling to planetary scientists? W) Venus has a thick atmosphere X) Venus is similar in size to Earth Y) Venus shows evidence of modern volcanism [VAWL-kah-nizm] Z) Venus shows evidence of plate tectonics,X) VENUS IS SIMILAR IN SIZE TO EARTH
+bonus,,Short Answer,22) Earth & Space – Short Answer Identify all of the following three statements that are true about the earliest mammals: 1) They coexisted with dinosaurs for about 100 million years; 2) They gathered food mostly during daylight hours; 3) They lived only in desert regions.,1
+toss-up,,Short Answer,"23) Physical Science – Short Answer What is the term for a substance that, upon addition to a reaction, causes the rate to decrease?",INHIBITOR
+bonus,energy,Short Answer,23) Physical Science – Short Answer It takes 6 joules of energy to stretch a Hookean [HOOK-ee-en] spring from its equilibrium position to a displacement of 40 centimeters. How many additional joules of energy will it require to stretch it from 40 centimeters to 80 centimeters away from equilibrium?,18

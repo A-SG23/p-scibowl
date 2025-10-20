@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,energy,Short Answer,"1) Energy – Short Answer What alkaline earth metal, commonly used in X-ray-transparent windows, is lighter than aluminum but stiffer than steel?",BERYLLIUM
+bonus,energy,Short Answer,"1) Energy – Short Answer Oak Ridge National Lab operates the High Flux Isotope Reactor, which can produce rare radioisotopes. What particles have a high flux in this reactor?","NEUTRONS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"2) Math – Short Answer What is the largest quotient that can be formed using two of the following five numbers: –40, –2, 1, 8, 16?",20
+bonus,math,Short Answer,"2) Math – Short Answer What is the y-intercept of the line that contains the points (-2, 3) and (3, 10)?","5.8 (ACCEPT: 29/5, 5 4/5)"
+toss-up,,Short Answer,"3) Physical Science – Short Answer By definition, what is the magnitude of a unit vector?",ONE
+bonus,,Short Answer,"3) Physical Science – Short Answer In meters per second and to one significant figure, what will be the magnitude of the final velocity when a 1000-kilogram mass traveling at 20 meters per second collides perfectly inelastically [in-ee- LASS-tik-lee] with a stationary mass of 3000 kilograms?","5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,4) Life Science – Multiple Choice The reactions that the cell uses to harvest energy from sugars can be classified as what? W) Decomposition X) Synthesis Y) Redox [REE-dox] Z) Combustion,Y) REDOX
+bonus,biology,Short Answer,"4) Life Science – Short Answer In a biology lab, what machine is used to sterilize glassware via the application of very hot steam?",AUTOCLAVE
+toss-up,math,Short Answer,"5) Math – Short Answer Joe’s average score on his first four exams was 80. If his average after the fifth exam was 82, what did he score on the fifth test?",90
+bonus,math,Short Answer,5) Math – Short Answer What is the coefficient of the ab2 term in the binomial expansion of open parenthesis 5a – 6b close parenthesis cubed?,"540
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,6) Earth and Space – Short Answer Wolframite is an ore for what transition metal?,TUNGSTEN
+bonus,,Multiple Choice,6) Earth and Space – Multiple Choice Which of the following statements is true regarding ocean tides and currents? W) Tides are the horizontal movement of ocean water and currents are vertical movements X) Tides are constant while currents are variable Y) Both tides and currents are influenced by gravitational pull Z) Tides and currents vary with the moon phases,Y) BOTH TIDES AND CURRENTS ARE INFLUENCED BY GRAVITATIONAL PULL
+toss-up,,Short Answer,"7) Physical Science – Short Answer If an object is moving in uniform circular motion, there is a force vector pointing towards the center of the circle. What is the name of this force?",CENTRIPETAL FORCE (DO NOT ACCEPT: CENTRIFUGAL FORCE)
+bonus,,Short Answer,"7) Physical Science – Short Answer How much work, in joules to the nearest integer, is done by gravity when a 2-kilogram ball falls 12 meters to the ground?","235
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,8) Energy – Short Answer What is the most common type of geothermal plant?,FLASH STEAM
+bonus,energy,Multiple Choice,"8) Energy – Multiple Choice The capacity factor for a power plant is defined as the amount of electric energy generated over a given time period, divided by the amount of electric energy that would have been generated had that plant operated at 100% for the entire time period. Which of the following would be a typical capacity factor for a solar photovoltaic [photo-vawl-TAY-ik] power plant? W) 5% X) 20% Y) 50% Z) 80%",X) 20%
+toss-up,math,Short Answer,9) Math – Short Answer What are the smallest and largest integers that satisfy the following absolute value inequality: the absolute value of open parenthesis x – 5 close parenthesis is less than 3?,3 AND 7 (MUST GIVE BOTH ANSWERS)
+bonus,math,Short Answer,"9) Math – Short Answer How many different (that is, non-congruent) isosceles triangles that are not equilateral have the length of each side being an integer between 3 and 6 inclusive?","11
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"10) Energy – Short Answer In the water-gas shift reaction, what gas reacts with water?",CARBON MONOXIDE
+bonus,energy,Short Answer,10) Energy – Short Answer The radioisotope thermoelectric generators used by NASA to power spacecraft primarily use what radioactive element as a heat source?,PLUTONIUM
+toss-up,,Short Answer,11) Life Science – Short Answer What are the two types of vascular tissue found in plants?,XYLEM AND PHLOEM
+bonus,,Short Answer,11) Life Science – Short Answer What human organ produces glucagon [GLUE-kah-gon]?,"PANCREAS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,12) Earth and Space – Short Answer What type of stellar event created the Crab Nebula?,SUPERNOVA
+bonus,,Multiple Choice,"12) Earth and Space – Multiple Choice Geologically, detritus [de-TRY-tus] consists of chunks and smaller grains of rock broken off other rocks by physical weathering and erosion. What is the term for a fragment of detritus? W) Sediment X) Clast Y) Particle Z) Breccia [BRETCH-ee-ah]",X) CLAST
+toss-up,,Short Answer,13) Physical Science – Short Answer How many lone pairs does a single molecule of water have?,TWO
+bonus,,Short Answer,"13) Physical Science – Short Answer What is the oxidation number of sulfur in the sulfate ion, SO 2-? 4","+6 (must say the +)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,14) Earth and Space – Multiple Choice Which of the following is closest to the percentage of mass in our Solar System belonging to the Sun? W) 80 X) 90 Y) 95 Z) 99,Z) 99
+bonus,,Multiple Choice,14) Earth and Space – Multiple Choice The Chandrasekhar [chun-dra-SHAY-kar] limit sets a theoretical maximum on which of the following properties of a white dwarf star? W) Luminosity X) Mass Y) Age Z) Temperature,X) MASS
+toss-up,,Short Answer,15) Life Science – Short Answer What organ system in the human body is responsible for coordinating activities of the body via hormones?,ENDOCRINE
+bonus,,Short Answer,15) Life Science – Short Answer What type of tissue covers the surface of the vertebrate body and is derived from all three germ layers?,"EPITHELIUM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"16) Earth and Space – Multiple Choice Just before the totality of a solar eclipse, the Moon's rough surface allows small patches of sunlight to break through. What is this effect known as? W) Diamond ring effect X) Bailey's beads Y) Clavius spots Z) Humboldt dots",X) BAILEY'S BEADS
+bonus,,Short Answer,16) Earth and Space – Short Answer Which of the planets of the Solar System has the longest orbital period?,NEPTUNE
+toss-up,,Short Answer,"17) Physical Science – Short Answer What allotrope of carbon is similar to graphite, but consists of only a single layer of atoms?",GRAPHENE
+bonus,,Short Answer,"17) Physical Science – Short Answer In order for nuclear fusion to occur, the repulsion from what fundamental force must be overcome?","ELECTROMAGNETIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,18) Math – Short Answer What is the perimeter of a right triangle with legs of length 1 and 3?,4 + √10
+bonus,math,Short Answer,18) Math – Short Answer A 5-digit palindrome has 3 different digits and is divisible by 3. What is the largest such number?,"98,589"
+toss-up,,Short Answer,19) Physical Science – Short Answer What is the name of the thermodynamic law that describes why the isothermal mixing of two ideal gases is spontaneous?,SECOND LAW OF THERMODYNAMICS (ACCEPT: THE LAW OF ENTROPY or SECOND)
+bonus,,Short Answer,19) Physical Science – Short Answer The strongest known hydrogen bond occurs between the fluoride ion and what molecule?,"HF (ACCEPT: HYDROGEN FLUORIDE)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,20) Math – Short Answer What is the slope of the line with equation 3x + 7y = –21?,–3/7
+bonus,math,Short Answer,"20) Math – Short Answer In a particular year, if April 17 is on a Friday, on what day of the week is October 29?",THURSDAY
+toss-up,,Short Answer,"21) Life Science – Short Answer What is the term for the small, fingerlike projections in the small intestine that increase the overall surface area?",VILLI (ACCEPT: MICROVILLI)
+bonus,,Short Answer,21) Life Science – Short Answer What is the adjective for the type of muscle contraction that involves the muscle remaining the same length throughout the contraction?,"ISOMETRIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Earth and Space – Short Answer Lakes and rain on Titan are primarily composed of what compound?,METHANE
+bonus,,Short Answer,"22) Earth and Space – Short Answer In oceanography, what does the abreviation PSU stand for?",PRACTICAL SALINITY UNIT
+toss-up,,Short Answer,23) Life Science – Short Answer What is the term for RNA-based viruses that produce DNA once they infect their host?,RETROVIRUS
+bonus,,Short Answer,23) Life Science – Short Answer What kind of tropism in plants occurs as a result of touch?,THIGMOTROPISM

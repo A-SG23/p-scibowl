@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,1) Earth and Space – Short Answer What river in North America has the largest drainage area?,MISSISSIPPI RIVER
+bonus,,Short Answer,1) Earth and Space – Short Answer Identify all of the following three rocks that are have a phaneritic [fan-er-IT-ik] texture: 1) Diorite; 2) Andesite; 3) Rhyolite.,"1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,2) Math – Short Answer Evaluate 8 minus open absolute value 11 minus 16 close absolute value.,3
+bonus,math,Short Answer,"2) Math – Short Answer A triangle has two exterior angles that have degree measures of 136 and 117, respectively. What is the degree measure of their common remote interior angle?",73
+toss-up,,Short Answer,3) Physical Science – Short Answer What is the term for the substances that are mixed together at the beginning of a chemical reaction and are consumed?,REACTANTS
+bonus,,Short Answer,3) Physical Science – Short Answer Identify all of the following three properties that are generally shared by nonmetals: 1) Malleable; 2) Good conductors of electricity; 3) Form anions [AN-eye-ons].,"3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"4) Earth and Space – Short Answer What is the name of the high-pressure region in the atmosphere of Jupiter that has been continuously observed for almost 200 years, but may be dissipating?",GREAT RED SPOT
+bonus,,Short Answer,"4) Earth and Space – Short Answer As a low-mass star begins to burn out, it can produce some oxygen-16 by fusing alpha particles with the nucleus of what element?",CARBON
+toss-up,energy,Multiple Choice,5) Energy – Multiple Choice Scientists at the National Renewable Energy Lab are studying magnesium batteries as an alternative to current lithium-ion technology. What is the charge on the magnesium ions in these batteries? W) +1 X) +2 Y) +3 Z) –1,X) +2
+bonus,energy,Short Answer,"5) Energy – Short Answer Fermi National Accelerator Lab is now in the possession of the ICARUS [IH-kah-rus] neutrino detector. Results from this detector were important in showing that neutrinos could not travel superluminally [super-LOO-min-uh-lee], which means they cannot travel faster than what?","LIGHT (ACCEPT: SPEED OF LIGHT, PHOTONS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"6) Life Science – Short Answer Butterflies, spiders, and shrimp are all part of what phylum [FYE- lum] that is thought to contain the largest number of animal species?",ARTHROPODA (DO NOT ACCEPT: ARTHROPODS)
+bonus,energy,Short Answer,6) Life Science – Short Answer What process can produce energy from glucose in the absence of oxygen and produces ethanol or lactic acid as products?,FERMENTATION
+toss-up,,Short Answer,"7) Physical Science – Short Answer What is the general term for a material, such as rubber or glass, that is a poor conductor of electrical current?",INSULATOR
+bonus,,Multiple Choice,"7) Physical Science – Multiple Choice An aspiring science student has a quantity of an unknown liquid in an unmarked, irregularly-shaped container. If a hydrometer [high-DRAW-meh-tur] reads 1.0 after being placed in the liquid, what other physical property of the liquid could be used to obtain the volume of liquid in the container? W) Temperature X) Mass Y) Color Z) Boiling point","X) MASS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,8) Math – Short Answer What is the area of a right triangle with legs of lengths 6 and 13?,39
+bonus,math,Short Answer,"8) Math – Short Answer A student club sells tickets to a school play. They sell 253 tickets, averaging 6.7 tickets per member, rounded to the nearest tenth. How many members are in the club?",38
+toss-up,,Short Answer,9) Life Science – Short Answer What part of an egg functions to store nutrients for the developing embryo?,YOLK (ACCEPT: VITELLUS)
+bonus,,Multiple Choice,"9) Life Science – Multiple Choice Which of the following statements is true about meiosis [my-OH-sis]? W) In the first meiotic division, sister chromatids separate X) The second meiotic division results in four haploid daughter cells Y) Crossing over occurs during the second meiotic [my-AW-tik] division Z) Individual chromatids line up at the midzone for separation during metaphase I","X) THE SECOND MEIOTIC DIVISION RESULTS IN FOUR HAPLOID
+DAUGHTER CELLS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,10) Energy – Multiple Choice Oak Ridge National Lab scientists have been studying a new derivative of vitamin B12 that must be bound to a certain enzyme for that enzyme to function. The derivative can therefore be classified as what? W) Catalyst X) Reactant Y) Cofactor Z) Protein,Y) COFACTOR
+bonus,energy,Short Answer,10) Energy – Short Answer Researchers at Lawrence Berkeley National Lab are incorporating graphene into fuel cells. Of what element is graphene composed?,CARBON
+toss-up,,Multiple Choice,11) Earth and Space – Multiple Choice What layer of Earth’s atmosphere is primarily responsible for absorbing harmful radiation? W) Thermosphere X) Troposphere Y) Stratosphere Z) Mesosphere,Y) STRATOSPHERE
+bonus,,Short Answer,11) Earth and Space – Short Answer Identify all of the following three statements that are true of minerals: 1) Native elements like gold and silver are considered minerals; 2) Organic sedimentary rocks like coal are considered minerals; 3) Silicates are the most abundant mineral class in Earth’s crust.,"1, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"12) Math – Short Answer To the nearest whole number, what is 35.26 plus 97.843?",133
+bonus,math,Short Answer,12) Math – Short Answer Two six-sided dice are rolled. What is the probability that the sum of the two numbers is prime?,5/12
+toss-up,,Short Answer,13) Earth and Space – Short Answer What disc-shaped region of the solar system contains Pluto and other plutinos?,KUIPER BELT
+bonus,physics,Short Answer,"13) Earth and Space – Short Answer In 2017, the Nobel Prize in physics was awarded to a team of scientists at LIGO for the discovery of gravitational waves. The gravitational waves that were observed resulted from the collision of two of what type of celestial body?","BLACK HOLE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,14) Physical Science – Multiple Choice An element in the second column of the periodic table will have the most similar chemical reactivity to which of the following? W) The element directly to the left X) The element directly to the right Y) The element directly below Z) The element at the end of the row,Y) THE ELEMENT DIRECTLY BELOW
+bonus,,Short Answer,14) Physical Science – Short Answer Rank the following four hydrocarbons in order of increasing number of carbon atoms: 1) Ethane; 2) Butane; 3) Propane; 4) Methane.,"4, 1, 3, 2"
+toss-up,energy,Multiple Choice,"15) Energy – Multiple Choice Lawrence Berkeley National Lab researchers are studying the structure of PRC2, an enzyme that silences genes. Which of the following best characterizes PRC2? W) Lipid X) Protein Y) Carbohydrate Z) Nucleic acid",X) PROTEIN
+bonus,energy,Short Answer,"15) Energy – Short Answer Scientists at SLAC National Lab use brilliant, ultrafast pulses produced by the Linac Coherent Light Source, or LCLS, to perform mix-and-inject serial crystallography. From what portion of the electromagnetic spectrum do these pulses originate?","X-RAY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,16) Life Science – Short Answer What is the term for a mutualistic association between a fungus and a photosynthetic bacteria?,LICHEN
+bonus,,Short Answer,16) Life Science – Short Answer What type of selection occurs when organisms at one end of the curve for a distribution of a certain trait have higher fitness than those at the other end?,DIRECTIONAL SELECTION
+toss-up,,Short Answer,17) Physical Science – Short Answer What is the adjective for a force that acts on a circularly- traveling object and is directed towards the center of rotation?,CENTRIPETAL (DO NOT ACCEPT: CENTRIFUGAL)
+bonus,,Short Answer,17) Physical Science – Short Answer Rank the following three entities in order of increasing heat capacity: 1) Earth's atmosphere; 2) A liter of water; 3) An iron nail.,"3, 2, 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,18) Math – Short Answer What is the additive inverse of –5/7?,5/7
+bonus,math,Short Answer,18) Math – Short Answer The base-six numeral five-four-three is equivalent to what in base 10?,207
+toss-up,,Short Answer,19) Earth and Space – Short Answer What term is given to the brittle upper layer of the Earth that extends from the Earth's surface into the upper mantle and makes up Earth's tectonic plates?,LITHOSPHERE (DO NOT ACCEPT: CRUST)
+bonus,,Short Answer,19) Earth and Space – Short Answer What is the most abundant element in Earth's crust?,"OXYGEN
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,20) Life Science – Multiple Choice What will occur to an animal cell if it is placed in a hypotonic environment? W) It will shrivel X) It will plasmolyse [PLAZ-moh-lyes] Y) It will remain the same Z) It will explode,Z) IT WILL EXPLODE
+bonus,,Multiple Choice,"20) Life Science – Multiple Choice In an amoeba, which of the following is the primary purpose of the pseudopods? W) Structural support X) Movement Y) Reproduction Z) Protein synthesis",X) MOVEMENT
+toss-up,math,Short Answer,"21) Math – Short Answer In which quadrant does the point (5, –6) lie?",FOURTH (ACCEPT: 4)
+bonus,math,Short Answer,21) Math – Short Answer Solve the following equation for x: the square root of open parenthesis 3x – 8 close parenthesis = x – 6.,"11 (DO NOT ACCEPT: 4)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Life Science – Short Answer What small particles of RNA and protein are responsible for synthesizing proteins by reading mRNA?,RIBOSOMES
+bonus,,Short Answer,22) Life Science – Short Answer Identify all of the following four animals that are contained within the phylum [FYE- lum] Mollusca: 1) Clam; 2) Jellyfish; 3) Octopus; 4) Snail.,"1, 3, 4"
+toss-up,energy,Short Answer,"23) Physical Science – Short Answer A car traveling at a certain speed requires 1200 joules of work to be brought to rest. How much energy, in joules, is required to stop the car if it is traveling at twice that initial speed?",4800
+bonus,,Short Answer,"23) Physical Science – Short Answer Kate picks up her dog, who has a mass of 10 kilograms, and lifts the dog 2 meters directly up into the air. To the nearest joule, how much work did she do?",196
