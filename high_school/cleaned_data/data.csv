@@ -1,4 +1,4 @@
-text,target
+prompt,completion
 Generate a Physics multiple choice question:,Physics – Multiple Choice Which of the following is a direct corollary of the second law of thermodynamics? W) Energy cannot be created or destroyed X) Real thermodynamic processes are not reversible Y) Absolute zero cannot be reached Z) Absolute zero is the minimum possible temperature
 Generate a Physics short answer question:,"Physics – Short Answer Astronaut A is in a circular orbit with an altitude of one Earth radius above the surface of Earth, while Astronaut B is in orbit with an altitude of two Earth radii above the surface of Earth. What is the ratio of the gravitational force from Earth on Astronaut A to that on Astronaut B?"
 Generate a Biology short answer question:,"Biology – Short Answer In population genetics, what term is used to quantify the ability of an individual to propagate its genes to future generations?"
