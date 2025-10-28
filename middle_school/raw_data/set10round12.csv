@@ -1,0 +1,60 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,"1) Physical Science – Multiple Choice Which of the following isotopes was responsible for the only known naturally occurring fission reactors, the Oklo Fossil Reactors? W) Uranium-233 X) Plutonium-239 Y) Uranium-235 Z) Plutonium-238",Y) URANIUM-235
+bonus,,Multiple Choice,1) Physical Science – Multiple Choice Bernoulli's equation describes which of the following? W) Vorticity X) Behavior of harmonic oscillators Y) Behavior of real gases Z) Fluid dynamics,"Z) FLUID DYNAMICS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,2) Life Science – Multiple Choice A tick sucks blood from a cow. Which of the following is this species interaction? W) Competition X) Mutualism Y) Parasitism Z) Predation,Y) PARASITISM
+bonus,,Multiple Choice,"2) Life Science – Multiple Choice If a DNA template has the sequence TAC-ACA-GGG, which one of the following would be the correct messenger RNA codon sequence? W) ATG-TGT-CCC X) ATG-UGU-GGG Y) AUG-UGU-CCC Z) UAC-UGU-CCC",Y) AUG-UGU-CCC
+toss-up,,Multiple Choice,3) Earth and Space – Multiple Choice Which of the following is the underlying cause of most volcanoes on Jupiter's moon Io? W) Meteor impacts X) Tidal forces Y) Plate tectonics Z) Weather patterns,X) TIDAL FORCES
+bonus,,Multiple Choice,3) Earth and Space – Multiple Choice Which of the following bodies of water does an atoll usually enclose? W) Lake X) River Y) Swamp Z) Lagoon,"Z) LAGOON
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,4) Energy – Short Answer What type of power plant only needs to be refueled once a year?,NUCLEAR
+bonus,energy,Short Answer,"4) Energy – Short Answer Of the four major types of coal mined in the US, which has the lowest energy content?",LIGNITE
+toss-up,math,Multiple Choice,5) Math – Multiple Choice What is the square root of one trillion? W) Ten thousand X) One hundred thousand Y) One million Z) Ten million,Y) ONE MILLION
+bonus,math,Short Answer,5) Math – Short Answer A right circular cylinder has a radius of 2 and a height of 10. A second right circular cylinder has a radius of 3 and a height of 6. What is the larger lateral surface area of the two cylinders?,"40 pi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"6) General Science – Short Answer In a population pyramid, what information does the width of the base give about the population?",BIRTH RATE
+bonus,,Multiple Choice,6) General Science – Multiple Choice Which of the following pairs of events occurred in the same decade? W) Whitney invented the cotton gin and Jenner discovered a smallpox vaccine X) A Jarvik artificial heart was successfully implanted in a human and the first satellite capable of data transmission went into orbit Y) Dubois discovered Java man in Indonesia and Hall discovered the two moons of Mars Z) Eastman invented the box camera and Curie discovered radium,"W) WHITNEY INVENTED THE COTTON GIN AND JENNER DISCOVERED A
+SMALLPOX VACCINE"
+toss-up,,Multiple Choice,7) Physical Science – Multiple Choice What is the term for a transfer of heat due to direct contact? W) Conduction X) Radiation Y) Convection Z) Induction,W) CONDUCTION
+bonus,,Multiple Choice,7) Physical Science – Multiple Choice Hooke's law is most directly related to the behavior of what? W) Inclined planes X) Wedges Y) Springs Z) Projectiles,"Y) SPRINGS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"8) Energy – Short Answer How many strokes are in a complete cycle for typical small engines found in leaf blowers, hedge trimmers, and go-carts?",TWO
+bonus,energy,Multiple Choice,8) Energy – Multiple Choice A low-e window will have greater performance in comparison to a standard home window in what regard? W) It will allow more infrared energy into the home X) It will allow less ultraviolet energy into the home Y) It will emit less radiant energy from the home Z) It will allow more visible light into the home,Y) IT WILL EMIT LESS RADIANT ENERGY FROM THE HOME
+toss-up,,Short Answer,"9) Life Science – Short Answer Based on genetic evidence, which two taxonomic domains are most closely related to one another?",ARCHAEA AND EUKARYA
+bonus,,Multiple Choice,9) Life Science – Multiple Choice Muscle cells in our heart are constantly working. Which of the following organelles would they have in larger quantities than other cells in the body? W) Vacuoles X) Mitochondria Y) Chloroplasts Z) Nucleoli,"X) MITOCHONDRIA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,10) Earth and Space – Multiple Choice Which of the following gases does NOT contribute significantly to the greenhouse effect? W) Methane X) Carbon dioxide Y) Nitrogen Z) Water vapor,Y) NITROGEN
+bonus,,Short Answer,10) Earth and Space – Short Answer What is the most abundant extrusive igneous rock in Earth's crust?,BASALT
+toss-up,energy,Short Answer,"11) General Science – Short Answer What formula predicts the energy yield of fission, where a quantity of mass is annihilated?",E=MC2 (ACCEPT: MASS-ENERGY EQUIVALENCE)
+bonus,,Multiple Choice,"11) General Science – Multiple Choice Which of the following units is NOT part of the SI system, but is important and widely used? W) Liter X) Mole Y) Kilogram Z) Candela","W) LITER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"12) Math – Short Answer When the radius of a circle is tripled, by what factor is its area multiplied?",9
+bonus,math,Short Answer,12) Math – Short Answer What number is required to complete the square for the polynomial 4x2 + 10x?,"25/4 (ACCEPT: 6 ¼, 6.25)"
+toss-up,,Short Answer,13) Physical Science – Short Answer What class of lever has the force of effort located between the force of the load and the fulcrum?,THIRD
+bonus,,Multiple Choice,13) Physical Science – Multiple Choice Which of the following scientific principles is based on the conservation of electric charge? W) Kirchhoff's current law X) Maxwell’s equations Y) Spin selection rules Z) Coulomb's law,"W) KIRCHHOFF'S CURRENT LAW
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,14) Math – Short Answer What is the x-intercept of the line with equation 5x – 3y = –30?,"(–6, 0) (ACCEPT: –6)"
+bonus,math,Short Answer,"14) Math – Short Answer Given the prime factorizations of the following two numbers, what is their greatest common divisor: 25 times 3 times 52 and 23 times 33 times 5 times 7.",120
+toss-up,energy,Multiple Choice,"15) Energy – Multiple Choice What country made the largest monetary investment in solar, wind, biofuels, and other low-carbon energy technologies in 2014? W) China X) Brazil Y) United States Z) Canada",W) CHINA
+bonus,energy,Short Answer,15) Energy – Short Answer What mountainous region of the United States contains the largest proven natural gas reserves?,"APPALACHIAN (ACCEPT: APPALACHIA)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,16) General Science – Short Answer What variable is measured at time intervals during a calorimetry experiment?,"TEMPERATURE (DO NOT ACCEPT: ENERGY, HEAT)"
+bonus,,Multiple Choice,16) General Science – Multiple Choice Which of the following pairs correctly associates the scientist with his or her area of discovery? W) Pasteur and antiseptics X) Einstein and the photoelectric effect Y) Rutherford and wave mechanics Z) Curie and x-rays,X) EINSTEIN AND THE PHOTOELECTRIC EFFECT
+toss-up,,Multiple Choice,17) Earth and Space – Multiple Choice Which of the following is NOT true of continental glaciers? W) They form along mountain slopes at high elevations X) They have a lens-like shape Y) Their weight depresses the underlying land Z) They can be found in Antarctica and Greenland,W) THEY FORM ALONG MOUNTAIN SLOPES AT HIGH ELEVATIONS
+bonus,,Short Answer,"17) Earth and Space – Short Answer Identify all of the following three statements that are true about stars: 1) Red stars are cooler than blue stars; 2) The Sun is considered a yellow star; 3) The Sun’s surface temperature is approximately 60,000 kelvins.","1 AND 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Physical Science – Multiple Choice The sum of the number of protons and neutrons in an atom of an element is referred to as the element's what? W) Mass number X) Atomic weight Y) Isotopic number Z) Atomic number,W) MASS NUMBER
+bonus,,Short Answer,"18) Physical Science – Short Answer A jet becomes airborne when its speed reaches 100 meters per second. If a jet, starting at rest, accelerates at a rate of 2.6 meters per second squared, how many seconds will elapse, to the nearest second, before it becomes airborne?",38
+toss-up,,Multiple Choice,19) Earth and Space – Multiple Choice Which of the following is the largest unit of time on the geologic time scale? W) Eon X) Era Y) Period Z) Epoch,W) EON
+bonus,,Short Answer,19) Earth and Space – Short Answer What type of speleothem hangs from the ceiling?,"STALACTITES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"20) Physical Science – Short Answer A circuit contains a single lightbulb rated for 27 watts of power using a 9-volt battery. Under these conditions, what is the current, in amps, through the lightbulb?",3
+bonus,,Multiple Choice,20) Physical Science – Multiple Choice Sterling silver contains 92.5% silver and 7.5% copper. Which of the following substances is the solute? W) Metals can't form a solution X) Silver Y) Copper Z) Gold,Y) COPPER
+toss-up,math,Short Answer,21) Math – Short Answer For what real numbers is the following rational function not defined: the fraction with numerator x times open parenthesis x2 – 4 close parenthesis and denominator open parenthesis x + 2 close parenthesis times open parenthesis x – 5 close parenthesis?,-2 and 5
+bonus,math,Short Answer,21) Math – Short Answer A rhombus has diagonals of length 14 and 18. What is its area?,"126
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Life Science – Short Answer Coral reefs are made predominately of what mineral?,CALCIUM CARBONATE
+bonus,,Multiple Choice,22) Life Science – Multiple Choice Which of the following types of diversity is the most difficult to effectively and sustainably improve? W) Genetic diversity X) Microscopic species diversity Y) Macroscopic species diversity Z) Ecosystem diversity,Z) ECOSYSTEM DIVERSITY
+toss-up,,Multiple Choice,"23) Life Science – Multiple Choice Which of the following is a disadvantage of inbreeding? W) Farmers get to choose what organisms to breed X) The inbred organism is sterile Y) The inbred organism may have genetic disorders due to similar alleles Z) Unlike hybrids, inbred organisms are not very valuable to people","Y) THE INBRED ORGANISM MAY HAVE GENETIC DISORDERS DUE TO SIMILAR
+ALLELES"
+bonus,,Multiple Choice,23) Life Science – Multiple Choice A biologist observes that different species of mice have different species of flea parasites. Which term best describes this scenario? W) Fusion X) Mutation Y) Divergence Z) Coevolution,Z) COEVOLUTION

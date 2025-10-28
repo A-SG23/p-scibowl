@@ -1,0 +1,60 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,1) Life Science – Multiple Choice Which of the following is not a succulent plant? W) Eucalyptus X) Cactus Y) Aloe Z) Yucca,W) EUCALYPTUS
+bonus,,Short Answer,1) Life Science – Short Answer What part of the brain is responsible for controlling the internal environment of the body?,"HYPOTHALAMUS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,"2) Math – Multiple Choice The sum of two numbers is a. If each number is quadrupled and then 6 is added to each number, what is the sum of the final two numbers? W) 4a X) 4a + 6 Y) 4a + 12 Z) 8a + 6",Y) 4a + 12
+bonus,math,Short Answer,2) Math – Short Answer A custom mixture of nuts is composed of cashews worth $8 a pound and almonds worth $6 a pound. Ray purchases 9 pounds of the mixture for $67. How many of these 9 pounds are cashews?,"6.5 (ACCEPT: 6½, 13/2)"
+toss-up,,Short Answer,3) Earth and Space – Short Answer To what constellation does the Big Dipper belong?,URSA MAJOR
+bonus,,Multiple Choice,3) Earth and Space – Multiple Choice Which of the following is true regarding the result of the Coriolis effect on Earth's ocean currents? W) Currents are deflected clockwise X) Currents are deflected counterclockwise Y) Currents are deflected to the left in the northern hemisphere and to the right in the southern hemisphere Z) Currents are deflected to the right in the northern hemisphere and to the left in the southern hemisphere,"Z) CURRENTS ARE DEFLECTED TO THE RIGHT IN THE NORTHERN HEMISPHERE AND TO THE
+LEFT IN THE SOUTHERN HEMISPHERE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"4) Math – Short Answer If a triangle has two sides with respective lengths of 12 and 7, what is the minimum possible integer length of the third side?",6
+bonus,math,Short Answer,"4) Math – Short Answer What is the sum of the integers between 70 and 89, inclusive?",1590
+toss-up,energy,Short Answer,"5) Energy – Short Answer Butterflies, lizards, and gemstones all use complex structures to create iridescent displays that humans find attractive. Scientists at Argonne National Lab used X-rays to discover how these microscopic structures work. What is the name of these structures?",PHOTONIC CRYSTALS
+bonus,energy,Multiple Choice,"5) Energy – Multiple Choice In the modern American home, what represents the largest portion of energy usage? W) Refrigeration X) Electronics Y) Lighting Z) Heating","Z) HEATING
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"6) Physical Science – Multiple Choice Which of the following is a Bronsted base, but not an Arrhenius [ah-REE-nee-us] base? W) Sodium carbonate X) Triethylamine [try-ethil-ah-MEEN] Y) Lithium hydroxide Z) Potassium oxide",X) TRIETHYLAMINE
+bonus,,Short Answer,6) Physical Science – Short Answer What is the term for a pair of non-bonding electrons in a molecule?,LONE PAIR (ACCEPT: NON-BONDING PAIR)
+toss-up,,Short Answer,7) Life Science – Short Answer What organ in humans regulates blood glucose levels?,PANCREAS
+bonus,,Short Answer,"7) Life Science – Short Answer What is the term for the process by which smooth muscle in the arterioles [ahr-TEER-ee-ohlz] relaxes, resulting in a larger diameter?","VASODILATION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"8) Earth and Space – Short Answer If the distance to a star is tripled, by what factor is its apparent brightness multiplied?",1/9
+bonus,,Short Answer,8) Earth and Space – Short Answer What is the primary mode of ocean circulation below 1000 meters below sea level?,THERMOHALINE CIRCULATION (OR THERMOHALINE)
+toss-up,math,Short Answer,9) Math – Short Answer What is the greatest integer less than or equal to the square root of 700?,26
+bonus,math,Short Answer,9) Math – Short Answer What is the median of the first 10 prime numbers?,"12
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,10) Energy – Short Answer Oxides of what two elements that can cause acid rain are emitted by coal-fired power plants and vehicles?,SULFUR AND NITROGEN
+bonus,energy,Multiple Choice,10) Energy – Multiple Choice Humans introduce 30 billion tons of carbon dioxide into the atmosphere each year. DOE National Lab scientists have found that plants and oceans can absorb carbon dioxide and convert it to which of the following types of rock? W) Limestone X) Granite Y) Igneous [IG-nee-us] Z) Quartz,W) LIMESTONE
+toss-up,,Short Answer,11) Physical Science – Short Answer What is the IUPAC name of N O? 2,DINITROGEN MONOXIDE
+bonus,,Short Answer,11) Physical Science – Short Answer What is the empirical formula of glucose?,"CH O
+2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"12) Energy – Multiple Choice According to the U.S. Energy Information Administration, which of the following industrial sectors is responsible for the largest total energy use in the United States? W) Chemical production X) Steel making Y) Cement making Z) Petroleum refining",Z) PETROLEUM REFINING
+bonus,energy,Short Answer,"12) Energy – Short Answer Rank the following sectors by total annual energy consumption in the U.S., from least amount of energy consumed to greatest: 1) Residential; 2) Transportation; 3) Commercial; 4) Industrial.","3, 1, 2, 4 (COMMERCIAL, RESIDENTIAL, TRANSPORTATION, INDUSTRIAL)"
+toss-up,,Short Answer,"13) Physical Science – Short Answer In a game of tug of war, the left team pulls with 200 newtons of force while the right team pulls with 183 newtons of force. What is the magnitude, in newtons, of the resultant pull on the rope exerted by both teams?",17
+bonus,,Short Answer,13) Physical Science – Short Answer Rank the following three elements from least to greatest in terms of their electronegativity; 1) Oxygen; 2) Boron [BOAR-on]; 3) Nitrogen.,"2, 3, 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,14) Math – Short Answer A right circular cone has radius 2 and height 6. What is its volume?,8π
+bonus,math,Short Answer,"14) Math – Short Answer At what value of y does the line that contains the points (2, 4) and (5, 12) cross the y-axis?",–4/3 (ACCEPT: –1 1/3)
+toss-up,,Short Answer,15) Life Science – Short Answer What blood cells are fragments of bone marrow cells and are responsible for clotting?,THROMBOCYTES (ACCEPT: PLATELETS)
+bonus,,Short Answer,15) Life Science – Short Answer Sarcomeres [SAHR-koh-meers] compose the basic unit of what type of muscle?,"SKELETAL MUSCLE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Earth and Space – Multiple Choice Which of the following terms best describes Earth's magnetic field? W) Bipolar X) Dipolar Y) Antipolar Z) Nonpolar,X) DIPOLAR
+bonus,,Short Answer,16) Earth and Space – Short Answer Rank the following three reservoirs of unfrozen fresh water in decreasing order of volume: 1) Rivers; 2) Lakes; 3) Atmosphere.,"2, 3, 1"
+toss-up,,Short Answer,"17) Physical Science – Short Answer On a pressure-temperature diagram, what point refers to the conditions under which gas, liquid, and solid coexist?",TRIPLE POINT
+bonus,,Short Answer,17) Physical Science – Short Answer Identify all of the following three statements that are true of enthalpy [EN-thul-pee]: 1) Enthalpy is a state function; 2) Enthalpy is defined by the 2nd law of thermodynamics; 3) Enthalpy always increases.,"1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"18) Earth and Space – Short Answer To the nearest integer, how many times as much energy does a Richter magnitude 3.5 earthquake release as a magnitude 2.5 earthquake?",32
+bonus,,Short Answer,18) Earth and Space – Short Answer Order the four terrestrial planets in order of increasing planetary radius.,"MERCURY, MARS, VENUS, EARTH"
+toss-up,,Short Answer,19) Life Science – Short Answer What type of skeletons do beetles have?,EXOSKELETON
+bonus,,Short Answer,19) Life Science – Short Answer Under what phylum [FYE-lum] are jellyfish classified?,"CNIDARIA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,21) Physical Science – Multiple Choice Which of the following nitrogen-containing functional groups also contains oxygen? W) Amide [AM-ide] X) Amine [ah-MEEN] Y) Imine [IH-meen] Z) Nitrile [NYE-trial],W) AMIDE
+bonus,,Multiple Choice,"21) Physical Science – Multiple Choice Phosphorus pentachloride [penta-KLOOR-ide] gas is in a container in which it is in equilibrium with liquid phosphorous trichloride [try-KLOOR-ide] and chlorine gas. Which of the following statements would be true if the pressure inside the container were doubled by adding argon gas, holding the temperature constant? W) The amount of chlorine gas would increase X) The amount of chlorine gas would decrease Y) The amount of chlorine gas would remain the same Z) Solid phosphorus argonite [AR-gah-nite] would form",Y) THE AMOUNT OF CHLORINE GAS WOULD REMAIN THE SAME
+toss-up,math,Short Answer,"20) Math – Short Answer If a $100 item is reduced by 30% and then the reduced price is reduced again by 40%, then, in dollars, what is the final price?",42
+bonus,math,Short Answer,"20) Math – Short Answer To the nearest integer, what is the length of the hypotenuse of a right triangle with legs of length 11 and 15?","19
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Earth and Space – Short Answer What gas is the primary constituent of Saturn's atmosphere?,HYDROGEN
+bonus,,Short Answer,"22) Earth and Space – Short Answer In stellar structure, identify all of the following four elements that are considered metals: 1) Carbon; 2) Oxygen; 3) Silicon; 4) Iron.","ALL (ACCEPT: 1, 2, 3, AND 4)"
+toss-up,,Short Answer,"23) Life Science – Short Answer In humans, what type of cells are responsible for carrying oxygen to tissues?",ERYTHROCYTES (ACCEPT: RED BLOOD CELLS)
+bonus,,Short Answer,"23) Life Science – Short Answer In humans, in order to neutralize the acidic stomach juices as they enter the small intestine, what organ produces bicarbonate as a base?",PANCREAS

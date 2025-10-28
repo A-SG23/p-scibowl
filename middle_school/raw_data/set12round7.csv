@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,1) Earth and Space – Short Answer What event occurs when the Earth passes through the orbital path of a comet?,METEOR SHOWER
+bonus,,Short Answer,"1) Earth and Space – Short Answer What type of stellar remnant, such as the Ring Nebula, is formed when a red giant expels its outer layers of gas?","PLANETARY NEBULA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Life Science – Short Answer Plants and bacteria possess what component that provides structural support to the plasma membrane?,CELL WALL
+bonus,,Short Answer,2) Life Science – Short Answer The duodenum [dew-AW-den-um] is a region of what organ?,SMALL INTESTINE
+toss-up,math,Short Answer,"3) Math – Short Answer A car travels 250 miles in 8 hours. To the nearest mile per hour, over the eight- hour period, what is the average speed of the car?",31
+bonus,math,Short Answer,"3) Math – Short Answer Assuming that the following numbers represent measurements, and giving your answer with the correct number of significant figures, simplify the following expression: 2.6 + 0.53 + 0.025.","3.2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"4) Energy – Short Answer Scientists at the National Renewable Energy Laboratory will test small, energy dense inverters for the Little Box Challenge. These devices convert direct current power produced by solar panels to what type of current that can be used in homes and business?",ALTERNATING CURRENT (ACCEPT: AC)
+bonus,energy,Short Answer,"4) Energy – Short Answer Scientists are using the Advanced Photon Source to study the structure of cellulose, a polymer composed of what monomer?",GLUCOSE (ACCEPT: BETA-GLUCOSE)
+toss-up,,Short Answer,5) Physical Science – Short Answer What is the term for the process in which matter changes state from a gas to a liquid?,CONDENSATION
+bonus,energy,Short Answer,5) Physical Science – Short Answer Identify all of the following three statements that are true of energy: 1) Kinetic energy depends on speed; 2) Objects must be moving to have energy; 3) Thermal energy depends on temperature.,"1 AND 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,6) Earth and Space – Short Answer What compositional layer of the Earth is the thinnest?,CRUST
+bonus,,Short Answer,6) Earth and Space – Short Answer Identify all of the following three fossils for which Carbon-14 dating would be useful 1) Jurassic amber-trapped insect; 2) Cambrian [KAM-bree-un] shale with trilobite fossil; 3) Paleogene [PAY-leo-jeen] coral.,NONE
+toss-up,math,Short Answer,7) Math – Short Answer Give one of the linear factors of x2 + 4x – 21.,x – 3 OR x + 7 (must give at least one)
+bonus,math,Short Answer,"7) Math – Short Answer If an 8-by-11 rectangle has its linear dimensions increased by 50%, what is the area of the new larger rectangle?","198
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"8) Physical Science – Short Answer Bases, when dissolved in water, have a pH value above what number?",7
+bonus,,Short Answer,8) Physical Science – Short Answer How many carbon atoms are present in one molecule of isopropyl alcohol?,3
+toss-up,energy,Short Answer,9) Energy – Short Answer Scientists at Argonne National Lab are studying green rust as a potential stabilizing element for radionuclides. What is the major metal center in green rust?,IRON
+bonus,energy,Short Answer,"9) Energy – Short Answer Cancer researchers at SLAC [slack] are studying the interaction of the peripheral protein Axl [ax-one] with serum protein Gas6, which signals to the cancer cell to break free of the original neoplasm and seed new tumors. What is the term for this process of migration and clonal expansion?","METASTASIS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,10) Earth and Space – Short Answer What is the name of the bright red supergiant in the constellation Orion?,BETELGEUSE [BEE-tle-jews]
+bonus,,Short Answer,"10) Earth and Space – Short Answer Telescope A has a diameter of 36 centimeters, while telescope B has a diameter of 4 centimeters. What is the ratio of the light-gathering power of telescope A to that of telescope B?",81 (ACCEPT: 81 TO 1)
+toss-up,,Multiple Choice,11) Life Science – Multiple Choice The conversion of glucose to carbon dioxide and water is an example of what type of reaction? W) Condensation X) Esterification [es-TARE-ih-fih-KAY-shun] Y) Anabolic Z) Catabolic,Z) CATABOLIC
+bonus,,Short Answer,"11) Life Science – Short Answer What type of mimicry [MIH-mik-kree] is demonstrated by the monarch and viceroy [vice-roy] butterflies, which are both poisonous and look similar?","MULLERIAN MIMICRY (ACCEPT: MULLERIAN)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,"12) Math – Multiple Choice In a plane containing segment AB, a square is to be constructed that has segment AB as one of its diagonals. How many different segments could possibly be the second diagonal of this square? W) 1 X) 2 Y) 4 Z) An infinite number",W) 1
+bonus,math,Short Answer,12) Math – Short Answer What is the surface area of a closed circular cylindrical pipe 10 feet long with diameter 4 feet?,48π
+toss-up,energy,Multiple Choice,13) Energy – Multiple Choice Which of the following energy sources used in power plants contributes the least to the plants’ carbon dioxide emissions? W) Natural gas X) Oil Y) Biofuel Z) Wind,Z) WIND
+bonus,energy,Short Answer,"13) Energy – Short Answer Researchers at Brookhaven National Lab have discovered that KIN10 [kin-ten], a protein kinase [KYE-nayse], is responsible for controlling sugar homeostasis in plants and oil production. What functional group does KIN10 add to proteins?","PHOSPHATE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Life Science – Short Answer What type of reproduction involves a single parent creating offspring that have the exact same genetic information as the parent?,"ASEXUAL (ACCEPT: PARTHENOGENETIC, APTOMICTIC)"
+bonus,,Short Answer,14) Life Science – Short Answer Skin cells can be classified as a part of which of the four general classes of tissue?,EPITHELIAL
+toss-up,,Multiple Choice,15) Physical Science – Multiple Choice Which of the following is an example of an amorphous solid? W) Sugar X) Snow Y) Diamond Z) Glass,Z) GLASS
+bonus,,Short Answer,15) Physical Science – Short Answer A student fills a balloon with air and ties it off. Identify all of the following three changes that would result in the balloon getting larger: 1) Decreasing the temperature of the balloon; 2) Submerging the balloon one meter underwater; 3) Taking the balloon to a higher altitude.,"3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"16) Math – Short Answer In which quadrant does the point (–3, 8) lie?",SECOND (ACCEPT: 2)
+bonus,math,Short Answer,"16) Math – Short Answer To the nearest whole number, what is the length of the hypotenuse in a right triangle with legs of length 16 and 11?",19
+toss-up,,Multiple Choice,17) Life Science – Multiple Choice Gas exchange in human lungs primarily occurs between a network of capillaries and what structures with increased surface area? W) Tracheae [TRAY-kee-ee] X) Bronchi [BRONK-eye] Y) Bronchioles [BRONK-ee-ohlz] Z) Alveoli [al-VEE-oh-lye],Z) ALVEOLI
+bonus,,Short Answer,"17) Life Science – Short Answer Place the following three stages of mitosis in chronological order, starting at the end of G2: 1) Metaphase; 2) Prophase; 3) Telophase.","2, 1, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"18) Earth and Space – Short Answer Smog-related ozone, which can cause respiratory harm and damage crops, is found in what layer of the atmosphere?",TROPOSPHERE
+bonus,,Short Answer,18) Earth and Space – Short Answer What are the two most abundant ions in seawater?,CHLORIDE AND SODIUM (ACCEPT: Cl AND Na; DO NOT ACCEPT: CHLORINE)
+toss-up,math,Short Answer,19) Math – Short Answer Evaluate the quotient 5/3 divided by 1/9.,15
+bonus,math,Short Answer,"19) Math – Short Answer Given the 3-4-5 right triangle with angle A opposite the side of length 3, what is sine A + cosine A + tangent A?","43/20 (ACCEPT: 2 3/20, 2.15)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Physical Science – Short Answer N-butane and isobutane are different compounds with the same molecular formula. What is the term for compounds with the same molecular formula but different structures?,ISOMERS
+bonus,,Multiple Choice,"20) Physical Science – Multiple Choice Alkali metals like sodium give up electrons when forming ionic bonds. In these ionic compounds, what is their typical oxidation number? W) Negative 1 X) Zero Y) Positive 1 Z) Positive 2",Y) POSITIVE 1
+toss-up,,Short Answer,"21) Earth and Space – Short Answer What type of glaciers form in high, mountainous areas and often occupy inlets in the mountains?",VALLEY GLACIERS (ACCEPT: ALPINE GLACIERS)
+bonus,,Short Answer,21) Earth and Space – Short Answer What type of sand dunes are characterized by their crescent shapes and occurrence in areas with constant wind direction?,"BARCHANS [BAR-cans]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Life Science – Short Answer At what vessel level does gas exchange occur between the blood and organs?,CAPILLARIES
+bonus,,Short Answer,"22) Life Science – Short Answer What amino acid is responsible for disulfide [dye-SUL-fide] bonds, which are important to protein structure?",CYSTEINE
+toss-up,,Short Answer,23) Physical Science – Short Answer What physical quantity describes the change in velocity over time?,ACCELERATION
+bonus,,Short Answer,23) Physical Science – Short Answer Identify all of the following three quantities that are vector quantities: 1) Mass; 2) Weight; 3) Velocity.,2 AND 3

@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,1) Life Science – Multiple Choice Immunoglobulins are an example of which of the following? W) Sugars X) Proteins Y) Phospholipids [faws-foe-lipids] Z) Starches,X) PROTEINS
+bonus,,Multiple Choice,"1) Life Science – Multiple Choice Which of the following can be found in eukaryotes [YOU-care-ee-oats], but not in prokaryotes [PRO-care-ee-oats]? W) Mitochondria [my-tow-KON-dree-ah] X) Plasma membrane Y) Chromosome Z) Cell wall","W) MITOCHONDRIA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,2) Energy – Multiple Choice Which of the following is not a primary energy source? W) Electricity X) Solar radiation Y) Wind Z) Coal,W) ELECTRICITY
+bonus,energy,Multiple Choice,2) Energy – Multiple Choice Burning fossil fuels is the primary source of emissions for which of the following greenhouse gases? W) Carbon dioxide X) Fluorinate [FLOOR-in-ate] gases Y) Methane Z) Nitrous oxide,W) CARBON DIOXIDE
+toss-up,,Multiple Choice,3) Earth and Space – Multiple Choice Bok globules are visible in the Orion Nebula. What does this imply is occuring in the star? W) Star formation X) Star cooling Y) Star death Z) Star obscuration,W) STAR FORMATION
+bonus,,Multiple Choice,"3) Earth and Space – Multiple Choice Bodies of water that do not flow into a sea, sometimes accumulating salts over time to become saline, are known as what type of lake? W) Eutrophic X) Oligotrophic Y) Endorheic Z) Dead","Y) ENDORHEIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"4) Math – Short Answer Calculate the product of the following 3 numbers: 200, 300, and 100.","6,000,000"
+bonus,math,Multiple Choice,4) Math – Multiple Choice What is the equation of the axis of symmetry for the graph of x = y2 + 8y + 30? W) y = –15 X) y = –4 Y) y = 4 Z) y = 15,X) y = –4
+toss-up,,Short Answer,"5) Physical Science – Short Answer A boy holds a 5-kilogram weight in position on a shelf to prevent it from falling. After 10 minutes, how much work, in joules [jools], did he perform on the weight?",0
+bonus,,Short Answer,5) Physical Science – Short Answer What particle accelerator was responsible for the detection of the Higgs boson [BOH-sawn]?,"LARGE HADRON COLLIDER (ACCEPT: LHC)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) Life Science – Multiple Choice Which of the following is NOT found in both bacterial and human cells? W) Ribosomes [RYE-beh-sohms] X) DNA Y) Nucleus Z) RNA,Y) NUCLEUS
+bonus,,Multiple Choice,"6) Life Science – Multiple Choice Which of the following statements is true regarding thymine [THIGH-meen], cytosine [sigh-toh-seen], and uracil [YUR-ah-sil]? W) They can all be found in RNA X) They can all be found in DNA Y) They are all purines [PURE-eens] Z) They are all pyrimidines [pur-RIM-ih-deens]",Z) THEY ARE ALL PYRIMIDINES
+toss-up,math,Short Answer,7) Math – Short Answer What is the product of the two binomials x + 2 and x – 5?,x2 – 3x – 10
+bonus,math,Short Answer,"7) Math – Short Answer During football season, a player catches passes for 471 yards and averages 12.7 yards per catch, rounded to the nearest tenth. How many catches did the player make?","37
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,8) Energy – Multiple Choice Which of the following crops is NOT used widely in the western hemisphere as a biofuel feedstock? W) Sugarcane X) Corn Y) Wheat Z) Soybeans,Y) WHEAT
+bonus,energy,Short Answer,8) Energy – Short Answer The power plant at Hoover Dam harvests what type of energy?,"HYDROPOWER (ACCEPT: HYDRO, DO NOT ACCEPT: HYDROELECTRIC)"
+toss-up,,Multiple Choice,9) Life Science – Multiple Choice Ribosomes [RYE-beh-sohms] produce numerous proteins needed for cellular functions. In what organelle can you find embedded ribosomes? W) Smooth endoplasmic [EN-doh-PLAZ-mik] reticulum [reh-TIK-yoo-lum] X) Plasma membrane Y) Microfilaments Z) Rough endoplasmic [EN-doh-PLAZ-mik] reticulum [reh-TIK-yoo-lum],Z) ROUGH ENDOPLASMIC RETICULUM
+bonus,,Short Answer,9) Life Science – Short Answer Deoxygenated blood is pumped from the heart to the lungs through which part of the circulatory system?,"PULMONARY ARTERIES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,10) Earth and Space – Multiple Choice What is the sedimentary rock that is composed largly of calcium carbonate from the skeletal fragments of marine organisms? W) Limestone X) Marble Y) Sandstone Z) Coal,W) LIMESTONE
+bonus,,Short Answer,10) Earth and Space – Short Answer What is the point on the surface above the focus of an earthquake?,EPICENTER
+toss-up,,Multiple Choice,11) Physical Science – Multiple Choice Which of the following regions of the EM spectrum is most energetic? W) Radio X) Microwave Y) Ultraviolet Z) Visible,Y) ULTRAVIOLET
+bonus,,Multiple Choice,11) Physical Science – Multiple Choice Which of the following compounds contains an ionic bond? W) Magnesium bromide [BROH-mide] X) Dihydrogen Y) Fructose Z) Methane,"W) MAGNESIUM BROMIDE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"12) Math – Short Answer In a right triangle, one leg has length 15 and one angle measures 45 degrees. What is the length of the hypotenuse?",15√2
+bonus,math,Multiple Choice,12) Math – Multiple Choice Which of the following represents the best price per item? W) Buy one and get a second one half off X) Buy 2 and get 30% off each Y) Buy 2 and get a third one free Z) Buy 3 and get 20% off each,Y) BUY 2 AND GET A THIRD ONE FREE
+toss-up,,Short Answer,13) Earth and Space – Short Answer What type of rocks are formed by volcanism?,IGNEOUS (ACCEPT: EXTRUSIVE IGNEOUS)
+bonus,,Short Answer,"13) Earth and Space – Short Answer In our Solar System, what type of orbit or trajectory would allow a body to escape the gravity of the Sun?","HYPERBOLIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Physical Science – Short Answer What isotope has nuclei [NEW-klee-eye] that contain six protons and seven neutrons?,CARBON-13
+bonus,,Short Answer,14) Physical Science – Short Answer Lawrencium-260 [lah-REN-see-um two sixty] undergoes alpha decay with a half-life of 2.7 minutes. What is the mass number of the product atom?,256
+toss-up,,Multiple Choice,"15) Life Science – Multiple Choice Which of the following statements is TRUE regarding heterochromatin [hetero- CROW-ma-tin]? W) It is transcriptionally active X) It consists of DNA loosely wound around histones Y) During mitosis [my-TOW-sis], most nuclear DNA is found as heterochromatin Z) Chromatin [CROW-mah-tin] organization is determined by DNA modifications","Y) DURING MITOSIS, MOST NUCLEAR DNA IS FOUND AS HETEROCHROMATIN"
+bonus,,Multiple Choice,15) Life Science – Multiple Choice Which of the following are not considered to belong to the bryophyte [BRYE-oh- fite] group? W) Mosses X) Ferns Y) Liverworts Z) Hornworts,"X) FERNS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,16) Math – Short Answer What is 4 times 8 minus 5 times 6?,2
+bonus,math,Short Answer,16) Math – Short Answer What is the cube of open parenthesis a3 + 4b close parenthesis when a = 2 and b = –3?,–64
+toss-up,,Multiple Choice,17) Physical Science – Multiple Choice Which of the following describes the image formed by a plane mirror? W) Real and upright X) Real and vertically inverted Y) Virtual and upright Z) Virtual and vertically inverted,Y) VIRTUAL AND UPRIGHT
+bonus,,Short Answer,17) Physical Science – Short Answer What is the adjective for a physical process that results in no heat exchange with the environment?,"ADIABATIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"18) Energy – Multiple Choice When a ball rolls downhill, the gravitational potential energy of the ball is transformed into what type of energy? W) Kinetic X) Thermal Y) Chemical Z) Atomic",W) KINETIC
+bonus,energy,Multiple Choice,18) Energy – Multiple Choice Which of the following energy sources emits the greatest amount of mercury into the atmosphere when it is combusted? W) Oil X) Natural gas Y) Coal Z) Kerosene,Y) COAL
+toss-up,,Short Answer,"19) Physical Science – Short Answer If the mass of an astronaut is 100 kilograms on Earth, what would be the mass, to the nearest 10 kilograms, of the same astronaut on the moon?",100
+bonus,,Multiple Choice,19) Physical Science – Multiple Choice A chemist is trying to pick a weak base for performing a titration. Which of the following could she choose? W) Potassium hydroxide X) Potassium chloride Y) Potassium acetate Z) Sodium chloride,"Y) POTASSIUM ACETATE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,20) Earth and Space – Multiple Choice What rock type is dominant in the uppermost mantle? W) Basalt X) Granite Y) Peridotite Z) Komatiite,Y) PERIDOTITE
+bonus,,Multiple Choice,20) Earth and Space – Multiple Choice Which of the following best explains why Triton can hold an atmosphere? W) It is very massive X) Its atmosphere is primarily composed of massive gases Y) Its atmosphere is primarily composed of light gases Z) It is very cold,Z) IT IS VERY COLD
+toss-up,,Short Answer,21) Life Science – Short Answer What is the term for vesicles that contain digestive enzymes?,LYSOSOMES
+bonus,,Short Answer,"21) Life Science – Short Answer A scientist discovers a new protein that contains 20 amino acids. What is the minimum length, in nucleotides, of the mRNA that produces this protein?","63
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Earth and Space – Short Answer In what celestial body in the solar system does the proton-proton chain occur?,SUN
+bonus,,Short Answer,22) Earth and Space – Short Answer What is the most abundant chemical sedimentary rock?,LIMESTONE
+toss-up,math,Short Answer,"23) Math – Short Answer If function f has an inverse and if f of –3 equals 5, what is f inverse of 5?",–3
+bonus,math,Short Answer,23) Math – Short Answer A prism with 30 edges has how many vertices?,20

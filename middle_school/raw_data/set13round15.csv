@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,energy,Multiple Choice,1) Energy – Multiple Choice Scientists at Sandia National Lab are testing to see if electrical stimulation can improve working memory and reasoning skills. What cortex of the brain are they stimulating? W) Parietal [pah-RYE-eht-ul] X) Occipital [aw-SIP-it-ul] Y) Prefrontal Z) Temporal,Y) PREFRONTAL
+bonus,energy,Short Answer,1) Energy – Short Answer Chemists at SLAC National Accelerator Laboratory have developed a copper catalyst that converts carbon dioxide to ethanol in an acidic environment. How many electrons are needed to reduce two molecules of carbon dioxide to ethanol in an acidic solution?,"12
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Earth and Space – Short Answer What is the term for the line that separates night from day on the Moon?,TERMINATOR
+bonus,,Multiple Choice,2) Earth and Space – Multiple Choice What component of the Milky Way galaxy is comprised of a roughly spherical collection of stars and star clusters with almost no gas or dust? W) Disk X) Bulge Y) Halo Z) Globular cluster,Y) HALO
+toss-up,,Short Answer,"3) Life Science – Short Answer What is the term for a severe allergic reaction that can cause hypotension and difficulty breathing, and can be triggered by events such as bee stings or peanut exposure?",ANAPHYLAXIS
+bonus,,Multiple Choice,"3) Life Science – Multiple Choice Within which of the following tissues would one find the largest number of reticulocytes [reh-TIK-yoo-loh-sites], which are immature red blood cells? W) Bone X) Heart Y) Spleen Z) Liver","W) BONE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"4) Physical Science – Short Answer A certain gas-filled container has a volume of 15 milliliters and a pressure of 40 pounds per square inch. In pounds per square inch, what would the pressure inside the container be if the volume were increased to 60 milliliters while keeping the temperature constant?",10
+bonus,,Short Answer,4) Physical Science – Short Answer Identify all of the following three observations that indicate a chemical change occurred in a reaction: 1) A phase change; 2) A color change; 3) Gas is evolved.,"2, 3"
+toss-up,,Multiple Choice,5) Earth and Space – Multiple Choice The Himalayas are an example of which of the following kinds of mountain systems? W) Fault-block X) Folded Y) Upwarped Z) Volcanic,X) FOLDED
+bonus,,Multiple Choice,5) Earth and Space – Multiple Choice Which of the following is characteristic of a cold front? W) Boundary between air masses has a gentle slope X) Typically preceded by cirrus clouds Y) Associated with moderate amounts of precipitation Z) It moves faster than a warm front,"Z) IT MOVES FASTER THAN A WARM FRONT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"6) Math – Short Answer If the nth term of a sequence is given by 5n + 7, then what is the 100th term minus the 99th?",5
+bonus,math,Short Answer,6) Math – Short Answer Find the y-coordinates of all points of intersection of the parabola y = x2 – 4x – 7 and the line y = –5x – 1.,–11 AND 14
+toss-up,energy,Short Answer,7) Energy – Short Answer Scientists at Pacific Northwest National Lab are studying blood samples from patients infected with what virus that causes a deadly hemorrhagic [heh-moor-AJ-ik] fever and is believed to naturally reside in fruit bats?,EBOLA VIRUS (ACCEPT: EBOLA)
+bonus,energy,Short Answer,7) Energy – Short Answer The ICARUS [IH-kah-rus] detector is moving to Fermilab from its previous home in CERN. The detector is filled with 760 tonnes of liquid argon to detect what class of particles?,"NEUTRINOS (ACCEPT: STERILE NEUTRINOS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,8) Earth and Space – Short Answer Meteor showers occur when small meteoroids enter Earth’s atmosphere. What type of celestial object is the source material for most major meteor showers on Earth?,COMET
+bonus,,Short Answer,8) Earth and Space – Short Answer Identify all of the following four regions where hydrogen is fused in the Sun: 1) Corona; 2) Chromosphere; 3) Photosphere; 4) Core.,4
+toss-up,,Short Answer,"9) Physical Science – Short Answer To the nearest gram, what is the mass of one mole of helium atoms?",4
+bonus,,Multiple Choice,"9) Physical Science – Multiple Choice Andrew has two conducting spheres, A and B, that are in contact with each other. He brings a negatively-charged rod close to sphere A and immediately separates the two spheres. Which of the following best describes the resulting charges on the spheres once the rod has been removed? W) Both spheres are negative X) Sphere A is positive, while sphere B is negative Y) Sphere A is negative, while sphere B is positive Z) Both spheres are positive","X) SPHERE A IS POSITIVE, WHILE SPHERE B IS NEGATIVE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,10) Energy – Multiple Choice The effect of physiological ions binding to G protein-coupled receptors that transmit information is being studied by researchers at Los Alamos National Laboratory using nuclear magnetic resonance. Which of the following could NOT be an ion they are studying? W) Calcium X) Magnesium Y) Zinc Z) Sulfur,Z) SULFUR
+bonus,energy,Short Answer,10) Energy – Short Answer Researchers at Los Alamos National Lab are trying to use muons to study fracture patterns in materials. Muons are most related to what subatomic particle that can be found in hydrogen atoms?,ELECTRON
+toss-up,math,Short Answer,11) Math – Short Answer Simplify the fraction with numerator 8 and denominator 4 times the cube root of 4.,CUBE ROOT OF 2
+bonus,math,Short Answer,"11) Math – Short Answer Given the following list of 8 values, what is the interquartile range of the list?: 2, 4, 1, 6, 5, 19, 22, 13","13
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"12) Life Science – Short Answer In order for an acetyl [ah-see-til] group to be attached to oxaloacetate [ox-aloe-ASS-eh-tayt], it must first be attached to what carrier cofactor?",COENZYME A (ACCEPT: CoA)
+bonus,,Short Answer,12) Life Science – Short Answer What type of tissue is the main component of the skeletons of sharks and rays?,CARTILAGE
+toss-up,energy,Multiple Choice,"13) Physical Science – Multiple Choice When plotting the energy of the components of a slow reaction, such as the conversion of diamond into graphite, versus the reaction progress, which of the following best represents the shape of the curve? W) Linearly upward X) Linearly downward Y) A trough in the middle Z) A peak in the middle",Z) A PEAK IN THE MIDDLE
+bonus,,Short Answer,13) Physical Science – Short Answer Identify all of the following three statements that are true of the bonding ability of elements with no formal charge: 1) Hydrogen typically makes two bonds; 2) Oxygen typically makes two bonds; 3) Nitrogen typically makes four bonds.,"2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"14) Math – Short Answer If the intercepts of a line are (4, 0) and (0, 4), what is the slope-intercept equation of the line?",y = –x + 4
+bonus,math,Short Answer,"14) Math – Short Answer What is the sum of the integers between 6 and 45, inclusive?",1020
+toss-up,,Short Answer,15) Earth and Space – Short Answer The cumulus stage is typically the first stage of what weather phenomenon?,THUNDERSTORMS
+bonus,,Multiple Choice,15) Earth and Space – Multiple Choice What is the dominant mineral in the rock anorthosite [an-OR-tho-site]? W) Amphibole [AM-fih-bowl] X) Mica [MY-kah] Y) Potassium feldspar Z) Plagioclase [PLAY-jee-oh-klaze] feldspar,"Z) PLAGIOCLASE FELDSPAR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Life Science – Multiple Choice Which of the following components in cell sap is responsible for the red and blue colors seen in many fruits and vegetables? W) Carotenoid [cah-ROT-en-oids] pigments X) Anthocyanin [antho-SIGH-ah-nin] pigments Y) Oil bodies Z) Calcium oxalate crystals,X) ANTHOCYANIN PIGMENTS
+bonus,,Short Answer,"16) Life Science – Short Answer The brain and spinal cord are wrapped in three layers of connective tissue. Collectively, these layers of connective tissue are called what?",MENINGES
+toss-up,math,Short Answer,17) Physical Science – Short Answer The trajectory of a projectile that is accelerating only in the vertical direction most resembles what shape of mathematical curve?,PARABOLA
+bonus,,Short Answer,17) Physical Science – Short Answer Consider a spaceship that is moving at a relativistic velocity towards an observer. Identify all of the following three effects that will be observed: 1) Time intervals in the spaceship’s frame are dilated; 2) Length of the spaceship in the direction of motion is increased; 3) The color of the spaceship appears more red.,"1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Earth and Space – Multiple Choice Belt-zone circulation is a feature of which of the following groups of planets? W) Inferior planets X) Superior planets Y) Terrestrial planets Z) Jovian planets,Z) JOVIAN PLANETS
+bonus,,Short Answer,18) Earth and Space – Short Answer The stratopause is the boundary between what two layers of the Earth’s atmosphere?,STRATOSPHERE AND MESOSPHERE
+toss-up,,Short Answer,19) Life Science – Short Answer What type of teeth is characteristically found in carnivores and is used for tearing up food?,CANINE (ACCEPT: CUSPID)
+bonus,,Short Answer,19) Life Science – Short Answer Identify all of the following three diseases that are recessive: 1) Albinism [AL-beh-nih-zim]; 2) Phenylketonuria [fennel-keetoh-nur-EE-a]; 3) Tay-Sachs [TAY-saks] disease.,"ALL OF THEM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,20) Math – Short Answer What is 132 – 92?,88
+bonus,math,Short Answer,"20) Math – Short Answer If the graph of y equals the second-degree polynomial p of x contains the 3 points (0, 0), (3, 0), and (5, 20), what is p of x?",2x2 – 6x
+toss-up,,Short Answer,"21) Physical Science – Short Answer Bleach and ammonia, when mixed, form the dangerously toxic gas chloramine, or NH Cl. What strong base is also formed as a byproduct of 2 this reaction?",SODIUM HYDROXIDE (ACCEPT: NaOH)
+bonus,,Short Answer,"21) Physical Science – Short Answer Consider the reaction of A and B to yield 2C. In a reaction chamber, pure C is released and allowed to come to equilibrium. If the equilibrium constant is 625 and at equilibrium, there are 0.25 moles of C, then how many moles of A are there?","0.01
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,22) Math – Multiple Choice Which of the following is NOT always true regarding parallelograms? W) Consecutive angles are supplementary X) Diagonals are congruent Y) Diagonals bisect each other Z) Opposite angles are congruent,X) DIAGONALS ARE CONGRUENT
+bonus,math,Short Answer,22) Math – Short Answer What is the largest integer n such that 5 to the nth power divides 19 factorial?,3
+toss-up,,Short Answer,23) Life Science – Short Answer What region of the brain coordinates nervous-system activity with endocrine [EN-doh-krin] activity?,HYPOTHALAMUS
+bonus,,Short Answer,23) Life Science – Short Answer Identify all of the following three diseases that are caused by protists: 1) African sleeping sickness; 2) Botulism; 3) Zika.,1

@@ -1,0 +1,60 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,1) Life Science – Short Answer What iron cofactor is found in the human respiratory pigment in blood?,"HEME (DO NOT ACCEPT: FE )
+2"
+bonus,,Multiple Choice,1) Life Science – Multiple Choice Sexual reproduction allows the rearrangement of alleles and the production of individuals with new or differing genotypes. Which of the following processes is a source of new genetic variation? W) Crossing over X) Independent assortment Y) Mutation Z) Fertilization,"Y) MUTATION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,earth science,Multiple Choice,2) General Science – Multiple Choice Scientists in which of the following branches of Earth science are most likely to study air pressure? W) Astronomy X) Oceanography Y) Ecology Z) Meteorology,Z) METEOROLOGY
+bonus,,Multiple Choice,2) General Science – Multiple Choice Which of the following units is NOT a derived SI unit? W) Tesla X) Lux Y) Reciprocal meter Z) Kilogram,Z) KILOGRAM
+toss-up,math,Short Answer,3) Math – Short Answer Identify all of the following three relationships between two lines that require the lines to be coplanar: 1) Parallel; 2) Intersecting; 3) Skew.,"1, 2"
+bonus,math,Short Answer,3) Math – Short Answer How many prime numbers are less than 17?,"6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,4) Energy – Multiple Choice Which of the following is NOT an advantage of non-renewable energy sources? W) High output X) Low emissions Y) Existing infrastructure Z) Low cost,X) LOW EMISSIONS
+bonus,energy,Multiple Choice,"4) Energy – Multiple Choice In the northern hemisphere, in what direction should your solar panels face if you want peak energy production to mostly coincide with peak energy use? W) North X) South Y) East Z) West",Z) WEST
+toss-up,,Short Answer,5) Physical Science – Short Answer What is the adjective for the type of chemical reaction that has a positive heat flow and shows an increase in enthalpy?,ENDOTHERMIC
+bonus,energy,Short Answer,5) Physical Science – Short Answer Identify all of the following three quantities that are scalar: 1) Displacement; 2) Energy; 3) Weight.,"2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,6) Earth and Space – Short Answer In what geologic era are we currently living?,CENOZOIC
+bonus,,Short Answer,"6) Earth and Space – Short Answer Most asteroids in the inner solar system are located in the main asteroid belt, which lies between the orbits of what two planets?",MARS AND JUPITER
+toss-up,energy,Multiple Choice,7) Energy – Multiple Choice Which of the following sectors in the United States consumes the most energy yearly? W) Residential X) Transportation Y) Industrial Z) Commercial,Y) INDUSTRIAL
+bonus,energy,Short Answer,"7) Energy – Short Answer In a nuclear reactor, energy from uranium is used to heat what substance that is then passed to a turbine?","WATER (ALSO ACCEPT: STEAM)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) Earth and Space – Multiple Choice The ozone hole over the Antarctic is located in what atomospheric layer? W) Thermosphere X) Stratosphere Y) Mesosphere Z) Exosphere,X) STRATOSPHERE
+bonus,,Short Answer,8) Earth and Space – Short Answer Identify all of the following three organisms that can be found at deep sea hydrothermal vents: 1) Cyanobacteria; 2) Tube worms; 3) Fish.,2 AND 3 (TUBE WORMS AND FISH)
+toss-up,math,Short Answer,"9) Math – Short Answer In cubic feet, what is the volume of a right rectangular prism with dimensions of 2 feet by 4 feet by 8 1/2 feet?",68
+bonus,math,Short Answer,"9) Math – Short Answer If the ratio of the volumes of two similar circular cones is 216 to 125, what is the ratio of the radius of the larger cone to that of the smaller cone?","6 to 5 (ACCEPT: 6/5, 1.2)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"10) Life Science – Multiple Choice Given no other information, which of the following nutrients would you expect to be in highest abundance in a field planted entirely with red clover? W) Phosphorus X) Potassium Y) Nitrogen Z) Iron",Y) NITROGEN
+bonus,,Short Answer,10) Life Science – Short Answer What hormone is secreted by the beta cells of the islets of Langerhans?,INSULIN (ACCEPT: AMYLIN)
+toss-up,,Multiple Choice,11) General Science – Multiple Choice Which of the following best describes measureable or numerical data? W) Replicable X) Subjective Y) Qualitative Z) Quantitative,Z) QUANTITATIVE
+bonus,,Short Answer,11) General Science – Short Answer What is the SI base unit for electrical current?,"AMPERE (ALSO ACCEPT: AMP)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,12) Physical Science – Multiple Choice A photon of red light and a photon of green light are traveling in a vacuum. Which of the following is identical for the two photons? W) Frequency X) Energy Y) Wavelength Z) Speed,Z) SPEED
+bonus,energy,Short Answer,"12) Physical Science – Short Answer If a particle has a mass of 2 milligrams and is moving at a speed of 500 meters per second, what is its kinetic energy in joules?",0.25
+toss-up,,Short Answer,13) Earth and Space – Short Answer What mineral is the primary constituent of the rock limestone?,CALCITE
+bonus,,Short Answer,13) Earth and Space – Short Answer Identify all of the following three processes that are examples of mass wasting: 1) Seiches; 2) Heaves; 3) Rockfalls.,"2 AND 3 (HEAVES AND ROCKFALLS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"14) Physical Science – Multiple Choice Which of the following is true about the forces acting upon the system of you and a bicycle as you pedal the bike at a constant velocity in a horizontal straight line? W) The force you are exerting on the pedal is greater than the resisting forces X) All forces are in balance, with the net force equal to zero Y) The resisting forces of air and tire friction are less than the force you are exerting Z) The resisting forces are greater than the force you are exerting","X) ALL FORCES ARE IN BALANCE, WITH THE NET FORCE EQUAL TO ZERO"
+bonus,energy,Short Answer,"14) Physical Science – Short Answer A particle has potential energy defined by the equation U = 6x3 joules, where x is in meters. What is the force, in newtons, on the particle at x = 1 meter?",-18 (DO NOT ACCEPT: 18)
+toss-up,,Multiple Choice,15) Life Science – Multiple Choice Which of the following is least likely to threaten biodiversity? W) Habitat loss X) Introduction of new species Y) Overexploitation of resources Z) Increased ecotourism,Z) INCREASED ECOTOURISM
+bonus,,Short Answer,"15) Life Science – Short Answer What type of virus contains RNA, but converts it into DNA in order to become integrated into the host genome?","RETROVIRUS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,16) Math – Multiple Choice What is the range of the function y = the square root of x? W) All real numbers X) All real numbers greater than zero Y) All real numbers greater than or equal to zero Z) All real numbers less than or equal to zero,Y) ALL REAL NUMBERS GREATER THAN OR EQUAL TO ZERO
+bonus,math,Short Answer,16) Math – Short Answer Eight angles are formed when two coplanar lines are cut by a transversal. Identify all of the following four types of pairs of these angles that must be congruent: 1) Alternate interior; 2) Alternate exterior; 3) Corresponding; 4) Vertical,4
+toss-up,energy,Multiple Choice,17) Energy – Multiple Choice Which of the following is closest to the percentage of electricity consumption in the US that is currently met by geothermal energy? W) Less than one percent X) 2 Y) 5 Z) 10,W) LESS THAN ONE PERCENT
+bonus,energy,Short Answer,"17) Energy – Short Answer Rather than corn, bioethanol in Brazil is produced primarily from what crop?","SUGARCANE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"18) General Science – Multiple Choice In the medical community, to whom is a placebo given? W) Control group X) Constant group Y) Dependent group Z) Double-blind group",W) CONTROL GROUP
+bonus,,Multiple Choice,"18) General Science – Multiple Choice The quadrants of a Cartesian plane with the usual orientation of x- and y-axes are labeled with the roman numerals for 1, 2, 3, and 4. How are the labels arranged? W) With 1 in the upper left quadrant and progressing clockwise X) With 1 in the upper right quadrant and progressing clockwise Y) With 1 in the upper left quadrant and progressing counterclockwise Z) With 1 in the upper right quadrant and progressing counterclockwise","Z) WITH 1 IN THE UPPER RIGHT QUADRANT AND PROGRESSING
+COUNTERCLOCKWISE"
+toss-up,math,Short Answer,19) Math – Short Answer What is 40% of 20 plus 40% of 80?,40
+bonus,math,Short Answer,"19) Math – Short Answer Two triangles are similar with scale factor 3/4. If the area of the larger triangle is 48, what is the area of the smaller triangle?","27
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"20) Earth and Space – Short Answer To the nearest power of 10, how many stars are in our solar system?",ONE (ACCEPT: 100)
+bonus,,Multiple Choice,20) Earth and Space – Multiple Choice Which of the following is closest to the number of years that dinosaurs were in existence? W) 1.6 million X) 16 million Y) 160 million Z) 1.6 billion,Y) 160 MILLION
+toss-up,math,Short Answer,21) Physical Science – Short Answer Who was the first scientist to provide a mathematical formula for calculating the gravitational force between two bodies?,ISAAC NEWTON
+bonus,,Multiple Choice,"21) Physical Science – Multiple Choice Andy is driving a car and has a reaction time of 0.5 seconds. He is driving at a constant speed of 20 meters per second when he sees a deer 50 meters in front of him. If he decelerates at a rate of 6 meters per second squared, how far away, to the nearest meter, from the deer will he stop? W) 1 X) 3 Y) 5 Z) 7","Z) 7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"22) Life Science – Short Answer What type of genes disrupt cell growth, causing uncontrolled proliferation?",ONCOGENE
+bonus,,Multiple Choice,22) Life Science – Multiple Choice Which of the following has been most greatly and directly altered by human activity in the biosphere? W) Chemical cycling X) Plate tectonics Y) Wind patterns Z) Insect reproduction,W) CHEMICAL CYCLING
+toss-up,math,Short Answer,23) Math – Short Answer Simplify the fraction with numerator 14 minus 28 and denominator 7.,–2
+bonus,math,Short Answer,23) Math – Short Answer A rhombus has sides of length 8 and smallest angle of 60 degrees. What is its area?,32√3

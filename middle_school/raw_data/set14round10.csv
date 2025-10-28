@@ -1,0 +1,64 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,"1) Physical Science – Short Answer In the RGB additive color system, what color is complementary to green?",MAGENTA
+bonus,,Short Answer,"1) Physical Science – Short Answer To the nearest gram, what is the mass of two moles of nitrogen atoms?","28
+******************"
+toss-up,math,Multiple Choice,"2) Math – Multiple Choice If m is an integer and 15m is divisible by 12, which of the following could be m? W) 2 X) 3 Y) 4 Z) 5",Y) 4
+bonus,math,Short Answer,"2) Math – Short Answer If x varies inversely as the square root of y and x equals 20 when y equals 49, what is the value of x when y = 64?","35/2 (ACCEPT: 17½, 17.5)"
+toss-up,,Short Answer,3) Earth & Space – Short Answer Most long-period comets are thought to originate in what part of the solar system?,OORT CLOUD (DO NOT ACCEPT: KUIPER [KYE-pur] BELT)
+bonus,,Short Answer,3) Earth & Space – Short Answer Algol [AL-gawl] variables are binary star systems where the brightness of the system dips twice each orbital cycle. What phenomenon causes these dips?,"ECLIPSES (ACCEPT: SYZYGY [sih-zih-GEE])
+******************"
+toss-up,energy,Short Answer,"4) Energy – Short Answer Brookhaven National Lab scientists are exploiting the base pairing of DNA to attach nanoparticles to one another. Under normal base pairing rules, what DNA base is complementary to cytosine [SIGH-toh-seen]?",GUANINE (ACCEPT: G)
+bonus,energy,Short Answer,"4) Energy – Short Answer Researchers at Pacific Northwest National Lab are studying the chemistry of aluminum production, including the dissolution of aluminum hydroxide. What is the chemical formula for neutral aluminum hydroxide?","Al(OH)
+3"
+toss-up,,Multiple Choice,5) Physical Science – Multiple Choice Which of the following criteria is most important in determining if a lens is converging or diverging? W) Its composition X) The thickness of its center compared to its edges Y) Its index of refraction Z) The angle of incident light,X) THE THICKNESS OF ITS CENTER COMPARED TO ITS EDGES
+bonus,,Short Answer,"5) Physical Science – Short Answer Suppose that a 10-kilogram object is moving initially with a velocity of 10 meters per second across a surface, and experiences a frictional force that stops it in 2 seconds. What is the coefficient of kinetic friction, to one decimal place?","0.5
+******************"
+toss-up,,Short Answer,6) Life Science – Short Answer What is the term for the specialized membrane-bound compartments in eukaryotic cells that carry out specific functions for the cell?,ORGANELLES
+bonus,,Multiple Choice,6) Life Science – Multiple Choice Which of the following geologic periods was ended by a major mass extinction? W) Pennsylvanian X) Cretaceous [kreh-TAY-shus] Y) Jurassic Z) Silurian [sil-UR-ee-an],X) CRETACEOUS [kreh-TAY-shus]
+toss-up,math,Multiple Choice,7) Math – Multiple Choice Which of the following translations changes the graph of y = x2 into that of y = open parenthesis x + 4 close parenthesis squared plus 6? W) 6 units down and 4 units to the left X) 6 units down and 4 units to the right Y) 6 units up and 4 units to the left Z) 6 units up and 4 units to the right,Y) 6 UNITS UP AND 4 UNITS TO THE LEFT
+bonus,math,Short Answer,"7) Math – Short Answer One angle of an isosceles triangle measures 68 degrees. In degrees, what are the possible measures of the smallest angle of the triangle?","44 AND 56
+******************"
+toss-up,,Multiple Choice,8) Physical Science – Multiple Choice Which of the following transformations is NOT a chemical change? W) Dissolving a salt in water X) Vaporizing a drop of ethanol Y) Mixing solutions of magnesium sulfate and barium nitrate Z) Heating calcium carbonate until it expels a gas,X) VAPORIZING A DROP OF ETHANOL
+bonus,,Multiple Choice,8) Physical Science – Multiple Choice The atomic number of chlorine is 17. What does this necessarily imply about chlorine atoms? W) They have a mass number of 34 X) They contain 17 protons Y) They contain 17 neutrons Z) They contain 17 electrons,X) THEY CONTAIN 17 PROTONS
+toss-up,,Short Answer,9) Life Science – Short Answer Archaeopteryx [ark-ee-AWP-tur-ix] was a dinosaur that is thought to be one of the first members of what modern-day class of animals?,AVES (ACCEPT: BIRDS)
+bonus,,Short Answer,9) Life Science – Short Answer What muscle in the human body causes extension at the elbow joint?,"TRICEPS (ACCEPT: TRICEPS BRACHII)
+******************"
+toss-up,math,Short Answer,"10) Math – Short Answer What is the degree of the product of the three binomials x2 + 5, x6 + x2, and 7x – 6?",9
+bonus,math,Short Answer,"10) Math – Short Answer A bag contains 200 identically-sized marbles. Exactly 10% are purple, 20% are blue, 30% are orange, and the rest are red. What is the probability of randomly selecting first an orange marble, replacing it, and then selecting a blue one?","6% (ACCEPT: 0.06, 3/50)"
+toss-up,,Short Answer,11) Earth & Space – Short Answer The Hadley cell is associated with what set of prevailing winds found in tropical latitudes?,TRADE WINDS
+bonus,,Short Answer,11) Earth & Space – Short Answer Identify all of the following three rock types that contain a significant proportion of calcium carbonate: 1) Limestone; 2) Travertine [TRAV-ur-teen]; 3) Coquina [koh-KEE-nah].,"ALL
+******************"
+toss-up,energy,Short Answer,"12) Energy – Short Answer Researchers at Brookhaven National Lab have developed a new catalyst for the combustion of ethanol in fuel cells. Other than high-energy electrons that can be used for power, what are the two primary chemical products of this reaction?","CARBON DIOXIDE AND WATER (ACCEPT IN ANY ORDER; ACCEPT: CO FOR
+2
+CARBON DIOXIDE AND H O FOR WATER)
+2"
+bonus,energy,Multiple Choice,12) Energy – Multiple Choice Researchers at Oak Ridge National Lab are developing methods to prevent damage to tokamaks [TOH-kah-maks] during operation. For what application are tokamaks designed? W) Containment of antimatter X) Generation of high-pressure environments Y) Creation of high-intensity ion beams Z) Sustained nuclear fusion,Z) SUSTAINED NUCLEAR FUSION
+toss-up,,Multiple Choice,13) Life Science – Multiple Choice Which of the following terms is used to describe the extra copy of a chromosome synthesized during S phase prior to mitosis? W) Homologous [ha-MAWL-uh-gus] chromosome X) Sister chromatid Y) Centromere [SEN-troh-meer] Z) Mitotic [my-TAW-dik] spindle,X) SISTER CHROMATID
+bonus,,Short Answer,13) Life Science – Short Answer What type of mimicry [MIH-mik-kree] involves two distasteful species resembling each other?,"MÜLLERIAN
+******************"
+toss-up,math,Short Answer,"14) Math – Short Answer If a right triangle has an exterior angle of measure 160 degrees, what is the degree measure of the larger of its acute interior angles?",70
+bonus,math,Short Answer,14) Math – Short Answer The graph of the line with equation y = 3x – 4 is reflected through the y-axis. What is the slope-intercept equation of the reflected line?,y = –3x – 4
+toss-up,,Multiple Choice,15) Earth & Space – Multiple Choice A star's apparent magnitude is most directly related to which of its properties? W) Brightness X) Temperature Y) Size Z) Age,W) BRIGHTNESS
+bonus,,Short Answer,15) Earth & Space – Short Answer What process is primarily responsible for the ongoing heating and volcanic activity that occurs on some of Jupiter’s moons?,"TIDAL HEATING (ACCEPT: TIDAL FRICTION)
+******************"
+toss-up,,Short Answer,16) Physical Science – Short Answer What is the SI unit for luminous intensity?,CANDELA
+bonus,,Short Answer,16) Physical Science – Short Answer Identify all of the following three statements that are true of water solubility: 1) Increasing the temperature increases solubility of sugar; 2) Increasing the temperature increases the rate of dissolving of sugar; 3) Increasing the temperature increases the solubility of calcium carbonate.,"1, 2"
+toss-up,energy,Short Answer,"17) Energy – Short Answer Scientists at the National Renewable Energy Lab collaborated with counterparts at Lawrence Berkeley National Lab to map electronic relationships between ternary metal nitrides [NYE-trides], such as the compound zinc antimony [AN-tih-moh-nee] nitride. In most of these compounds, what is the oxidation state of the nitrogen atom?",–3
+bonus,energy,Multiple Choice,17) Energy – Multiple Choice Researchers at Lawrence Livermore National Lab recently studied a new phase of water ice in the lab. What type of bond is responsible for holding together adjacent water molecules in normal water ice? W) Hydrogen bond X) Covalent bond Y) Ionic bond Z) Metallic bond,"W) HYDROGEN BOND
+******************"
+toss-up,,Multiple Choice,18) Life Science – Multiple Choice Eusociality [yoo-soh-shee-AL-ih-dee] and intraspecies communication are most apparent in which of the following groups of insects? W) Flies X) Grasshoppers Y) Ants Z) Beetles,Y) ANTS
+bonus,,Multiple Choice,18) Life Science – Multiple Choice Which of the following parts of the brain is responsible for controlling heart rate and breathing? W) Cerebrum [SEH-reh-brum] X) Cerebellum [seh-reh-BELL-um] Y) Thalamus [THAL-uh-mus Z) Medulla [meh-DULL-ah],Z) MEDULLA
+toss-up,,Short Answer,19) Earth & Space – Short Answer What name is given to the study of ocean depth and seafloor topography?,BATHYMETRY[bah-THIM-eh-tree]
+bonus,,Short Answer,19) Earth & Space – Short Answer Identify all of the following three features of a geologic section that could be used to determine the relative age of a series of rocks: 1) Strike and dip; 2) Intrusion of dikes; 3) Cross-cutting relationships.,"ALL
+******************"
+toss-up,,Short Answer,20) Physical Science – Short Answer The pH value of a solution is defined as the negative log of the concentration of what ion?,"HYDRONIUM (ACCEPT: HYDROGEN, H+, H O+)
+3"
+bonus,energy,Short Answer,20) Physical Science – Short Answer All objects that have a temperature above absolute zero release some energy by emitting photons. What is the term for this type of energy?,RADIANT (ACCEPT: RADIATION)
+toss-up,,Multiple Choice,21) Life Science – Multiple Choice Which of the following genetic disorders results from a chromosomal trisomy [TRY-soh-mee]? W) Red-green colorblindness X) Down syndrome Y) Polydactyly [poly-DAK-til-ee] Z) Tay-Sachs [TAY-saks] disease,X) DOWN SYNDROME
+bonus,,Multiple Choice,21) Life Science – Multiple Choice Which of the following scenarios is the LEAST likely to result in allopatric [al-oh-PAT-trik] speciation? W) Two species of wolves living on either side of a now-underwater isthmus X) Two bird species living on nearby islands formed by rising sea levels Y) Two species of ground squirrels separated by a large canyon formed by an earthquake Z) Two species of fish moving back and forth across a tropical reef system,"Z) TWO SPECIES OF FISH MOVING BACK AND FORTH ACROSS A TROPICAL
+REEF SYSTEM
+******************"
+toss-up,,Short Answer,22) Earth & Space – Short Answer Pulsars were first discovered from observations in what region of the electromagnetic spectrum?,RADIO
+bonus,,Short Answer,22) Earth & Space – Short Answer Identify all of the following three types of solar activity that are associated with the photosphere: 1) Sunspots; 2) Flares; 3) CMEs.,1
+toss-up,math,Short Answer,"23) Math – Short Answer A car travels 350 miles in 9 hours. To the nearest mile per hour, over the nine-hour period, what is the average speed of the car?",39
+bonus,math,Short Answer,"23) Math – Short Answer A flower bed is formed in the shape of a 120-degree sector of a circle of radius 10 feet. To the nearest foot, what is the perimeter of the flower bed?",41

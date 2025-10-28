@@ -1,0 +1,61 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,1) Earth & Space – Multiple Choice A tornado most often develops from which of the following types of clouds seen at the base of a thunderstorm? W) Shelf cloud X) Mammatus [mah-MAT-us] cloud Y) Anvil cloud Z) Wall cloud,Z) WALL CLOUD
+bonus,,Short Answer,1) Earth & Space – Short Answer Rank the following three types of detrital sedimentary rock in terms of increasing grain size: 1) Sandstone; 2) Siltstone; 3) Breccia [BREH-chah].,"2, 1, 3
+******************"
+toss-up,,Short Answer,2) Life Science – Short Answer Urea and uric acid are both waste products that are intended to remove what element from the body?,NITROGEN
+bonus,,Multiple Choice,2) Life Science – Multiple Choice Which of the following best explains why there are no major populations of horse-donkey hybrids in the wild? W) The geographic distributions of horses and donkeys do not overlap X) Horses and donkeys have different mating rituals Y) The hybrids are sterile Z) Horse and donkey gametes [GAM-eets] cannot fuse,Y) THE HYBRIDS ARE STERILE
+toss-up,energy,Short Answer,3) Energy – Short Answer Researchers at the National Renewable Energy Lab have analyzed the stability of hundreds of new nitride compounds. What is the formal charge of the nitride ion?,–3
+bonus,energy,Multiple Choice,"3) Energy – Multiple Choice Argonne National Lab scientists are using machine learning to predict the structures of molecules that can behave as carbon-based wires. Given that metal wires transport electrons via d-orbitals, what orbitals are these organic wires expected to use to transport electrons? W) s X) p Y) d Z) f","X) p
+******************"
+toss-up,,Short Answer,"4) Earth & Space – Short Answer Each day, high tide occurs approximately one hour later than it did the day before. This is due to the fact that what body reaches its upper transit 53 minutes later each day?",THE MOON (ACCEPT: EARTH'S MOON)
+bonus,,Multiple Choice,4) Earth & Space – Multiple Choice Which of the following spectral classes of stars will emit the largest percentage of its light in the UV range of the electromagnetic spectrum? W) M X) G Y) F Z) O,Z) O
+toss-up,math,Multiple Choice,"5) Math – Multiple Choice If A and B are mutually exclusive events, and the probability of A is 0.3 and the probability of B is 0.2, which of the following statements is NOT true? W) The probability of A and B is 0.06 X) The probability of the complement of A is 0.7 Y) The probability of A or B is 0.5 Z) The probability of B and the complement of A is 0.2",W) THE PROBABILITY OF A AND B IS 0.06
+bonus,math,Short Answer,5) Math – Short Answer What is the lateral surface area of a right circular cone with radius 5 and height 6?,"5π(√61) [accept any order of factors]
+******************"
+toss-up,,Short Answer,"6) Physical Science – Short Answer A wave travels such that it has a frequency of 20 hertz and a wavelength of 15 meters. In meters per second, what is its speed?",300
+bonus,,Short Answer,"6) Physical Science – Short Answer A 17-meter organ pipe is open at only one end. In hertz, what is the frequency of the fundamental mode?",5
+toss-up,energy,Short Answer,"7) Energy – Short Answer Scientists at Pacific Northwest National Lab are studying the processes by which iron rust forms. In rust, what is the formal oxidation state of the iron atoms?",+3 (ACCEPT: 3)
+bonus,energy,Short Answer,"7) Energy – Short Answer Scientists at Jefferson Lab are organizing their data into matrices to perform machine learning techniques on them. What are the values, from left to right, of the first row of a 3 by 3 identity matrix?","1, 0, 0
+******************"
+toss-up,,Short Answer,"8) Life Science – Short Answer When bees pollinate a flower for nectar, both of the species benefit from this interaction. What is the specific term for this type of symbiosis?",MUTUALISM
+bonus,,Short Answer,"8) Life Science – Short Answer While the Eutherian [yoo-THEER-ee-an] egg implants in the uterus, it is typically fertilized in what reproductive structure?","FALLOPIAN TUBES (ACCEPT: UTERINE TUBES, SALPINGES, SALPINX,
+AMPULLA)"
+toss-up,energy,Short Answer,9) Physical Science – Short Answer A photon with extremely high energy can result in the pair production of an electron and what other particle?,POSITRON (ACCEPT: ANTI-ELECTRON)
+bonus,,Short Answer,9) Physical Science – Short Answer Identify all of the following three substances that can form hydrogen bonds: 1) Ammonia; 2) Argon; 3) Hydrogen bromide.,"1
+******************"
+toss-up,math,Short Answer,10) Math – Short Answer Solve the following equation for x: open absolute value x – 5 close absolute value equals 8.,–3 AND 13 [must give both answers]
+bonus,math,Short Answer,"10) Math – Short Answer Given the prime factorizations of the following two numbers, what is their greatest common divisor? 25 times 3 times 52 times 11 and 24 times 32 times 5 times 72",240
+toss-up,,Multiple Choice,"11) Earth & Space – Multiple Choice Which of the following statements about the Earth’s movement around the Sun and about its axis is true? W) It rotates around the Sun, and revolves about its axis X) It revolves around the Sun, and rotates about its axis Y) It revolves around the Sun and its axis Z) It rotates about the Sun and its axis","X) IT REVOLVES AROUND THE SUN, AND ROTATES ABOUT ITS AXIS"
+bonus,,Multiple Choice,11) Earth & Space – Multiple Choice Isotopes of which of the following element would be useful for dating a carbonaceous chondrite that is about as old as the Earth? W) Lead X) Hydrogen Y) Carbon Z) Tungsten,"W) LEAD
+******************"
+toss-up,,Short Answer,12) Physical Science – Short Answer What is the term for the transition from the solid phase to the liquid phase?,MELTING
+bonus,,Short Answer,"12) Physical Science – Short Answer What weight, in newtons, must an object with a volume of 1000 cubic centimeters have in order to neither sink nor rise when submerged in water?","9.8 (ACCEPT: 49/5, 9 4/5)"
+toss-up,energy,Multiple Choice,"13) Energy – Multiple Choice Scientists at SLAC [slack] National Accelerator Lab determined the coat color of a mouse fossil via x-ray fluorescence imaging. The organic pigments in the fossil have long since degraded, so they inferred the distribution of pigments by observing the distribution of what entities that are chelated [KEE-lated] by the pigments? W) Collagens X) Metal ions Y) ATP Z) Mitochondria",X) METAL IONS
+bonus,energy,Short Answer,"13) Energy – Short Answer Scientists at Argonne National Lab are studying the structure of the most magnetic mineral on Earth, magnetite. Magnetite most directly owes its magnetism to what element in its structure?","IRON
+******************"
+toss-up,math,Multiple Choice,"14) Math – Multiple Choice A worker can assemble 5 computers in 7 hours. If he continues at that rate, which of the following is closest to the number of computers he could assemble in 100 hours? W) 70 X) 75 Y) 80 Z) 85",W) 70
+bonus,math,Short Answer,"14) Math – Short Answer A certain medication has a 60% success rate of curing people who have a specific illness. If three people with the illness are selected at random and take the medicine, what is the probability that exactly one of the three people will be cured?","36/125 (ACCEPT: 0.288, 28.8%)"
+toss-up,,Multiple Choice,15) Earth & Space – Multiple Choice Astronomical objects that are less than 0.08 solar masses cannot get hot enough to fuse hydrogen into helium. What is the name of this class of object? W) Brown dwarf X) Red dwarf Y) White dwarf Z) Black dwarf,W) BROWN DWARF
+bonus,,Multiple Choice,"15) Earth & Space – Multiple Choice Which of the following is closest to the ratio of Jupiter’s surface magnetic field strength to that of the Earth? W) 2,000,000 X) 200,000 Y) 2,000 Z) 20","Z) 20
+******************"
+toss-up,,Multiple Choice,"16) Life Science – Multiple Choice In a population of giraffes, giraffes with longer necks are more able to reach food sources, while incurring no negative fitness effects. Which of the following types of selection will take place in this population? W) Directional X) Stabilizing Y) Disruptive Z) Neutral",W) DIRECTIONAL
+bonus,,Short Answer,16) Life Science – Short Answer Identify all of the following three types of muscles that are controlled by the autonomic nervous system: 1) Skeletal; 2) Cardiac; 3) Smooth.,"2, 3"
+toss-up,,Short Answer,"17) Physical Science – Short Answer If you subtract an atom’s atomic number from its mass number, you are left with its number of what subatomic particle?",NEUTRON
+bonus,,Short Answer,"17) Physical Science – Short Answer Consider the reaction of Fe O with carbon monoxide to yield 3 4 solid iron and carbon dioxide. For each mole of Fe O that is consumed, how many moles of carbon 3 4 dioxide are formed?","FOUR
+******************"
+toss-up,math,Short Answer,"18) Math – Short Answer If a number is increased by 40%, by what percent is its square increased?",96
+bonus,math,Short Answer,"18) Math – Short Answer For some integer m, a school has 7m – 11 students in its science club, and 3m + 38 students in its band. If there are more students in the science club than in band, what is the smallest possible number of students in the science club?",80
+toss-up,,Multiple Choice,19) Earth & Space – Multiple Choice Which of the following best describes the conditions under which an artesian aquifer is possible? W) The aquifer is on top of another less permeable aquifer X) The aquifer is dug deep into the ground Y) The groundwater surrounding the aquifer is unconfined Z) The groundwater in the aquifer is under pressure,Z) THE GROUNDWATER IN THE AQUIFER IS UNDER PRESSURE
+bonus,,Short Answer,19) Earth & Space – Short Answer What is the oxidation state of silicon in olivine [AW-liv-een]?,"FOUR (ACCEPT: PLUS FOUR, FOUR PLUS)
+******************"
+toss-up,,Multiple Choice,20) Life Science – Multiple Choice Your knees are an example of which of the following types of joint? W) Saddle X) Ball-and-socket Y) Pivot Z) Hinge,Z) HINGE
+bonus,,Short Answer,20) Life Science – Short Answer Corals produce a hard exoskeleton that eventually forms coral reefs. What is the chemical formula of the typical constituent of this material?,"CaCO
+3"
+toss-up,,Short Answer,"21) Physical Science – Short Answer How many single and double bonds, respectively, are found in one molecule of rhombic sulfur?",8 AND 0
+bonus,,Short Answer,"21) Physical Science – Short Answer A 500-newton ballerina stands on her tip toes, which distributes her weight over an area of 40 square centimeters. In pascals, what is the pressure she is exerting on the ground?","125,000
+******************"
+toss-up,math,Short Answer,"22) Math – Short Answer In triangle A-B-C, angle A measures 46 degrees and angle B measures 111 degrees. What is the degree measure of one of the exterior angles formed at vertex C?",157
+bonus,math,Short Answer,22) Math – Short Answer What is the sum of the integers between 1 and 70 inclusive?,2485
+toss-up,,Short Answer,"23) Life Science – Short Answer In sexual reproduction, the zygote obtains its genetic material from two haploid parent cells. What is the general term for these cells?",GAMETES
+bonus,,Short Answer,23) Life Science – Short Answer The hydrolysis of ATP to ADP results in the release of what anion [AN-eye-on]?,"PHOSPHATE (ACCEPT: PO )
+4"

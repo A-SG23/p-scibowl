@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,"1) Life Science – Multiple Choice The difference between eukaryotic and prokaryotic cells, is that prokaryotic cells lack what organelle? W) Cell membrane X) DNA Y) Nucleus Z) Ribosomes",Y) NUCLEUS
+bonus,,Multiple Choice,1) Life Science – Multiple Choice Which of the following biological molecules make up the main part of the bilayer and hydrophobic region of the plasma cell membrane? W) Oligosaccharides X) Carbohydrates Y) Phospholipids Z) Proteins,"Y) PHOSPHOLIPIDS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,2) Math – Short Answer Two to the 4th power divided by 2 to the 3rd power equals 2 to what power?,1st (ACCEPT: 1)
+bonus,math,Multiple Choice,"2) Math – Multiple Choice Nick, Anna, and Sherry go on a vacation and agree to split the costs evenly. During the trip, Nick paid $105, Anna paid $125, and Sherry paid $175. In order to share the costs evenly, Nick gave Sherry x dollars and Anna gave Sherry y dollars. What is x + y? W) 20 X) 30 Y) 40 Z) 50",Y) 40
+toss-up,,Multiple Choice,3) Physical Science – Multiple Choice Which of the following defines a pure substance that cannot be broken down by any chemical means? W) Compound X) Element Y) Solid Z) Solution,X) ELEMENT
+bonus,,Short Answer,3) Physical Science – Short Answer How many lone pairs of electrons exist in a single water molecule?,"TWO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,4) Earth and Space – Short Answer In what two seasons do lakes undergo turnovers?,SPRING AND FALL (ACCEPT: AUTUMN IN PLACE OF FALL)
+bonus,,Multiple Choice,4) Earth and Space – Multiple Choice The deepest known point of the oceans is found in which of the following? W) Atlantic Ocean X) Pacific Ocean Y) Dead Sea Z) North Sea,X) PACIFIC OCEAN
+toss-up,,Multiple Choice,5) General Science – Multiple Choice A keystone species is: W) Required for maintaining the health of an ecosystem X) Necessary for the survival of another species Y) The last to go extinct after a disturbance Z) The hardiest species in an ecosystem,W) REQUIRED FOR MAINTAINING THE HEALTH OF AN ECOSYSTEM
+bonus,,Multiple Choice,5) General Science – Multiple Choice The property of metalloids which makes them useful in computer chips is their: W) Brittle structure X) Varying ability to conduct electricity Y) Somewhat reactive nature Z) Hardness,"X) VARYING ABILITY TO CONDUCT ELECTRICITY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,6) Earth and Space – Multiple Choice Which of the following is true about spiral galaxies? W) They emit mainly in the ultraviolet range of energy X) They are usually similar to our galaxy Y) They originate from supernova explosions Z) They typically contain a few thousand stars,X) THEY ARE USUALLY SIMILAR TO OUR GALAXY
+bonus,,Multiple Choice,6) Earth and Space – Multiple Choice Which of the following stars can someone in North America see year-round? W) Sirius X) Rigel Y) Betelgeuse Z) Polaris,Z) POLARIS
+toss-up,,Multiple Choice,7) General Science – Multiple Choice Which of the following is a group of organic compounds that is often added to foods to enhance flavors such as strawberry or banana and are also found in sweet- smelling flowers? W) Amines X) Esters Y) Alcohols Z) Halogenated hydrocarbons,X) ESTERS
+bonus,,Short Answer,"7) General Science – Short Answer To the nearest whole number, how many minutes does it take for the earth to rotate through one degree of longitude?","4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,8) Energy – Multiple Choice Approximately what percent of global energy production currently comes from renewable sources? W) 1% X) 5% Y) 16% Z) 20%,Y) 16%
+bonus,energy,Short Answer,8) Energy – Short Answer What greenhouse gas is the simplest hydrocarbon?,METHANE
+toss-up,,Multiple Choice,9) Physical Science – Multiple Choice What is the process of comparing a property of an object to a well-defined and agreed-upon referent? W) Generalizing X) Measurement Y) Graphing Z) Scientific Investigation,X) MEASUREMENT
+bonus,,Short Answer,9) Physical Science – Short Answer What law or principle relates the applied force to the amount of elongation in a spring when these quantities are linearly related?,"HOOKE’S LAW
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"10) Math – Short Answer You spend a total of $21.43 at the store, but want to return an item with marked price $5.00. If the sales tax is 7%, how much will you receive back for the item?",$5.35
+bonus,math,Short Answer,"10) Math – Short Answer From a 7-cup package, a cat eats 1 and 3/5 cups of food on Tuesday and 2¾ cups on Wednesday. How many cups are left in the package?",2 and 13/20 (ACCEPT: 2.65)
+toss-up,,Short Answer,11) Life Science – Short Answer Female members of what order of animals contain pouches used to complete development of their young?,MARSUPIALIA
+bonus,,Short Answer,"11) Life Science – Short Answer What structures, composed of flexible tissue, connect two or more bones together at joints?","LIGAMENTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,12) General Science – Multiple Choice What type of map or chart is commonly used in navigation to eliminate distortion? W) Sextant X) Latitudinal Chart Y) North-up Map Z) Mercator Projection,Z) MERCATOR PROJECTION
+bonus,,Short Answer,12) General Science – Short Answer What is the SI base unit for measuring temperature?,KELVIN (DO NOT ACCEPT: ANY ANSWER WITH “DEGREE” IN IT)
+toss-up,,Short Answer,"13) Earth and Space – Short Answer When a group of living organisms and non-living components in an environment interact as a system, what is the system called?",ECOSYSTEM
+bonus,,Short Answer,13) Earth and Space – Short Answer What dark areas occur on the Sun due to intense magnetic activity?,"SUNSPOTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,14) Life Science – Multiple Choice Which of the following is common to both bacteria and viruses? W) Metabolism X) Ribosomes Y) Nucleic acids Z) Cell division,Y) NUCLEIC ACIDS
+bonus,,Short Answer,"14) Life Science – Short Answer What molecule is released from muscles as a waste product, transported to the lungs in blood, and exhaled as a gas?",CARBON DIOXIDE (ACCEPT: CO2)
+toss-up,,Multiple Choice,"15) Physical Science – Multiple Choice Under what conditions does the behavior of real gases deviate most from that predicted by the ideal gas law? W) Low Pressure, Low Temperature X) High Pressure, Low Temperature Y) Low Pressure, High Temperature Z) High Pressure, High Temperature","X) HIGH PRESSURE, LOW TEMPERATURE"
+bonus,,Multiple Choice,15) Physical Science – Multiple Choice A cubic meter is a measure of which of the following? W) Weight X) Mass Y) Distance Z) Volume,"Z) VOLUME
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,16) Math – Short Answer The sum of two numbers is 16. Their difference is 2. What are the numbers?,"7, 9"
+bonus,math,Short Answer,"16) Math – Short Answer Given that x represents a number for which the denominator is defined, simplify the following expression completely: the fraction with numerator x2 + 4x + 4 and denominator x2 – x – 6.",(x + 2)/(x – 3)
+toss-up,energy,Short Answer,"17) Energy – Short Answer When creating electric current using steam, the electric generator is attached to what type of equipment that catches the steam to rotate the generator?",TURBINE
+bonus,energy,Short Answer,17) Energy – Short Answer What type of alternative energy production relies on energy provided by the Moon rather than energy provided by the Sun?,"TIDAL (ACCEPT: TIDAL POWER, TIDAL ENERGY)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,18) Math – Short Answer Place the following 3 polyhedra in increasing order of the number of faces: 1) tetrahedron; 2) dodecahedron; 3) octahedron.,"1, 3, 2 (ACCEPT: TETRAHEDRON, OCTAHEDRON, DODECAHEDRON)"
+bonus,math,Short Answer,"18) Math – Short Answer Triangle ABC is similar to Triangle DEF. If AB = 4, DE = 10, and EF = 15, what is the length of BC?",6
+toss-up,,Multiple Choice,19) Earth and Space – Multiple Choice The region of the atmosphere closest to the Earth’s surface is the: W) Thermosphere X) Ionosphere Y) Troposphere Z) Stratosphere,Y) TROPOSPHERE
+bonus,,Multiple Choice,19) Earth and Space – Multiple Choice The temperature in the stratosphere increases with altitude due to absorption of what type of radiation? W) Microwave X) Infrared Y) Visible Z) Ultraviolet,"Z) ULTRAVIOLET
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Life Science – Short Answer To what class do humans belong?,MAMMALIA
+bonus,,Multiple Choice,20) Life Science – Multiple Choice Imagine that you conducted an experiment where you tested the effects of different fertilizers on plant growth over the course of one month. You have to present your data in a graph. What variable would you plot on the y-axis? W) Time of year X) Type of fertilizer Y) Day of experiment Z) Plant Height,Z) PLANT HEIGHT
+toss-up,,Short Answer,21) General Science – Short Answer How many nodes are found in a 1s orbital?,ZERO
+bonus,,Multiple Choice,"21) General Science – Multiple Choice To the nearest degree, how many degrees Fahrenheit is equivalent to 283 Kelvin? W) 25 X) 46 Y) 50 Z) 58","Y) 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Physical Science – Short Answer What is the term for the time required for a vibrating object to complete one full cycle?,PERIOD
+bonus,,Multiple Choice,22) Physical Science – Multiple Choice The ejection of an alpha particle from a nucleus results in which of the following? W) An increase in the atomic number by one X) An increase in the mass number by four Y) A decrease in the atomic number by two Z) A decrease in the mass number by two,Y) A DECREASE IN THE ATOMIC NUMBER BY TWO
+toss-up,energy,Multiple Choice,23) Energy – Multiple Choice Clean coal research is currently NOT focused on which of the following? W) Improving the purity of coal ore X) Increasing efficiency of power plants using coal Y) Capturing carbon generated when burning coal Z) Reusing carbon dioxide generated when burning coal,W) IMPROVING THE PURITY OF COAL ORE
+bonus,energy,Multiple Choice,"23) Energy – Multiple Choice As an energy source, fuel cells have all of the following advantages over conventional sources except for which one? W) Virtually pollution free X) Operate very quietly Y) Highly efficient Z) Low cost",Z) LOW COST

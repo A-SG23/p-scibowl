@@ -1,0 +1,60 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,"1) Earth and Space – Multiple Choice Cape Town, South Africa has a Mediterranean climate. Which of the following statements best describes the climate of Cape Town on average? W) Winters have higher temperature and more precipitation than summers X) Winters have higher temperature and less precipitation than summers Y) Winters have lower temperature and more precipitation than summers Z) Winters have lower temperature and less precipitation than summers","Y) WINTERS HAVE LOWER TEMPERATURE AND MORE PRECIPITATION THAN
+SUMMERS"
+bonus,,Short Answer,"1) Earth and Space – Short Answer The Rio Tinto river in Spain is so named because of its red hue, which is derived from what abundant dissolved ion?","IRON THREE (ACCEPT: IRON THREE PLUS, FERRIC IRON; DO NOT ACCEPT: IRON))
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"2) Math – Short Answer Giving your answer in base 8, what is ONE-SEVEN base 8 plus FIVE-SIX base 8?",SEVEN-FIVE (ACCEPT: 75)
+bonus,math,Short Answer,2) Math – Short Answer A right circular cylinder has a radius of 3 and a height of 12. A second right circular cylinder has a radius of 5 and a height of 7. What is the larger lateral surface area of the two cylinders?,72π
+toss-up,,Multiple Choice,3) Life Science – Multiple Choice Which of the following exhibits quaternary [QUAH-tur-nairee] protein structure? W) Myoglobin [MY-oh-glow-bin] X) Bilirubin [BIL-ih-roo-bin] Y) Hemoglobin Z) Adenosine [ah-DEN-oh-seen] triphosphate,Y) HEMOGLOBIN
+bonus,,Short Answer,3) Life Science – Short Answer Identify all of the following three statements that are true of the domains of life: 1) Eukaryotic [YOU-care-ee-AW-tic] ribosomes [RYE-beh-sohms]are larger than bacterial ribosomes; 2) Bacterial ribosomes are larger than archaean [ar-KEE-en] ribosomes; 3) Bacteria initiate translation of mRNA with methionine [meth-IOH-neen] codons.,"1 AND 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,4) Energy – Short Answer What is the name for the value that is used to rate the performance of diesel fuels?,"CETANE NUMBER (ACCEPT: CETANE RATING, CN)"
+bonus,energy,Short Answer,"4) Energy – Short Answer Scientists at Pacific Northwest National Lab are studying a new generation of catalysts that accelerate the polymerization [pawl-ih-mer-eh-ZAY-shun] of ethylene [ETH-il-een] to form plastic water bottles, windshield glass, and other modern polymers. What is the empirical formula of the polymer product polyethylene?","CH
+2"
+toss-up,,Short Answer,"5) Physical Science – Short Answer Brian drives from his home to work, and then back home in a total of 3 hours. In miles per hour, what is the average velocity of his round trip, if his home and work are separated by 60 miles?",0
+bonus,,Short Answer,"5) Physical Science – Short Answer An object has fallen 30 meters in the past 2 seconds. To the nearest meter per second, what is its current vertical speed?","25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) Life Science – Multiple Choice What type of solution can cause plasmolysis of a plant cell when the cell is immersed in the solution? W) Isotonic X) Nontonic Y) Hypertonic Z) Hypotonic,Y) HYPERTONIC
+bonus,,Short Answer,6) Life Science – Short Answer An amoeba [ah-MEE-bah] creates a vesicle by phagocytosis [fag-oh- sye-TOW-sis]. The next step for the vesicle is fusion with what organelle?,LYSOSOME
+toss-up,,Short Answer,7) Earth and Space – Short Answer Thalassa [thah-LAH-sah] is a natural satellite of what planet?,NEPTUNE
+bonus,,Multiple Choice,7) Earth and Space – Multiple Choice Which of the following is true of the Great Red Spot of Jupiter? W) It does not vary significantly in latitude X) It varies significantly in latitude within the Northern Hemisphere Y) It varies significantly in latitude within the Southern Hemisphere Z) It frequently migrates between the Northern and Southern Hemisphere,"W) IT DOES NOT VARY SIGNIFICANTLY IN LATITUDE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,8) Math – Short Answer Evaluate the following expression: 8 minus 3 times 4,–4
+bonus,math,Short Answer,8) Math – Short Answer The bases of a right trapezoid have lengths 5 and 8. The non-perpendicular side connecting them has length 12. What is the height of the trapezoid?,3√15
+toss-up,,Short Answer,9) Physical Science – Short Answer What is the only element not in the halogen family that forms a noble-gas electron configuration with the addition of one electron?,HYDROGEN
+bonus,,Short Answer,9) Physical Science – Short Answer How many fatty acid chains are present in one molecule of a phospholipid?,"2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"10) Energy – Multiple Choice Argonne National Lab researchers are developing techniques to better annotate genomes [JEE-nomes] of organisms. In this case, to what does annotation refer? W) Adding information about the functions of different sequences X) Adding information about similar genes in other organisms Y) Converting the genome to amino acid code Z) Converting the genome to RNA code",W) ADDING INFORMATION ABOUT THE FUNCTIONS OF DIFFERENT SEQUENCES
+bonus,energy,Multiple Choice,"10) Energy – Multiple Choice Researchers at Princeton Plasma Physics Lab recently developed a device that can manufacture on demand technetium-99m [tek-NEE-shee-um 99 M], a radioactive isotope with a half-life of 6 hours. For what purpose will this technetium isotope be used? W) Research into nuclear shell structure X) Source for high-energy X-rays Y) Medical diagnostics Z) Research into CP violation in the weak force",Y) MEDICAL DIAGNOSTICS
+toss-up,math,Short Answer,"11) Math – Short Answer The endpoints of a diameter of a circle have coordinates (7, 4) and (–5, –8). What are the coordinates of the center of the circle?","(1, –2) (ACCEPT: x = 1 AND y = –2)"
+bonus,math,Short Answer,"11) Math – Short Answer If a 40-degree sector of a circle has area 30 pi, then, to the nearest whole number, what is the radius of the circle?","16
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,12) Earth and Space – Short Answer Spectroscopic [spek-troh-SCAW-pik] binary stars can only be differentiated by oscillations [aw-sill-AY-shuns] in their spectra caused by their rotation around their center of mass. What is the name of the effect that causes this oscillation in their observed spectra?,DOPPLER
+bonus,,Short Answer,"12) Earth and Space – Short Answer Jupiter’s mass is approximately 320 Earth masses, and its average density is a quarter of Earth’s. To the nearest whole number of Earth diameters, what is the diameter of Jupiter?",11
+toss-up,,Short Answer,13) Life Science – Short Answer Trichinosis [trih-kin-OH-sis] is a parasitic [para-SIT-ik] disorder that is usually caused by the consumption of what meat?,"PORK (ACCEPT: PIG, HOG)"
+bonus,,Multiple Choice,13) Life Science – Multiple Choice Which of the following is least likely to be found in a hot desert climate? W) A plant with broad flat leaves X) A plant with few leaves Y) A plant with thick fleshy leaves Z) A plant with thin needle-like leaves,"W) A PLANT WITH BROAD FLAT LEAVES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"14) Math – Short Answer A triangle has sides of length 10, 10, and 4. Connecting the midpoints of the sides of this triangle forms a smaller triangle. What is the perimeter of the smaller triangle?",12
+bonus,math,Short Answer,"14) Math – Short Answer To the nearest whole number, 130 kilometers per hour is how many meters per second?",36
+toss-up,,Multiple Choice,15) Life Science – Multiple Choice Some plants have bacteria within their root nodules that perform nitrogen fixation. What conversion does nitrogen fixation involve? W) Nitrite to nitrate X) Nitric acid to ammonium nitrate Y) Dinitrogen to ammonia Z) Nitrate to dinitrogen,Y) DINITROGEN TO AMMONIA
+bonus,,Short Answer,15) Life Science – Short Answer Lacteals [LAK-teels] are fat-absorbing structures that are a part of what human organ system?,"LYMPHATIC (ACCEPT: SMALL INTESTINE)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,16) Physical Science – Short Answer What group of elements react violently with water and have one electron in their valence shell?,ONE (ACCEPT: ALKALI METALS)
+bonus,,Short Answer,16) Physical Science – Short Answer Rank the following three atoms in terms of increasing number of valence electrons: 1) Carbon; 2) Beryllium; 3) Fluorine.,"2, 1, 3"
+toss-up,energy,Short Answer,17) Energy – Short Answer Researchers at Princeton Plasma Physics Lab are studying a structure composed of gas and dust surrounding and feeding the Sagitarrius A-star black hole. What is the name given to such a disk of material?,ACCRETION DISK
+bonus,energy,Multiple Choice,17) Energy – Multiple Choice Researchers at Argonne National Lab are developing tools to assign functions to sequence data that are being generated at a faster and faster pace. Most of the diversity in these data comes from what classification of organisms? W) Animals X) Prokaryotes [PRO-care-ee-oats] Y) Plants Z) Fungi [fun-ji],"X) PROKARYOTES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Earth and Space – Multiple Choice What type of volcano is Mt. Fuji in Japan? W) Shield X) Volcanic dome Y) Cinder cone Z) Stratovolcano,Z) STRATOVOLCANO
+bonus,,Short Answer,18) Earth and Space – Short Answer Identify all of the following three rock types that are metamorphic: 1) Slate; 2) Quartzite; 3) Monzonite.,1 AND 2
+toss-up,math,Short Answer,"19) Math – Short Answer How many integers are there between -6 and 8, inclusive?",15
+bonus,math,Short Answer,"19) Math – Short Answer If x varies inversely as the square root of y and x equals 10 when y equals 4, what is the value of x when y = 49?","20/7 (ACCEPT: 2 6/7)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,20) Physical Science – Multiple Choice Which of the following compounds will be most soluble in water at 50 degrees Celsius? W) Sucrose X) Calcium carbonate Y) Vegetable oil Z) Benzene,W) SUCROSE
+bonus,,Short Answer,20) Physical Science – Short Answer Identify all of the following three elements that methylamine contains: 1) Carbon; 2) Nitrogen; 3) Oxygen.,1 AND 2
+toss-up,,Short Answer,"21) Life Science – Short Answer In mammals, the major thermoregulatory center is in what part of the brain?",HYPOTHALAMUS
+bonus,,Short Answer,"21) Life Science – Short Answer In DNA, what is the nucleotide base that pairs with adenine [AD-eh- neen]?","THYMINE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Earth and Space – Short Answer What spectral class is classified by the strongest hydrogen Balmer lines?,A
+bonus,,Short Answer,22) Earth and Space – Short Answer In which corner of a Hertzsprung-Russell diagram can one find Betelgeuse [BAY-tel-jews]?,TOP RIGHT
+toss-up,energy,Short Answer,"23) Physical Science – Short Answer What is the general term for devices that transform radiant energy into electrical energy, such as solar panels?",PHOTOVOLTAIC
+bonus,,Short Answer,23) Physical Science – Short Answer Identify all of the following three statements that are true regarding sound waves: 1) They travel faster in warm air than in cold air; 2) They travel faster in gases than in solids; 3) They travel faster in liquids than in gases.,1 AND 3

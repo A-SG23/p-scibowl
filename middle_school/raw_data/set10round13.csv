@@ -1,0 +1,61 @@
+type,subject,format,question,answer
+toss-up,math,Multiple Choice,1) Math – Multiple Choice Which of the following describes the lines represented by the equations 5x + 3y = 15 and –10x – 6y = 60? W) They are parallel X) They are skew Y) They intersect at exactly one point Z) They are the same line,W) THEY ARE PARALLEL
+bonus,math,Short Answer,"1) Math – Short Answer Nelly bought a mixture of two types of her favorite candies, costing 40 cents and 50 cents per ounce, respectively. The cost of 50 ounces of her mixture was $21.80. How many ounces of the 50-cent candy were in the mixture?","18
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,2) General Science – Multiple Choice Which of the following instruments is best for measuring humidity? W) Hygrometer X) Barometer Y) Anemometer Z) Hydrometer,W) HYGROMETER
+bonus,,Short Answer,"2) General Science – Short Answer The diamond-shaped NFPA Symbol on chemical containers includes 4 smaller diamonds, representing 4 hazard areas. Name 2 of them.","Any two of HEALTH, FLAMMABILITY, INSTABILITY, AND SPECIAL HAZARDS
+(ACCEPT: FIRE for FLAMMABILITY, REACTIVITY for INSTABILITY)"
+toss-up,,Short Answer,3) Life Science – Short Answer What is the main structural material found in a skate's skeleton?,CARTILAGE
+bonus,,Short Answer,3) Life Science – Short Answer The keel is a broad surface for muscle attachment that protrudes from what bone in a bird's body?,"STERNUM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,4) Energy – Multiple Choice Which of the following electricity generation methods would work best as a peaker plant? W) Coal-fired X) Natural gas-fired Y) Nuclear Z) Geothermal,X) NATURAL GAS-FIRED
+bonus,energy,Multiple Choice,"4) Energy – Multiple Choice In a standard lithium-ion battery, from what substance is the anode made? W) Carbon X) Lithium cobalt oxide Y) Lithium iron phosphate Z) Copper",W) CARBON
+toss-up,,Multiple Choice,5) Earth and Space – Multiple Choice The rings of Saturn are mostly made of which of the following substances? W) Iron X) Ice Y) Rock Z) Gas,X) ICE
+bonus,,Short Answer,5) Earth and Space – Short Answer Order the following four reservoirs of Earth's freshwater from the smallest to the largest : 1) Ice caps and glaciers; 2) Groundwater; 3) Atmosphere; 4) Lakes.,"3, 4, 2, 1 (ACCEPT: ATMOSPHERE, LAKES, GROUNDWATER, ICE CAPS AND
+GLACIERS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,6) Physical Science – Short Answer What is it called when all forces acting on an object are balanced?,EQUILIBRIUM (ACCEPT: TRANSLATIONAL EQUILIBRIUM)
+bonus,,Short Answer,"6) Physical Science – Short Answer Three resistors of 2, 3, and 4 ohms, respectively, are wired in parallel, and the resulting combination is in series with a 5-ohm resistor. What is the equivalent resistance, in ohms, of the entire circuit?",77/13 (ACCEPT: 5 12/13)
+toss-up,,Multiple Choice,"7) General Science – Multiple Choice Which of the following is a geographical region characterized by hills, plateaus, and mountains? W) Continental shelf X) Altitude Y) Highland Z) Cliff",Y) HIGHLAND
+bonus,,Short Answer,7) General Science – Short Answer What is the term used to describe an experiment in which neither the subjects nor the experimenters know which subjects are in the control and treatment groups?,"DOUBLE-BLIND
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) Life Science – Multiple Choice Which of the following traits is NOT a characteristic of modern birds? W) Feathers X) A three-chambered heart Y) A beak with no teeth Z) A lightweight but strong skeleton,X) A THREE-CHAMBERED HEART
+bonus,,Short Answer,8) Life Science – Short Answer Book lungs would most likely be found in what class of animals?,ARACHNIDA
+toss-up,,Multiple Choice,"9) Physical Science – Multiple Choice As you walk, which of the following forces is the most directly responsible for propelling you forward? W) The normal force of the ground on your foot X) The force of your foot pushing on the ground Y) The friction between your foot and the ground Z) The reaction force of the ground on your foot",Z) THE REACTION FORCE OF THE GROUND ON YOUR FOOT
+bonus,,Short Answer,"9) Physical Science – Short Answer A speck of dust sits on the edge of a 12-inch diameter LP record. If the record rotates at 45 rotations per minute, what is the linear speed, in inches per minute, of the speck of dust?","540π
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"10) Math – Short Answer What is the degree of the product of the three binomials x + 2, x4 + x2, and x2 + 3?",7
+bonus,math,Short Answer,10) Math – Short Answer A bag contains 9 different mini candy bars. How many different sets of 3 of them can be selected?,84
+toss-up,energy,Short Answer,11) Energy – Short Answer Compact fluorescent lightbulbs should be recycled because they contain what harmful element?,MERCURY (ACCEPT: Hg)
+bonus,energy,Multiple Choice,"11) Energy – Multiple Choice Research at Argonne National Laboratory has been done on nuclear fuel recycling. After a nuclear fuel rod has been removed from a reactor, which of the following is closest to the percentage of the unused uranium that is still present in the rod and could be recycled? W) 25 X) 50 Y) 75 Z) 95","Z) 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,12) Earth and Space – Short Answer Which of Hubble’s four categories of galaxies does not have a distinct spiral or elliptical shape?,IRREGULAR
+bonus,,Multiple Choice,"12) Earth and Space – Multiple Choice Which of the following types of plate tectonic boundaries is associated with shallow earthquakes, but not with volcanism? W) Convergent X) Divergent Y) Passive Z) Transform",Z) TRANSFORM
+toss-up,,Multiple Choice,"13) Physical Science – Multiple Choice The Rutherford Experiment was actually carried out by Hans Geiger [GYE-gur] and Ernest Marsden at the request of Rutherford. Which of the following statements is NOT true about this work? W) Rutherford inferred the gold electrons were responsible for deflecting the alpha particles by small angles X) Rutherford inferred the gold nuclei were responsible for deflecting the alpha particles by large angles Y) The deflected alpha particles were detected as points of light on a fluorescent screen Z) Approximately 1 in 20,000 alpha particles was deflected by 90 degrees or more","W) RUTHERFORD INFERRED THE GOLD ELECTRONS WERE RESPONSIBLE FOR
+DEFLECTING THE ALPHA PARTICLES BY SMALL ANGLES"
+bonus,,Multiple Choice,13) Physical Science – Multiple Choice An object is placed between the focal point and curvature center of a concave mirror. How does the image compare to the object? W) Upside down and smaller X) Upside down and larger Y) Right side up and smaller Z) Right side up and larger,"X) UPSIDE DOWN AND LARGER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,14) Energy – Multiple Choice Which of the following fuels used for electricity production produces radioactive waste? W) Wind X) Natural gas Y) Geothermal Z) Coal,Z) COAL
+bonus,energy,Short Answer,14) Energy – Short Answer What U. S. river has the most potential to generate electricity using existing dams?,OHIO
+toss-up,,Multiple Choice,"15) Life Science – Multiple Choice Which of the following is TRUE regarding the differences between RNA and DNA? W) RNA is used as a catalyst, while DNA is not X) RNA cannot be replicated, but DNA can Y) RNA is always single-stranded, while DNA is always double-stranded Z) RNA is more stable than DNA","W) RNA IS USED AS A CATALYST, WHILE DNA IS NOT"
+bonus,,Multiple Choice,15) Life Science – Multiple Choice Which of these bones is fused in a bird's body? W) Radius X) Clavicle Y) Humerus Z) Scapula,"X) CLAVICLE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"16) Math – Short Answer What is the least common multiple of 3, 10, and 20?",60
+bonus,math,Short Answer,"16) Math – Short Answer A hiker traveled 4 kilometers east, proceeded 11 kilometers south, then 6 kilometers west, and finally 6 kilometers north. How far, in kilometers, is the hiker from the starting point?",√29
+toss-up,,Short Answer,17) General Science – Short Answer What device uses high rotational speed to increase the fraction of the fissile isotope of uranium needed for nuclear fuel?,CENTRIFUGE
+bonus,,Multiple Choice,17) General Science – Multiple Choice Which of the following would NOT be considered raw data? W) Geographic coordinates of a mountain X) Efficiency of a solar cell Y) Satellite images of a storm Z) Temperature of a fish tank,"X) EFFICIENCY OF A SOLAR CELL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"18) Earth and Space – Short Answer What is the next brightest star in the night sky, after Sirius?",CANOPUS
+bonus,,Multiple Choice,18) Earth and Space – Multiple Choice In which of the following rock types are you most likely to find cross-bedding? W) Sandstone X) Basalt Y) Gneiss Z) Granite,W) SANDSTONE
+toss-up,math,Short Answer,"19) Math – Short Answer If a number is increased by 40%, by what percent is its square increased?",96
+bonus,math,Short Answer,19) Math – Short Answer The graph of the line with equation y = 3x + 2 is reflected through the x-axis. What is the slope-intercept equation of the reflected line?,"y = –3x – 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Physical Science – Short Answer What quantum number was adopted in 1925 to explain closely- spaced pairs of emission lines?,SPIN (ACCEPT: S)
+bonus,,Multiple Choice,"20) Physical Science – Multiple Choice In general, metals do NOT have which of the following properties? W) Contain 1, 2, or 3 valance electrons X) Low ionization energies Y) High electron affinities Z) Low electronegativities",Y) HIGH ELECTRON AFFINITIES
+toss-up,,Multiple Choice,21) Life Science – Multiple Choice Why do invasive species tend to outcompete native species? W) Invasive species are better adapted to the area X) Invasive species have no native predators Y) Invasive species remove competition from the area Z) Invasive species reduce predation pressure on other species,X) INVASIVE SPECIES HAVE NO NATIVE PREDATORS
+bonus,,Short Answer,21) Life Science – Short Answer Identify all of the following four amino acids that you would NOT expect to find buried in the core of a folded protein: 1) Asparagine; 2) Phenylalanine; 3) Methionine; 4) Lysine.,"1, 4 (ACCEPT: ASPARAGINE, LYSINE)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,22) Math – Short Answer The measure of an exterior angle of a regular polygon is 20°. How many sides does the polygon have?,18
+bonus,math,Short Answer,22) Math – Short Answer A prism with 12 edges has how many faces?,6
+toss-up,,Multiple Choice,23) Earth and Space – Multiple Choice Which of the following is NOT an evaporite mineral? W) Halite X) Gypsum Y) Corundum Z) Borax,Y) CORUNDUM
+bonus,,Short Answer,23) Earth and Space – Short Answer Identify all of the following four geologic time intervals that can be identified in the rock record using index fossils: 1) Hadean [HAY-dee-en]; 2) Devonian; 3) Neolithic; 4) Jurassic.,2 AND 4

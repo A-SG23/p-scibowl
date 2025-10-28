@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,energy,Multiple Choice,1) Energy – Multiple Choice Which of the following energies is harnessed by floating generators? W) Wind energy X) Tidal energy Y) Wave energy Z) Bio-energy,Y) WAVE ENERGY
+bonus,energy,Multiple Choice,"1) Energy – Multiple Choice Researchers are currently working on generating fuel from algae, known as algal biofuel. Which of the following is NOT expected to be replaced with an equivalent algal biofuel? W) Gasoline X) Diesel fuel Y) Jet fuel Z) Home heating oil","Z) HOME HEATING OIL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,2) Earth and Space – Multiple Choice Which of the following is true regarding plutonic rocks? W) They are often fine-grained X) They crystallized within the Earth’s crust Y) They have a glassy texture Z) They cooled very quickly,X) THEY CRYSTALLIZED WITHIN THE EARTH’S CRUST
+bonus,,Short Answer,"2) Earth and Space – Short Answer If a simple river’s discharge is 400 meters cubed per second, and its velocity is 5 meters per second, in meters squared, what is its cross-sectional area?",80
+toss-up,,Multiple Choice,3) General Science – Multiple Choice Which of the following is closest to the number of people living on Earth? W) 70 million X) 700 million Y) 7 billion Z) 70 billion,Y) 7 BILLION
+bonus,,Short Answer,3) General Science – Short Answer Identify the last names of the scientists responsible for formalizing the scientific laws related to each of the following three physical phenomena: 1) Gravity; 2) Buoyancy principle; 3) Planetary motion.,"1) NEWTON; 2) ARCHIMEDES; 3) KEPLER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"4) Life Science – Multiple Choice In ecology, what does the term detritus refer to? W) A by-product of bioluminescence X) A type of virus Y) Dead and decaying organic material Z) Organelles found only in plants",Y) DEAD AND DECAYING ORGANIC MATERIAL
+bonus,,Multiple Choice,"4) Life Science – Multiple Choice A student puts an elodea plant into a test tube and adds water and baking soda. After putting the test tube under 24 hours of light, the student notices bubbles forming on the leaves. The bubbles are most probably which of the following? W) Oxygen gas X) Carbon dioxide gas Y) Hydrogen gas Z) Nitrogen gas",W) OXYGEN GAS
+toss-up,math,Short Answer,"5) Math – Short Answer The endpoints of a diameter of a circle have coordinates (3, 4) and (-3, -2). What are the coordinates of the center of the circle?","(0, 1)"
+bonus,math,Short Answer,"5) Math – Short Answer Rounding your answer to the nearest 10,000, what is 347 times 682?","240,000
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"6) Physical Science – Short Answer If a beam of laser light hits a smooth mirror and the angle of reflection measured to the normal is found to be 30 degrees, what is the angle of incidence, in degrees, measured to the normal?",30
+bonus,,Short Answer,6) Physical Science – Short Answer How many moles of H PO have the same number of hydrogen 3 4 atoms as 9 moles of Ba(OH) ? 2,6
+toss-up,,Short Answer,"7) Physical Science – Short Answer In an electrochemical cell, where does oxidation occur?",AT THE ANODE
+bonus,,Multiple Choice,7) Physical Science – Multiple Choice An object that keeps the same speed while changing direction is: W) Slowing down X) Speeding up Y) Accelerating Z) Displacing,"Y) ACCELERATING
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,8) Math – Short Answer What is the sum of the following three fractions: 1/7 + 1/9 + 1/63?,17/63
+bonus,math,Short Answer,"8) Math – Short Answer The point with coordinates (4, 3) is rotated 90 degrees clockwise about the origin. What are the coordinates of the image point?","(3, -4)"
+toss-up,,Multiple Choice,9) Earth and Space – Multiple Choice Which of the following elements is released during coal burning and contributes to acid rain? W) Nickel X) Sulfur Y) Hydrogen Z) Uranium,X) SULFUR
+bonus,,Short Answer,"9) Earth and Space – Short Answer Identify all of the following three statements that are true each June on the summer solstice: 1) Earth is at the closest point in its orbit to the Sun; 2) At noon in Washington D.C., a vertical stick will cast a shadow; 3) On the tropic of Capricorn, the noon sun angle is 90 degrees.","2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,10) Life Science – Multiple Choice The act of girdling a tree would most likely be done by which of the following? W) Porcupines X) Woodpeckers Y) Colony of tent caterpillars Z) Flock of starlings,W) PORCUPINES
+bonus,,Multiple Choice,10) Life Science – Multiple Choice Amylase starts the chemical reaction of breaking down starch in the mouth. In which of the following categories of proteins is amylase classified? W) Antibodies X) Enzymes Y) Hormones Z) Globulins,X) ENZYMES
+toss-up,,Multiple Choice,11) General Science – Multiple Choice Which of the following instruments would be the best choice if you wanted to measure wind speed? W) Anemometer X) Barometer Y) Speedometer Z) Clinometer [cly-NOM-uh-ter],W) ANEMOMETER
+bonus,,Multiple Choice,11) General Science – Multiple Choice Which of the following would be considered a necessary feature of a highly successful experiment among the scientific community? W) Greater than 90 percent accurate X) Greater than 90 percent precision rates Y) Multiple controls and randomized treatment groups Z) Highly replicable,"Z) HIGHLY REPLICABLE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"12) Energy – Multiple Choice As of 2014, which of the following countries generates the largest percentage of its electricity using nuclear power? W) Sweden X) United Kingdom Y) United States Z) Japan",W) SWEDEN
+bonus,energy,Short Answer,12) Energy – Short Answer Adding what diatomic gas to compressed natural gas reduces nitrogen oxide emissions by up to half?,HYDROGEN
+toss-up,math,Short Answer,13) Math – Short Answer How many exterior angles does a convex hexagon have?,12
+bonus,math,Short Answer,13) Math – Short Answer A polyhedron has 8 faces. Identify all of the following four types of polyhedra it could be: 1) Regular polyhedron; 2) Hexagonal prism; 3) Hexagonal pyramid; 4) Septagonal pyramid.,"1, 2, 4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,14) Energy – Multiple Choice Which of the following is closest to the number of commercial nuclear reactors currently operating in the United States? W) 25 X) 45 Y) 100 Z) 160,Y) 100
+bonus,energy,Short Answer,"14) Energy – Short Answer The Vermont Yankee Nuclear Power Plant closed in 2014. After that closure, according to the Nuclear Energy Institute, what U.S. state has the largest percentage of the electricity generated within its borders from nuclear power?",SOUTH CAROLINA
+toss-up,,Short Answer,15) Physical Science – Short Answer What type of radioactive decay does carbon-14 undergo to become nitrogen-14?,BETA (ACCEPT: BETA MINUS)
+bonus,,Multiple Choice,"15) Physical Science – Multiple Choice An object of weight 2.5 pounds is dropped from a height such that by the time it hits the ground it is moving at a speed of 8 feet per second. From what height, in feet, was the object dropped? W) 1 X) 2 Y) 4 Z) 8","W) 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"16) Life Science – Multiple Choice A textbook picture shows two magnified images of different organelles. Image A shows the first organelle magnified 18,000 times. Image B shows the second organelle magnified 350 times. Both look the same size on the page. Which organelle is smaller? W) The one in image A X) The one in image B Y) They are both the same size Z) You can't tell from the information given",W) THE ONE IN IMAGE A
+bonus,,Short Answer,16) Life Science – Short Answer The ileum and the duodenum aid in what metabolic process in the human body?,"DIGESTION (ACCEPT: DIGESTIVE, FOOD BREAKDOWN, NUTRIENT ABSORPTION)"
+toss-up,math,Short Answer,17) Math – Short Answer How many minutes equal 10 and 1/2 hours?,630
+bonus,math,Short Answer,17) Math – Short Answer What is the area of a regular hexagon with sides of length 8?,"96√3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,18) Earth and Space – Short Answer What gas is the third most abundant gas in the Earth's atmosphere?,ARGON
+bonus,,Multiple Choice,18) Earth and Space – Multiple Choice Which of the following is closest to the average percent salinity of ocean water? W) 0.035 X) 0.35 Y) 3.5 Z) 35,Y) 3.5
+toss-up,,Multiple Choice,"19) General Science – Multiple Choice If you are performing a dissection and your scalpel meets resistance cutting into a specimen, how should you proceed? W) Gently apply more pressure X) Move the scalpel in a sawing motion Y) Use a different instrument Z) Use the scalpel in an upward rather than downward motion",Y) USE A DIFFERENT INSTRUMENT
+bonus,,Short Answer,"19) General Science – Short Answer Place the following four events in chronological order: 1) Darwin publishes ""On the Origin of Species""; 2) Goodyear vulcanizes rubber; 3) The first Tyrannosaurus Rex fossil is discovered; 4) Dalton publishes “A New System of Chemical Philosophy” in which he gives symbols and weights to 20 elements.","4, 2, 1, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"20) Math – Short Answer Besides itself, what is the largest integer factor of 255?",85
+bonus,math,Short Answer,20) Math – Short Answer Simplify the expression: 6 plus 6 times 6 minus 6 divided by 6,41
+toss-up,energy,Multiple Choice,"21) Physical Science – Multiple Choice When designing a solar panel field in the northern hemisphere, in what cardinal direction should the panels tilt to collect the greatest solar energy collection? W) North X) South Y) East Z) West",X) SOUTH
+bonus,energy,Short Answer,"21) Physical Science – Short Answer If a 1-kilogram rock is launched straight up with a kinetic energy of 4.9 joules, how high, in meters, will it go before it falls back down?","0.5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,22) Life Science – Multiple Choice Which of the following is an abiotic factor that would most greatly affect the presence of an Archaea species typically found in ocean thermal vents? W) Algae X) Temperature Y) Rocks and soil Z) Bacteria,X) TEMPERATURE
+bonus,,Multiple Choice,22) Life Science – Multiple Choice Which of the following is NOT a distinguishing characteristic of members of the subphylum Crustacea? W) Highly specialized appendages X) Two pairs of antennae Y) Modified appendages as mouth parts Z) Walking legs present on the abdomen,Z) WALKING LEGS PRESENT ON THE ABDOMEN
+toss-up,,Multiple Choice,23) Earth and Space – Multiple Choice Cepheid variables are most useful for determining which of the following? W) Age of another galaxy X) Distance to another galaxy Y) Density of another galaxy Z) Number of supernovae per year,X) DISTANCE TO ANOTHER GALAXY
+bonus,,Short Answer,"23) Earth and Space – Short Answer If you are within the eyewall of a typhoon in the Mariana Islands and the wind blows in your face when you look to the southeast, in what ordinal compass direction should you move to find the calm of the typhoon's eye?",SOUTHWEST

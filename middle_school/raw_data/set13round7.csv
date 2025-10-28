@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,1) Earth and Space – Short Answer What adjective is used to indicate a star system that consists of two stars orbiting each other?,BINARY
+bonus,,Short Answer,1) Earth and Space – Short Answer Rank the following three solar system objects in terms of increasing number of known satellites: 1) Mars; 2) Jupiter; 3) Neptune.,"1, 3, 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Life Science – Short Answer What is the general term for animals that lack a backbone?,INVERTEBRATES
+bonus,,Short Answer,2) Life Science – Short Answer What is the term for cells that contain membrane-bound nuclei?,EUKARYOTES
+toss-up,math,Short Answer,"3) Math – Short Answer Giving your answer as a decimal, decreasing a number by 37% is equivalent to multiplying it by what?",0.63 (ACCEPT: .63)
+bonus,math,Short Answer,"3) Math – Short Answer The center of a circle is located at (5, –5). If the point (11, 9) lies on the circle, what is the circle’s diameter?","4√58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"4) Energy – Short Answer Scientists at Pacific Northwest National Lab are researching the production of biofuel from marine kelp biomass. What specific biofuel, which today is made from corn and sugar cane, are they seeking to produce?",ETHANOL (ACCEPT: BIOETHANOL)
+bonus,energy,Short Answer,4) Energy – Short Answer Scientists from Lawrence Berkeley National Lab participated in a collaboration to identify the capsid of what type of infectious agent?,VIRUS
+toss-up,,Short Answer,"5) Physical Science – Short Answer When hydrocarbons are burned with insufficient oxygen, what toxic byproduct is formed?",CARBON MONOXIDE
+bonus,,Short Answer,5) Physical Science – Short Answer Identify all of the following three molecules that are diatomic: 1) Chlorine; 2) Water; 3) Hydrochloric acid.,"1, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,6) Earth and Space – Short Answer What are the two most abundant gases by volume in Earth's atmosphere?,NITROGEN AND OXYGEN
+bonus,,Short Answer,6) Earth and Space – Short Answer Identify all of the following three geologic terms that describe rhyolite: 1) Extrusive; 2) Mafic [MAF-ik]; 3) Ultramafic.,1
+toss-up,math,Short Answer,"7) Math – Short Answer What is the slope of the line through (4, –6) and (–7, 3)?",–9/11
+bonus,math,Short Answer,7) Math – Short Answer What is the volume of a rectangular pyramid with base dimensions 14 and 9 and height 15?,"630
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) Physical Science – Multiple Choice Models are frequently employed in science. Which of the following is not true of scientific models? W) They cannot be changed once formalized X) They are patterned after items or events in the natural world Y) They facilitate communication Z) They offer a means of testing predictions,W) THEY CANNOT BE CHANGED ONCE FORMALIZED
+bonus,,Multiple Choice,8) Physical Science – Multiple Choice Which of the following types of light has the longest wavelength? W) Infrared X) X-rays Y) Orange light Z) Blue light,W) INFRARED
+toss-up,energy,Short Answer,9) Energy – Short Answer Researchers at Brookhaven National Lab are using the Relativistic Heavy Ion Collider to study the state of the universe milliseconds after what event?,BIG BANG
+bonus,energy,Multiple Choice,9) Energy – Multiple Choice Scientists at Los Alamos National Lab are studying upwelling in the Southern Ocean using a combination of seawater measurements and modeling. Upwelling is best described as which of the following rising to the surface? W) Cold nutrient-poor waters X) Cold nutrient-rich waters Y) Hot nutrient-poor waters Z) Hot nutrient-rich waters,"X) COLD NUTRIENT-RICH WATERS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,10) Earth and Space – Short Answer What constellation contains the north celestial pole?,"URSA MINOR (DO NOT ACCEPT: LITTLE DIPPER, LITTLE BEAR)"
+bonus,,Short Answer,10) Earth and Space – Short Answer What is the term for the point on an orbit about the Sun that is furthest from the Sun?,APHELION [ap-HEEL-ee-un]
+toss-up,,Multiple Choice,11) Life Science – Multiple Choice You catch a common cold from one of your Science Bowl teammates. Which of the following would be LEAST effective for treating your symptoms? W) Bed rest X) Antibiotics Y) Acetaminophen [ah-see-tah-MIN-uh-fen] Z) Hydration,X) ANTIBIOTICS
+bonus,,Multiple Choice,11) Life Science – Multiple Choice Which of the following is likely to occur when applying water or heat from an iron to reversibly straighten hair? W) Disruption of keratin hydrogen bonds X) Denaturation of collagen proteins Y) Altered peptide bond synthesis Z) Positional isomerization [eye-saw-mor-eyes-AY-shun] of keratin chains,"W) DISRUPTION OF KERATIN HYDROGEN BONDS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,12) Math – Short Answer What is 752?,5625
+bonus,math,Short Answer,"12) Math – Short Answer Jen takes 9 hours to clean a room. Ken can clean the same room in 13 hours. Expressing your answer as a decimal to the nearest tenth of an hour, how long would it take them if they worked together?",5.3
+toss-up,energy,Short Answer,13) Energy – Short Answer Thermal imaging is being used by scientists at the Pacific Northwest National Laboratory to track bats and birds near windfarms. Thermal imaging captures light from what part of the electromagnetic spectrum?,INFRARED
+bonus,energy,Short Answer,"13) Energy – Short Answer Researchers at Thomas Jefferson National Accelerator Facility have recently upgraded the Continuous Electron Beam Accelerator Facility, or CEBAF. Scientists are using CEBAF in hopes of producing new particles called hybrid mesons and studying the force that holds them together. What is the term for this force?","STRONG NUCLEAR FORCE (ACCEPT: STRONG FORCE, STRONG)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,14) Life Science – Multiple Choice Which of the following is an example of a carbohydrate? W) Glucose X) Stearate Y) Cholesterol Z) Glycine,W) GLUCOSE
+bonus,,Short Answer,"14) Life Science – Short Answer The Cambrian explosion was an example of what process, in which rapid speciation results in the occupation of several previously-empty niches?",ADAPTIVE RADIATION
+toss-up,,Short Answer,15) Physical Science – Short Answer What is the term for the aspect of a redox reaction that results in a net loss of electrons?,OXIDATION
+bonus,,Multiple Choice,15) Physical Science – Multiple Choice Which of the following species could most easily lose an electron? W) Ar X) Mg2+ Y) O2– [Oh two-minus] Z) K,"Z) K
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,16) Math – Short Answer What is the product of the two binomials x + 5 and x – 3?,x2 + 2x – 15
+bonus,math,Short Answer,"16) Math – Short Answer To the nearest integer, what is 113 decreased by 27%?",82
+toss-up,,Multiple Choice,"17) Life Science – Multiple Choice Within the land plants, which of the following groups has the greatest number of species? W) Flowering plants X) Pine trees Y) Ferns Z) Mosses",W) FLOWERING PLANTS
+bonus,,Short Answer,17) Life Science – Short Answer Identify all of the following three factors that are examples of density-dependent limiting factors: 1) Disease; 2) Predation; 3) Natural disasters.,"1, 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,18) Earth and Space – Short Answer Accretion of astronomical objects is driven by what fundamental force?,GRAVITY (ACCEPT: GRAVITATIONAL)
+bonus,,Short Answer,18) Earth and Space – Short Answer What is the term used for an impermeable layer that inhibits the flow of groundwater?,AQUICLUDE (ACCEPT: AQUIFUGE)
+toss-up,math,Short Answer,19) Math – Short Answer What is the degree measure of an angle that is complementary to a 32-degree angle?,58
+bonus,math,Short Answer,"19) Math – Short Answer A sequence has first term 2, and each term after the first is one more than 3 times the previous term. What is the seventh term?","1822
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"20) Physical Science – Multiple Choice If you break a bar magnet with a north pole and a south pole in half between the poles, which of the following will result? W) One north magnet and one south magnet X) Two demagnetized objects Y) Randomly magnetized objects Z) Two smaller magnets, each with a north and south pole","Z) TWO SMALLER MAGNETS, EACH WITH A NORTH AND SOUTH POLE"
+bonus,,Short Answer,20) Physical Science – Short Answer Identify all of the following three statements that are true of BOTH gravitational forces and electromagnetic forces: 1) They decrease with distance squared; 2) They can be shielded by oppositely-charged bodies; 3) They are always attractive forces.,1
+toss-up,,Short Answer,21) Earth and Space – Short Answer What astronomer was the first to observe that the line between a planet and the Sun sweeps out a constant area in a given amount of time?,KEPLER
+bonus,,Short Answer,21) Earth and Space – Short Answer Identify all of the following three characteristics that are unique to Earth among the terrestrial planets: 1) Presence of a natural satellite; 2) Abundant atmospheric oxygen; 3) Presence of seasons.,"2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Life Science – Short Answer Organisms in the phylum [FYE- lum] Sarcodina use cytoplasmic projections to move around and consume food. What is the term for these projections?,PSEUDOPODA
+bonus,,Short Answer,"22) Life Science – Short Answer In a group of pea plants, the tall trait is dominant over the short trait in a Mendelian [men-DEEL-ee-an] manner. If two heterozygous [hetero-ZYE-gus] plants breed and produce 24 offspring, what is the expected value of the number of tall plants within the offspring?",18
+toss-up,,Short Answer,23) Physical Science – Short Answer You would like to convert your weight in pounds into an SI unit that measures the same quantity. What SI derived unit is most appropriate?,NEWTON
+bonus,,Short Answer,"23) Physical Science – Short Answer A forklift lifted a 450-newton mass 8 meters up into the air over the course of 6 seconds. How much power, in watts, did it deliver over this time period?",600

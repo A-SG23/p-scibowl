@@ -1,0 +1,36 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,"1) Physical Science – Short Answer Niels Bohr developed a model of the atom that explained why different elements burn in different colors. In this model, the light emitted by burning is due to changes in what subatomic particle?",ELECTRON
+bonus,,Short Answer,1) Physical Science – Short Answer Identify all of the following three properties of matter that are extensive: 1) Mass; 2) Volume; 3) Density.,"1, 2"
+toss-up,,Multiple Choice,2) Earth and Space – Multiple Choice Which of the following minerals will be a source of phosphate to the environment when it is weathered? W) Quartz X) Apatite Y) Gypsum Z) Pyrite,X) APATITE
+bonus,,Short Answer,2) Earth and Space – Short Answer Rank the following three elements in order of increasing abundance in Earth’s crust: 1) Iron; 2) Silicon; 3) Carbon.,"3, 1, 2"
+toss-up,energy,Short Answer,3) Energy – Short Answer Ames Lab researchers are determining the physical properties of AuNPs [A. U. N. P’s]. What metallic element are these nanoparticles made of?,GOLD
+bonus,energy,Multiple Choice,3) Energy – Multiple Choice Researchers at Fermi National Accelerator Lab are designing a new kind of qubit [Q-bit]. Which of the following best describes the difference between a qubit and a classical bit? W) Qubits use quantum tunneling to move data more quickly X) Qubits can exist in a superposition of classical states Y) Qubits exploit quantum interference to become more energy efficient than classical bits Z) Qubits use quantum decoherence to simulate multiple classical bits,"X) QUBITS CAN EXIST IN A SUPERPOSITION OF
+CLASSICAL STATES"
+toss-up,,Short Answer,"4) Life Science – Short Answer From time to time, arthropods must shed their exoskeletons to continue growing. What is the term for this process?",MOLTING (ACCEPT: ECDYSIS)
+bonus,,Short Answer,"4) Life Science – Short Answer During prophase I, what process results in the exchange of DNA between homologous [ha-MAWL-uh-gus] chromosomes?","CROSSING OVER (ACCEPT: SYNAPSIS; do not
+accept: RECOMBINATION)"
+toss-up,math,Short Answer,5) Math – Short Answer x/2 + x/4 is what percent of x?,75
+bonus,math,Short Answer,5) Math – Short Answer Solve the following equation for x: open parenthesis 7x – 6 close parenthesis squared = 64.,–2/7 OR 2 (must give both answers)
+toss-up,,Short Answer,6) Physical Science – Short Answer What is the term for double- replacement reactions between acids and bases?,NEUTRALIZATION
+bonus,,Short Answer,"6) Physical Science – Short Answer In the combustion of ethane, how many water molecules are produced for every oxygen molecule used?",6/7
+toss-up,,Multiple Choice,7) Earth and Space – Multiple Choice Which of the following best describes the direction in which a comet’s gas tail points? W) Ahead of the comet’s motion X) Behind the comet’s motion Y) Away from the Sun Z) Towards the Sun,Y) AWAY FROM THE SUN
+bonus,,Short Answer,7) Earth and Space – Short Answer Which of the terrestrial planets has the largest number of natural satellites?,MARS
+toss-up,energy,Short Answer,"8) Energy – Short Answer Brookhaven National Lab scientists are investigating materials that decrease in volume when heated, instead of increasing in volume. What is the term for the physical effect where the volume of a material is dependent on temperature?","THERMAL EXPANSION (ACCEPT: THERMAL
+CONTRACTION)"
+bonus,energy,Multiple Choice,8) Energy – Multiple Choice Brookhaven National Lab is researching how to tether catalysts to chromophores for artificial photosynthesis. Which of the following is most similar in function to a chromophore? W) Enzyme X) Fuel Y) Solvent Z) Dye,Z) DYE
+toss-up,,Multiple Choice,9) Life Science – Multiple Choice Which of the following is NOT found in an animal cell? W) Mitochondrion X) Cytoskeleton Y) Endoplasmic reticulum [reh-TIK-yoo-lum] Z) Cell wall,Z) CELL WALL
+bonus,,Short Answer,"9) Life Science – Short Answer In a multicellular organism, cells in different tissues have very different functions. Identify all of the following three features that are typically different between two such cells: 1) DNA sequence; 2) Transcriptomic [trans-krip-TOH-mik] profile; 3) Proteomic [pro-tee-OH-mik] profile.","2, 3"
+toss-up,math,Short Answer,"10) Math – Short Answer A trapezoid has height 6 and one base of length 16. If the area is 72, what is the length of the other base?",8
+bonus,math,Short Answer,10) Math – Short Answer Express the following in scientific notation rounded to two significant digits: the fraction with numerator 5.7 × 105 and denominator 8.9 × 10–4.,6.4 × 108
+toss-up,,Short Answer,"11) Physical Science – Short Answer While Newton's first law deals with linear motion, spinning objects also have a tendency to remain spinning in the absence of external torques [torks]. This is due to the conservation of what quantity?","ANGULAR MOMENTUM (ACCEPT: ROTATIONAL
+MOMENTUM, MOMENT OF MOMENTUM)"
+bonus,,Short Answer,"11) Physical Science – Short Answer In most organic compounds, how many covalent bonds does nitrogen make to other atoms?",THREE
+toss-up,,Short Answer,"12) Earth and Space – Short Answer What two phases of the Moon come directly before and after waxing gibbous [GIH-bus], respectively?","BEFORE = FIRST QUARTER, AFTER = FULL
+(ACCEPT: FULL MOON for after)"
+bonus,,Short Answer,12) Earth and Space – Short Answer Rank the following three stellar spectral classes by increasing temperature: 1) G; 2) M; 3) A.,"2, 1, 3"
+toss-up,energy,Short Answer,"13) Energy – Short Answer Scientists at Pacific Northwest National Lab are studying antibiotic resistance in the bacterial genus Mycobacterium. What human lung disease, which can be diagnosed with a PPD skin test, is caused by bacteria in this genus?",TUBERCULOSIS (ACCEPT: TB)
+bonus,energy,Short Answer,"13) Energy – Short Answer Scientists at Pacific Northwest National Lab are developing NWChem, a computational chemistry software capable of Hartree-Fock, DFT, and TD-DFT calculations. These calculations are primarily concerned with the behavior of what subatomic particle?",ELECTRON
+toss-up,,Short Answer,"14) Life Science – Short Answer What is the term for sequence alterations within DNA that may result from errors in replication, exposure to radiation or chemicals, or viral infection?",MUTATIONS
+bonus,,Short Answer,14) Life Science – Short Answer What is the general term for viruses that infect prokaryotes [PRO-care-ee-oats]?,BACTERIOPHAGES (ACCEPT: PHAGES)
+toss-up,math,Short Answer,15) Math – Short Answer What is the slope of a line perpendicular to the line with equation 9x + 4y = 36?,4/9
+bonus,math,Short Answer,15) Math – Short Answer What is the volume of a circular cone formed by rotating a right triangular region with legs of length 13 and 9 about its longer leg?,351π

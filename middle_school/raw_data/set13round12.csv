@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,1) Math – Short Answer What is 23% of 4?,0.92 (ACCEPT: 23/25)
+bonus,math,Short Answer,"1) Math – Short Answer A ball is dropped from the top of a 45-meter-tall building. After each bounce, it reaches one-third of the height from which it previously fell. In meters, what is the total vertical distance the ball has traveled when it hits the ground for the 3rd time?","85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Earth and Space – Short Answer How many seismograph locations are typically needed to locate the focus of an earthquake?,3
+bonus,,Multiple Choice,2) Earth and Space – Multiple Choice What is the ratio of iron to oxygen in the mineral hematite? W) 1 to 2 X) 1 to 3 Y) 2 to 3 Z) 3 to 2,Y) 2 TO 3
+toss-up,,Short Answer,"3) Physical Science – Short Answer A cup of black coffee has a pH of 5, and a solution of ammonia has a pH of 11. How many times as acidic is the coffee compared to the ammonia?","1,000,000"
+bonus,,Short Answer,3) Physical Science – Short Answer Identify all of the following three bonds in which the carbon atom will typically be the positive dipole: 1) C-H; 2) C-N; 3) C-O.,"2, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"4) Energy – Short Answer In order to indirectly measure the average kinetic energy of atoms in a given location, physicists at Oak Ridge National Lab have developed a device that will produce a nanometer-resolution map of what property of a crystal?",TEMPERATURE
+bonus,energy,Short Answer,"4) Energy – Short Answer Scientists at Lawrence Berkeley National Lab at the IceCube experiment are studying high-energy neutrinos. Most high-energy neutrinos are produced by high-energy cosmic interactions, while low-energy neutrinos detected on Earth are primarily produced from nuclear reactors and what other major source?",SUN
+toss-up,,Short Answer,5) Life Science – Short Answer What is the term for an organism that requires a constant supply of oxygen in order to live?,OBLIGATE AEROBE
+bonus,,Short Answer,5) Life Science – Short Answer What is the term for an organism whose mouth develops from the blastopore?,"PROTOSTOME
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,6) Earth and Space – Short Answer Which of Kepler's Laws would be most helpful for determining the orbital period of a binary star system?,THIRD
+bonus,,Short Answer,"6) Earth and Space – Short Answer What planet has a mean density about 70 percent that of Earth, and surface acceleration due to gravity about 40 percent that of Earth?",MARS
+toss-up,math,Multiple Choice,"7) Math – Multiple Choice Which of the following statements is logically equivalent to ""If T is a leopard, then T has spots""? W) If T has spots, then T is a leopard. X) If T is not a leopard, then T does not have spots. Y) If T does not have spots, then T is not a leopard. Z) If T does not have spots, then T is a leopard.","Y) IF T DOES NOT HAVE SPOTS, THEN T IS NOT A LEOPARD."
+bonus,math,Short Answer,7) Math – Short Answer A pyramid with 36 edges has how many vertices?,"19
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) Physical Science – Multiple Choice Solvated electrons appear a vibrant blue in solution. Which of the following colors of light is being absorbed? W) Violet X) Orange Y) Green Z) Blue,X) ORANGE
+bonus,,Short Answer,"8) Physical Science – Short Answer Suppose that a 50-kilogram cart and a 70-kilogram cart, both traveling at 5 meters per second in opposite directions, collide and stick together. In meters per second with one significant figure, what is the speed of the final composite object?",0.8
+toss-up,energy,Short Answer,"9) Energy – Short Answer Researchers at Princeton Plasma Physics Lab are attempting to understand fluid flow in the non-laminar regime. This regime of flow, in which fluid velocity and pressure change chaotically, is called what?",TURBULENCE
+bonus,energy,Multiple Choice,"9) Energy – Multiple Choice Ames National Lab researchers are studying alane, or aluminum hydride. This substance is generally used in synthetic chemistry labs to perform what chemical role? W) Reducing agent X) Oxidizing agent Y) Combustion catalyst Z) Heterogeneous [hetero-JEE-nee-us] catalyst","W) REDUCING AGENT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,10) Earth and Space – Multiple Choice Which of the following metamorphic rocks exhibits foliation? W) Schist X) Marble Y) Quartzite Z) Amphibolite [am-FIB-oh-lite],W) SCHIST
+bonus,,Short Answer,"10) Earth and Space – Short Answer Rank the following three elements in increasing order in terms of their mass abundance in the ocean: 1) Chlorine, 2) Hydrogen; 3) Sodium.","3,1,2"
+toss-up,,Short Answer,"11) Life Science – Short Answer What is the term for a treatment that has no active effect, but rather is used as a control during therapeutic trials?",PLACEBO
+bonus,,Short Answer,"11) Life Science – Short Answer What organ is the end target of vasopressin [VAY-zoh-pressin], which is also known as “anti-diuretic hormone”?","KIDNEY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"12) Energy – Short Answer Scientists at Pacific Northwest National Lab are studying blue-green algae, which are actually part of what domain?",BACTERIA (ACCEPT: EUBACTERIA)
+bonus,energy,Short Answer,12) Energy – Short Answer Scientists at Idaho National Lab are developing uranium silicide fuel pellets for next-generation nuclear reactors to replace current uranium dioxide fuel pellets. What is the oxidation state of uranium metal in uranium dioxide?,+4 (ACCEPT: 4)
+toss-up,,Multiple Choice,"13) Earth and Space – Multiple Choice As seen from Earth, which of the following stellar objects has the most similar angular diameter to the Sun? W) The Moon X) Alpha Centauri Y) Jupiter Z) Betelgeuse [BAY-tel-jews]",W) THE MOON
+bonus,,Multiple Choice,13) Earth and Space – Multiple Choice Which of the following types of asteroids is most abundant in our solar system? W) S-type X) M-type Y) V-type Z) C-type,"Z) C-TYPE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,14) Math – Short Answer What is the tenth term in the geometric sequence with first term –6 and common ratio –1?,6
+bonus,math,Short Answer,14) Math – Short Answer What are all single-digit base-10 positive integer values of B for which the base B number three-one is a perfect square?,5 AND 8
+toss-up,,Multiple Choice,15) Life Science – Multiple Choice Which of the following statements is NOT true regarding chloroplasts? W) Chloroplasts possess inner and outer membranes X) Thylakoids contain chlorophylls and carotenoids [cah-ROT-en-oids] Y) Pigment molecules and proteins associate to form photosystems Z) The stroma is characterized by surface area-increasing folds called cristae [KRIS-tee],"Z) THE STROMA IS CHARACTERIZED BY SURFACE AREA-INCREASING
+FOLDS CALLED CRISTAE"
+bonus,,Multiple Choice,"15) Life Science – Multiple Choice Mollusks possess a flexible, tongue-shaped feeding structure called what? W) Radula [RAD-yoo-lah] X) Mantle Y) Siphon Z) Viscera [VIH-sur-ah]","W) RADULA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Physical Science – Multiple Choice Which of the following quantities is dimensionless? W) The volume of an internal combustion engine X) The perimeter of the Earth Y) The number of molecules in 1 gram of water Z) The mass of one mole of sodium atoms,Y) THE NUMBER OF MOLECULES IN ONE GRAM OF WATER
+bonus,,Short Answer,16) Physical Science – Short Answer How many milliliters of a 0.1 molar hydrochloric acid solution contain the same amount of acid as 2 milliliters of a 12-molar hydrochloric acid solution?,240
+toss-up,math,Short Answer,"17) Math – Short Answer When x2 – 2x + 3 is divided by x – 2, what is the remainder?",3
+bonus,math,Short Answer,"17) Math – Short Answer To the nearest whole number, 111 kilometers per hour is how many meters per second?","31
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,18) Life Science – Short Answer What type of virus has an RNA genome that it converts into DNA once it enters the host cell?,RETROVIRUS
+bonus,,Short Answer,"18) Life Science – Short Answer In a woody stem, what is the term for the old xylem that no longer conducts fluid, causing it to darken with age?",HEARTWOOD
+toss-up,,Multiple Choice,19) Physical Science – Multiple Choice Consider a satellite for which the magnitude of the gravitational force on it is constant at all points on its orbit. What shape does this imply the orbit is? W) Parabola [pah-RAB-ah-la] X) Hyperbola [high-PUR-bah-la] Y) Eccentric ellipse Z) Circle,Z) CIRCLE
+bonus,,Short Answer,"19) Physical Science – Short Answer Based on Fermat’s principle, refraction is a consequence of light taking a path that minimizes what quantity?","TIME (ACCEPT: OPTICAL LENGTH; DO NOT ACCEPT: LENGTH)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,20) Math – Short Answer What fraction is halfway between 1/8 and 1/10?,9/80
+bonus,math,Short Answer,"20) Math – Short Answer To the nearest integer, what is the length of a space diagonal in a right rectangular prism with edges of length 4, 9, and 12?",16
+toss-up,,Short Answer,21) Earth and Space – Short Answer What is the name of the ocean-warming phase of the Southern Oscillation?,EL NIÑO
+bonus,,Short Answer,21) Earth and Space – Short Answer What continent has the lowest amount of annual rainfall per unit area?,"ANTARCTICA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"22) Physical Science – Short Answer What is the name given to a solid, like polyethylene, if it lacks the long-range ordering seen in crystals?",AMORPHOUS
+bonus,,Short Answer,"22) Physical Science – Short Answer According to VSEPR [VESS-pur] theory, what is the molecular geometry of a molecule of formaldehyde?",TRIGONAL PLANAR
+toss-up,,Short Answer,23) Life Science – Short Answer To what genus do brown bears belong?,URSUS
+bonus,,Short Answer,"23) Life Science – Short Answer In the normal human eye, how many distinct types of cone cells are there?",3

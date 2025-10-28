@@ -1,0 +1,62 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,"1) Math – Short Answer If log base 4 of x is 2.5, what is x?",32
+bonus,math,Short Answer,"1) Math – Short Answer What is the y-coordinate of the y-intercept of the line with slope –4/5 that contains the point (–3, 8)?","28/5 (ACCEPT 5 3/5, 5.6)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Earth and Space – Short Answer What is the name for the southern-most latitude for which it is possible for the Sun to be at the zenith?,TROPIC OF CAPRICORN
+bonus,,Short Answer,2) Earth and Space – Short Answer Order the following four objects in the night sky in increasing order of brightness: 1) Venus; 2) Uranus; 3) Sirius; 4) Andromeda [ann-DRAW-meh-dah] Galaxy.,"2, 4, 3, 1"
+toss-up,,Multiple Choice,"3) Physical Science – Multiple Choice For an object falling in the presence of air resistance, which of the following quantities will asymptotically approach a non-zero constant? W) Position X) Velocity Y) Acceleration Z) Force",X) VELOCITY
+bonus,,Short Answer,3) Physical Science – Short Answer An object remains in uniform circular motion while having its velocity doubled and its radius of revolution tripled. By what factor is its centripetal acceleration multiplied?,"4/3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,4) Energy – Multiple Choice Scientists at the Joint Genome Institute recently conducted epigenetic sequencing of fungi [fun-ji]. Which of the following is primarily measured in epigenetic analysis? W) Methylation on DNA bases X) Quantity of RNA transcripts Y) Sequences of various genes Z) Quantity of various proteins,W) METHYLATION ON DNA BASES
+bonus,energy,Short Answer,4) Energy – Short Answer Scientists at SLAC [slack] are working on improving the sensitivity of what interferometer [inter-feer-AW-meh-ter] that was responsible for the first detection of gravitational waves?,"LASER INTERFEROMETER GRAVITATIONAL-WAVE OBSERVATORY (ACCEPT:
+LIGO, ALIGO)"
+toss-up,,Multiple Choice,5) Life Science – Multiple Choice Which of the following kingdoms contains organisms that directly produce methane as a byproduct of metabolism? W) Bacteria X) Archaea [ar-KEE-ah] Y) Fungi [fun-ji] Z) Animalia,X) ARCHAEA
+bonus,,Short Answer,5) Life Science – Short Answer Identify all of the following three stages of meiosis [my-OH-sis] that are marked by the synapsis [sih-NAP-sis] of homologous [ha-MAWL-uh-gus] chromosomes: 1) Prophase I; 2) Prophase II; 3) Metaphase II.,"1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) Earth and Space – Multiple Choice Which of the following is an effect of El Niño on the southern United States' climate? W) An increase in tornadoes X) Fewer rainfalls Y) Drier winters Z) Warmer winters,W) AN INCREASE IN TORNADOES
+bonus,,Short Answer,6) Earth and Space – Short Answer Identify all of the following three statements that are true of rock types: 1) Granite and andesite are chemically equivalent; 2) Gabbro and basalt [bah-SALT] are chemically equivalent; 3) Gabbro is an extrusive rock.,2
+toss-up,math,Multiple Choice,7) Math – Multiple Choice A triangle has two sides of length 6 and 11. Which of the following is NOT possible for the length of the third side? W) 6 X) 11 Y) 16 Z) 17,Z) 17
+bonus,math,Short Answer,7) Math – Short Answer Evaluate 3 log base 2 of 8 plus 4 log base 3 of 81 minus one-half log base 4 of 4096.,"22
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,8) Physical Science – Short Answer Evangelista Torricelli is famous for inventing what tool that measures atmospheric pressure?,BAROMETER
+bonus,,Short Answer,8) Physical Science – Short Answer Identify all of the following three properties that are typical of nonmetals: 1) Ductile; 2) Poor electrical conductance; 3) Form basic oxides.,2
+toss-up,energy,Short Answer,"9) Energy – Short Answer Scientists at Lawrence Livermore National Laboratory have developed a laser-based tabletop device to measure carbon-14 concentrations. Biological samples must be homogenized, dried, and combusted before they are measured. In what compound does the spectrometer measure the carbon-14 abundance?","CARBON DIOXIDE (ACCEPT: CO )
+2"
+bonus,energy,Multiple Choice,"9) Energy – Multiple Choice Scientists at Lawrence Berkeley National Lab recently published a study on the distribution of dust in the Milky Way. Which of the following best explains how they can detect the dust? W) Interstellar dust easily scatters red light, so stars seen through it appear bluer than expected X) Interstellar dust easily scatters blue light, so stars seen through it appear redder than expected Y) The dust generates photons Z) The gravitational effects of the dust are measurable","X) INTERSTELLAR DUST EASILY SCATTERS BLUE LIGHT, SO STARS SEEN
+THROUGH IT APPEAR REDDER THAN EXPECTED
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,10) Earth and Space – Multiple Choice Which of the following is closest to the number of astronomical units from the Earth to Proxima Centauri? W) 3 times ten to the 5th X) 3 times ten to the 6th Y) 3 times ten to the 7th Z) 3 times ten to the 8th,W) 3 TIMES TEN TO THE 5th
+bonus,,Short Answer,10) Earth and Space – Short Answer Identify all of the following three statements that are true of Earth’s magnetic field: 1) It is responsible for blocking gamma radiation from the Sun; 2) It is responsible for the formation of the Van Allen belts; 3) Its strength is tens of microteslas at Earth’s surface.,2 AND 3
+toss-up,,Multiple Choice,11) Life Science – Multiple Choice Having a single ventricle limits oxygen delivery for a three- chambered heart. Which of the following animals has a three-chambered heart? W) Mouse X) Eagle Y) Chimpanzee Z) Frog,Z) FROG
+bonus,,Short Answer,11) Life Science – Short Answer Elastin is a protein that is most commonly found in which of the four general classes of human tissue?,"CONNECTIVE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"12) Energy – Multiple Choice Researchers at Argonne National Lab Chemical Sciences and Engineering Division are studying the decomposition of H CO into H and CO. If they are specifically examining the 2 2 hydrogen-carbon bond stretching and breaking, what type of structure are they examining? W) Product X) Second order Y) Transition state Z) Intermediate",Y) TRANSITION STATE
+bonus,energy,Short Answer,12) Energy – Short Answer Scientists at Los Alamos National Lab recently discovered that optical phonons [FOH-nawns] in some 2D lattices condense into what phase of ultracold matter composed of particles with integer spins?,BOSE-EINSTEIN CONDENSATE
+toss-up,,Multiple Choice,13) Earth and Space – Multiple Choice What is the general term for an erosional or non-depositional surface between strata of different ages? W) Unconformity X) Fault Y) Cross bedding Z) Syncline,W) UNCONFORMITY
+bonus,,Short Answer,13) Earth and Space – Short Answer Identify all of the following three statements that are true of erosion and soil: 1) Eroded materials are deposited at new locations by a process called weathering; 2) Humus is the gravel-like covering above the bedrock; 3) A soil horizon is a distinct layer within a cross section of the soil.,"3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"14) Math – Short Answer If a number is increased by 60%, by what percent is its square increased?",156
+bonus,math,Short Answer,"14) Math – Short Answer One angle of an isosceles triangle measures 74 degrees. In degrees, what are the possible measures of the smallest angle of the triangle?",32 AND 53
+toss-up,,Short Answer,"15) Life Science – Short Answer For each gene, what is the maximum number of different alleles [ah- LEELZ] a human can inherit?",TWO
+bonus,,Short Answer,15) Life Science – Short Answer Identify all of the following three steps of aerobic respiration that produce carbon dioxide: 1) Glycolysis [glye-KAWL-eh-sis]; 2) Krebs cycle; 3) Oxidative phosphorylation [faws-four-il-AY-shun].,"2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Physical Science – Multiple Choice Which of the following substances contains a covalent bond? W) Dichlorine X) Argon Y) Sodium chloride Z) Neon,W) DICHLORINE
+bonus,energy,Short Answer,16) Physical Science – Short Answer What group of elements possesses a stable outer energy level?,18 (ACCEPT: NOBLE GASES)
+toss-up,math,Short Answer,"17) Math – Short Answer The point (–4, 7) is reflected over the y-axis. In what quadrant does the reflected point lie?",1 (ACCEPT: FIRST)
+bonus,math,Short Answer,17) Math – Short Answer How many edges does a regular dodecahedron have?,"30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,18) Life Science – Short Answer What fluid bathes the inside of a joint capsule and lubricates movement?,SYNOVIAL FLUID
+bonus,,Multiple Choice,18) Life Science – Multiple Choice A macrophage [MACRO-fayj] engulfs a bacterial cell and then creates molecules that trigger itself to migrate to the lymph node. What type of signaling is this? W) Endocrine [EN-doh-krin] X) Neuroendocrine [NOOR-oh-en-doh-krin] Y) Paracrine [para-krin] Z) Autocrine [auto-krin],Z) AUTOCRINE
+toss-up,energy,Multiple Choice,19) Physical Science – Multiple Choice Which of the following quantities related to a light wave increases with increasing energy carried by each photon? W) Amplitude X) Speed Y) Wavelength Z) Frequency,Z) FREQUENCY
+bonus,,Short Answer,19) Physical Science – Short Answer Identify all of the following three statements that are true of electrical devices: 1) Transformers convert alternating current to direct current; 2) Household electrical outlets provide alternating current; 3) Batteries produce direct current.,"2 AND 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,20) Math – Short Answer What is the x-intercept of the line with equation 5x – 4y = –40?,"(–8, 0) (ACCEPT: –8)"
+bonus,math,Short Answer,20) Math – Short Answer The graph of the line with equation y = –3x + 4 is reflected through the x-axis. What is the slope-intercept equation of the reflected line?,y = 3x – 4
+toss-up,,Short Answer,21) Earth and Space – Short Answer What is the chemical formula of the mineral quartz?,"SiO
+2"
+bonus,,Short Answer,21) Earth and Space – Short Answer What scale is used to measure the intensity of an earthquake based on its damage?,"MODIFIED MERCALLI (ACCEPT: MODIFIED MERCALLI INTENSITY INDEX)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Physical Science – Short Answer What is the general term for compounds used in titrations that react with acids or bases to produce a color change?,INDICATORS
+bonus,,Short Answer,22) Physical Science – Short Answer Identify all of the following three terms that can be used to describe methanol: 1) Covalent; 2) Polar; 3) Ionic.,1 AND 2
+toss-up,,Short Answer,"23) Life Science – Short Answer In plants, light-dependent oxidative phosphorylation [faws-four-il-AY- shun] takes place in what organelle?",CHLOROPLAST
+bonus,,Short Answer,23) Life Science – Short Answer What family of enzymes is responsible for synthesizing new DNA during replication?,DNA POLYMERASES (ACCEPT: POLYMERASES)

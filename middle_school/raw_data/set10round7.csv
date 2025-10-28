@@ -1,0 +1,60 @@
+type,subject,format,question,answer
+toss-up,energy,Multiple Choice,1) Energy – Multiple Choice Approximately what percentage of energy used by an incandescent lightbulb is converted to light? W) 10 X) 30 Y) 50 Z) 70,W) 10
+bonus,energy,Multiple Choice,1) Energy – Multiple Choice Which of the following is NOT a baseload power source? W) Coal X) Geothermal Y) Solar Z) Natural gas,"Y) SOLAR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,2) General Science – Multiple Choice Which of the following is a unit for air pressure? W) Isotherm X) Degree Y) Millibar Z) Newton,Y) MILLIBAR
+bonus,chemistry,Multiple Choice,2) General Science – Multiple Choice In which of the following disciplines is there NOT a prize awarded by the Nobel committee? W) Medicine X) Chemistry Y) Biology Z) Physics,Y) BIOLOGY
+toss-up,,Short Answer,3) Life Science – Short Answer Charles Darwin studied what type of bird before positing his theory of natural selection?,FINCHES (ACCEPT: GALAPAGOS FINCHES)
+bonus,,Multiple Choice,3) Life Science – Multiple Choice Pollination of flowering plant species is carried out primarily by which of the following? W) Wind X) Insects Y) Birds Z) Mammals,"X) INSECTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,4) Earth and Space – Multiple Choice Which of the following minerals is softest? W) Quartz X) Topaz Y) Calcite Z) Orthoclase,Y) CALCITE
+bonus,,Short Answer,4) Earth and Space – Short Answer Identify all of the following four processes of the water cycle that remove water vapor from Earth’s atmosphere: 1) Deposition; 2) Transpiration; 3) Sublimation; 4) Precipitation,1 AND 4 (DEPOSITION AND PRECIPITATION)
+toss-up,math,Short Answer,"5) Math – Short Answer Round 4,197.56 to the nearest hundred.","4,200"
+bonus,math,Short Answer,"5) Math – Short Answer To the nearest whole number, what is the length of the hypotenuse in a right triangle with legs of length 14 and 9?","17
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"6) Physical Science – Multiple Choice When an object’s mass doubles and its velocity stays the same, by what factor is its kinetic energy multiplied? W) 1/4 X) 1/2 Y) 2 Z) 4",Y) 2
+bonus,,Short Answer,6) Physical Science – Short Answer What type of heat transfer causes your bread to be heated in a toaster?,RADIATION
+toss-up,energy,Short Answer,"7) Energy – Short Answer What renewable chemical, commonly derived from corn, is regularly added to gasoline in the United States?",ETHANOL (ACCEPT: ETHYLY ALCOHOL)
+bonus,energy,Short Answer,7) Energy – Short Answer Identify all of the following 3 sources from which bioenergy can be derived: 1) Plants; 2) Forest waste; 3) Household waste.,"ALL OF THEM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,earth science,Multiple Choice,"8) General Science – Multiple Choice Scientists in which of the following branches of Earth science are most likely to use a submersible, sonar, and bathymetry as tools? W) Astronomy X) Oceanography Y) Hydrology Z) Meteorology",X) OCEANOGRAPHY
+bonus,,Multiple Choice,"8) General Science – Multiple Choice To extinguish a fire in a beaker containing a solvent, the first step should be to: W) Cover the beaker with a glass plate X) Pour water over the solvent Y) Use a class D extinguisher Z) Blow quickly and forcefully across the top of the beaker",W) COVER THE BEAKER WITH A GLASS PLATE
+toss-up,biology,Multiple Choice,9) Life Science – Multiple Choice Conservation biology tries to preserve which of the following ecosystem characteristics? W) Large population size for all inhabiting species X) Large population size for all inhabiting mammals Y) Elevated biodiversity for all forms of life Z) Elevated biodiversity for all macroscopic forms of life,Y) ELEVATED BIODIVERSITY FOR ALL FORMS OF LIFE
+bonus,,Short Answer,9) Life Science – Short Answer What group of signaling proteins increases the resistance of cells against viral attack?,"INTERFERONS (ACCEPT: IFN’s)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"10) Math – Short Answer If two concentric circles have radii of 4 and 11, respectively, what is the area of the region between them?",105π
+bonus,math,Short Answer,10) Math – Short Answer Solve the following equation for x: x/3 + 5 = 2x + ½.,x = 27/10 (ACCEPT: 2.7 OR 2 7/10)
+toss-up,energy,Multiple Choice,"11) Physical Science – Multiple Choice Of solids, liquids, and gases,which of them can conduct thermal energy? W) Solids only X) Liquids only Y) Solids and liquids only Z) Solids, liquids and gases","Z) SOLIDS, LIQUIDS AND GASES"
+bonus,,Short Answer,11) Physical Science – Short Answer Lithium is well-suited for use in lightweight batteries for fuel- efficient transportation like electric cars and aircraft such as the 787 Dreamliner because of its low atomic mass. Atoms of what two elements are less massive than lithium?,"HYDROGEN, HELIUM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,12) Earth and Space – Short Answer What blue star is the brightest star in the constellation Orion?,RIGEL
+bonus,,Multiple Choice,12) Earth and Space – Multiple Choice Which of the following rock types is most likely to contain organic matter? W) Metamorphic X) Sedimentary Y) Extrusive igneous Z) Intrusive igneous,X) SEDIMENTARY
+toss-up,math,Short Answer,13) Math – Short Answer Evaluate negative 5 times open parenthesis –3a – 4b close parenthesis when a = 12 and b = 12.,420
+bonus,math,Short Answer,13) Math – Short Answer The sum of three numbers is 50. The smallest number is one-sixth the largest number. The sum of the two largest numbers is 45. What is the middle number?,"15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"14) Physical Science – Short Answer As the wavelength of a wave increases, what happens to its frequency if the speed is constant?",IT DECREASES
+bonus,energy,Short Answer,"14) Physical Science – Short Answer As coal is turned into electricity to run a computer, its energy will take several forms. Arrange the following types of energy into the order they will appear during this transformation: 1) Electrical; 2) Chemical; 3) Heat; 4) Mechanical.","2, 3, 4, 1 (ACCEPT: CHEMICAL, HEAT, MECHANICAL, ELECTRICAL)"
+toss-up,,Multiple Choice,15) Life Science – Multiple Choice Which of the following allows fungi to feed more efficiently? W) Fruiting Body X) Mycelium Y) Spores Z) Chitin,X) MYCELIUM
+bonus,,Short Answer,15) Life Science – Short Answer What part of a plant embryo develops into the roots?,"RADICLE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) General Science – Multiple Choice Which of the following best explains why Erlenmeyer flasks are good for mixing samples? W) Magnetic stirrers can easily enter and exit the mouth X) They have straight sides that allow for complete mixing Y) They have slanted sides that prevent spilling and don't require additional stirring equipment Z) Their narrow necks make pouring and transferring spill resistant,"Y) THEY HAVE SLANTED SIDES THAT PREVENT SPILLING AND DON'T REQUIRE
+ADDITIONAL STIRRING EQUIPMENT"
+bonus,,Short Answer,16) General Science – Short Answer What is the SI unit for temperature?,KELVIN (DO NOT ACCEPT: DEGREES KELVIN)
+toss-up,energy,Short Answer,17) Energy – Short Answer What U.S. state produced the most energy via hydropower in 2014?,WASHINGTON
+bonus,energy,Short Answer,17) Energy – Short Answer What is the chemical name of the gas found within underground coal beds that can be recovered and used as natural gas?,"METHANE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Earth and Space – Multiple Choice Which of the following is most responsible for the change of seasons? W) The phases of the Moon X) The distribution of continents and oceans Y) The tilt of Earth's axis Z) The elliptical shape of Earth's orbit,Y) THE TILT OF EARTH'S AXIS
+bonus,,Multiple Choice,18) Earth and Space – Multiple Choice The color of a star is most closely related to which of its other properties? W) Composition X) Pressure Y) Temperature Z) Magnetism,Y) TEMPERATURE
+toss-up,,Short Answer,19) Physical Science – Short Answer What is the common name of the NH + ion? 4,AMMONIUM
+bonus,,Short Answer,"19) Physical Science – Short Answer What is the speed of light, in meters per second and in scientific notation with one significant figure, through a medium with a refractive index of 1.5?","2 TIMES 10 TO THE 8TH POWER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"20) Math – Short Answer If a right triangle has an exterior angle of measure 175 degrees, what is the degree measure of the larger of its acute interior angles?",85
+bonus,math,Short Answer,"20) Math – Short Answer What are the mean and median, respectively, of the following list of six numbers: 10, 2, 5, 7, 3, 9?",6 and 6
+toss-up,energy,Multiple Choice,21) Physical Science – Multiple Choice Which of the following forces always causes a loss of energy in a mechanical system? W) Gravitational X) Normal Y) Buoyancy Z) Friction,Z) FRICTION
+bonus,,Multiple Choice,21) Physical Science – Multiple Choice Which of the following is a diprotic acid? W) HCl X) H SO 2 4 Y) H PO 3 4 Z) HC H O 2 3 2,"X) H SO
+2 4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,22) Earth and Space – Multiple Choice Which of the following best describes why Earth has a magnetic field? W) The inner core contains solid iron X) The outer core contains liquid iron Y) The Moon exerts a gravitational pull Z) The Sun exerts a gravitational pull,X) THE OUTER CORE CONTAINS LIQUID IRON
+bonus,,Short Answer,22) Earth and Space – Short Answer The Nazca [NAZ-kah] Plate is located off the western margin of what continent?,SOUTH AMERICA
+toss-up,,Short Answer,23) Life Science – Short Answer What two structures in humans contain hydroxyapatite?,BONES AND TEETH
+bonus,,Multiple Choice,23) Life Science – Multiple Choice Which of the following adjectives best describes the spores that are produced during fungal asexual reproduction? W) Haploid X) Diploid Y) Heterokaryotic Z) Zygotic,W) HAPLOID

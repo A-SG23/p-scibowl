@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,math,Multiple Choice,1) Math – Multiple Choice Which of the following is a negation of the statement “Some cats are cute”? W) All cats are cute X) No cats are cute Y) Not all cats are cute Z) Some cats are not cute,X) NO CATS ARE CUTE
+bonus,math,Short Answer,1) Math – Short Answer What is 173 times 147?,"25,431
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"2) Energy – Short Answer From 1973 to 2008, the percentage of the world's electricity produced by natural gas almost doubled. In the same period, the percentage produced by another fuel source dropped from 25% to 5%. What fuel source is this?",OIL
+bonus,energy,Multiple Choice,2) Energy – Multiple Choice Which of the following CANNOT be readily used as a source of energy in a fuel cell? W) Methane X) Oxygen Y) Methanol Z) Hydrogen,X) OXYGEN
+toss-up,,Short Answer,3) Earth and Space – Short Answer Pitchblende is an important ore for what actinide?,URANIUM
+bonus,,Multiple Choice,3) Earth and Space – Multiple Choice White and black smokers are both types of hydrothermal vents found on the sea floor. Which of the following are two main differences between the types of vents? W) Height and age of the chimneys formed at the vents X) Biological communities around the vent and ocean depth Y) Chemicals dissolved in the water and temperature Z) Type of volcanic activity and age of the surrounding oceanic crust,"Y) CHEMICALS DISSOLVED IN THE WATER AND TEMPERATURE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,4) Physical Science – Short Answer What physical quantity is equal to the magnitude of velocity?,SPEED
+bonus,,Short Answer,"4) Physical Science – Short Answer Maggie drives 72 kilometers in 2 hours. In meters per second, what is her speed?",10
+toss-up,,Multiple Choice,"5) Life Science – Multiple Choice Often, an enzyme requires the presence of another small molecule in order to function. What is the term for these small molecules? W) Inhibitors X) Haloproteins [HAY-lo-proteins] Y) Apofactors Z) Cofactors",Z) COFACTORS
+bonus,,Short Answer,5) Life Science – Short Answer What is the term for the junction where neurons communicate with each other?,"SYNAPSE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,6) Math – Short Answer For what value of x does the graph of the function y = 4x + 20 cross the x-axis?,–5
+bonus,math,Short Answer,6) Math – Short Answer It took Marcos 3 hours to travel down the Amazon River by boat from his village to his friend’s village. It took him 5 hours to travel up the river on his return trip. How many hours would it take him to make this same journey in still water?,"3.75 (ACCEPT: 3¾, 15/4)"
+toss-up,energy,Short Answer,7) Energy – Short Answer What technology incorporates both electricity production and use of waste thermal energy to provide system efficiencies above 70%?,"COMBINED HEAT AND POWER (ACCEPT: CHP, COGENERATION)"
+bonus,energy,Short Answer,7) Energy – Short Answer The super-heavy synthetic element 116 was jointly discovered by scientists in Russia and a US Department of Energy National Laboratory. What is the IUPAC name for this element?,"LIVERMORIUM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,8) Earth and Space – Short Answer What type of object do scientists think is at the center of the Milky Way?,BLACK HOLE
+bonus,,Multiple Choice,8) Earth and Space – Multiple Choice What do the peaks and valleys in the Keeling curve represent? W) Years of economic recession and reduced carbon emissions X) Successful campaigns by environmental groups Y) Volcanic eruptions and offgassing from glacial melt Z) The seasonal variation of carbon uptake by land plants,Z) THE SEASONAL VARIATION OF CARBON UPTAKE BY LAND PLANTS
+toss-up,energy,Multiple Choice,9) Energy – Multiple Choice Six tidal barrage power plants are currently operating throughout the world. Which of the following nations leads the world in installed tidal energy capacity? W) South Korea X) China Y) Canada Z) Russia,W) SOUTH KOREA
+bonus,energy,Multiple Choice,9) Energy – Multiple Choice Which of the following changes will NOT increase the efficiency of a dehumidifier? W) A higher temperature evaporator X) Higher surface area of the coils Y) A higher coefficient of performance on the compressor Z) Better fan bearings,"W) A HIGHER TEMPERATURE EVAPORATOR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,10) Math – Short Answer Identify all of the following three numbers that are in the domain of the function f of x equals the square root of open parenthesis 36 – x2 close parenthesis: 1) –7; 2) –6; 3) –5.,2 and 3 (ACCEPT: –6 and –5)
+bonus,math,Short Answer,"10) Math – Short Answer For what temperature, in degrees Fahrenheit to the nearest integer, is the Celsius temperature numerically twice the Fahrenheit temperature?",–12
+toss-up,,Short Answer,"11) Life Science – Short Answer In plants, what tissue is involved in the elongation of roots and shoots?",MERISTEMATIC TISSUE (ACCEPT: MERISTEMS)
+bonus,,Short Answer,"11) Life Science – Short Answer During DNA replication, what enzyme is responsible for unwinding the double helix?","HELICASE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,chemistry,Short Answer,"12) Physical Science – Short Answer In electrochemistry, what electrode potential is defined as 0 volts?",HYDROGEN ELECTRODE (ACCEPT: STANDARD HYDROGEN ELECTRODE or HYDROGEN)
+bonus,,Short Answer,"12) Physical Science – Short Answer A star has two planets, one with an orbital period of 500 days, and the second with an orbital period of 1000 days. If the first is located 1 AU from the star, what is the distance, in AU, of the second planet?",CUBE ROOT OF 4
+toss-up,,Short Answer,"13) Life Science – Short Answer In 1933, the first virus was isolated from an extract from its host. What virus was this?",TOBACCO MOSAIC VIRUS
+bonus,,Short Answer,13) Life Science – Short Answer What structure does a male bird use to pass sperm to a female bird?,"CLOACA (DO NOT ACCEPT: INTROMITTENT ORGAN)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Physical Science – Short Answer What fundamental force is responsible for holding together protons and neutrons in the nucleus?,STRONG (ACCEPT: STRONG NUCLEAR)
+bonus,,Short Answer,"14) Physical Science – Short Answer A 10-pound mass and a 100-pound mass are coupled by a compressed massless spring and rest motionless on a frictionless surface. After the spring is released you measure the speed of the 100-pound weight to be 1 foot per second. What would you measure as the speed, in feet per second, of the center of mass of the 10-pound and 100-pound system?",0
+toss-up,math,Short Answer,"15) Math – Short Answer Triangle ABC has all interior angles with integer degree measures. If the measure of angle A is 83 degrees, what is the largest possible degree measure of angle B?",96
+bonus,math,Short Answer,"15) Math – Short Answer Given the linear function f of x = –3x + b, if f of 2 = 7, what is f of 10?","–17
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Earth and Space – Multiple Choice Which of the following symptoms is LEAST likely to occur during an astronaut's long-term stay in the International Space Station? W) Reduction in heart muscle strength X) Periorbital puffiness Y) Reduction in bone mass Z) Reduction in body height,Z) REDUCTION IN BODY HEIGHT
+bonus,,Short Answer,"16) Earth and Space – Short Answer Sirius, the Sun, and Proxima Centauri are all found on what band of the Hertzsprung-Russell diagram?",MAIN SEQUENCE
+toss-up,,Short Answer,"17) Life Science – Short Answer What type of glands are connected to the epithelium [eh-pih-THEEL-ee-um] via ducts, and include sweat glands?",EXOCRINE
+bonus,,Short Answer,"17) Life Science – Short Answer Of plants, animals and fungi [fun-ji], which kingdom contains organisms that produce two-nucleus reproductive cells called a dikaryons [dye-KAIR-ee-uns]?","FUNGI
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,18) Earth and Space – Short Answer How many times per year will an amictic lake mix from top to bottom?,ZERO
+bonus,,Short Answer,18) Earth and Space – Short Answer Lenticular galaxies have an intermediate structure between what two other types of galaxies?,SPIRAL AND ELLIPTICAL
+toss-up,math,Short Answer,19) Math – Short Answer What is 712?,5041
+bonus,math,Short Answer,"19) Math – Short Answer A right circular cone has volume 72 cubic inches. A second cone has 3 times the radius and one-sixth the height of the first cone. In cubic inches, what is the volume of the second cone?","108
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,20) Earth and Space – Multiple Choice Which of the following is not a star in the summer triangle? W) Deneb [DEN-ebb] X) Draco Y) Vega Z) Altair,X) DRACO
+bonus,,Short Answer,20) Earth and Space – Short Answer Jupiter’s strong magnetosphere originates primarily from the rotation of what element?,HYDROGEN
+toss-up,,Short Answer,21) Life Science – Short Answer The mixing of fats with bile salts solubilizes the fats for digestion. Where is bile stored before it enters the intestines?,GALL BLADDER
+bonus,,Short Answer,21) Life Science – Short Answer What specific acid causes the human stomach to have a low pH?,"HYDROCHLORIC ACID (ACCEPT: HCL)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Physical Science – Short Answer What is the SI derived unit used to express frequency?,HERTZ
+bonus,,Short Answer,"22) Physical Science – Short Answer What is the momentum, in newton-seconds, of a 30-gram body moving at 6 meters per second?",0.18 (ACCEPT: 9/50)
+toss-up,,Short Answer,23) Physical Science – Short Answer What is the molecular geometry of phosphorus pentachloride [penta-KLOOR-ide]?,TRIGONAL BIPYRAMID
+bonus,,Short Answer,"23) Physical Science – Short Answer A scientist dissolves 1 mole of a certain acid in 100 grams of water at 25 degrees Celsius and finds that the temperature increases by 7 degrees. In kilojoules [kill-oh-jools] per mole to two significant figures, what is the enthalpy [EN-thul-pee] of dissolution of the acid?",–2.9

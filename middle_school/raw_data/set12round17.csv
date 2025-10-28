@@ -1,0 +1,60 @@
+type,subject,format,question,answer
+toss-up,energy,Short Answer,1) Energy – Short Answer What kingdom of organisms is primarily responsible for converting biomass into ethanol commercially?,FUNGI
+bonus,energy,Multiple Choice,1) Energy – Multiple Choice Scientists at SLAC [slack] are using the Linac [LIH-nak] Coherent Light Source to study protein crystal structures. Which of the following best describes a main challenge to this approach? W) Protein crystallography [crystal-AW-graphy] is low-resolution X) Protein crystallography cannot study ligand [LIH-gund]binding Y) Some proteins crystallize into structures too large to study Z) Some proteins cannot be crystallized,"Z) SOME PROTEINS CANNOT BE CRYSTALLIZED
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Multiple Choice,2) Math – Multiple Choice What is the range of the function y = the square root of open parenthesis x – 16 close parenthesis? W) All real numbers X) All real numbers greater than zero Y) All real numbers greater than or equal to zero Z) All real numbers greater than or equal to 4,Y) ALL REAL NUMBERS GREATER THAN OR EQUAL TO ZERO
+bonus,math,Short Answer,2) Math – Short Answer A 5-digit palindrome has 3 different digits and is divisible by 9. What is the largest such number?,"98,289"
+toss-up,,Multiple Choice,3) Life Science – Multiple Choice Which of the following would be most effective for treating a human collagen deficiency? W) Vitamin A X) Vitamin B-1 Y) Vitamin B-2 Z) Vitamin C,Z) VITAMIN C
+bonus,,Multiple Choice,3) Life Science – Multiple Choice What type of cellular receptor is the most common and is characterized by 7 alpha helices [HEEL-ih-seez]? W) Tyrosine [TIE-row-seen] kinase [KYE-nayse] X) Repressors Y) CAR Z) GPCR,"Z) GPCR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,4) Physical Science – Multiple Choice Which of the following types of mirrors is curved outward? W) Plane X) Concave Y) Parabolic Z) Convex,Z) CONVEX
+bonus,,Short Answer,4) Physical Science – Short Answer What is the term for the non-conducting material that is typically found between the plates of a capacitor?,DIELECTRIC
+toss-up,,Multiple Choice,5) Earth and Space – Multiple Choice Which of these would directly lead to the formation of an ignimbrite [IG-nim-brite]? W) Mudslide X) Pyroclastic [PIE-roh-KLAS-tic] flow Y) Transform faulting Z) Sea floor spreading,X) PYROCLASTIC FLOW
+bonus,,Multiple Choice,"5) Earth and Space – Multiple Choice Which of the following describes a typical profile of dissolved oxygen concentration with increasing depth in the North Atlantic ocean? W) Low at the surface, increases with depth X) High at the surface, decreases with depth, then increases with depth Y) High at the surface, decreases with depth Z) Low at the surface, little change with depth","X) HIGH AT THE SURFACE, DECREASES WITH DEPTH, THEN INCREASES WITH
+DEPTH
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,6) Energy – Short Answer Lignin is currently difficult to reduce into its component sugars. Scientists at Lawrence Berkeley National Lab recently discovered a way to reduce the amount of lignin produced in plants by using a molecule that binds to the lignin-precursor site of the HCT enzyme. What type of inhibition is acting in this case?,COMPETITIVE
+bonus,energy,Short Answer,6) Energy – Short Answer Researchers at Lawrence Berkeley National Lab are using x-ray imaging to understand the 3D structure of plant transport systems. What is the name for the general class of techniques they are using in which many 2D images are combined to form a 3D reconstruction?,TOMOGRAPHY
+toss-up,math,Short Answer,7) Math – Short Answer What is 112 – 82?,57
+bonus,math,Short Answer,7) Math – Short Answer What is the coefficient of the a2b term in the binomial expansion of open parenthesis 5a – 8b close parenthesis cubed?,"–600
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"8) Life Science – Multiple Choice In a worm, gene X regulates the phenotypic expression of gene Z. What type of inheritance pattern does gene Z demonstrate? W) Multiple alleles [ah-LEELZ] X) Epistasis [eh-pih-STAY-sis] Y) Polygenic inheritance Z) Codominance",X) EPISTASIS
+bonus,,Short Answer,8) Life Science – Short Answer Signaling pathways that affect gene expression work by modulating the activity of what DNA-binding proteins?,TRANSCRIPTION FACTORS
+toss-up,,Short Answer,9) Physical Science – Short Answer What instrument is used to measure the heat capacity of a material?,CALORIMETER
+bonus,,Short Answer,9) Physical Science – Short Answer Transition metals are characterized as elements with partially-filled configurations of what electron subshell?,"D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,10) Earth and Space – Multiple Choice To what crystal system does halite belong? W) Triclinic X) Monoclinic Y) Orthorhombic Z) Cubic,Z) CUBIC
+bonus,,Short Answer,"10) Earth and Space – Short Answer Identify all of the following three rocks that might exhibit foliation: 1) Schist, 2) Gabbro, 3) Gneiss [nice].",1 AND 3
+toss-up,energy,Multiple Choice,11) Energy – Multiple Choice DOE scientists are studying nanowires as a potential high-surface area conductor in lithium-ion batteries. The high surface area makes these materials most suitable for what part of the battery? W) Cathode X) Cladding Y) Salt bridge Z) Electrolyte,W) CATHODE
+bonus,energy,Short Answer,11) Energy – Short Answer DOE researchers are studying the conducting properties of nanowires made of a metal oxide that is also commonly used for the industrial production of sulfuric acid. What is the name of this metal oxide?,"VANADIUM PENTOXIDE (ACCEPT: V O , VANADIA, VANADIUM (V) OXIDE)
+2 5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"12) Math – Short Answer Solve the following system of two equations for x and y: x + y = 5, x – 4y = 20","(8, –3) (ACCEPT: x = 8, y = –3)"
+bonus,math,Short Answer,12) Math – Short Answer How many diagonals does a convex 17-sided polygon have?,119
+toss-up,,Short Answer,"13) Life Science – Short Answer What family of structural proteins is a major component of wool, hair, fingernails, and epithelial [eh-pih-THEEL-ee-ul] cells?",KERATINS (ACCEPT: KERATIN)
+bonus,,Short Answer,13) Life Science – Short Answer How many nucleotides are in a codon for an amino acid?,"3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,14) Earth and Space – Short Answer Some ground-based telescopes have mirrors that actively monitor and adjust themselves to account for distortions caused by turbulence in the Earth's atmosphere. What is the term for this technology?,ADAPTIVE OPTICS
+bonus,,Short Answer,"14) Earth and Space – Short Answer Identify all of the following three statements that are true of stars: 1) Population one stars contain less metal than population two stars; 2) Population two stars tend to have more elliptical orbits around the galactic center; 3) Population two stars are older, on average, than population one stars.",2 AND 3
+toss-up,math,Short Answer,"15) Math – Short Answer Your scores on your first 4 math tests are 81, 86, 91, and 95. What do you need to score on the fifth test in order to average 90 on the 5 tests?",97
+bonus,math,Short Answer,"15) Math – Short Answer To the nearest integer, what is the length of a space diagonal in a right rectangular prism with edges of length 5, 7, and 12?","15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,"16) Life Science – Multiple Choice To control cross-pollination in his experiments, Gregor Mendel removed what pollen-producing organ of the flower? W) Stamen [STAY-men] X) Pistil Y) Sepal [SEE-pul] Z) Petal",W) STAMEN
+bonus,,Multiple Choice,16) Life Science – Multiple Choice Which of the following structures is reponsible for maintaining homeostasis [home-ee-oh-STAY-sis] in humans? W) Cerebrum [seh-REE-brum] X) Cerebellum [sarah-BELL-um] Y) Thalamus [THAL-ah-mus] Z) Hypothalamus [high-poh-THAL-ah-mus],Z) HYPOTHALAMUS
+toss-up,,Multiple Choice,17) Earth and Space – Multiple Choice Which of the following enables scientists to estimate the strength of the magnetic field associated with sunspots? W) Zeeman effect X) Stark effect Y) Sunspot shape Z) Prominence height,W) ZEEMAN EFFECT
+bonus,,Short Answer,17) Earth and Space – Short Answer Rank the following three nuclei [NEW-klee-eye] in increasing order of minimum ignition temperature before they would begin fusing inside a star: 1) Oxygen; 2) Helium; 3) Carbon.,"2, 3, 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Physical Science – Multiple Choice The removal of silver tarnish by placing it in a bowl containing aluminum foil and a base is an example of which of the following types of reaction? W) Double replacement X) Decomposition Y) Redox Z) Synthesis,Y) REDOX
+bonus,,Short Answer,18) Physical Science – Short Answer Alkaline dry cells are a commonly-used type of voltaic cell. What is the electrolyte in an alkaline dry cell?,POTASSIUM HYDROXIDE
+toss-up,math,Short Answer,"19) Math – Short Answer If the two diagonals of a rhombus have lengths 10 and 6, what is the length of a side of the rhombus?",√34
+bonus,math,Short Answer,"19) Math – Short Answer Jack must create a 4-character password for his account using the following criteria: It must begin with 3 lower-case English letters, followed by one digit. The letters cannot be repeated, and the digit cannot be zero. How many different passwords are possible?","140,400
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Life Science – Short Answer Sister chromatids [CROW-mah-tids] separate during what stage of meiosis [my-OH-sis]?,ANAPHASE II
+bonus,,Short Answer,20) Life Science – Short Answer Identify all of the following three disorders that are likely to be caused by non-disjunction events: 1) Down syndrome; 2) Tay-Sachs [saks]; 3) Turner syndrome.,1 AND 3
+toss-up,,Short Answer,21) Physical Science – Short Answer What is the general term for a circuit that only has one linear path for the electric current to travel through?,SERIES
+bonus,,Short Answer,21) Physical Science – Short Answer An object fully immersed in water weighs 25% less than what it weighs in vacuum. What is the specific gravity of the object?,"4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,22) Earth and Space – Multiple Choice Which of the following sedimentary structures is caused by drying of soft sediments? W) Graded-beds X) Ripples Y) Cross-bedding Z) Mudcracks,Z) MUDCRACKS
+bonus,,Short Answer,22) Earth and Space – Short Answer Place the following three descriptions of Earth’s atmosphere in chronological order: 1) Primarily nitrogen and oxygen; 2) Dominated by outgassing of gases trapped in Earth's interior; 3) Primarily nitrogen and carbon dioxide.,"2, 3, 1"
+toss-up,,Short Answer,23) Physical Science – Short Answer What is the simplest saturated hydrocarbon containing two carbon atoms?,ETHANE
+bonus,,Short Answer,23) Physical Science – Short Answer Identify all of the following three statements that describe the light emitted by a typical continuous wave laser: 1) It is uniformly polarized; 2) It is of single frequency; 3) It is all in the same phase.,ALL

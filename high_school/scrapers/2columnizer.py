@@ -22,12 +22,12 @@ def create_prompt(row):
 
 
 #  cleaning and prompt creation
-df['text'] = df.apply(create_prompt, axis=1)
-df['target'] = df['question'].apply(clean_question_text)
-df['prompt'] = df['text'].astype(str) + " " + df['target'].astype(str)
+df['prompt'] = df.apply(create_prompt, axis=1) 
+df['completion'] = df['question'].apply(clean_question_text)
+#df['prompt'] = df['text'].astype(str) + " " + df['target'].astype(str)
 
 # select only the two columns needed for fine-tuning
-output_df = df[['text', 'target', 'prompt']]
+output_df = df[['prompt', 'completion']]
 
 # write the 2-column csv file to the cleaned data folder
 output_df.to_csv('high_school/cleaned_data/fine_tune_dataset.csv', index=False)

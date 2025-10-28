@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,math,Multiple Choice,1) Math – Multiple Choice Which of the following describes the lines represented by the equations 5x – 6y = 30 and 10x + 12y = 60? W) They are parallel X) They are skew Y) They intersect at exactly one point Z) They are the same line,Y) THEY INTERSECT AT EXACTLY ONE POINT
+bonus,math,Short Answer,"1) Math – Short Answer To the nearest integer, what is the geometric mean of 6 and 55?","18
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,2) Earth and Space – Multiple Choice Which of the following distances is NOT approximately equal to one light year? W) 0.3 parsecs X) 9.5 petameters Y) 3.2 giga-lightseconds Z) 5.9 teramiles,Y) 3.2 GIGA-LIGHTSECONDS
+bonus,,Short Answer,2) Earth and Space – Short Answer Identify all of the following three particles that are freely found in solar wind: 1) Protons; 2) Neutrons; 3) Electrons.,1 AND 3
+toss-up,energy,Short Answer,"3) Physical Science – Short Answer For an inelastic collision, identify all of the following three quantities that are conserved: 1) Momentum; 2) Kinetic energy; 3) Total energy.",1 AND 3
+bonus,,Short Answer,3) Physical Science – Short Answer Identify all of the following three changes that would change the magnitude of the force between two point charges: 1) Reversing the sign of one of the charges; 2) Increasing the distance between the charges; 3) Doubling the first charge and halving the second charge.,"2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,4) Life Science – Multiple Choice A cell is undergoing mitosis and has its paired chromatids [CROW- mah-tids] aligned at the center of the cell. In what stage of mitosis is the cell? W) Telophase X) Prophase Y) Metaphase Z) Interphase,Y) METAPHASE
+bonus,,Multiple Choice,"4) Life Science – Multiple Choice In healthy mammals, which of the following is least likely to be filtered out of the bloodstream by the glomerulus [glo-MAIR-yoo-lus]? W) Albumin [al-BYOO-min] X) Urea Y) Water Z) Potassium",W) ALBUMIN
+toss-up,energy,Short Answer,"5) Energy – Short Answer Rice paddies are flooded fields. Due to microscopic organisms in this swampy environment, rice paddies contribute nearly 20% of all global emissions of what greenhouse gas?","METHANE (ACCEPT: CH )
+4"
+bonus,energy,Short Answer,"5) Energy – Short Answer DOE scientists have been studying pathogenicity in bacteria, which is known to be correlated with DNA supercoiling. To visualize the DNA coiling with HU proteins, the researchers used light from what range of the electromagnetic spectrum?","X-RAY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) Earth and Space – Multiple Choice Which of the following sets of conditions is most conducive to ductile deformation of rock? W) High pressures and high temperatures X) High pressures and low temperatures Y) Low pressures and high temperatures Z) Low pressures and low temperatures,W) HIGH PRESSURES AND HIGH TEMPERATURES
+bonus,,Short Answer,"6) Earth and Space – Short Answer Assuming Pratt isostasy [eye-SAW-stah-see] and giving your answer in kilometers, calculate the height of a mountain range with a mean crustal density of 2500 kilograms per cubic meter if it is in isostatic equilibrium with an adjacent, sea-level plain that is 20 kilometers thick and has a density of 2700 kilograms per cubic meter?",1.6
+toss-up,,Short Answer,"7) Physical Science – Short Answer According to valence bond theory, how many electrons are being shared between two atoms of fluorine in diatomic fluorine gas?",TWO
+bonus,,Short Answer,7) Physical Science – Short Answer Identify all of the following four molecules that are polar: 1) CH ; 4 2) NH ; 3) H O; 4) HF. 3 2,"2, 3, 4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,8) Math – Short Answer Solve the following equation for x: 5 to the power open parenthesis x + 2 close parenthesis = 1/25,–4
+bonus,math,Short Answer,8) Math – Short Answer What is the volume in liters of a circular cylindrical container with a radius of 30 centimeters and a height of 1.1 meters?,99π
+toss-up,,Multiple Choice,9) Life Science – Multiple Choice The human hip is an example of what type of joint? W) Ball-and-socket X) Saddle Y) Hinge Z) Pivot,W) BALL-AND-SOCKET
+bonus,,Short Answer,9) Life Science – Short Answer Identify all of the following three options that are examples of qualitative data: 1) Nick's body temperature is 99 degrees Fahrenheit; 2) Kevin walks slowly; 3) Kate can lift a maximum of 40 pounds.,"2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"10) Energy – Multiple Choice Scientists using the Advanced Photon Source have solved the structure of the glucagon [GLUE-kah-gon] receptor, providing a potential therapeutic target for what disease? W) Breast cancer X) Tay-Sachs [saks] disease Y) Cystic fibrosis Z) Diabetes mellitus",Z) DIABETES MELLITUS
+bonus,energy,Short Answer,"10) Energy – Short Answer Researchers at Pacific Northwest National Lab are studying the dependence of mouse embryo implantation on the levels of what tumor-suppressor gene often lost in cancers, which is named for the molar mass of its protein product?",p53
+toss-up,,Short Answer,11) Earth and Space – Short Answer Which of the terrestrial planets has the largest atmospheric pressure at its surface?,VENUS
+bonus,,Short Answer,11) Earth and Space – Short Answer Identify all of the following four planets that currently have active plate tectonics [tek-TAWN-iks]: 1) Mercury; 2) Venus; 3) Earth; 4) Mars.,"3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,12) Life Science – Multiple Choice What happens to the population of white blood cells when a bacterial infection occurs? W) Increases X) Decreases Y) Stays the same Z) Shifts to red blood cells,W) INCREASES
+bonus,,Multiple Choice,12) Life Science – Multiple Choice FAD [F.A.D.] is a cofactor derived from what vitamin? W) A X) B Y) E Z) K,X) B
+toss-up,math,Short Answer,"13) Math – Short Answer Assuming a gravitational force equal to that on the surface of the Earth, what integer is closest to the weight in pounds of a 6-kilogram mass?",13
+bonus,math,Short Answer,13) Math – Short Answer What is the remainder when the polynomial x3 + 2x2 + x – 7 is divided by x + 4?,"–43
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Multiple Choice,"14) Energy – Multiple Choice Researchers at Brookhaven National Lab are developing sodium-ion batteries as a potential replacement for lithium-ion batteries. However, like lithium-ion batteries, they lose capacity over hundreds of charge cycles. Which of the following best explains the reason for loss in capacity? W) Sodium ions get oxidized to sodium metal over time X) Sodium ions escape the battery enclosure during recharging Y) Irreversible side reactions occur slowly over time Z) Sodium ions get reduced to sodium metal over time",Y) IRREVERSIBLE SIDE REACTIONS OCCUR SLOWLY OVER TIME
+bonus,energy,Multiple Choice,14) Energy – Multiple Choice Argonne National Lab researchers are studying iridium [ih-RID-ee-um] oxide nanoparticles as a catalyst for the water-splitting reaction. Which of the following has the highest concentration of iridium? W) Meteorites X) Earth's crust Y) Earth's mantle Z) Earth's lithosphere,W) METEORITES
+toss-up,,Short Answer,"15) Physical Science – Short Answer According to the Lewis theory of acids and bases, a base is a species that can donate what?",ELECTRONS (ACCEPT: ELECTRON PAIR)
+bonus,,Short Answer,"15) Physical Science – Short Answer What is the formal charge on the central nitrogen atom in nitrous oxide, which has the formula N O? 2","+1 (ACCEPT: 1)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,16) Earth and Space – Multiple Choice Which of the following best describes the watershed of the Mississippi River? W) The land west of the Rocky Mountains X) The land between the Rocky and Appalachian Mountains Y) The land between the Sierra Nevada and Rocky Mountains Z) The land east of the Appalachian Mountains,X) THE LAND BETWEEN THE ROCKY AND APPALACHIAN MOUNTAINS
+bonus,,Short Answer,"16) Earth and Space – Short Answer Identify all of the following three glacial features that consist of sorted, layered sediments: 1) Kames; 2) Eskers; 3) Drumlins.",1 AND 2
+toss-up,,Multiple Choice,17) Life Science – Multiple Choice Which of the following types of enzymes would most likely be involved in changing glucose-6-phosphate to glucose-1-phosphate? W) Isomerase [eye-SAW-mer-ase] X) Phosphatase [FAWS-fa-tase] Y) Kinase [KYE-nayse] Z) Ligase [LYE-gase],W) ISOMERASE
+bonus,,Short Answer,17) Life Science – Short Answer Reflexes are mediated by what major structure in the central nervous system?,"SPINAL CORD
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,18) Math – Short Answer What is the following sum of three fractions: 1/5 + 1/9 + 1/45?,1/3
+bonus,math,Short Answer,18) Math – Short Answer A circle has an area of 49. What is its circumference?,14√π
+toss-up,,Short Answer,19) Physical Science – Short Answer What type of wave is composed of two equally-sized waves that move in opposite directions and interfere continuously with each other?,STANDING
+bonus,,Short Answer,"19) Physical Science – Short Answer On a graph of force versus displacement, what quantity is best represented by the area underneath the curve?","WORK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Earth and Space – Short Answer What greenhouse gas can comprise up to 4 percent of the Earth’s atmosphere?,WATER (ACCEPT: WATER VAPOR)
+bonus,,Short Answer,20) Earth and Space – Short Answer Identify all of the following three items that will influence rock weathering rate: 1) Rock composition; 2) Presence of cracks; 3) Local precipitation.,ALL
+toss-up,,Short Answer,21) Life Science – Short Answer Deoxygenated blood enters the human heart in what chamber?,RIGHT ATRIUM
+bonus,,Short Answer,21) Life Science – Short Answer Identify all of the following three molecules that are proteins: 1) Keratin; 2) Casein [KAY-seen]; 3) Insulin.,"ALL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,22) Math – Short Answer The radius of a sphere is multiplied by 8. By what factor is its surface area multiplied?,64
+bonus,math,Short Answer,"22) Math – Short Answer A certain medication has a 60% success rate of curing people who have a specific illness. If three people with the illness are selected at random and take the medicine, what is the probability that exactly two of the three people will be cured?",54/125 (ACCEPT: 0.432 or 43.2%)
+toss-up,,Multiple Choice,23) Physical Science – Multiple Choice Which of the following metals has the most similar valence electron configuration to silver? W) Iridium X) Rhodium Y) Titanium Z) Gold,Z) GOLD
+bonus,,Short Answer,23) Physical Science – Short Answer Order the following four substances by increasing length of the alkanes that typically compose them: 1) Kerosene; 2) Asphalt; 3) Natural gas; 4) Gasoline.,"3, 4, 1, 2"

@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,1) Physical Science – Multiple Choice Which of the following is NOT an example of a physical change? W) Water vapor condensing X) Magnetizing an iron nail Y) Filing a piece of iron Z) Iron rusting,Z) IRON RUSTING
+bonus,,Short Answer,1) Physical Science – Short Answer Identify all of the following three substances that are mixtures: 1) Juice; 2) Air; 3) Granite.,"ALL OF THEM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,2) Earth and Space – Short Answer An orogeny [or-AW-jeh-nee] results in what type of geologic structure?,MOUNTAINS
+bonus,,Multiple Choice,2) Earth and Space – Multiple Choice Which of the following layers of the atmosphere is closest to earth's surface? W) Exosphere X) Thermosphere Y) Mesosphere Z) Stratosphere,Z) STRATOSPHERE
+toss-up,math,Short Answer,"3) Math – Short Answer The rate at which a factory makes boxes is proportional to the square of the number of people working. If one person produces 6 boxes an hour, how many boxes will 3 people produce in one hour?",54
+bonus,math,Short Answer,"3) Math – Short Answer The mean number of weekly work hours for 15 part-time employees at a store is 17. The mean number of hours for 8 of these employees is 13. To the nearest whole number, what is the mean number of hours for the rest of the 15 employees?","22
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,4) Energy – Short Answer Princeton Plasma Physics Lab-associated scientists are studying drugs that prevent DNA replication. These drugs are used to treat what group of neoplastic diseases?,CANCER
+bonus,energy,Multiple Choice,4) Energy – Multiple Choice The dynamic turnover of soil microbacteria plays an important role in long-term carbon sequestration and is being studied by scientists at Argonne National Lab. Which of the following is NOT a method by which carbon is removed from the soil? W) Decomposition X) Surface erosion Y) Digestion Z) Leaching into ground water,Y) DIGESTION
+toss-up,,Short Answer,"5) Life Science – Short Answer In a plant, what is the term for the region of active growth that contains cells that are actively differentiating?",MERISTEM
+bonus,,Short Answer,5) Life Science – Short Answer What is the term for proteins that act as catalysts?,"ENZYMES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,6) Earth and Space – Short Answer What is the name of the galaxy in which our solar system is found?,MILKY WAY
+bonus,,Short Answer,6) Earth and Space – Short Answer Identify all of the planets in the solar system whose atmospheres are primarily composed of carbon dioxide.,VENUS AND MARS (IN ANY ORDER)
+toss-up,energy,Short Answer,7) Energy – Short Answer Researchers at Argonne National Lab are employing iridium as an additive to the water-splitting reaction that results in a faster rate of reaction. What role is iridium playing in this reaction?,CATALYST
+bonus,energy,Short Answer,7) Energy – Short Answer Researchers at Los Alamos National Lab have developed an AI-based method that better predicts what catastrophic events that can cause soil liquefaction and tsunamis?,"EARTHQUAKES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"8) Math – Short Answer The endpoints of a diameter of a circle have coordinates (3, 4) and (–5, –2). What are the coordinates of the center of the circle?","(–1, 1) (ACCEPT: x = –1 AND y = 1)"
+bonus,math,Short Answer,8) Math – Short Answer What is the largest prime factor of 1755?,13
+toss-up,,Multiple Choice,9) Earth and Space – Multiple Choice A deep-ocean trench can form at which of the following tectonic plate boundaries? W) Ocean-ocean divergent X) Continent-continent convergent Y) Ocean-continent convergent Z) Ocean-continent divergent,Y) OCEAN-CONTINENT CONVERGENT
+bonus,,Multiple Choice,9) Earth and Space – Multiple Choice Which of the following sediment types would make the best aquiclude? W) Clay X) Sand Y) Gravel Z) Cobbles,"W) CLAY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,10) Life Science – Short Answer Order the following four taxonomic ranks from the most general to the most specific: 1) Phylum [FYE- lum]; 2) Genus; 3) Class; 4) Family.,"1, 3, 4, 2"
+bonus,,Short Answer,10) Life Science – Short Answer What protective sheath encasing neurons is lost in disorders such as multiple sclerosis or Charcot [shar-KOH]-Marie-Tooth disease?,MYELIN
+toss-up,energy,Short Answer,11) Energy – Short Answer Physicists at Lawrence Berkeley National Lab are studying distortions in the cosmic microwave background radiation to gain a better understanding of filaments that do not produce any electromagnetic radiation. Of what are these filaments believed to be made?,DARK MATTER (DO NOT ACCEPT: DARK ENERGY)
+bonus,energy,Short Answer,"11) Energy – Short Answer Scientists at SLAC National Accelerator Lab used energetic X-rays to heat water from room temperature to 100,000 degrees Celsius in 75 femtoseconds. Giving your answer in seconds and in scientific notation, how much time is 75 femtoseconds?","7.5 × 10-14
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,12) Physical Science – Short Answer What is the SI derived unit for charge?,COULOMB
+bonus,,Short Answer,"12) Physical Science – Short Answer Andrew is standing in the middle of a scaffolding hanging from a cable at each end such that the tension in each cable is 500 newtons. Andrew takes a step to the left such that the right cable now has a tension of 330 newtons and the scaffolding remains at mechanical equilibrium. In newtons, what is the new tension in the left cable?",670
+toss-up,math,Short Answer,13) Math – Short Answer What is 703?,"343,000"
+bonus,math,Short Answer,"13) Math – Short Answer If angle ABC is inscribed in a circle and measures 63 degrees, what is the degree measure of arc ABC?","234
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,14) Life Science – Multiple Choice Aggregation of tau protein and formation of beta-amyloid plaques are hallmarks of which of the following human diseases? W) Huntington's X) Parkinson's Y) Alzheimer's Z) Lou Gehrig's,Y) ALZHEIMER'S
+bonus,,Multiple Choice,14) Life Science – Multiple Choice Which of the following groups of animals shared the most recent common ancestor with birds? W) Bats X) Lizards Y) Dinosaurs Z) Frogs,Y) DINOSAURS
+toss-up,,Short Answer,15) Physical Science – Short Answer What is the adjective for molecules that have a net dipole moment?,POLAR
+bonus,,Short Answer,15) Physical Science – Short Answer Rank the following three materials in terms of increasing density: 1) Polystyrene; 2) Glass; 3) Gold.,"1, 2, 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"16) Math – Short Answer What is the median of the following list of 6 numbers? 14, 2, 5, 34, 10, 17",12
+bonus,math,Short Answer,16) Math – Short Answer What is the volume of a circular cone formed by rotating a right triangular region with legs of length 9 and 5 about its longer leg?,75π
+toss-up,,Multiple Choice,17) Life Science – Multiple Choice Which of the following is true of osmosis? W) Osmosis is the movement of water from a region of high solute concentration to a region of low solute concentration X) Osmosis is a form of passive transport Y) Osmosis cannot occur across a semi-permeable membrane Z) Osmosis involves the active transport of solute and requires ATP,X) OSMOSIS IS A FORM OF PASSIVE TRANSPORT
+bonus,,Short Answer,17) Life Science – Short Answer Identify all of the following four organisms that are usually classified as secondary consumers: 1) Mushrooms; 2) Grasshoppers; 3) Deer; 4) Spiders.,"4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,18) Earth and Space – Multiple Choice In what geologic era are we currently living? W) Cenozoic [SEN-oh-ZOH-ik] X) Phanerozoic [fah-NAIR-oh-zoh-ik] Y) Mesozoic [MEH-zoh-ZOH-ik] Z) Paleozoic,W) CENOZOIC
+bonus,,Short Answer,"18) Earth and Space – Short Answer Meera and Arjun canoe down a stream for 18 miles. The stream’s elevation is 250 feet above sea level at the start of their journey, and 86 feet above sea level at the end of their journey. Giving your answer to the nearest foot per mile, what is the average gradient of the stream?",9 (ACCEPT: -9)
+toss-up,math,Short Answer,"19) Math – Short Answer The point (4, –7) is reflected over the x-axis. In which quadrant does the reflected point lie?",ONE (ACCEPT: FIRST)
+bonus,math,Short Answer,"19) Math – Short Answer A cell phone plan costs a fixed rate per month plus a charge per text message. One month, Sue had 400 texts and her total bill was $37. The next month, she had 1000 texts and her total bill was $61. In dollars, what is the fixed rate per month?","21
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Physical Science – Short Answer Coefficients of friction relate the frictional force on an object to what other force acting upon it?,NORMAL
+bonus,,Short Answer,"20) Physical Science – Short Answer An object that is uniformly accelerating along the x-axis is located at x = 0 at t = 0, x = 1 at t = 1, and x = 4 at t = 2. What will be its x-coordinate at t = 13?",169
+toss-up,,Short Answer,21) Earth and Space – Short Answer What terrestrial planet in the solar system has the thickest atmosphere?,VENUS
+bonus,,Short Answer,21) Earth and Space – Short Answer Pulsars are an example of what type of star?,"NEUTRON STAR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,22) Life Science – Short Answer Speciation [spee-see-AY-shun] can result in organisms that are unable to interbreed and produce viable offspring. What type of barrier is this?,REPRODUCTIVE ISOLATION
+bonus,,Short Answer,22) Life Science – Short Answer Identify all of the following three statements that are true of Archaeans: 1) They have cell walls containing peptidoglycan [peptihdo-GLY-can]; 2) They are unicellular; 3) They can be autotrophs.,"2, 3"
+toss-up,,Short Answer,"23) Physical Science – Short Answer One of the first successes of quantum mechanics was the resolution of the ultraviolet catastrophe, an inconsistency in the classical model of the spectrum of what type of object?",BLACKBODY
+bonus,,Short Answer,23) Physical Science – Short Answer Identify all of the following three quantities that are vectors: 1) Velocity; 2) Speed; 3) Mass.,1

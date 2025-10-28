@@ -1,0 +1,58 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,1) Earth & Space – Short Answer A persistent drop in sea surface temperatures across the Eastern equatorial Pacific is indicative of what oscillatory [AW-sil-ah-tory] global phenomenon?,LA NIÑA
+bonus,,Multiple Choice,1) Earth & Space – Multiple Choice Minerals belonging to which of the following mineral groups have two distinct cleavage planes that meet at approximately 60 and 120 degrees? W) Feldspar X) Amphibole [AM-fih-bowl] Y) Mica Z) Pyroxene [pie-ROX-een],"X) AMPHIBOLE
+******************"
+toss-up,,Short Answer,2) Life Science – Short Answer What layer of the eye is responsible for absorbing light and sending that information to the optic nerve?,RETINA
+bonus,,Short Answer,2) Life Science – Short Answer What retroviral [retro-viral] enzyme catalyzes the formation of DNA from a viral RNA template?,REVERSE TRANSCRIPTASE
+toss-up,energy,Multiple Choice,3) Energy – Multiple Choice Researchers at Idaho National Lab are working to improve nuclear reactor safety by preventing lanthanides [LAN-tha-nides] from causing damage. What atomic orbital generally contains the highest energy electrons for neutral lanthanide atoms? W) P X) S Y) F Z) G,Y) F
+bonus,energy,Short Answer,"3) Energy – Short Answer Oak Ridge National Lab researchers are studying the behavior of lanthanum [LAN-tha-num] cobaltite [KOH-ball-tite], which is a material made of lanthanum, cobalt, and what other element?","OXYGEN (ACCEPT: O)
+******************"
+toss-up,,Short Answer,4) Physical Science – Short Answer What type of simple machine is a knife?,INCLINED PLANE (ACCEPT: WEDGE)
+bonus,,Short Answer,"4) Physical Science – Short Answer A torque [tork] applied by the brakes on a bicycle wheel that was initially spinning at 6 radians per second causes it to spin to a halt in a half of a second. To the nearest revolution per second squared, what was the magnitude of the angular acceleration of the wheel in this time?",2
+toss-up,math,Short Answer,"5) Math – Short Answer If 4x + 3y equals 12 and y equals 4y, what is x?",3
+bonus,math,Short Answer,"5) Math – Short Answer There are 60 attendees at a basketball camp. If 55% are male and 25% are left-handed, what is the largest possible number of campers who are right-handed and female?","27
+******************"
+toss-up,,Short Answer,6) Earth & Space – Short Answer The position of Neptune was predicted by J.C. Adams and U.J. Leverrier [lur-vair-ee-ay] using Newtonian [new-TOH-nee-en] mechanics to explain observed anomalies in the orbit of what other planet?,URANUS
+bonus,energy,Short Answer,"6) Earth & Space – Short Answer What is the primary source of high-energy, charged particles that make up the Van Allen belts?",SOLAR WIND
+toss-up,,Short Answer,"7) Life Science – Short Answer While most complexes in the cell are made of proteins, ribosomes are mostly composed of protein and what other macromolecule?","NUCLEIC ACIDS (ACCEPT: RNA, RIBONUCLEIC ACIDS; DO NOT ACCEPT: DNA)"
+bonus,,Multiple Choice,7) Life Science – Multiple Choice Amylase [AM-il-ace] catalyzes the digestion of starch into sugars. The presence of high amounts of amylase in the blood is likely to be associated with dysfunction of which of the following organs? W) Pancreas X) Kidney Y) Brain Z) Heart,"W) PANCREAS
+******************"
+toss-up,,Multiple Choice,"8) Physical Science – Multiple Choice Mary has a scale, which she decides to calibrate using a one- kilogram mass. Which of the following sets of measurements in kilograms reflect the most precise calibration? W) 2.1, 2.1, 2.0 X) 0.6, 1.0, 1.4 Y) 1.0, 0.8, 0.6 Z) 0.7, 1.3, 1.0","W) 2.1, 2.1, 2.0"
+bonus,,Short Answer,"8) Physical Science – Short Answer Alison has two vertical pistons with areas of 10 meters squared and 300 meters squared, respectively, that are connected via a liquid-filled tube. If she wants to exert an upward force of 4,500 newtons on the larger piston, then, in newtons, how much force should she exert downward on the smaller piston?",150
+toss-up,math,Multiple Choice,9) Math – Multiple Choice Which of the following best describes the lines represented by the equations 4x – 7y = 28 and 8x + 14y = 56? W) They are parallel X) They are skew Y) They intersect at exactly one point Z) They are the same line,Y) THEY INTERSECT AT EXACTLY ONE POINT
+bonus,math,Short Answer,"9) Math – Short Answer If a 30-degree sector of a circle has area 29 pi, then, to the nearest whole number, what is the radius of the circle?","19
+******************"
+toss-up,energy,Short Answer,10) Energy – Short Answer Scientists at Lawrence Livermore National Lab are exploring how to 3D print mechanical logic gates. Identify all of the following four logical computations which result in a one: 1) Not zero; 2) One and zero; 3) One or zero; 4) One exclusive or zero.,"1, 3, 4"
+bonus,energy,Short Answer,10) Energy – Short Answer Researchers at Sandia National Lab are working to build a quantum computer that will be available to many scientists to use. What is the term for the basic unit of information storage in a quantum computer?,QUBIT (ACCEPT: QUANTUM BIT)
+toss-up,,Multiple Choice,11) Earth & Space – Multiple Choice In which of the following geologic periods did dinosaurs and mammals live simultaneously? W) Cambrian X) Carboniferous Y) Paleogene Z) Jurassic,Z) JURASSIC
+bonus,,Multiple Choice,11) Earth & Space – Multiple Choice A large crater-like depression that remains after the roof collapses on an empty magma chamber is which of the following? W) Volcanic dome X) Parasitic cone Y) Caldera [kahl-DARE-ah] Z) Shield,"Y) CALDERA
+******************"
+toss-up,,Short Answer,12) Physical Science – Short Answer Electrical utility poles often have large cylindrical devices attached that convert high voltage currents into lower voltages suitable for residential use. What is the term for these devices?,TRANSFORMER
+bonus,,Short Answer,12) Physical Science – Short Answer Identify all of the following three waves that are purely transverse waves: 1) Water waves; 2) Light waves; 3) Pressure waves.,2
+toss-up,math,Short Answer,"13) Math – Short Answer A fair 20-sided die has faces numbered with the integers from 1 through 20. If it is rolled once, what is the probability that the result is a multiple of 3?","3/10 (ACCEPT: 0.3, 30%)"
+bonus,math,Short Answer,13) Math – Short Answer A circle has an area of 64. What is its circumference?,"16√π
+******************"
+toss-up,,Multiple Choice,14) Earth & Space – Multiple Choice Which layer of the Sun emits most of the light that is received by Earth? W) Corona X) Chromosphere Y) Photosphere Z) Flare,Y) PHOTOSPHERE
+bonus,,Multiple Choice,"14) Earth & Space – Multiple Choice Which of the following describes stars that are plotted on the bottom left of the HR diagram? W) Low temperature, low luminosity X) Low temperature, high luminosity Y) High temperature, low luminosity Z) High temperature, high luminosity","Y) HIGH TEMPERATURE, LOW LUMINOSITY"
+toss-up,energy,Short Answer,"15) Physical Science – Short Answer What state function has a low value for crystalline solids and a high value for gases, and quantifies the number of different ways a system can be arranged at a given energy?",ENTROPY
+bonus,,Multiple Choice,"15) Physical Science – Multiple Choice In Thomson’s experiments with cathode ray tubes, he noted that the presence of a magnet caused the cathode rays to bend. What did he conclude from this observation? W) Cathode rays are made of charged particles X) Cathode rays are made of electrons Y) Cathode rays are massless Z) Cathode rays are less massive than the hydrogen atom","W) CATHODE RAYS ARE MADE OF CHARGED PARTICLES
+******************"
+toss-up,,Multiple Choice,16) Life Science – Multiple Choice Which of the following best portrays an example of evolution by natural selection that has been directly observed in modern times? W) Seedlessness in watermelons X) Speciation of great apes Y) Domestication of cattle Z) Antibiotic resistance in bacteria,Z) ANTIBIOTIC RESISTANCE IN BACTERIA
+bonus,,Short Answer,16) Life Science – Short Answer The discovery of iron-containing fragments in the skulls of birds suggests that they use what phenomenon to navigate during migrations?,"MAGNETISM (ACCEPT: EARTH'S MAGNETIC FIELD, MAGNETIC FIELD)"
+toss-up,energy,Multiple Choice,"17) Energy – Multiple Choice Scientists at Oak Ridge National Lab are using the Summit supercomputer, which has 200 petaflops of computational power. Which of the following correctly represents the number of floating-point operations per second of which this computer is capable? W) 2 times 10 to the 9 X) 2 times 10 to the 11 Y) 2 times 10 to the 14 Z) 2 times 10 to the 17",Z) 2 TIMES 10 TO THE 17
+bonus,energy,Short Answer,17) Energy – Short Answer Researchers at the National Renewable Energy Lab are using microscopy to improve the recycling of lithium-ion batteries. What kind of microscope do they use to image structures smaller than a micron in lithium-ion batteries?,"ELECTRON MICROSCOPE (ACCEPT: SCANNING ELECTRON MICROSCOPE, S.E.M.)
+******************"
+toss-up,math,Short Answer,"18) Math – Short Answer If a triangle has two sides with respective lengths of 20 and 30, what is the maximum possible integer length of the third side?",49
+bonus,math,Short Answer,"18) Math – Short Answer What is the y-coordinate of the y-intercept of the line with slope –5/6 that contains the point (–4, 7)?",11/3 (ACCEPT: 3 2/3)
+toss-up,,Multiple Choice,19) Earth & Space – Multiple Choice Which of the following best defines a geologic unconformity? W) A time gap in the rock record X) A contact between an igneous and a sedimentary [sed-ih-MEN-taree] rock Y) The zone of deformation around an active fault Z) A rock layer of unknown origin,W) A TIME GAP IN THE ROCK RECORD
+bonus,,Short Answer,"19) Earth & Space – Short Answer Kate is performing field work in an area that is suspected to have coal deposits. She finds that the coal has a particularly high carbon content of about 92%, and the layered deposits are highly deformed and folded. What type of coal did Kate most likely find?","ANTHRACITE
+******************"
+toss-up,,Multiple Choice,20) Life Science – Multiple Choice Most nerves in mammals are covered with a sheath of myelin [MY-ah-lin]. Which of the following is the main function of this layer? W) Sending larger impulses X) Increasing structural stability Y) Speeding up transmission Z) Protection from pathogens,Y) SPEEDING UP TRANSMISSION
+bonus,,Short Answer,20) Life Science – Short Answer Most bacteria undergo a form of asexual reproduction in which the cells divide into two. What is the term for this type of reproduction?,FISSION (ACCEPT: BINARY FISSION; DO NOT ACCEPT: MITOSIS)
+toss-up,,Short Answer,21) Physical Science – Short Answer Identify all of the following three properties of a substance that are size-independent: 1) State of matter; 2) Volume; 3) Density.,"1, 3"
+bonus,,Short Answer,"21) Physical Science – Short Answer A 500-cubic centimeter object is lowered into water and it displaces 2.94 newtons of water before it stops sinking. To the nearest tenth, what is the specific gravity of this object?","0.6
+******************"
+toss-up,math,Short Answer,22) Math – Short Answer What is the product of the two fractions 2 2/5 and 2 1/2?,6
+bonus,math,Short Answer,22) Math – Short Answer Simplify √1680.,4√105
+toss-up,,Short Answer,23) Life Science – Short Answer What part of a neuron carries a nerve impulse from the cell body to other neurons or muscles?,AXON
+bonus,,Short Answer,23) Life Science – Short Answer During what phase of meiosis [my-OH-sis] does crossing over occur?,PROPHASE I (ACCEPT: PACHYTENE; DO NOT ACCEPT: PROPHASE)

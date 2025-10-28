@@ -1,0 +1,57 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,1) Math – Short Answer Evaluate the following expression: -19 minus the absolute value of -24.,-43
+bonus,math,Multiple Choice,"1) Math – Multiple Choice Which of the following pizzas has the greatest total area: W) A rectangular pizza, 18 inches by 12 inches X) A square pizza, 15 inches by 15 inches Y) A circular pizza with 14-inch diameter Z) A circular pizza with 8-inch radius","X) A SQUARE PIZZA, 15 INCHES BY 15 INCHES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,"2) Energy – Short Answer Because of its volcanic “hot spots,” the Pacific Rim is an important area for generation of what type of renewable energy?",GEOTHERMAL ENERGY
+bonus,energy,Short Answer,"2) Energy – Short Answer In passive solar homes located in the United States, most of the windows face in what cardinal direction?",SOUTH
+toss-up,,Short Answer,3) General Science – Short Answer Which of the following is an ecosystem service provided by the ocean? W) Providing safe passage to mariners X) Restricting access to deep-ocean species Y) Sanitizing water in the hydrologic cycle Z) Absorbing heat from the sun's light,Z) ABSORBING HEAT FROM THE SUN'S LIGHT
+bonus,,Short Answer,3) General Science – Short Answer Heavy water differs from light water because the hydrogen atoms in light water are replaced by what in heavy water?,"DEUTERIUM (ACCEPT: HYDROGEN-2, HEAVY HYDROGEN)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,4) Earth and Space – Multiple Choice During which of the following situations will sundogs be visible? W) Solar eclipse X) Lunar eclipse Y) Full moon Z) Aphelion,W) SOLAR ECLIPSE
+bonus,,Multiple Choice,4) Earth and Space – Multiple Choice Fossils are usually found in what type of rock? W) Sedimentary X) Igneous Y) Metamorphic Z) Tuffaceous,W) SEDIMENTARY
+toss-up,,Multiple Choice,5) Physical Science – Multiple Choice Vinegar is a liquid solution containing acetic acid and water. It could be accurately classified as which of the following? W) Colloid X) Compound Y) Homogeneous mixture Z) Heterogeneous mixture,Y) HOMOGENEOUS MIXTURE
+bonus,,Short Answer,5) Physical Science – Short Answer Balance the following equation using simplest whole number coefficients: Al + HCl yields AlCl + H 3 2,"2Al + 6HCl yields 2AlCl + 3H
+3 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,6) Life Science – Multiple Choice What type of animal tissue is found in the ears and nose as structural support? W) Blood X) Cartilage Y) Adipose Z) Bone,X) CARTILAGE
+bonus,,Short Answer,6) Life Science – Short Answer Starch and glycogen are polymers of what simple sugar?,GLUCOSE (ACCEPT: ALPHA-GLUCOSE OR D-GLUCOSE)
+toss-up,,Multiple Choice,"7) Physical Science – Multiple Choice In a circuit, electrons and electric current flow in what respective directions? W) Negative to positive; negative to positive X) Negative to positive; positive to negative Y) Positive to negative; positive to negative Z) Positive to negative; negative to positive",X) NEGATIVE TO POSITIVE; POSITIVE TO NEGATIVE
+bonus,,Multiple Choice,7) Physical Science – Multiple Choice You accidentally drop a drinking glass. After the glass left your hand: W) The inertia of Earth pulled the glass down X) Gravity caused the glass to fall at a constant rate Y) Gravity caused the glass to fall faster and faster Z) The equal and opposite forces of gravity and air resistance acted upon it,"Y) GRAVITY CAUSED THE GLASS TO FALL FASTER AND FASTER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Multiple Choice,8) Life Science – Multiple Choice Which of the following cell organelles is responsible for the function of respiration? W) Endoplasmic reticulum X) Lysosomes Y) Mitochondria Z) Golgi apparatus,Y) MITOCHONDRIA
+bonus,,Short Answer,8) Life Science – Short Answer What type of plant culturing method involves growing plants in mineral solutions instead of in soil?,HYDROPONICS
+toss-up,math,Short Answer,"9) Math – Short Answer Given f inverse of x equals 5x, find f(x).",x/5
+bonus,math,Multiple Choice,9) Math – Multiple Choice A triangle has two sides with lengths of 9 and 13. Which of the following choices is not a possible length for the missing side? W) 3 X) 5 Y) 20 Z) 21 ANSWER W) 3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ TOSS-UP 10) Earth and Space – Multiple Choice Which of the following can form when calcium ions precipitate from solution? W) Calcite X) Acid rain Y) Carbonic acid Z) Chert,W) CALCITE
+bonus,,Multiple Choice,10) Earth and Space – Multiple Choice Which of the following glacial features forms at the foot of a glacier? W) Drumlins X) Playa lakes Y) Kettle lakes Z) Moraines,Z) MORAINES
+toss-up,,Short Answer,11) General Science – Short Answer What second magnitude star is found closest to the north celestial pole and is often called the north star?,POLARIS
+bonus,,Short Answer,11) General Science – Short Answer How many embryonic leaves do dicot seedlings have?,"TWO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,12) Energy – Short Answer “Eternal flames” that burned when the ground was ignited during lightning storms was an example of what resource seeping out of the ground?,NATURAL GAS (ACCEPT: METHANE)
+bonus,energy,Short Answer,12) Energy – Short Answer What term refers to the total quantity of electricity a utility company has on hand at any given time?,CAPACITY
+toss-up,,Short Answer,13) General Science – Short Answer What logarithmic scale is used to describe the acidity or alkalinity of a solution?,pH SCALE
+bonus,,Short Answer,"13) General Science – Short Answer How many feet and inches, to the nearest inch, is 152 centimeters?","5 FEET 0 INCHES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,"14) Math – Short Answer What is the volume of a cube, in cubic feet, if one edge is 4 inches long?",1/27
+bonus,math,Multiple Choice,"14) Math – Multiple Choice A cell phone plan costs a fixed rate per month plus 5 cents per text message sent and 10 cents for every minute used over 100 hours. If Michelle sent 100 text messages, used 30.5 hours, and paid $25, how much is the fixed rate per month? W) $20 X) $22 Y) $24 Z) $26",W) $20
+toss-up,,Short Answer,15) Earth and Space – Short Answer What solar feature follows an 11 year cycle?,SUNSPOTS
+bonus,,Short Answer,"15) Earth and Space – Short Answer On average, seawater in the world’s oceans has a salinity of about 35 grams per liter. What are the two elements that contribute the most salinity in seawater?","SODIUM AND CHLORINE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,"16) Life Science – Short Answer In the traditional 5 Kingdom classification of organisms, four of the 5 Kingdoms are Animalia, Plantae, Fungi, and Protista. What is the fifth?",MONERA
+bonus,,Short Answer,16) Life Science – Short Answer Jellyfish belong to what phylum?,CNIDARIA
+toss-up,,Multiple Choice,17) Physical Science – Multiple Choice The position of an element in the periodic table is determined by its: W) Atomic mass X) Density Y) Chemical activity Z) Atomic number,Z) ATOMIC NUMBER
+bonus,,Short Answer,17) Physical Science – Short Answer What is the name of the process by which a gas bypasses the liquid phase to become a solid?,"DEPOSITION
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,energy,Short Answer,18) Energy – Short Answer The amount of oil obtained from a given well can be increased by pumping carbon dioxide gas into the well. What is this method called?,ENHANCED OIL RECOVERY (ACCEPT: TERTIARY PHASE RECOVERY)
+bonus,energy,Short Answer,18) Energy – Short Answer The Haber process is used for the industrial production of what basic compound?,AMMONIA
+toss-up,,Multiple Choice,19) General Science – Multiple Choice How many moons does the planet Mars have? W) 1 X) 2 Y) 3 Z) 4,X) 2
+bonus,,Short Answer,19) General Science – Short Answer The usage of compounds based on what metal as an antiknocking agent was banned after the discovery that they cause extremely hazardous emissions?,"LEAD
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,,Short Answer,20) Life Science – Short Answer What cells in a leaf surround the stomata?,GUARD CELLS
+bonus,,Multiple Choice,20) Life Science – Multiple Choice What is the innermost layer of the root cortex? W) Endodermis X) Cortex Y) Pericycle Z) Pith,W) ENDODERMIS
+toss-up,,Multiple Choice,21) Physical Science – Multiple Choice An inorganic binary compound always has a name that ends with what suffix? W) i-t-e X) a-t-e Y) i-d-e Z) o-u-s,Y) I-D-E
+bonus,,Multiple Choice,21) Physical Science – Multiple Choice Why do noble gases almost never form chemical bonds? W) It is difficult for gases to form bonds X) They have filled outer valence shells Y) They have very small atomic radii Z) They are very rare,"X) THEY HAVE FILLED OUTER VALENCE SHELLS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+toss-up,math,Short Answer,22) Math – Short Answer What percentage of $2000 is $400?,20
+bonus,math,Short Answer,"22) Math – Short Answer What are the sum of the roots and the product of the roots, respectively, for the following quadratic equation: 2x2 + 6x – 5 = 0",SUM = –3; PRODUCT = –5/2
+toss-up,,Short Answer,23) Earth and Space – Short Answer What is the name for the weak tides that occur when the Moon and the Sun's gravity oppose one another?,NEAP TIDES
+bonus,,Short Answer,23) Earth and Space – Short Answer What type of stars do not have sufficient mass to fuse hydrogen?,BROWN DWARF
