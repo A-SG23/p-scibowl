@@ -1,0 +1,69 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,"How many right triangles ABC can be constructed satisfying the following: side A = 4 units, angle A = 30°, and side C = 12 units?",NO SOLUTIONS (ACCEPT: ZERO; NONE)
+bonus,math,Multiple Choice,"Given quadrilateral ABCD where AB = 6, BC = 5, CD = 5, DA = x, angle BCA = 50°, and angle ACD = 60°, which of the following is TRUE about x? W) x > 6 X) x = 6 Y) 5 < x < 6 Z) x < 6","W) x > 6
+_______________________________________________________"
+toss-up,,Multiple Choice,2) LIFE SCIENCE Multiple Choice Which of the following junctions forms a water-tight seal? W) Gap junctions X) Plasmodesmata Y) Tight junctions Z) Adherent junctions,Z) ADHERENT JUNCTIONS
+bonus,,Short Answer,"2) LIFE SCIENCE Short Answer By name or number, identify all of the following four organisms that can live in the soil: 1) actinomycetes, 2) chilopoda, 3) isopoda, 4) pelecypoda.","ACTINOMYCETES, CHILOPODA, ISOPODA, PELECYPODA (ACCEPT: 1, 2, 3,
+AND 4 OR ALL)"
+toss-up,energy,Multiple Choice,Which of the following isotopes is unstable? W) Krypton-80 X) Gadolinium-152 Y) Dysprosium-158 Z) Osmium-192,X) GADOLINIUM-152
+bonus,energy,Short Answer,What two isotopes of iodine are produced by the fission of uranium atoms during the operation of nuclear reactors?,"IODINE-129 AND IODINE-131
+_______________________________________________________"
+toss-up,,Multiple Choice,4) PHYSICAL SCIENCE Multiple Choice Which of the following distinguishes fermions from bosons? W) Speed X) Spin Y) Mass Z) Charge,X) SPIN
+bonus,,Short Answer,"4) PHYSICAL SCIENCE Short Answer Using the noble gas abbreviation, what is the electron configuration of the S2 ion? −",[Ne]3s23p6
+toss-up,,Short Answer,5) LIFE SCIENCE Short Answer What does the word “apterygota” mean?,WITHOUT WINGS
+bonus,,Short Answer,5) LIFE SCIENCE Short Answer What is the family name of the hedgehog?,"ERINACEIDAE
+_______________________________________________________"
+toss-up,math,Multiple Choice,For what real values of x is the function x2 (cid:0) 6x (cid:0) 40 defined? W) -10 < x < 4 X) -4 < x < 10 Y) All x that do not lie in the closed interval from -10 to 4 Z) All x that do not lie in the open interval -4 to 10,Z) ALL x THAT DO NOT LIE IN THE OPEN INTERVAL -4 TO 10
+bonus,math,Short Answer,"Michelle can mow a lawn in 5 hours, Steven can mow a lawn in 4 hours, and Bill can mow it in 3 1/2 hours. As a mixed number in simplest form, how long will it take them in hours to mow the lawn together? 37","1
+103"
+toss-up,,Multiple Choice,"7) GENERAL SCIENCE Multiple Choice Which of the following statements is NOT true about amber? W) It is equivalent to tree resins, which have hardened due to loss of their volatiles X) Polymerization takes over one hundred thousand years Y) It is not soluble in alcohol, acetone, or gasoline Z) It is an organic substance, not a mineral","W) IT IS EQUIVALENT TO TREE RESINS, WHICH HAVE HARDENED DUE TO
+LOSS OF THEIR VOLATILES"
+bonus,,Short Answer,7) GENERAL SCIENCE Short Answer What is the name of the sensory organs in sharks that allow them to sense electric fields?,"AMPULLAE OF LORENZINI
+_______________________________________________________"
+toss-up,,Short Answer,8) EARTH AND SPACE SCIENCE Short Answer What convection-related weather phenomenon results in poleward transport of air from lower latitudes?,POLAR VORTEX (ACCEPT: POLAR CELLS)
+bonus,,Short Answer,8) EARTH AND SPACE SCIENCE Short Answer Of what mineral are the oldest crystals on Earth composed?,ZIRCONIUM SILICATE (ACCEPT: ZIRCON)
+toss-up,,Multiple Choice,9) GENERAL SCIENCE Multiple Choice Which of the following solids has the highest solubility at 100° Celsius? W) Potassium bromide X) Sodium chloride Y) Cerium sulfate Z) Sodium chlorate,Z) SODIUM CHLORATE
+bonus,,Short Answer,9) GENERAL SCIENCE Short Answer What is the subclass of the molluscan class Cephalopoda corresponding to most living cephalopods?,"COLEOIDEA (ACCEPT: NEOCOLEOIDEA)
+_______________________________________________________"
+toss-up,,Multiple Choice,10) LIFE SCIENCE Multiple Choice Which of the following is NOT a member of the order Cetacea? W) Manatees X) Dolphins Y) Whales Z) Porpoises,W) MANATEES
+bonus,,Short Answer,"10) LIFE SCIENCE Short Answer By name or number, indicate all of the following three organisms that are examples of macrozooplankton: 1) cladocerans (read as: klah-DOH-seh- rahns), 2) rotifers, 3) adult copepods.",CLADOCERANS AND ADULT COPEPODS (ACCEPT: 1 AND 3)
+toss-up,,Multiple Choice,11) GENERAL SCIENCE Multiple Choice Which of the following components of the human body did NOT form from the mesoderm? W) Muscles X) Reproductive system Y) Nervous system Z) Kidneys,Y) NERVOUS SYSTEM
+bonus,,Short Answer,"11) GENERAL SCIENCE Short Answer What is the latitude, including degrees and minutes, above which the Sun does not set on the day of the summer solstice and does not rise on the day of the winter solstice?","66 DEGREES, 32 MINUTES NORTH (ACCEPT: 66 DEGREES, 32 MINUTES;
+ACCEPT ANSWERS WITHIN 5 MINUTES)
+_______________________________________________________"
+toss-up,math,Short Answer,What is the absolute value of the complex number 4 – 3i?,5
+bonus,math,Short Answer,"Given f(x) = x, express a single function g(x) that results from the transformations on f(x) in the following order: a horizontal shift of 5 units to the left, a vertical stretch by a factor of 3, and a reflection over the y-axis.",g(x) = 3 -x + 5
+toss-up,energy,Short Answer,13) PHYSICAL SCIENCE Short Answer What technical term is used to describe a gas that is so dense that the molecules are forced into different quantum energy levels?,DEGENERATE
+bonus,,Multiple Choice,13) PHYSICAL SCIENCE Multiple Choice Which of the following BEST describes Huygens’ principle? W) A form of wave diffraction that occurs when field waves are passed through an aperture or slit X) A model of wave propagation through space by formation of spherical fronts Y) A model of wave motion that states that a wave is a disturbance that travels through space and time Z) A process of diffraction that occurs when a wave passes through an aperture and diffracts in the near field,"X) A MODEL OF LIGHT PROPAGATION THROUGH SPACE BY FORMATION OF
+SPHERICAL FRONTS
+_______________________________________________________"
+toss-up,,Multiple Choice,14) LIFE SCIENCE Multiple Choice Which of the following neurotransmitters is utilized at all vertebrate neuromuscular junctions? W) Serotonin X) Gamma aminobutyrate Y) Acetylcholine Z) Norepinephrine,Y) ACETYLCHOLINE
+bonus,,Multiple Choice,14) LIFE SCIENCE Multiple Choice Barr bodies are produced as a result of which of the following? W) Cell differentiation X) Translational control Y) X-chromosome inactivation Z) Selective gene expression,Y) X-CHROMOSOME INACTIVATION
+toss-up,energy,Multiple Choice,"15) GENERAL SCIENCE Multiple Choice Under certain conditions, reaction A has a Gibbs free energy value of -3 kilocalories per mole, while reaction B has a Gibbs free energy value of -300 kilocalories per mole. Which of the two reactions has a faster reaction rate under these conditions? W) Reaction A X) Reaction B Y) Neither A or B, because both are nonspontaneous under these conditions Z) Such a relationship cannot be determined under the given conditions","Z) SUCH A RELATIONSHIP CANNOT BE DETERMINED UNDER THE GIVEN
+CONDITIONS"
+bonus,,Multiple Choice,"15) GENERAL SCIENCE Multiple Choice At 132 feet below the ocean surface, by how much does the pressure exceed that at the surface? W) 7 bars X) 13.2 bars Y) 42.1 psi Z) 58.8 psi","Z) 58.8 psi
+______________________________________________________"
+toss-up,,Multiple Choice,"16) PHYSICAL SCIENCE Multiple Choice When each of the following metals is added to a dilute solution of hydrochloric acid, which will react the fastest? W) Magnesium X) Copper Y) Aluminum Z) Lead",W) MAGNESIUM
+bonus,,Short Answer,16) PHYSICAL SCIENCE Short Answer What is the term describing a type of molecule that lacks an internal plane of symmetry and has a non-superimposable mirror image?,CHIRAL (DO NOT ACCEPT: ASYMMETRIC)
+toss-up,,Multiple Choice,"17) EARTH AND SPACE SCIENCE Multiple Choice The crew of a fishing vessel on the equator notices that their nets, hanging several meters below the ship, are drifting in the opposite direction of their boat. This is a result of which of the following currents? W) Equatorial counter current X) Equatorial undercurrent Y) Meridional transport current Z) Atlantic subcurrent",X) EQUATORIAL UNDERCURRENT
+bonus,,Short Answer,"17) EARTH AND SPACE SCIENCE Short Answer What is the name of the climatic event that occurred between 12,800 and 11,500 years ago due to the cessation of the North Atlantic Deep Ocean Current?","THE YOUNGER DRYAS
+_______________________________________________________"
+toss-up,,Multiple Choice,18) PHYSICAL SCIENCE Multiple Choice Which of the following devices would need a step- up transformer to work properly in your home? W) Electronic game X) Doorbell Y) CRT Television Z) Portable CD player,Y) CRT TELEVISION
+bonus,,Multiple Choice,"18) PHYSICAL SCIENCE Multiple Choice Assuming equal lengths of copper wire, which of the following gauges of wire would have the greatest load? W) 12 gauge at 100°Celsius X) 12 gauge at 20°Celsius Y) 8 gauge at 100°Celsius Z) 8 gauge at 20°Celsius",W) 12 GAUGE AT 100°CELSIUS
+toss-up,energy,Multiple Choice,"Two charged particles, X and Y, are 1 meter apart. X has a charge of 2 coulombs and Y has a charge of 1 coulomb. Which of the following is TRUE of the magnitude of the force of X on Y? W) It has twice the magnitude of the force of Y on X X) It has half the magnitude of the force of Y on X Y) It has the same magnitude as the force of Y on X Z) It has four times the magnitude of the force of Y on X",Y) IT HAS THE SAME MAGNITUDE AS THE FORCE OF Y ON X
+bonus,energy,Short Answer,"In Fort Collins, Colorado, the FortZED project has a mission to transform the downtown area and main campus of Colorado State University into a net zero energy district. By number, identify all of the following five components that are part of this net zero approach: 1) reduction of peak energy demand; 2) solar thermal systems; 3) micro-wind turbines; 4) nuclear power plant; 5) vehicle to grid vehicles.","1, 2, 3, 5
+_______________________________________________________"
+toss-up,math,Short Answer,"What is the name of the fractal that is built by starting with an equilateral triangle, removing the inner third of each side, building another equilateral triangle at the location where the side was removed, and then repeating the process indefinitely?",KOCH SNOWFLAKE (ACCEPT: KOCH ISLAND)
+bonus,math,Short Answer,"1 20) MATH Short Answer If the real functions f and g are defined by f = and g = 3x (cid:0) 9 , x2(cid:0) 6 what is the domain of the composite function f(g(x))?","[3, 5) ∪ (5, ∞) OR ALL x ≥ 3, x ≠ 5"
+toss-up,,Short Answer,"21) EARTH AND SPACE SCIENCE Short Answer Kaolinite, montmorillonite, illite, and smectite are all examples of what kind of mineral?",CLAY (ACCEPT: PHYLLOSILICATE)
+bonus,,Short Answer,21) EARTH AND SPACE SCIENCE Short Answer The gradational series that includes the formation of garnet as an intermediate grade metamorphism in pelites is known as what type of metamorphism?,"BARROVIAN
+_______________________________________________________"
+toss-up,,Multiple Choice,22) PHYSICAL SCIENCE Multiple Choice Which of the following molecules has the highest dipole moments? W) Hydrogen fluoride X) Hydrogen chloride Y) Hydrogen iodide Z) Hydrogen bromide,W) HYDROGEN FLUORIDE
+bonus,,Short Answer,22) PHYSICAL SCIENCE Short Answer How many neutrons can be found in fluorine-19?,10
+toss-up,,Multiple Choice,"23) EARTH AND SPACE SCIENCE Multiple Choice High salinities, high oxygen, low silica, and near-freezing temperatures allow seawater to sink, driving global circulation. In which of the following seas would you expect to find this occurring? W) Weddell Sea X) Catalan Sea Y) Sea of Japan Z) Mediterranean Sea",W) WEDDELL SEA
+bonus,,Short Answer,23) EARTH AND SPACE SCIENCE Short Answer What is the name of the failed continental rift zone that began the formation of the Mississippi?,"REELFOOT RIFT
+_______________________________________________________"
+toss-up,energy,Short Answer,What is the name of the scientist who is credited with discovering infrared radiation?,WILLIAM HERSCHEL
+bonus,energy,Short Answer,"As of 2009, name the two countries that have the highest oil production in barrels of oil per day.",RUSSIA AND SAUDI ARABIA
+toss-up,,Short Answer,25) LIFE SCIENCE Short Answer What is the name of the enzyme secreted from the pancreas which breaks down dietary fat molecules in the human digestive system?,PANCREATIC LIPASE (ACCEPT: PANCREATIC TRIACYLGLYCEROL LIPASE)
+bonus,,Multiple Choice,"25) LIFE SCIENCE Multiple Choice If you put a bacterium with a plasmid for antibiotic resistance into a growth medium with antibiotic, virtually all of the population grown from the starting bacterium will have a copy of the plasmid. However, if you take the same starting bacterium and put it in a growth medium without an antibiotic, many of the progeny will NOT have a copy of the plasmid. Which of the following is the BEST explanation for this observation? W) Plasmids can be transferred from one bacterium to another X) Plasmids have to be beneficial to be replicated Y) Plasmids are not metabolically costly Z) Plasmids are permanent in a population",X) PLASMIDS HAVE TO BE BENEFICIAL TO BE REPLICATED

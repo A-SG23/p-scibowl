@@ -1,0 +1,66 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,1 1 1) MATH Short Answer Find a number x different from 3 such that x + = 3 + (read as: x x 3 plus 1 over x equals 3 plus one third).,1/3
+bonus,math,Short Answer,Solve the system of inequalities 3x – 2 > 7 and 4x – 13 > 15.,"x > 7
+_______________________________________________________"
+toss-up,,Multiple Choice,2) LIFE SCIENCE Multiple Choice Which of the following is NOT a cause of microevolution? W) Genetic drift X) Gene flow Y) Random mating Z) Mutation,Y) RANDOM MATING
+bonus,,Multiple Choice,2) LIFE SCIENCE Multiple Choice Which of the following techniques is best used to diagnose a disease caused by aneuploidy (read as: AHN-yuh-plohi-dee)? W) Protein extraction X) Karyotyping Y) Electrophoresis Z) Pedigree analysis,X) KARYOTYPING
+toss-up,energy,Multiple Choice,"About how fast, in meters per second, does a released neutron travel in a fission reaction? W) 1 x 105 X) 3 x 106 Y) 2 x 107 Z) 3 x 108",Y) 2 x 107
+bonus,energy,Short Answer,What high-energy particle resembling an electron is produced when a high-energy proton hits the Earth’s atmosphere and collides with the nucleus of an atmospheric gas molecule?,"MUON
+_______________________________________________________"
+toss-up,,Multiple Choice,4) PHYSICAL SCIENCE Multiple Choice Hydraulic lifts utilize Pascal’s principle and an increased surface area on the lift to do which of the following? W) Multiply the force of the object X) Multiply the force of the operator Y) Decrease the weight of the object being lifted Z) Decrease the force of the operator,X) MULTIPLY THE FORCE OF THE OPERATOR
+bonus,,Short Answer,4) PHYSICAL SCIENCE Short Answer Identify the reactant or reactants that are oxidized in the reaction: Zn + 2HCl → (read as: yields) Zn2+ + H + 2Cl? 2 −,ZINC (ACCEPT: ZN)
+toss-up,,Multiple Choice,5) LIFE SCIENCE Multiple Choice Which of the following is true regarding viruses and viroids? W) Viroids contain RNA; viruses do not X) Viruses contain RNA; viroids do not Y) Viroids contain protein; viruses do not Z) Viruses contain protein; viroids do not,Z) VIRUSES CONTAIN PROTEIN; VIROIDS DO NOT
+bonus,,Multiple Choice,"5) LIFE SCIENCE Multiple Choice Because DNA polymerase (read as: poh-LIM-eh-rayz) is not able to synthesize DNA in the 3 prime to the 5 prime direction, how do eukaryotes (read as: yuh-KEHR-ee-ōets) prevent loss of base pair sequences from chromosome ends? W) Mismatch repair X) Nucleotide excision repair Y) Topoisomerase (read as: tōe-pōe-y-SOH-meh-rayz) winds up DNA ends Z) Telomerase (read as: te-LŌE-meh-rayz) adds sequence repeats","Z) TELOMERASE ADDS SEQUENCE REPEATS
+_______________________________________________________"
+toss-up,math,Short Answer,What is the maximum number of lines of symmetry possible for a parallelogram?,4
+bonus,math,Short Answer,"If there is a jar with 4 green marbles and 6 yellow marbles, as a fraction in simplest form, what is the probability that Dexter draws a yellow one and Shannon draws a green one, without replacement?",4/15
+toss-up,,Short Answer,7) GENERAL SCIENCE Short Answer With what subatomic particles do x-rays primarily interact?,ELECTRONS
+bonus,,Short Answer,7) GENERAL SCIENCE Short Answer What is the generic term for enzymes that catalyze the process of bioluminescence in nature?,"LUCIFERASE (ACCEPT: LUMINASE)
+_______________________________________________________"
+toss-up,,Multiple Choice,8) EARTH AND SPACE SCIENCE Multiple Choice Which of the following is NOT one of the six main crystal systems? W) Monoclinic X) Cubic Y) Orthorhombic Z) Prismatic,Z) PRISMATIC
+bonus,,Short Answer,"8) EARTH AND SPACE SCIENCE Short Answer What are the primary metals associated with the ores hematite and cinnabar, respectively?",IRON AND MERCURY
+toss-up,,Multiple Choice,9) GENERAL SCIENCE Multiple Choice Which of the following actions would NOT be likely to move the domains of a magnet? W) Putting the magnet in a strong magnetic field opposite of its own X) Dropping a magnet Y) Heating a magnet Z) Cutting a magnet in half,Z) CUTTING A MAGNET IN HALF
+bonus,,Multiple Choice,9) GENERAL SCIENCE Multiple Choice The ideal gas law begins to break down under which conditions? W) High temperature and high pressure X) High temperature and low pressure Y) Low temperature and high pressure Z) Low temperature and low pressure,"Y) LOW TEMPERATURE AND HIGH PRESSURE
+_______________________________________________________"
+toss-up,,Short Answer,10) LIFE SCIENCE Short Answer What artery originates in the left ventricle of the heart and extends down to the abdomen?,AORTA
+bonus,,Short Answer,"10) LIFE SCIENCE Short Answer By name or number, identify all of the following five seafood choices that are currently being overfished or caught or farmed in ways that harm other marine life or the environment: 1) Atlantic cod, 2) squid, 3) red snapper, 4) farmed mussels, 5) wild oysters.",ATLANTIC COD AND RED SNAPPER (ACCEPT: 1 AND 3)
+toss-up,,Multiple Choice,11) GENERAL SCIENCE Multiple Choice The substance known as fish “antifreeze” is which of the following types of molecules? W) Phospholipid X) Carbohydrate Y) Glycoprotein Z) Alcohol,Y) GLYCOPROTEIN
+bonus,,Short Answer,11) GENERAL SCIENCE Short Answer What kind of weather profiling device collects information along a mostly vertical path as it descends through a storm?,"DROPSONDE
+_______________________________________________________"
+toss-up,math,Short Answer,"Is a triangle with sides of length 8, 9, and 12 acute, right, or obtuse?",ACUTE
+bonus,math,Short Answer,"A stem and leaf plot of history test scores looks like the following: Stem 6 has leaves of 1 and 4; Stem 7 has leaves of 2, 3, and 5; Stem 8 has leaves of 1, 1, 3, and 5; Stem 9 has leaves of 0, 0, 0, and 3; and Stem 10 has leaves of 0 and 0. What are the mode, median and the range, respectively?",MODE = 90; MEDIAN = 83; RANGE = 39
+toss-up,,Short Answer,13) PHYSICAL SCIENCE Short Answer What fundamental force holds the particles in the nucleus of an atom together?,STRONG (ACCEPT: STRONG NUCLEAR)
+bonus,,Short Answer,"13) PHYSICAL SCIENCE Short Answer By name or number, identify all of the following four acids that are strong, because they ionize completely in an aqueous solution and they have an acid disassociation constant of less than -1.74 : 1) sulfuric acid, 2) phosphoric acid, 3) acetic acid, 4) chlorous acid.","SULFURIC ACID (ACCEPT: 1)
+_______________________________________________________"
+toss-up,,Short Answer,14) LIFE SCIENCE Short Answer Houseflies are in the order Diptera. What does “diptera” mean?,TWO WINGS
+bonus,,Short Answer,14) LIFE SCIENCE Short Answer Name the most unusual and obvious adaptation an angler fish has to help it catch its prey.,"BIOLUMINESCENT LURE
+(NOTE: STUDENTS MUST GIVE BOTH TERMS)"
+toss-up,,Multiple Choice,15) GENERAL SCIENCE Multiple Choice How is the relationship between the temperature and volume of an ideal gas characterized? W) Directly proportional X) Inversely proportional Y) Exponential Z) Independent,W) DIRECTLY PROPORTIONAL
+bonus,,Short Answer,15) GENERAL SCIENCE Short Answer What is the molecular formula for amazonite?,"KAlSi O
+2 2
+_______________________________________________________"
+toss-up,,Multiple Choice,16) PHYSICAL SCIENCE Multiple Choice Which of the following metals is the best conductor of electricity? W) Copper X) Silver Y) Gold Z) Aluminum,X) SILVER
+bonus,,Short Answer,"16) PHYSICAL SCIENCE Short Answer Given that the molecular weight of sodium hydroxide is 40 grams per mole, calculate to the nearest hundredth the molarity of a solution with 2 grams of sodium hydroxide dissolved in 5 liters of water.",0.01
+toss-up,,Multiple Choice,17) EARTH AND SPACE SCIENCE Multiple Choice Which of the following silicate mineral groups has a single-chain silicate structure? W) Feldspars X) Micas Y) Pyroxenes (read as: py-RAHK-seens) Z) Amphiboles (read as: AHM(P)-fi-bōels),Y) PYROXENES
+bonus,,Short Answer,"17) EARTH AND SPACE SCIENCE Short Answer Correctly match the intrusive rock types, granite, gabbro, and diorite, respectively, with the following extrusive rock types, basalt, andesite (read as: AHN-di-zyt), and rhyolite (read as: RY-oh-lyt).","GRANITE = RHYOLITE; GABBRO = BASALT; DIORITE = ANDESITE
+_______________________________________________________"
+toss-up,,Short Answer,18) PHYSICAL SCIENCE Short Answer What is the phenomenon by which tiny particles suspended in a fluid undergo small random movements without apparent external forcing?,BROWNIAN MOTION
+bonus,,Multiple Choice,18) PHYSICAL SCIENCE Multiple Choice Which of the following factors does NOT impact the vapor pressure of a liquid in a closed container? W) The molecular composition of the liquid X) The temperature of the liquid Y) The surface area of the liquid in contact with the gas Z) The intermolecular forces between the molecules in the liquid,Y) THE SURFACE AREA OF THE LIQUID IN CONTACT WITH THE GAS
+toss-up,energy,Multiple Choice,Which of the following elements was NOT produced in the Big Bang? W) Hydrogen X) Helium Y) Carbon Z) Beryllium,Y) CARBON
+bonus,energy,Short Answer,"There are roughly 860,000 calories in a kilowatt hour, and the average household in the United States uses about 10,000 kilowatt hours per year. Providing your answer to the nearest thousand, how many sandwiches, each containing 500 food calories, could provide enough energy for one household for one year?","17,000
+_______________________________________________________"
+toss-up,math,Multiple Choice,"For a set of two variable data, the correlation coefficient is r = -0.9 and the line of best fit is y = mx + b. Which of the following is a TRUE statement about m? W) m is greater than zero X) m is less than zero Y) m is equal to zero Z) m can be any real number",X) m IS LESS THAN ZERO
+bonus,math,Short Answer,Factor completely: x5 + y5.,x + y (x4(cid:0) x3y + x2y2 (cid:0) xy3 + y4)
+toss-up,,Short Answer,21) EARTH AND SPACE SCIENCE Short Answer Thermohaline circulation is driven by what two seawater traits?,SALINITY AND TEMPERATURE
+bonus,,Multiple Choice,21) EARTH AND SPACE SCIENCE Multiple Choice Quenching of molten materials is an important step in the formation of which of the following kinds of igneous rock? W) Pegmatite X) Obsidian (read as: ohb-SI-dee-ahn) Y) Chert Z) Granite,"X) OBSIDIAN
+_______________________________________________________"
+toss-up,,Short Answer,"22) PHYSICAL SCIENCE Short Answer If you apply force tangentially to an object’s face, what kind of stress will you induce?",SHEAR
+bonus,,Short Answer,"22) PHYSICAL SCIENCE Short Answer By name or number, rank the following three substances from highest to lowest specific heat: 1) aluminum, 2) water, 3) silver.","WATER, ALUMINUM, SILVER (ACCEPT: 2, 1, 3)"
+toss-up,,Multiple Choice,23) EARTH AND SPACE SCIENCE Multiple Choice Isotopes of which of the following elements would allow you to determine the age of the oldest rocks on Earth? W) Carbon X) Lead Y) Iron Z) Uranium,Z) URANIUM
+bonus,,Multiple Choice,23) EARTH AND SPACE SCIENCE Multiple Choice Which of the following is NOT a common mafic silicate mineral? W) Potassium feldspar X) Olivine Y) Pyroxene Z) Amphibole (read as: AHM(P)-fi-bōel),"W) POTASSIUM FELDSPAR
+_______________________________________________________"
+toss-up,,Multiple Choice,24) LIFE SCIENCE Multiple Choice Which component of the cytoskeleton is actively involved in lining the chromosomes up at the cell equator in preparation for cell division? W) Microtubule X) Microfilament Y) Intermediate filament Z) Vesicle,W) MICROTUBULE
+bonus,,Multiple Choice,24) LIFE SCIENCE Multiple Choice The development of polyploidy in plants plays the most direct role in which of the following? W) Sympatric speciation X) Allopatric speciation Y) Natural selection Z) Parapatric speciation,W) SYMPATRIC SPECIATION
+toss-up,energy,Multiple Choice,"Which of the following is NOT true about Michael Faraday’s experiment demonstrating electromagnetic induction, which featured a permanent magnet and a galvanometer connected to a coil of wire around a paper cylinder? W) When a permanent magnet is left stationary inside the wire coil, no current is induced X) A permanent magnet produces stronger current when it is moved quickly in and out of the wire coil Y) When the north end of the permanent magnet enters the coil, a current that travels in a clockwise direction is induced Z) When the north end of the permanent magnet enters the coil, a current that travels in a counterclockwise direction is induced","Y) WHEN THE NORTH END OF THE PERMANENT MAGNET ENTERS THE
+COIL, A CURRENT THAT TRAVELS IN A CLOCKWISE DIRECTION IS INDUCED"
+bonus,energy,Multiple Choice,"Barium hydroxide and ammonium nitrate are mixed in a 2 to 1 ratio in an Erlenmeyer flask and stirred together at room temperature. Within 30 seconds, the odor of ammonia is evident. The Erlenmeyer flask is then placed in contact with a small amount of liquid water. Which of the following will happen to the water? W) It will completely turn into steam X) Part of it will remain liquid and part will turn into steam Y) It will remain liquid Z) It will freeze",Z) IT WILL FREEZE

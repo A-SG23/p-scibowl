@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,"1) PHYSICAL SCIENCE Short Answer If the density of a metal alloy is 5,430 kilograms per cubic meter, what is its specific gravity, rounded to the second decimal place?",5.43
+bonus,,Short Answer,1) PHYSICAL SCIENCE Short Answer An Olympic runner braces himself against a stationary set of foot blocks and accelerates with a horizontal magnitude of 2 meters per second squared. How many newtons of horizontal force does the runner exert on the blocks to produce this acceleration if his mass is 70 kilograms?,"140
+(Solution: F = MA; F = 70 × 2 = 140)"
+toss-up,earth science,Multiple Choice,Which of the following best explains the relative lack of hydrogen in our atmosphere in spite of its abundance in the Universe: W) most of it is tied up in the water molecule X) most of it is consumed in photosynthesis Y) most of it escaped into space long ago because of its low mass Z) most of it was an unstable isotope that decayed into helium,"Y) MOST OF IT ESCAPED INTO SPACE LONG AGO BECAUSE OF ITS LOW
+MASS"
+bonus,earth science,Multiple Choice,Which of the following locations contains relatively young coasts that formed as a consequence of continental rifting: W) southern coasts of the Aleutian Islands X) Gulf of California Y) Hawaii Z) northeastern Japan,X) GULF OF CALIFORNIA
+toss-up,math,Short Answer,What is the x-intercept of a graph of the following equation: y = –7x + 7,"1 (ACCEPT: 1, 0)"
+bonus,math,Short Answer,"Multiply the polynomial, 3x2 – 4xy + y2, by –3xy, and simplify:",–9x3y + 12x2y2 – 3xy3
+toss-up,,Multiple Choice,4) GENERAL SCIENCE Multiple Choice Which of the following filters can withstand temperatures up to 1400ºC: W) paper cellulosic X) borosilicate glass Y) polyester Z) ceramic,Z) CERAMIC
+bonus,,Short Answer,4) GENERAL SCIENCE Short Answer Convert 60 miles per hour into feet per second:,"88
+(Solution: (60 mi/hr)(5280 ft/mi)(1 hr/3600 sec) = 88 ft/s)"
+toss-up,energy,Multiple Choice,5) LIFE SCIENCE Multiple Choice Which of the following BEST describes muscle tone: W) maximum strength of a muscle X) length versus width of a muscle Y) average energy use or oxygen use of a fully contracted muscle Z) amount of tension or contraction of a resting muscle,Z) AMOUNT OF TENSION OR CONTRACTION OF A RESTING MUSCLE
+bonus,,Multiple Choice,5) LIFE SCIENCE Multiple Choice Which of the following terms most commonly refers to nerves leaving the brain: W) posterior X) rostral Y) efferent Z) involuntary,Y) EFFERENT
+toss-up,,Multiple Choice,6) PHYSICAL SCIENCE Multiple Choice Randy was precise in his lab experiment but he was not accurate. Which of the following best describes his measurements: W) his data was close to the true value but not reproducible X) his data was close to the true value and reproducible Y) his data was not close to the true value but reproducible Z) his data was not close to the true value and reproducible,Y) HIS DATA WAS NOT CLOSE TO THE TRUE VALUE BUT REPRODUCIBLE
+bonus,,Short Answer,"6) PHYSICAL SCIENCE Short Answer Using a gravitational acceleration of 10 meters per second and giving your answer in appropriate SI units, if dropped off a cliff, how fast will a rock be falling at the end of 2 seconds, if friction is ignored?",20 METERS PER SECOND (must give units)
+toss-up,earth science,Multiple Choice,The Earth’s mantle is thought to be composed of which of the following: W) coal X) granite Y) slate Z) peridotite,Z) PERIDOTITE
+bonus,earth science,Short Answer,"Giving your answer in hours and minutes, how often will the entire tidal pattern on Earth be repeated?",24 HOURS AND 50 MINUTES
+toss-up,math,Short Answer,"What is the common ratio of the geometric series with the first three 1 1 1 terms, , , 2 4 8 1",2
+bonus,math,Short Answer,"What is the least common multiple of the numbers 30, 45, and 60?",180
+toss-up,,Multiple Choice,9) GENERAL SCIENCE Multiple Choice Which of the following best describes a coelacanth (read as: SEE-la-canth): W) living fossil fish X) extinct amphibian Y) extinct mammal Z) an air-breathing extinct fish,W) LIVING FOSSIL FISH
+bonus,,Short Answer,9) GENERAL SCIENCE Short Answer Which of the following 3 choices are reference scales commonly used in describing the hardness of materials: Rockwell; Austenite; Ferrule,ROCKWELL
+toss-up,,Multiple Choice,10) LIFE SCIENCE Multiple Choice Into which of the following does a typical fern spore most directly develop: W) sporophyte X) egg cell Y) gametophyte Z) sperm cell,Y) GAMETOPHYTE
+bonus,,Short Answer,10) LIFE SCIENCE Short Answer Name all of the following 4 plants that are conifers: pine; hemlock; palm; maple,PINE; HEMLOCK
+toss-up,,Multiple Choice,11) PHYSICAL SCIENCE Multiple Choice Which of the following most likely occurs when one molecule is oxidized: W) another molecule is reduced X) there is a release in work Y) the system becomes more ordered Z) the reaction is at equilibrium,W) ANOTHER MOLECULE IS REDUCED
+bonus,,Short Answer,11) PHYSICAL SCIENCE Short Answer Arrange the following 3 pure substances in order of INCREASING evaporation rates at 1 atmosphere of pressure and at room temperature: water; acetone; aluminum,ALUMINUM; WATER; ACETONE
+toss-up,earth science,Multiple Choice,Which of the following were NOT produced by the eruption of Mount Saint Helens in 1980: W) lahar (read as: lah-HAR) flows X) pyroclastic flows Y) significant ashfall deposits Z) basic lava,Z) BASIC LAVA
+bonus,earth science,Short Answer,All of the volcanoes of Hawaii belong to which one of the 3 basic types?,SHIELD
+toss-up,math,Short Answer,3x+ y 13) MATH Short Answer Reduce the following expression to lowest terms: xy 3x+ y,"(ACCEPT: CANNOT BE REDUCED)
+xy"
+bonus,math,Short Answer,Find the prime factorization of 90:,2 × 3 × 3 × 5 (ACCEPT: 2 × 32 × 5)
+toss-up,,Multiple Choice,14) GENERAL SCIENCE Multiple Choice Which of the following is a native American fruit that is typically grown in bogs and harvested in the fall: W) cherries X) blueberries Y) cranberries Z) huckleberries,Y) CRANBERRIES
+bonus,,Multiple Choice,14) GENERAL SCIENCE Multiple Choice Which of the following is the pigment responsible for the characteristic red color of the cranberry: W) red dye number 2 X) carotene Y) carmine red Z) anthocyanin,Z) ANTHOCYANIN
+toss-up,,Multiple Choice,15) LIFE SCIENCE Multiple Choice Which of the following is a theory of heredity postulated by Lamarck: W) characteristics acquired after birth are passed on to following generations X) nature selects for the best characteristic Y) only the fittest organisms survive through natural selection Z) genes determine the phenotype,"W) CHARACTERISTICS ACQUIRED AFTER BIRTH ARE PASSED ON TO
+FOLLOWING GENERATIONS"
+bonus,,Short Answer,"15) LIFE SCIENCE Short Answer By words or numbers, name all of the following 3 choices that are found in the E. coli bacterium: 1) mitochondria; 2) chloroplasts; 3) ribosomes",3) RIBOSOMES
+toss-up,,Multiple Choice,16) PHYSICAL SCIENCE Multiple Choice Which of the following molecules is considered the most polar: W) CH 4 X) HF Y) F 2 Z) CO 2,X) HF
+bonus,,Short Answer,"16) PHYSICAL SCIENCE Short Answer In addition to oxygen and sodium, what other element is a major constituent of borax?",BORON
+toss-up,earth science,Multiple Choice,A Beaufort number of 4 indicates: W) a moderate earthquake X) a moderate breeze Y) a strong tornado Z) a mineral similar in hardness to fluorite,X) A MODERATE BREEZE
+bonus,earth science,Multiple Choice,"If cumulus mammatus clouds are heading in your direction, you may soon experience: W) clearing skies X) severe weather Y) high pressure conditions Z) snow",X) SEVERE WEATHER
+toss-up,math,Short Answer,"Find the sum of 7 times 23, and 3 times 23:","230
+(Solution: (7 + 3)(23) = 230)"
+bonus,math,Short Answer,Solve the following equation for x: (4x – 8) – (5x + 6) = (2x – 9) – (4x + 1),4
+toss-up,,Short Answer,19) GENERAL SCIENCE Short Answer What human disease is caused by infection with the rhinovirus?,COMMON COLD (ACCEPT: COLD)
+bonus,,Short Answer,19) GENERAL SCIENCE Short Answer Name all of the following 4 diseases for which effective vaccines are currently available: chicken pox; malaria; diphtheria; HIV,CHICKEN POX; DIPHTHERIA
+toss-up,,Multiple Choice,20) LIFE SCIENCE Multiple Choice Which of the following is LEAST likely to be found in or on a root of a flowering plant: W) stomata X) epidermis Y) xylem Z) phloem,W) STOMATA
+bonus,,Short Answer,"20) LIFE SCIENCE Short Answer What is the common name for the protective layers of cells that cover the tip of a growing root, allowing it to make its way through difficult soils?",ROOT CAP
+toss-up,,Short Answer,"21) PHYSICAL SCIENCE Short Answer When aluminum filings are added to a beaker containing concentrated sulfuric acid, what gas is produced?","HYDROGEN (ACCEPT: H )
+2"
+bonus,,Short Answer,"21) PHYSICAL SCIENCE Short Answer Rounded to the first decimal place, what is the current, in amperes, for a 60-watt bulb running on a 120-volt power source?","0.5
+(Solution: current = watts/volts; 60/120 = 0.5 amperes)"
+toss-up,earth science,Short Answer,In which of the 5 main layers of Earth’s atmosphere does the Space Shuttle orbit?,THERMOSPHERE
+bonus,earth science,Short Answer,Order the following 4 life forms from the EARLIEST to appear on Earth to the most RECENT: crocodile; jawless fish; jawed fish; antelope,JAWLESS FISH; JAWED FISH; CROCODILE; ANTELOPE
+toss-up,math,Short Answer,Any triangle inscribed within a semicircle is always what type of triangle if one of its sides is the diameter of the semicircle?,RIGHT
+bonus,math,Short Answer,Provide the prime factors over the integers for the following expression: 25x4 – 16y2,(5x2 + 4y)(5x2 – 4y)
+toss-up,,Short Answer,24) GENERAL SCIENCE Short Answer Which of the following 4 star types is believed to be the most common in the universe: neutron; blue giant; red dwarf; pulsar,RED DWARF
+bonus,,Short Answer,24) GENERAL SCIENCE Short Answer Which one of the following 5 spectral classes of stars is the HOTTEST: A; F; G; K; O,O
+toss-up,,Short Answer,25) LIFE SCIENCE Short Answer What sugar is found in the backbone of DNA?,DEOXYRIBOSE (ACCEPT: RIBOSE)
+bonus,,Short Answer,25) LIFE SCIENCE Short Answer Name all of the following 4 trees that produce true flowers: hemlock; palm; maple; pine,PALM; MAPLE

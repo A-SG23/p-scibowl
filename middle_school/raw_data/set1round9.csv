@@ -1,0 +1,59 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,Find the product of 23 × 32:,72
+bonus,math,Short Answer,Arrange the following 4 choices in INCREASING order: 2001; 53; 35; 202,53; 2001; 35; 202
+toss-up,,Multiple Choice,2) GENERAL SCIENCE Multiple Choice A blimp or airship that uses helium as its lifting gas primarily controls its buoyancy by doing which of the following: W) adding or removing small amounts of hydrogen gas because it is lighter than helium X) heating or cooling the helium gas within the outside bladder of the blimp Y) intaking or venting air Z) producing or destroying helium gas,Y) INTAKING OR VENTING AIR
+bonus,,Short Answer,2) GENERAL SCIENCE Short Answer Arrange the following 4 choices from the one with the LOWEST mass to the HIGHEST mass: virus; mouse spleen; mosquito; water molecule,WATER MOLECULE; VIRUS; MOSQUITO; MOUSE SPLEEN
+toss-up,,Short Answer,3) LIFE SCIENCE Short Answer What is the most common name for the junctions across which nerve cells carry chemical messages from cell to cell?,SYNAPSE
+bonus,,Short Answer,"3) LIFE SCIENCE Short Answer What is the most common name of the part of a neuron that takes its name from the Greek word for tree, and functions to carry electrical messages from other nerve cells to the soma?",DENDRITE
+toss-up,,Multiple Choice,4) PHYSICAL SCIENCE Multiple Choice A fifty-fifty solution of distilled water and pure ethanol will appear: W) clear X) cloudy Y) purple Z) heterogeneous,W) CLEAR
+bonus,,Multiple Choice,4) PHYSICAL SCIENCE Multiple Choice Which of the following chemical names is NOT correctly matched with its chemical formula: W) H SO and sulfuric acid 2 4 X) HCl and hydrochloric acid Y) BeCl and boron dichloride 2 Z) SO and sulfur dioxide 2,"Y) BeCL AND BORON DICHLORIDE
+2"
+toss-up,earth science,Multiple Choice,Which of the following is a feature made by a continental glacier and NOT made by an alpine glacier: W) cirque X) hanging valley Y) truncated spur Z) drumlin,Z) DRUMLIN
+bonus,earth science,Short Answer,What type of moraine forms along the valley walls of an alpine glacier?,LATERAL (DO NOT ACCEPT ANY OTHER MORAINE TYPE)
+toss-up,math,Short Answer,Evaluate | –x | (read as: the absolute value of negative x) for x = –5:,5
+bonus,math,Short Answer,"Maxine buys a stock for $100.00 and then sells it for $75.00. She repurchases the stock for $125.00, and 3 months later sells it for $200.00. What was her profit, in dollars?","50
+(Solution: –100 + 75 – 125 + 200 = $50.00)"
+toss-up,,Short Answer,"7) GENERAL SCIENCE Short Answer What is the physical state of a saturated fat and a polyunsaturated fat, respectively, at room temperature, if both have 18 carbons per molecule?",SATURATED FAT = SOLID; UNSATURATED FAT = LIQUID
+bonus,,Multiple Choice,7) GENERAL SCIENCE Multiple Choice Which of the following is closest to the maximum running speed of a human: W) 0.3 meters per second X) 30 meters per second Y) 18 kilometers per hour Z) 38 kilometers per hour,Z) 38 KILOMETERS PER HOUR
+toss-up,,Multiple Choice,8) LIFE SCIENCE Multiple Choice In which of the following cells would myelin most likely be found: W) oocyte X) red blood cell Y) neuron Z) skin cell,Y) NEURON
+bonus,,Short Answer,8) LIFE SCIENCE Short Answer Name all of the following 4 choices of eukaryotic sub-cellular structures that do NOT have their own specific membrane: chloroplast; lysosome; centriole; golgi,CENTRIOLE
+toss-up,,Short Answer,9) PHYSICAL SCIENCE Short Answer How many times as much momentum does a truck have traveling at 40 kilometers per hour if it triples its mass?,3
+bonus,,Short Answer,9) PHYSICAL SCIENCE Short Answer Name all of the following 4 substances that will turn blue litmus paper red: citric acid; carbonated water; ammonia; sodium hydroxide,CITRIC ACID; CARBONATED WATER
+toss-up,earth science,Multiple Choice,The hard coral of coral reefs are primarily made of: W) basalt X) calcium carbonate Y) silicates Z) halite,X) CALCIUM CARBONATE
+bonus,earth science,Multiple Choice,"According to the Rock Cycle, once conglomerate sedimentary rocks are formed, the most direct pathway in the formation of sediments is by which of the following: W) weathering and erosion X) compaction and cementation Y) cooling and crystallization Z) heat and pressure",W) WEATHERING AND EROSION
+toss-up,math,Multiple Choice,"Which of the following is NOT true: W) a line that intersects 2 other lines at different points is called a transversal X) if a ≤ 0 (read as: if a is less than or equal to 0), then the absolute value of a equals a Y) the square of an integer is called a perfect square Z) the real numbers include all rational and irrational numbers",X) IF A ≤ 0 THEN THE ABSOLUTE VALUE OF A EQUALS A
+bonus,math,Short Answer,"A college student has a budget of $600.00 per month. If at the end of a given month she spent $350.00 and earned an extra $150.00 in wages, how much is left in the budget at month’s end?",$400.00
+toss-up,,Short Answer,12) GENERAL SCIENCE Short Answer What fossil fuel is the greatest fuel source for electricity generation in the world?,COAL
+bonus,,Short Answer,12) GENERAL SCIENCE Short Answer The acidity of a water sample with a pH of 5 is how many times as great as that of a sample with a pH of 6?,10
+toss-up,energy,Multiple Choice,13) LIFE SCIENCE Multiple Choice What is the most important function of fiber tracheids (read as: TRAY-key-ids) in woody plants: W) energy storage X) structural support Y) sugary sap movement Z) absorption of nutrients from the soil,X) STRUCTURAL SUPPORT
+bonus,,Multiple Choice,13) LIFE SCIENCE Multiple Choice Which of the following is the smallest object that a typical student compound light microscope is able to allow a person to see: W) mRNA X) ribosomes Y) E.coli Z) polio virus,Y) E.COLI
+toss-up,,Short Answer,"14) PHYSICAL SCIENCE Short Answer According to Charles’s gas law, the volume of a fixed amount of gas varies directly with what property?",TEMPERATURE
+bonus,,Multiple Choice,14) PHYSICAL SCIENCE Multiple Choice Which of the following processes is exothermic: W) solid water changes to water vapor X) solid water changes to liquid water Y) liquid water changes to solid water Z) liquid water changes to water vapor,"Y) LIQUID WATER CHANGES TO SOLID WATER
+(Solution: freezing is exothermic)"
+toss-up,earth science,Multiple Choice,An igneous rock in which individual mineral grains or crystals are visible to the naked eye most likely was formed by which of the following processes: W) rapid cooling X) slow cooling Y) quenching Z) metamorphosis,X) SLOW COOLING
+bonus,earth science,Short Answer,"What type of boundary exists where plates are neither produced nor destroyed, an example of which is the San Andreas fault?","TRANSFORM FAULT BOUNDARY (ACCEPT: TRANSFORM MARGIN or
+TRANSFORM )"
+toss-up,math,Short Answer,"By words or number, name all of the following 3 statements which are always TRUE: 1) the smaller angle formed by the hands of a clock at 2 o’clock is acute 2) two non-vertical parallel lines have the same slope 3) an altitude of an equilateral triangle forms two, 45º, 45º, 90º triangles",1 AND 2
+bonus,math,Short Answer,"If a staple-gun misfires 5 times for every 200 shots, how many times will it be expected to misfire in 4,000 shots?",100
+toss-up,,Short Answer,"17) GENERAL SCIENCE Short Answer If a star has a mass of 10 solar masses, how many times as much mass does it have as the Sun?",10
+bonus,,Multiple Choice,"17) GENERAL SCIENCE Multiple Choice The majority of stars in the universe are thought to have surface temperatures of: W) about 20,000 K X) about 10,000 K Y) about 6,000 K Z) less than 3,500 K","Z) LESS THAN 3,500 K"
+toss-up,,Multiple Choice,18) LIFE SCIENCE Multiple Choice Adipose tissue stores mostly: W) lipid X) protein Y) starch Z) glycogen,W) LIPID
+bonus,,Multiple Choice,18) LIFE SCIENCE Multiple Choice Which of the following biological molecules make up the main part of the bilayer and hydrophobic region of the plasma cell membrane: W) oligosaccharides (read as: oh-LEE-go-SACK-ah-rides) X) carbohydrates Y) phospholipids Z) proteins,Y) PHOSPHOLIPIDS
+toss-up,,Short Answer,"19) PHYSICAL SCIENCE Short Answer Giving your answer in scientific notation to the second decimal place, how many molecules are in 10 moles of H O? 2","6.02 × 1024
+(Solution: (10 mol H O)(6.023 × 1023 molecules/mole) = 6.023 × 1024 molecules)
+2"
+bonus,,Short Answer,"19) PHYSICAL SCIENCE Short Answer Using proper chemical formulas, finish balancing the following equation: N + 3H  what? 2 2","2NH
+3"
+toss-up,earth science,Multiple Choice,Which of the following forms of winter precipitation is most likely to cause downed power lines and broken tree limbs: W) freezing rain X) sleet Y) snow Z) hail,W) FREEZING RAIN
+bonus,earth science,Multiple Choice,Which of the following is NOT one of the 10 major cloud types: W) cirrus X) cirrocumulus Y) cirrostratus Z) cirronimbus,Z) CIRRONIMBUS
+toss-up,math,Short Answer,Solve the following inequality for x: 3(x + 1) ≥ 9,x ≥ 2
+bonus,math,Short Answer,"Evaluate the following complex fraction, giving your answer as an 1 2− 7 improper fraction in lowest terms: 1 1− 2 26",7
+toss-up,,Short Answer,22) GENERAL SCIENCE Short Answer What is the name for the time zone immediately east of the Eastern Time Zone?,ATLANTIC TIME ZONE (ACCEPT: ATLANTIC)
+bonus,,Short Answer,"22) GENERAL SCIENCE Short Answer Ignoring boundary adjustments, most individual time zones are how many degrees of longitude apart?",15
+toss-up,,Multiple Choice,"23) LIFE SCIENCE Multiple Choice Keratins are considered structural proteins. This is because they are most often arranged in which of the following shapes: W) long, thin fibers X) spherical and smooth Y) short and irregular Z) small, irregular, and hydrophilic",W) LONG THIN FIBERS
+bonus,,Short Answer,23) LIFE SCIENCE Short Answer Name all of the following 4 molecules that are storage forms of glucose: starch; wax; glycogen; maltose,STARCH; GLYCOGEN
+toss-up,,Short Answer,24) PHYSICAL SCIENCE Short Answer What is the name of the particle that carries the electromagnetic force?,PHOTON
+bonus,,Short Answer,"24) PHYSICAL SCIENCE Short Answer If a wave has a frequency of 2,000 hertz, what is its period, in seconds?","0.0005 (ACCEPT: 5 × 10–4)
+(Solution: period = 1/f)"
+toss-up,earth science,Multiple Choice,"Which of the following is indicated by the following forecast: “A front moves through New England Monday with a few showers. Chillier air moves in behind the front gradually changing to lake-effect snows, followed by clear skies on Tuesday”: W) cold front X) warm front Y) stationary front Z) inverted front",W) COLD FRONT
+bonus,earth science,Multiple Choice,"Which of the following is CLOSEST to the estimate of how many million years ago the first bacteria appeared on Earth: W) 65 X) 280 Y) 1,500 Z) 3,800","Z) 3,800"

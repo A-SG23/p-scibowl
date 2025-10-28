@@ -1,0 +1,62 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,"1) GENERAL SCIENCE Multiple Choice Which of the following does the prefix “photo” (spell out the letters p, h, o, t, o ) mean, as in the word photometer: W) record (read as: REE-cord) X) light Y) measure Z) expose",X) LIGHT
+bonus,,Short Answer,1) GENERAL SCIENCE Short Answer Arrange the following 3 choices in order of DECREASING average size: blood platelet; grain of common table salt; ragweed pollen,GRAIN OF SALT; RAGWEED POLLEN; BLOOD PLATELET
+toss-up,,Multiple Choice,2) LIFE SCIENCE Multiple Choice Which of the following is NOT a structure found in human cells: W) mitochondrion X) cell wall Y) lysosome Z) peroxisome,X) CELL WALL
+bonus,,Multiple Choice,2) LIFE SCIENCE Multiple Choice Which of the following is closest to the meaning of intercellular (read carefully as: in-TER-cellular): W) from within cells X) between cells Y) inside of cells Z) underneath cells,X) BETWEEN CELLS
+toss-up,,Multiple Choice,3) PHYSICAL SCIENCE Multiple Choice Which of the following must be TRUE for a tree that doubled its mass over a growing period of 2 years: W) it has doubled its volume X) it has doubled its number of atoms Y) it has doubled its inertia Z) it has doubled its density,Y) IT HAS DOUBLED ITS INERTIA
+bonus,,Short Answer,3) PHYSICAL SCIENCE Short Answer What is the ideal mechanical advantage of a ramp that is 24 meters long and 4 meters higher at one end versus the other?,"6
+(Solution: input distance/output distance: 24/4 = 6)"
+toss-up,earth science,Multiple Choice,The presence of which of the following is evidence that 2 valley glaciers have or had at one time joined into a larger glacier: W) perpendicular striation pattern X) overlapping end moraines Y) medial moraine Z) V-shaped valley,Y) MEDIAL MORAINE
+bonus,earth science,Multiple Choice,Which of the following is NOT generally true regarding glaciers: W) the Antarctic ice sheet is depressing the crust of the Earth X) we are currently in an interglacial period Y) the ice front of a glacier with a large zone of ablation is rapidly advancing Z) the Little Ice Age ended around the mid-nineteenth century,"Y) THE ICE FRONT OF A GLACIER WITH A LARGE ZONE OF ABLATION IS
+RAPIDLY ADVANCING"
+toss-up,math,Multiple Choice,"Which of the following is the exact interval notation for all real numbers greater than or equal to –10 and less than 5: W) (–10, 5] (read as: open parenthesis, negative 10, comma, 5, close bracket) X) [–10, 5] (read as: open bracket, negative 10, comma, 5, close bracket) Y) [–10, 5) (read as: open bracket, negative 10, comma, 5, close parenthesis) Z) (–10, 5) (read as: open parenthesis, negative 10, comma, 5, close parenthesis)","Y) [–10, 5)
+(note: if student interrupts, accept: “bracket, negative or minus 10, 5 parenthesis)
+(Solution: bracket for numbers included in the set; parenthesis for # not included in the set)"
+bonus,math,Short Answer,Name all of the following 5 numbers that are NOT prime numbers: 2; 5; 17; 33; 37,33
+toss-up,,Short Answer,6) GENERAL SCIENCE Short Answer What is the average internal Celsius temperature of the human body?,37
+bonus,,Short Answer,"6) GENERAL SCIENCE Short Answer By name or number, arrange the following 3 choices from the one with the LOWEST temperature to the HIGHEST temperature: 1) coldest temperature recorded on Earth; 2) average surface temperature of Saturn; 3) coldest ocean water temperature","2) AVERAGE SURFACE TEMPERATURE OF SATURN; 1) COLDEST
+TEMPERATURE RECORDED ON EARTH; 3) COLDEST OCEAN WATER TEMPERATURE
+(ACCEPT: 2; 1; 3)"
+toss-up,,Short Answer,7) LIFE SCIENCE Short Answer What is the name of the blood vessels in vertebrate bodies where most of the exchange of oxygen and carbon dioxide occurs?,CAPILLARIES (ACCEPT: CAPILLARY)
+bonus,,Short Answer,7) LIFE SCIENCE Short Answer What specific part of the human brain is most responsible for regulating body temperature?,HYPOTHALAMUS
+toss-up,,Short Answer,8) PHYSICAL SCIENCE Short Answer Which one of Newtons Laws of motion most directly deals with the resistance of a body to a change in its motion?,FIRST LAW (ACCEPT: LAW OF INERTIA)
+bonus,,Short Answer,"8) PHYSICAL SCIENCE Short Answer Jerry has a mass of 100 kilograms. He runs with a velocity of 0.5 meters per second. Giving your answer in proper SI units, what is his momentum?","50 KILOGRAM METERS PER SECOND (must give units)
+(Solution: momentum = mv = (100kg)(0.5 m/s) = 50 kg.m/s)"
+toss-up,earth science,Multiple Choice,Which of the following geological terms best refers to deposits of unsorted and unstratified sediments deposited by the movement of a glacier: W) till X) loess (read as: LUSS) Y) varve Z) glacial milk,W) TILL
+bonus,earth science,Short Answer,What is the most abundant element in the Sun?,HYDROGEN
+toss-up,math,Multiple Choice,Which of the following is undefined: W) 2 ÷ 0 X) 0 ÷ 2 Y) 0 – 0 Z) 02,W) 2 ÷ 0
+bonus,math,Short Answer,Add the following 2 fractions and give your answer as a mixed fraction 23 3 in lowest terms: + 2 2 4 1,"14
+4"
+toss-up,,Short Answer,11) GENERAL SCIENCE Short Answer What is the SI base unit used for the intensity of a light source?,CANDELA
+bonus,,Short Answer,"11) GENERAL SCIENCE Short Answer Giving your answer in proper scientific notation, convert 400 grams per liter into milligrams per liter:",4 × 105
+toss-up,,Multiple Choice,12) LIFE SCIENCE Multiple Choice Which of the following describes the shape of a bacterial pilus: W) a solid sphere X) a cuboidal shaped cell Y) a thin tube Z) a helical thick solid fiber,Y) A THIN TUBE
+bonus,,Short Answer,12) LIFE SCIENCE Short Answer Name all of the following 4 groups of plants that are legumes: peas; rice; soy beans; peanuts,PEAS; SOY BEANS; PEANUTS (ACCEPT: ALL BUT RICE)
+toss-up,chemistry,Multiple Choice,13) PHYSICAL SCIENCE Multiple Choice The most useful unit of concentration in the chemistry lab is: W) mole fraction X) mass percent Y) normality Z) molarity,Z) MOLARITY
+bonus,energy,Multiple Choice,13) PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true of chemical reactions: W) they are always reversible X) energy is either absorbed or released Y) a new substance is formed Z) chemical bonds are broken and formed,W) THEY ARE ALWAYS REVERSIBLE
+toss-up,earth science,Short Answer,What northward-moving ocean current is the dominant feature generally located off the east coast of the U.S.?,GULF STREAM
+bonus,earth science,Short Answer,Spring tides typically coincide with what 2 phases of the Moon?,FULL; NEW (in any order)
+toss-up,math,Short Answer,"What is the length, in inches, of one side of a square if the diagonal measures 7 2?",7
+bonus,math,Short Answer,"If the area of a rectangle is 200 centimeters squared and the length is 20 centimeters, what is the perimeter of the rectangle, in centimeters?","60
+(Solution: 200 = (20)(w), w = 10; P = 2(20) +2(10) = 60 cm)"
+toss-up,,Multiple Choice,16) GENERAL SCIENCE Multiple Choice Which of the following is the study of spiders: W) arachnology X) dendrochronology Y) planktology Z) lepidopterology,W) ARACHNOLOGY
+bonus,,Short Answer,"16) GENERAL SCIENCE Short Answer What is the astronomical term for the orbital arrangement of a superior planet with reference to the positions of the Sun and Earth, at which time the superior planet will usually appear its brightest?",OPPOSITION
+toss-up,,Multiple Choice,17) LIFE SCIENCE Multiple Choice Which of the following is the location of the human thymus gland: W) upper chest X) inguinal canal Y) abdomen Z) brain,W) UPPER CHEST
+bonus,,Short Answer,17) LIFE SCIENCE Short Answer What is the most common globular protein in red blood cells?,HEMOGLOBIN
+toss-up,,Multiple Choice,18) PHYSICAL SCIENCE Multiple Choice Which of the following is a heterogeneous mixture: W) 5.0% glucose solution X) rubbing alcohol Y) mixture of hydrogen and oxygen gases Z) concrete,Z) CONCRETE
+bonus,,Multiple Choice,18) PHYSICAL SCIENCE Multiple Choice Which of the following would be the most logical instrument to use when a small amount of suspended particles must be separated from a liquid: W) pH meter X) centrifuge Y) spectrometer Z) tweezers,X) CENTRIFUGE
+toss-up,earth science,Multiple Choice,Which of the following best describes how stalagmites in caves are formed: W) mechanical weathering X) chemical weathering Y) melting Z) decaying,X) CHEMICAL WEATHERING
+bonus,earth science,Multiple Choice,Which of the following is the chief constituent of limestone: W) quartz X) clay Y) sand Z) calcite,Z) CALCITE
+toss-up,math,Short Answer,"If a line has a slope of 10, what is the slope of every line that is perpendicular to it? 1","– (ACCEPT: –0.1)
+10"
+bonus,math,Short Answer,"Consider an isosceles triangle whose vertex angle measures 20º. Find the measure of one of the EXTERIOR angles, in degrees, at the base of the triangle:",100
+toss-up,energy,Short Answer,21) GENERAL SCIENCE Short Answer What is the name of the atomic process that provides the energy for a star to shine?,FUSION
+bonus,,Short Answer,21) GENERAL SCIENCE Short Answer The zodiac is typically considered to be made of how many constellations?,12
+toss-up,,Multiple Choice,22) LIFE SCIENCE Multiple Choice Which of the following is NOT found in prokaryotes: W) DNA X) RNA Y) ribosomes Z) golgi,Z) GOLGI
+bonus,,Short Answer,22) LIFE SCIENCE Short Answer Name all of the following 4 groups of organisms that are insects: flies; beetles; crayfish; moths,FLIES; BEETLES; MOTHS (ACCEPT: ALL BUT CRAYFISH)
+toss-up,,Multiple Choice,"23) PHYSICAL SCIENCE Multiple Choice Ultrasonic sound frequencies are typically considered to be: W) above 20 hertz X) below 20 hertz Y) above 20 kilohertz Z) above 2,000 hertz",Y) ABOVE 20 KILOHERTZ
+bonus,,Short Answer,"23) PHYSICAL SCIENCE Short Answer In color synthesis using visible light, what is the most common term for the colors produced by combining equal proportions of two primary colors?",SECONDARY
+toss-up,earth science,Multiple Choice,The transfer of energy from the Sun across space is accomplished primarily by: W) conduction X) convection Y) radiation Z) radio waves,Y) RADIATION
+bonus,earth science,Short Answer,What layer of Earth’s atmosphere starts at about the stratopause and extends upwards to about 55 miles above the Earth?,MESOSPHERE
+toss-up,math,Short Answer,"If a car travels at a rate of 50 miles per hour, what is the distance, in miles, traveled in 5 hours?","250
+(Solution: d = rt = (50mi/hr)(5 hr) = 250 miles)"
+bonus,math,Short Answer,"Giving your answer in exponential form, simplify the following 103 ×104 expression: 102",105

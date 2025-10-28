@@ -1,0 +1,70 @@
+type,subject,format,question,answer
+toss-up,energy,Multiple Choice,Which one of the following is an issue of power quality? W) Connecting an alarm clock to a battery X) Voltage provided to a blood pressure monitor used in hospitals that is higher than what it should be for long periods of time Y) Wasting nuclear energy produced by nuclear power plants Z) Connecting a ceiling fan to a power outlet,"X) VOLTAGE PROVIDED TO A BLOOD PRESSURE MONITOR USED IN
+HOSPITALS THAT IS HIGHER THAN WHAT IT SHOULD BE FOR LONG PERIODS OF TIME"
+bonus,energy,Short Answer,"For an outlet with a voltage of 120, calculate the voltage in volts if the voltage is 30% over the usual value.","156
+________________________________________________________________________"
+toss-up,,Multiple Choice,"2) PHYSICAL SCIENCE Multiple Choice If you shine unpolarized light through a polarizing filter, the light that exits the filter is: W) Half as intense X) Equally as intense Y) Dispersed into many colors Z) Scattered in all directions",W) HALF AS INTENSE
+bonus,,Short Answer,"2) PHYSICAL SCIENCE Short Answer If you shine white light through two linear polarizing filters that have their directions of polarizations perpendicular to one another, what will you observe about the light at the other end?",NO LIGHT (ACCEPT: NOTHING)
+toss-up,,Short Answer,"3) GENERAL SCIENCE Short Answer By words or numbers, name all of the following that are organs in the human digestive system: 1) pancreas, 2) jejunum (read as: ji-JUH-nuhm), 3) duodenum (read as: duh-oh-DEE-nuhm), and/or 4) bladder.","PANCREAS, JEJUNUM, AND DUODENUM (ACCEPT: 1, 2, 3)"
+bonus,,Short Answer,3) GENERAL SCIENCE Short Answer Name the body system to which the trachea belongs.,"RESPIRATORY
+________________________________________________________________________"
+toss-up,,Multiple Choice,4) EARTH AND SPACE SCIENCE Multiple Choice Greenhouse gases heat the atmosphere by allowing sunlight to pass through while trapping heat. Which of the following planets does NOT have an atmosphere that contains greenhouse gases? W) Earth X) Venus Y) Mars Z) Mercury,Z) MERCURY
+bonus,,Multiple Choice,4) EARTH AND SPACE SCIENCE Multiple Choice Which of the following statements is NOT true about Mercury? W) Mercury is the second densest planet in the solar system X) Mercury travels around the Sun faster than any other planet Y) Mercury has no magnetic field Z) Mercury has been visited by spacecraft,Y) MERCURY HAS NO MAGNETIC FIELD
+toss-up,math,Short Answer,"What is the smallest angle, in degrees, formed by the intersection of the lines y = 2 and y = x + 3?",45
+bonus,math,Short Answer,"What is the equation, in slope intercept form, of the line perpendicular to the line y = 3x + 4, that passes through the point (-5, 7)?","y = x + (ACCEPT: y = x + 5 )
+________________________________________________________________________"
+toss-up,,Multiple Choice,6) PHYSICAL SCIENCE Multiple Choice Soundtracks of space movies frequently have sounds of ships exploding or whizzing through space. Why is this an inaccurate depiction of space? W) Sound waves are distorted in space so everything would sound like it was under water X) Sound cannot travel through a vacuum Y) Everything would have a very high pitch in space Z) Space vibrations would muffle the explosions,X) SOUND CANNOT TRAVEL THROUGH A VACUUM
+bonus,,Multiple Choice,"6) PHYSICAL SCIENCE Multiple Choice Matilda plays an instrument which produces a higher pitch than the instrument her friend Matt plays. What can we say about the sound waves of Matilda's music? W) Matilda's wave peaks are farther apart than Matt's X) Both Matilda and Matt's sound waves have the same wavelength, but Matilda's travel slower Y) Matilda's wave peaks are closer together than Matt's Z) Both Matilda and Matt's sound waves have the same wavelength, but Matilda's travel faster",Y) MATILDA'S WAVE PEAKS ARE CLOSER TOGETHER THAN MATT'S
+toss-up,,Short Answer,7) LIFE SCIENCE Short Answer How many common amino acids are there?,20
+bonus,,Short Answer,7) LIFE SCIENCE Short Answer Name the first amino acid encoded by all eukaryotic (read as: yuh-KEHR-ee-ōetik) mRNAs.,"METHIONINE
+________________________________________________________________________"
+toss-up,math,Short Answer,Simplify y2 y -3 (read as y squared times y to the power of negative 3). 1,"ALSO ACCEPT: y−1
+y"
+bonus,math,Short Answer,"How many subsets does the set {a, b, c, d} have?",16
+toss-up,energy,Multiple Choice,Which of the following sectors is the most important factor in assessing future trends in demand for liquid fuels? W) World carbon dioxide emissions X) Transportation Y) Residential buildings Z) Commercial buildings,X) TRANSPORTATION
+bonus,energy,Short Answer,"In 2009, the state of Tennessee had the greatest average residential electricity consumption of 1,248 kilowatt hours per month at an average retail price of about 9 cents per kilowatt hour. The state of Hawaii had the highest average retail price of about 24 cents per kilowatt hour and an average residential electricity consumption of 617 kilowatt hours per month. Giving your answer to the nearest dollar, how much more, on average, was the monthly electricity bill in Hawaii than in Tennessee?","$36
+________________________________________________________________________"
+toss-up,energy,Short Answer,10) PHYSICAL SCIENCE Short Answer What type of reaction absorbs energy?,ENDOTHERMIC
+bonus,,Short Answer,"10) PHYSICAL SCIENCE Short Answer If a superconductor's temperature rises above its critical point, the superconductor transitions back to a regular conductor with resistance. If this occurred, and a conductor had a resistance of 1 ohm, what voltage would drive 2 amps of current through the conductor?",2
+toss-up,math,Multiple Choice,Which of the following values is smallest? W) 200 X) (-16)2 (read as: open parenthesis negative 16 close parenthesis squared) Y) 142 (read as: 14 squared) 120 Z) ( )2 (read as: open parentheis120 over 8 close parenthesis squared) 8,Y) 142
+bonus,math,Short Answer,"The radius of the Earth is approximately 6.4 x 106 meters (read as: 6.4 times 10 to the sixth). Giving your answer in scientific notation with one significant digit, what is the surface area of Earth in square meters?","5 × 1014
+________________________________________________________________________"
+toss-up,,Short Answer,12) LIFE SCIENCE Short Answer In which kingdom could you find an eukaryotic (read as: yuh- KEHR-ee-ōetik) heterotroph with cell walls?,FUNGI OR PROTISTA
+bonus,,Multiple Choice,12) LIFE SCIENCE Multiple Choice Which of the following statements is NOT true about slime mold? W) It is a fungus* X) It can move Y) It lacks chitin in its cell walls Z) It ingests food,"W) IT IS A FUNGUS
+*[NOTE: SLIME MOLDS WERE ORIGINALLY CLASSIFIED AS A FUNGUS BUT HAVE BEEN RECLASSIFIED.
+SEE: http://www.ucmp.berkeley.edu/protista/slimemolds.html]"
+toss-up,energy,Multiple Choice,Which of the following components allows renewable systems to produce energy for later use? W) Inductor X) Regulator Y) Battery bank Z) Heater,Y) BATTERY BANK
+bonus,energy,Multiple Choice,A component of a solar energy system is the charge controller. What is its function? W) To provide electrical protection to the system X) To regulate the amount of power that goes into energy storage for later use Y) To dissipate excess energy Z) To store the energy for later use,"X) TO REGULATE THE AMOUNT OF POWER THAT GOES INTO ENERGY
+STORAGE FOR LATER USE
+________________________________________________________________________"
+toss-up,,Multiple Choice,14) EARTH AND SPACE SCIENCE Multiple Choice Which of the following is NOT a moon of Jupiter? W) Titan X) Io Y) Europa Z) Callisto,W) TITAN
+bonus,,Multiple Choice,14) EARTH AND SPACE SCIENCE Multiple Choice Which of the following statements is NOT true about Jupiter’s moon Europa? W) It was discovered by Galileo X) Its atmosphere is primarily composed of methane Y) It orbits Jupiter every 3 and a half days Z) It has a deep salty ocean which is frozen over,X) ITS ATMOSPHERE IS LARGELY COMPRISED OF METHANE
+toss-up,math,Short Answer,Solve for x in simplest form: x2 = 50.,"5 , -5"
+bonus,math,Short Answer,Factor completely over the integers: 15y² - y – 6.,"(5y + 3) (3y – 2)
+________________________________________________________________________"
+toss-up,,Short Answer,"16) LIFE SCIENCE Short Answer Which organ system is responsible for protecting you against viruses, bacteria, and other pathogens?",IMMUNE
+bonus,,Short Answer,16) LIFE SCIENCE Short Answer Name the type of immune cell that is attacked by HIV?,T-CELL OR HELPER T-CELL (ACCEPT: CD4 T CELL)
+toss-up,,Multiple Choice,"17) GENERAL SCIENCE Multiple Choice Which genetic disorder is caused by a mutation in one gene, leading to thick, sticky mucus clogging the lungs, pancreas, and passageways in other organs? W) Cystic fibrosis X) Huntington’s disease Y) Klinefelter syndrome Z) Sickle cell anemia",W) CYSTIC FIBROSIS
+bonus,,Multiple Choice,"17) GENERAL SCIENCE Multiple Choice A father is colorblind, but his wife is not colorblind and is not a carrier of the gene for colorblindness. If the couple has a son, will he be colorblind? W) Yes, because colorblindness is always passed from father to son X) No, because the mother is neither colorblind nor a carrier of colorblindness Y) There is a 50% chance because colorblindness is autosomal dominant Z) Yes, because the gene for colorblindness is located on the Y chromosome","X) NO, BECAUSE THE MOTHER IS NEITHER COLORBLIND NOR A CARRIER
+OF COLORBLINDNESS
+________________________________________________________________________"
+toss-up,math,Short Answer,What is the largest integer smaller than ?,12
+bonus,math,Short Answer,What is the multiplicative inverse of the rational number halfway between -1/3 and -1/4? -24,7
+toss-up,,Multiple Choice,19) EARTH AND SPACE SCIENCE Multiple Choice The general paths of storm systems that travel across the continental United States are primarily driven by: W) Ocean currents X) Local winds Y) Mountains Z) The jet stream,Z) THE JET STREAM
+bonus,,Multiple Choice,19) EARTH AND SPACE SCIENCE Multiple Choice The jet stream separates major air masses over the central continental U.S. The high pressure air mass to the north of the jet stream has which of the following characteristics in winter? W) Warm and humid X) Warm and dry Y) Cold and humid Z) Cold and dry,"Z) COLD AND DRY
+________________________________________________________________________"
+toss-up,,Multiple Choice,20) EARTH AND SPACE SCIENCE Multiple Choice What is a meteorite? W) An asteroid X) A kind of comet Y) A natural particle from space that vaporizes upon entering Earth’s atmosphere Z) A natural particle from space that survives impact with the Earth’s surface,"Z) A NATURAL PARTICLE FROM SPACE THAT SURVIVES IMPACT WITH THE
+EARTH’S SURFACE"
+bonus,,Multiple Choice,"20) EARTH AND SPACE SCIENCE Multiple Choice Sea ice is formed by frozen seawater, which contains salt. At what temperature, in Celsius, will sea ice freeze? W) -11.20 X) -1.8 Y) 0 Z) +0.001",X) -1.8
+toss-up,,Short Answer,"21) PHYSICAL SCIENCE Short Answer According to Charles’s law, which property of a gas increases as its temperature increases?",VOLUME
+bonus,,Multiple Choice,21) PHYSICAL SCIENCE Multiple Choice Which of the following elements has the highest boiling point? W) Copper X) Magnesium Y) Zinc Z) Gold,"Z) GOLD
+________________________________________________________________________"
+toss-up,,Short Answer,"22) GENERAL SCIENCE Short Answer Not counting the Sun itself, what is the name of the closest star to the Sun?",PROXIMA CENTAURI
+bonus,,Multiple Choice,22) GENERAL SCIENCE Multiple Choice What is the largest moon in our Solar System? W) Io X) Europa Y) Ganymede (read as: gah-NY-meed) Z) Callisto,Y) GANYMEDE
+toss-up,,Multiple Choice,"23) LIFE SCIENCE Multiple Choice Babies cannot walk well. As they grow older, which of the following parts of their nervous systems will interact with their muscles, allowing for increased coordination? W) Somatic X) Autonomic Y) Sympathetic Z) Parasympathetic",W) SOMATIC
+bonus,,Multiple Choice,"23) LIFE SCIENCE Multiple Choice When you have the flu, what part of the nervous system is responsible for elevating your body temperature? W) Medulla oblongata X) Pons Y) Hypothalamus Z) Brain stem","Y) HYPOTHALAMUS
+________________________________________________________________________"
+toss-up,,Multiple Choice,24) EARTH AND SPACE SCIENCE Multiple Choice Which of the following is the term for the swampy area where a river valley meets the sea? W) Playa X) Trench Y) Spit Z) Estuary (read as: EHS-chuh-wehr-ee),Z) ESTUARY
+bonus,,Short Answer,"24) EARTH AND SPACE SCIENCE Short Answer When fresh water streams meet the salty ocean, water of intermediate salinity forms. What term is used to describe this type of water?",BRACKISH
+toss-up,chemistry,Multiple Choice,25) GENERAL SCIENCE Multiple Choice For what did Marie Curie win the Nobel Prize in chemistry? W) Discovering uranium and plutonium X) Discovering radon Y) Discovering curium Z) Discovering radium and polonium,Z) DISCOVERING RADIUM AND POLONIUM
+bonus,,Short Answer,25) GENERAL SCIENCE Short Answer Who is credited with creating the first vaccine?,EDWARD JENNER

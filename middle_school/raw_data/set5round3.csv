@@ -1,0 +1,66 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,"The painting “Starry Night” by Vincent van Gogh is approximately 70 centimeters tall and 100 centimeters wide. If you buy a reproduction that is 20 centimeters wide, how many centimeters tall would it be?",14
+bonus,math,Short Answer,What real numbers cannot be part of the domain of the following x function: f(x) = (read as: f of x equals x over open parenthesis x squared plus 3x x2 + 3x (cid:0) 10 minus 10 close parenthesis).,"-5 AND 2
+_______________________________________________________"
+toss-up,,Multiple Choice,2) GENERAL SCIENCE Multiple Choice Which of the following elements exists in nature? W) Berkelium X) Protactinium (read as: prōe-tahk-TI-nee-uhm) Y) Mendelevium (read as: mehn-deh-LEE-vee-uhm) Z) Curium,X) PROTACTINIUM
+bonus,,Multiple Choice,"2) GENERAL SCIENCE Multiple Choice Which of the following is NOT true regarding one mole of two different stable isotopes of the same atom? W) Both have the same number of molecules X) Both have the same mass Y) If used in the same chemical reaction, both produce the same number of moles of products Z) Both have the same number of protons",X) BOTH HAVE THE SAME MASS
+toss-up,,Multiple Choice,"3) EARTH AND SPACE SCIENCE Multiple Choice In order for a star to enter a supernova phase, it must be which of the following? W) Very massive X) Very young Y) Very cool Z) Very distant",W) VERY MASSIVE
+bonus,,Multiple Choice,3) EARTH AND SPACE SCIENCE Multiple Choice The Sun is now transitioning from a “quiet” portion of the solar cycle to an “active” portion. Which of the following indicates this is occurring? W) There are much stronger aurora australis than aurora borealis X) Summer temperatures are higher Y) There are more sunspots Z) The speed of the solar wind has increased significantly,"Y) THERE ARE MORE SUNSPOTS
+_______________________________________________________"
+toss-up,,Short Answer,"4) GENERAL SCIENCE Short Answer A sea lamprey latches onto a rainbow trout and feeds from the fish. As a result, the fish dies but the sea lamprey lives. Of what type of relationship is this an example?",PARASITISM
+bonus,,Short Answer,"4) GENERAL SCIENCE Short Answer Naked mole rats live in colonies with a queen and a few males that reproduce, while other members of the colony do not reproduce. These animals have social castes and overlapping generations that all live in the same colony. What term best describes this type of life history?",EUSOCIAL
+toss-up,,Short Answer,"5) LIFE SCIENCE Short Answer What is the name of a composite organism that is the symbiotic association of a fungus with a photosynthetic partner, usually either a green alga or cyanobacterium (read as: SY-ah-nōe-bahk-TIR-ee-um)?",LICHEN
+bonus,,Short Answer,"5) LIFE SCIENCE Short Answer What is the common name for the kind of lichen which, in the winter when other forage is buried under snow, blows down from treetops and provides food for white-tailed deer in the Northwest?","WITCH’S HAIR
+_______________________________________________________"
+toss-up,,Short Answer,"6) GENERAL SCIENCE Short Answer What type of cloud is composed entirely of ice and consists of long, thin, wispy streamers?",CIRRUS
+bonus,,Short Answer,"6) GENERAL SCIENCE Short Answer You estimated the length of your pocket comb to be 12 centimeters. When you measured it, you found it to be 12.6 centimeters. To the nearest percent, what is the error in your estimate?",5
+toss-up,math,Short Answer,"In terms of pi, what is the volume, in cubic centimeters, of a right circular cone with a radius of 2 centimeters and a height of 9 centimeters?",12 π
+bonus,math,Short Answer,"Consider two parallel lines cut by a transversal. If one pair of alternate interior angles have measures summing to 108o, what is the value, in degrees, of one of the other alternate interior angles?","126°
+_______________________________________________________"
+toss-up,,Short Answer,"8) PHYSICAL SCIENCE Short Answer Calculate the density, in grams per cubic centimeter, of an object with a mass of 10 grams and a volume of 2 centimeters cubed.",5
+bonus,,Short Answer,8) PHYSICAL SCIENCE Short Answer What is the oxidation state of chromium in K Cr O ? 2 2 7,+6
+toss-up,,Multiple Choice,"9) LIFE SCIENCE Multiple Choice Which of the following is the name of a highly contagious skin infection that mainly affects infants and children, appearing primarily as red sores on the face? W) Cellulitis (read as: sehl-yeh-LY-tis) X) Shingles Y) Impetigo Z) Herpes simplex",Y) IMPETIGO
+bonus,,Multiple Choice,"9) LIFE SCIENCE Multiple Choice Fingernails can reveal much about a person’s overall health. Which of the following nail appearances corresponds to liver disease? W) Half of the nail is pink and half of the nail is white X) The nail bed is red Y) The nail is white Z) The nail is yellowish, with a slight blush at the base","Y) THE NAIL IS WHITE
+_______________________________________________________"
+toss-up,,Multiple Choice,10) GENERAL SCIENCE Multiple Choice Which of the following substances makes up the highest percentage of U.S. municipal waste composition? W) Food scraps X) Yard trimmings Y) Paper Z) Plastics,Y) PAPER
+bonus,,Short Answer,10) GENERAL SCIENCE Short Answer What general adjective describes sonar transducers that emit an acoustic signal or pulse of sound into the water to bounce sound off of objects and send echoes back?,ACTIVE
+toss-up,,Multiple Choice,11) PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a physical property? W) Color X) Flammability Y) Melting point Z) Density,X) FLAMMABILITY
+bonus,,Short Answer,11) PHYSICAL SCIENCE Short Answer Who first theorized that everything is composed of atoms that are physically indivisible?,"DEMOCRITUS
+_______________________________________________________"
+toss-up,,Multiple Choice,"12) EARTH AND SPACE SCIENCE Multiple Choice All except which of the following indicate that glaciers modified a landscape? W) Arêtes (read as: ah-RATES), cirques, and horns X) Moraines, drumlins, and kettle lakes Y) Glacial flour and glacial striations Z) Permanent rock folding",Z) PERMANENT ROCK FOLDING
+bonus,,Short Answer,12) EARTH AND SPACE SCIENCE Short Answer What are the two most abundant elements in Earth’s continental crust?,OXYGEN AND SILICON
+toss-up,,Multiple Choice,13) PHYSICAL SCIENCE Multiple Choice The particles of which of the following states of matter have the strongest attraction between them? W) Gas X) Liquid Y) Plasma Z) Solid,Z) SOLID
+bonus,,Short Answer,"13) PHYSICAL SCIENCE Short Answer Using proper chemical nomenclature and indicating the state of each substance, such as solid, liquid, aqueous, or gas, what is the balanced chemical equation for the reaction of solid potassium with water?","2K + 2H O → 2KOH + H
+(s) 2 (l) (aq) 2(g)
+(NOTE: S = SOLID; L = LIQUID; AQ = AQUEOUS; G = GAS)
+______________________________________________________"
+toss-up,energy,Multiple Choice,Which of the following types of biomass energy do we use the most in the United States? W) Wood X) Biofuels Y) Trash Z) Landfill gas,W) WOOD
+bonus,energy,Multiple Choice,"As of 2008, which of the following states consumed the most energy, including residential, commercial, industrial, and transportation sectors? W) California X) Florida Y) Texas Z) New York",Y) TEXAS
+toss-up,math,Short Answer,"Two fair six-sided dice are rolled. As a fraction in simplest form, what is the probability that the sum of the two numbers rolled will be 5?",1/9
+bonus,math,Short Answer,The diagonals of a rhombus are 10 centimeters and 5 centimeters. What is the area of the rhombus in square centimeters?,"25
+_______________________________________________________"
+toss-up,,Multiple Choice,16) EARTH AND SPACE SCIENCE Multiple Choice A rock is described as a bioclastic sedimentary rock. Of which of the following could it be composed? W) Shell fragments X) Quartz grains Y) Peat moss Z) Massive gypsum,W) SHELL FRAGMENTS
+bonus,,Short Answer,16) EARTH AND SPACE SCIENCE Short Answer What are the bulbous cyanobacteria (read as: SY-ah-nōe-bahk-TIR-ee-ah) colonies called that are thought to be the oldest fossilized structures known on Earth?,STROMATOLITES
+toss-up,,Short Answer,"17) PHYSICAL SCIENCE Short Answer A firefighter who weighs 700 newtons slides down a pole at a constant velocity. In newtons, what is the magnitude of the frictional force that acts on her and in what direction does that force act?",700 UPWARDS
+bonus,,Short Answer,17) PHYSICAL SCIENCE Short Answer What is the power in watts dissipated by a 10 ohm resistance when connected to a 10-volt battery?,"10
+_______________________________________________________"
+toss-up,math,Short Answer,Five National Science Bowl contestants meet for the first time. Each one shakes the hand of the other four contestants. How many handshakes are exchanged?,10
+bonus,math,Short Answer,What are the coordinates of the point of intersection of the graphs of the two lines y = 3x(cid:0)(cid:0) 5 and y = 5x + 9?,"(-7, -26)"
+toss-up,energy,Multiple Choice,Typical households using natural gas consumed 22% less natural gas in 2009 than in 1990. Which of the following is NOT a reason for the decline? W) Increased efficiency of appliances X) Population shift towards warmer regions Y) Decreased use of natural gas for home heating Z) Reduction in the number of consumers,Z) REDUCTION IN THE NUMBER OF CONSUMERS
+bonus,energy,Multiple Choice,"According to the Energy Information Administration, as of 2009, approximately what percentage of U.S. crude oil production took place in the Gulf of Mexico? W) 15% X) 30% Y) 45% Z) 60%","X) 30%
+_______________________________________________________"
+toss-up,,Multiple Choice,20) LIFE SCIENCE Multiple Choice Which of the following animals has the longest gestation period? W) Horse X) Hippopotamus Y) Lion Z) Elephant,Z) ELEPHANT
+bonus,,Short Answer,20) LIFE SCIENCE Short Answer What is the genus of the longest extant insect in the world?,PHOBAETICUS
+toss-up,math,Short Answer,What is the greatest integer less than or equal to the cube root of 211?,5
+bonus,math,Short Answer,"Consider the data set of ten numbers {3, 5, 6, 6, 7, 9, 10, 10, 10, 12}. What are the minimum, first quartile, median, third quartile, and maximum, respectively?","3, 6, 8, 10, AND 12
+_______________________________________________________"
+toss-up,,Multiple Choice,22) EARTH AND SPACE SCIENCE Multiple Choice Gamma rays released during the Sun’s fusion would take thousands of years to reach the Sun’s surface from which of the following solar layers? W) Core X) Radiative zone Y) Convective zone Z) Photosphere,W) CORE
+bonus,,Short Answer,22) EARTH AND SPACE SCIENCE Short Answer A pair of binoculars is labeled 7 x 50; the 7 specifies the magnification. What precisely is indicated by the 50?,"AN APERTURE OF 50 MILLIMETERS (DO NOT ACCEPT: APERTURE, SIZE OF
+THE APERTURE, APERTURE OF 50)"
+toss-up,energy,Multiple Choice,The work required to stop a moving car is equal to which of the following? W) Power output of the car X) The car’s kinetic energy Y) The product of the mass of the car and its acceleration Z) The momentum of the car,X) THE CAR’S KINETIC ENERGY
+bonus,energy,Multiple Choice,"Almost everywhere across the entire planet, the layer of ground at a depth between 3 and 100 meters is a relatively constant temperature. In degrees Celsius, which of the following temperatures is it? W) 5 X) 10 Y) 20 Z) 25","X) 10
+_______________________________________________________"
+toss-up,,Multiple Choice,24) PHYSICAL SCIENCE Multiple Choice Which of the following elements will most likely gain two electrons during a chemical reaction? W) Oxygen X) Strontium Y) Nitrogen Z) Fluorine,W) OXYGEN
+bonus,,Short Answer,24) PHYSICAL SCIENCE Short Answer Four 5-ohm resistors are connected in a parallel circuit. What is the total resistance of the circuit in ohms?,1.25
+toss-up,,Multiple Choice,25) LIFE SCIENCE Multiple Choice Which of the following organisms is NOT a habitual biped? W) Kangaroo mouse X) Ostrich Y) Gibbon Z) Proboscis monkey,Z) PROBOSCIS MONKEY
+bonus,,Short Answer,"25) LIFE SCIENCE Short Answer In scientific classification, what is the order of the raccoon?",CARNIVORA

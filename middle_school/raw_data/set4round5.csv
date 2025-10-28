@@ -1,0 +1,66 @@
+type,subject,format,question,answer
+toss-up,math,Short Answer,You are given three oranges. You then double the original number of oranges twice. What is the resulting number of oranges?,12
+bonus,math,Multiple Choice,Which of the following statements about squares is NOT true? W) A square is a rectangle X) A square is a parallelogram Y) A square is a rhombus Z) A square’s diagonals are equal to its side lengths,"Z) A SQUARE’S DIAGONALS ARE EQUAL TO ITS SIDE LENGTHS
+________________________________________________________________________"
+toss-up,,Short Answer,"2) LIFE SCIENCE Short Answer What process can be described as “descent with modification”, suggesting that all life on Earth shares a common ancestor that gave rise to the fantastic diversity we see today?",EVOLUTION
+bonus,,Short Answer,2) LIFE SCIENCE Short Answer What type of muscle is the intestine?,SMOOTH
+toss-up,energy,Multiple Choice,Gravitational potential energy in an object can be increased or decreased by changing which of the following? W) Speed of its movement X) Height that the object is lifted Y) Acceleration Z) Momentum,X) HEIGHT THAT THE OBJECT IS LIFTED
+bonus,energy,Short Answer,The energy from heat can be transferred in any of three ways. Name these three ways.,"CONDUCTION, CONVECTION, RADIATION
+________________________________________________________________________"
+toss-up,,Short Answer,4) EARTH AND SPACE SCIENCE Short Answer What is the name of the climate phenomena that exhibits conditions opposite to those of an El Niño?,LA NIÑA
+bonus,,Short Answer,4) EARTH AND SPACE SCIENCE Short Answer El Niño and La Niña conditions are a result of surface temperature anomalies in which ocean basin?,THE PACIFIC OCEAN
+toss-up,math,Short Answer,"Evaluate: |4 – (-8)| (read as: open absolute value, 4 minus negative 8, close absolute value).",12
+bonus,math,Short Answer,"As a fraction in simplest form, what is the slope of the line through the points (2, 5) and (7, 9)?","4/5
+________________________________________________________________________"
+toss-up,,Multiple Choice,6) LIFE SCIENCE Multiple Choice Liver tissue in a monkey would be expected to be structurally most similar to which of the following tissues? W) Monkey brain X) Ape kidney Y) Human liver Z) Dog liver,Y) HUMAN LIVER
+bonus,,Multiple Choice,6) LIFE SCIENCE Multiple Choice What characteristic is most likely to identify two organisms as the same species? W) All of their physical characteristics are very similar X) They fill the same role in the ecosystem Y) They are of similar size and shape Z) Mating produces fertile offspring,Z) MATING PRODUCES FERTILE OFFSPRING
+toss-up,,Short Answer,"7) GENERAL SCIENCE Short Answer Contrary to popular belief, there were several inventors who contributed to the development of the light bulb. Name two.","(ACCEPT TWO) DAVY, DE LA RUE, EDISON, SWAN, LATIMER, BRUSH,
+WHITNEY, COOLIDGE, LINDSAY, SHEPARD, EVANS, STARR, DeMOLEYNS"
+bonus,,Multiple Choice,"7) GENERAL SCIENCE Multiple Choice Thomas Edison improved upon a 50-year-old idea of electric light, inventing an electric lighting system that contained all the elements necessary to make incandescent light practical, safe, and economical. Which of the following was NOT included in his inventions? W) Parallel circuit X) Safety fuse Y) Light socket with on and off switches Z) Electric generator","Z) ELECTRIC GENERATOR
+________________________________________________________________________"
+toss-up,energy,Short Answer,"8) EARTH AND SPACE SCIENCE Short Answer In the Appalachian Mountains, canaries were historically used to assess air quality while people extracted a commonly found energy- producing mineral resource. Name this resource.",COAL (ACCEPT: ANTHRACITE OR BITUMINOUS COAL)
+bonus,,Short Answer,8) EARTH AND SPACE SCIENCE Short Answer The Appalachian Mountains stretch from Newfoundland in the north to which two states in the south?,ALABAMA AND GEORGIA
+toss-up,math,Short Answer,List all positive integer factors of 12.,"1, 2, 3, 4, 6, AND 12"
+bonus,math,Short Answer,What would the outer perimeter be in inches of a picture frame that is two inches wider all the way around a picture that measures 12 inches by 18 inches?,"76
+________________________________________________________________________"
+toss-up,,Multiple Choice,10) EARTH AND SPACE SCIENCE Multiple Choice What type of feature would you least expect to find in an arid environment? W) Dunes X) Evaporites Y) Point bar Z) Alluvial fan,Y) POINT BAR
+bonus,,Short Answer,10) EARTH AND SPACE SCIENCE Short Answer What is the general term for the alteration of land to desert-like conditions as the result of human activities?,DESERTIFICATION
+toss-up,energy,Multiple Choice,11) PHYSICAL SCIENCE Multiple Choice All liquids are: W) Resistant to compression X) Highly viscous Y) Unable to accommodate the size of their containers Z) At a state of higher kinetic energy than any solids,W) RESISTANT TO COMPRESSION
+bonus,,Short Answer,11) PHYSICAL SCIENCE Short Answer What are the three states of matter that are fluids?,"GASES, LIQUIDS, AND PLASMA
+________________________________________________________________________"
+toss-up,,Short Answer,12) GENERAL SCIENCE Short Answer What is the surface area of a sphere with radius r?,4 π r2 (read as: 4 pi r squared)
+bonus,,Short Answer,"12) GENERAL SCIENCE Short Answer The surface area of the Earth is 510,000,000 square kilometers. If 30% of the Earth's surface is land mass, how many square kilometers are covered in water?","357,000,000"
+toss-up,,Multiple Choice,"13) LIFE SCIENCE Multiple Choice If you touched a crawfish, you would notice that its body is hard. That is because the crawfish: W) Is an echinoderm X) Has an exoskeleton Y) Has an endoskeleton Z) Is an coelenterate",X) HAS AN EXOSKELETON
+bonus,,Multiple Choice,"13) LIFE SCIENCE Multiple Choice In eukaryotic cells, where does cellular respiration take place? W) Nucleus X) Endoplasmic reticulum (read as: ri-TI-kyuh-luhm) Y) Ribosome (read as: RY-boh-sōem) Z) Mitochondria (read as: my-toh-KOHN-dree-ah)","Z) MITOCHONDRIA
+________________________________________________________________________"
+toss-up,,Short Answer,14) EARTH AND SPACE SCIENCE Short Answer What geologic feature gives the Ring of Fire its name?,VOLCANOES
+bonus,,Short Answer,14) EARTH AND SPACE SCIENCE Short Answer What is the primary component of Saturn’s rings?,WATER ICE
+toss-up,,Short Answer,"15) GENERAL SCIENCE Short Answer List these terms in order of magnitude from smallest to largest: organ, tissue, cell, and organ systems.","CELL, TISSUE, ORGAN, AND ORGAN SYSTEM"
+bonus,,Multiple Choice,15) GENERAL SCIENCE Multiple Choice Which of the following is NOT an example of an organ system? W) Muscular X) Endocrine (read as: ehn-DŌER-hik) Y) Bone Z) Digestive,"Y) BONE
+________________________________________________________________________"
+toss-up,energy,Short Answer,Kilowatt hours are typically used as a measure of which form of energy?,ELECTRIC
+bonus,energy,Multiple Choice,Which of the following is NOT true about mechanical energy? W) Mechanical energy represents the sum of an object’s kinetic and potential energies in a mechanical system X) Mechanical energy possesses energy stored in fuel Y) Objects possess mechanical energy if they are in motion Z) An object that possesses mechanical energy is able to do work,X) MECHANICAL ENERGY POSSESSES ENERGY STORED IN FUEL
+toss-up,,Multiple Choice,17) GENERAL SCIENCE Multiple Choice Which of the following best describes the range in nanometers of wavelength for visible light? W) 240-630 X) 380-720 Y) 430-1160 Z) 510-1090,X) 380-720
+bonus,,Multiple Choice,"17) GENERAL SCIENCE Multiple Choice Of the following colors, which one has the longest wavelength? W) Orange X) Blue Y) Yellow Z) Green","W) ORANGE
+________________________________________________________________________"
+toss-up,,Multiple Choice,18) PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a simple machine? W) Pulley X) Wedge Y) Inclined plane Z) Gear,Z) GEAR
+bonus,,Multiple Choice,"18) PHYSICAL SCIENCE Multiple Choice If you travel toward a loudspeaker playing a sound at 500 hertz, which of the following may be the frequency of sound you hear, in hertz? W) 50 X) 100 Y) 500 Z) 600",Z) 600
+toss-up,,Short Answer,19) EARTH AND SPACE SCIENCE Short Answer Marble is the metamorphic product of which sedimentary rock?,"LIMESTONE (ACCEPT: ANY CARBONATE ROCK, CALCITE, OR DOLOMITE)"
+bonus,,Multiple Choice,"19) EARTH AND SPACE SCIENCE Multiple Choice Chemically, what is the difference between limestone and dolomite? W) Limestone is a carbonate rock containing only calcium, while dolomite contains both calcium and magnesium X) Limestone is a carbonate rock containing only magnesium, while dolomite contains only calcium Y) Limestone is a carbonate rock containing both calcium and magnesium, while dolomite contains only calcium Z) Limestone is a carbonate rock containing only calcium, while dolomite contains only magnesium","W) LIMESTONE IS A CARBONATE ROCK CONTAINING ONLY CALCIUM, WHILE
+DOLOMITE CONTAINS BOTH CALCIUM AND MAGNESIUM
+________________________________________________________________________"
+toss-up,math,Multiple Choice,Which of the following is NOT a rational number? W) -1.5 X) 0 Y) 1/3 Z) 2,Z) 2
+bonus,math,Multiple Choice,Which of the following statements is correct? W) A triangle can be both acute and equilateral X) A triangle can be both right and obtuse Y) A triangle can be both acute and right Z) A triangle can be both equilateral and right,W) A TRIANGLE CAN BE BOTH ACUTE AND EQUILATERAL
+toss-up,,Short Answer,21) PHYSICAL SCIENCE Short Answer What is the process by which heat spreads through a free vacuum?,RADIATION
+bonus,,Multiple Choice,21) PHYSICAL SCIENCE Multiple Choice Which of the following reactions always releases heat? W) Spontaneous X) Endothermic Y) Decomposition Z) Exothermic,"Z) EXOTHERMIC
+________________________________________________________________________"
+toss-up,,Multiple Choice,22) LIFE SCIENCE Multiple Choice Which of the following compounds is found in the greatest abundance in animals? W) Glucose X) Fatty acids Y) Carbon dioxide Z) Water,Z) WATER
+bonus,,Short Answer,"22) LIFE SCIENCE Short Answer What structure, responsible for making ribosomes, is found inside the nucleus?",NUCLEOLUS
+toss-up,math,Short Answer,39 23) MATH Short Answer One half plus a number n equals . What is n as a mixed number 12 in simplest form?,2 ¾
+bonus,math,Short Answer,"Put these values in order from least to greatest: 0.99, 1.25, 14/15, 0.0099, -17.","-17, 0.0099, 14/15, 0.99, 1.25
+________________________________________________________________________"
+toss-up,energy,Multiple Choice,Which of the following approximates the world’s total annual power demand in terawatts? W) 7 X) 15 Y) 40 Z) 100,X) 15
+bonus,energy,Multiple Choice,"By 2050, what is projected to be the world’s approximate total annual power demand in terawatts? W) 20 X) 30 Y) 40 Z) 50",X) 30
+toss-up,,Short Answer,"25) PHYSICAL SCIENCE Short Answer What is the common name for synthetic or semi- synthetic organic materials produced by polymerization, that easily form into different shapes when heat and pressure are applied?",PLASTICS
+bonus,,Multiple Choice,"25) PHYSICAL SCIENCE Multiple Choice In which of the following comparisons would you least expect the speed of sound to change? W) Whale songs travelling through Arctic water compared to whale songs travelling through equatorial waters X) Sounds made at the surface of the ocean compared to sounds made at a depth of 100 meters Y) Frog calls made in the spring when its 4 degrees Celsius compared to calls made at 28 degrees Celsius Z) Dog barks with low frequency compared to high frequency, excited dog barks","Z) DOG BARKS WITH LOW FREQUENCY COMPARED TO HIGH FREQUENCY,
+EXCITED DOG BARKS"

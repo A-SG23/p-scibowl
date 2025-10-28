@@ -1,0 +1,63 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,1) PHYSICAL SCIENCE Short Answer In which direction does the vector of centripetal (read as: sehn-TRI-peh-tahl) acceleration point in uniform circular motion?,TOWARD THE CENTER OF THE CIRCLE
+bonus,,Short Answer,"1) PHYSICAL SCIENCE Short Answer If an object in uniform circular motion has a centripetal acceleration of 2 meters per second squared and is moving in a circle with a radius of 2 meters, what is its velocity in meters per second?","2
+________________________________________________________________________"
+toss-up,,Short Answer,2) GENERAL SCIENCE Short Answer How many carbon atoms are in a molecule of propanol?,3
+bonus,,Multiple Choice,2) GENERAL SCIENCE Multiple Choice Which of the following substances would be least likely to dissolve in water? W) Polar compound X) Nonpolar compound Y) Ionic compound Z) Salt,X) NONPOLAR COMPOUND
+toss-up,,Multiple Choice,3) LIFE SCIENCE Multiple Choice During which stage of mitosis do the chromosomes line up in the center of the nucleus? W) Anaphase X) Prophase Y) Interphase Z) Metaphase,Z) METAPHASE
+bonus,,Short Answer,3) LIFE SCIENCE Short Answer During what stage of meiosis does crossing over take place?,"PROPASE ONE
+________________________________________________________________________"
+toss-up,,Multiple Choice,4) EARTH AND SPACE SCIENCE Multiple Choice Which of the following choices is NOT a condition required for the formation of a thunderstorm? W) Humid air in low- to mid-troposphere X) Atmospheric instability Y) Relatively low temperatures Z) A source of uplift,Y) RELATIVELY LOW TEMPERATURES
+bonus,,Short Answer,4) EARTH AND SPACE SCIENCE Short Answer What is the name for an elongated cluster of thunderstorm cells that is accompanied by a continuous gust front at the line’s leading edge?,SQUALL LINE
+toss-up,,Short Answer,"5) GENERAL SCIENCE Short Answer According to its nutrition facts, a candy bar contains 100 calories. Giving your answer to the nearest hundred, what would the equivalent be in joules?","418,400 (ACCEPT: 418,000)"
+bonus,energy,Short Answer,"5) GENERAL SCIENCE Short Answer Giving your answer to the nearest thousand, how many joules of energy are required to raise the temperature of 2 kilograms of water by 3 degrees Celsius?","25,000
+________________________________________________________________________"
+toss-up,energy,Short Answer,What type of device converts heat energy into mechanical work?,HEAT ENGINE
+bonus,energy,Multiple Choice,Which of the following devices exemplifies a reverse heat engine? W) Diesel engine X) Electrical generator Y) Refrigerator Z) Steam engine,Y) REFRIGERATOR
+toss-up,,Multiple Choice,7) GENERAL SCIENCE Multiple Choice Which of the following is not an example of a cartilaginous (read as: kahr-ti-LAH-ji-nehs) fish? W) Longnose skate X) Pink salmon Y) Tiger shark Z) Sting ray,X) PINK SALMON
+bonus,,Short Answer,"7) GENERAL SCIENCE Short Answer What is the adjective for a fish that is born in fresh water, swims to salt water, and returns to fresh water to spawn?","ANADROMOUS
+________________________________________________________________________"
+toss-up,,Multiple Choice,8) PHYSICAL SCIENCE Multiple Choice Which of the following could be used to neutralize an acid spill? W) Hydrogen sulfide X) Calcium oxide Y) Water Z) Bromine,X) CALCIUM OXIDE
+bonus,,Short Answer,"8) PHYSICAL SCIENCE Short Answer According to the Lewis definition of an acid, what can a Lewis acid accept from a Lewis base?",AN ELECTRON PAIR (ACCEPT: ELECTRONS)
+toss-up,,Short Answer,9) EARTH AND SPACE SCIENCE Short Answer About what percentage of worldwide rainfall occurs in the tropics? W) 14% X) 45% Y) 66% Z) 85%,Y) 66%
+bonus,,Multiple Choice,9) EARTH AND SPACE SCIENCE Multiple Choice The Tropical Rainfall Measuring Mission (TRMM) satellite was launched in 1997 with the primary mission of measuring rainfall from space using passive microwave and active radar sensors. Which of the following is NOT a benefit of TRMM? W) Increased understanding of the water cycle X) Increased understanding of the heat release associated with rainfall Y) Increased understanding of contrails Z) Better likelihood of accurate climate models,"Y) INCREASED UNDERSTANDING OF CONTRAILS
+________________________________________________________________________"
+toss-up,math,Short Answer,What is the integer value that is equal to log 5 + log 2?,1
+bonus,math,Short Answer,"What is the volume of a rectangular pyramid in cubic meters if the length of the base is 3.5 meters, the width of the base is 4 meters and the height of the pyramid is 6 meters?",28
+toss-up,energy,Multiple Choice,11) PHYSICAL SCIENCE Multiple Choice Which of the following quantities is always conserved in an inelastic collision? W) Kinetic energy X) Mechanical energy Y) Momentum Z) Impulse,Y) MOMENTUM
+bonus,,Short Answer,11) PHYSICAL SCIENCE Short Answer The linear momentum of a particle is directly proportional to which two quantities?,"MASS AND VELOCITY
+________________________________________________________________________"
+toss-up,,Short Answer,12) LIFE SCIENCE Short Answer Give the name currently used for the heterogeneous group of fungi in which scientists have never observed sexual reproduction.,IMPERFECT FUNGI (ACCEPT: DEUTEROMYCOTA)
+bonus,,Short Answer,12) LIFE SCIENCE Short Answer Name the best known product made from organisms classified as imperfect fungi.,PENICILLIN
+toss-up,math,Short Answer,What is the sum of all positive integer factors of 6?,12
+bonus,math,Short Answer,"Assuming all functions are defined, and expressing your answer in simplest form, evaluate (n2 + 7n – 8)/(n – 1) x (n2 – 4)/(n2 + 6n – 16) Read as: open parenthesis n squared plus 7n minus 8 close parenthesis over open parenthesis n minus 1 close parenthesis times the quantity open parenthesis n squared minus 4 close parenthesis over open parenthesis n squared plus 6n minus 16 close parenthesis.","n + 2
+________________________________________________________________________"
+toss-up,energy,Short Answer,"In a four stroke internal combustion engine, during which stroke is the energy transformed from chemical potential energy to kinetic energy?",POWER
+bonus,energy,Short Answer,A car’s radiator is an example of a component that transfers heat generated within a solid material to a fluid medium. What is such a component called?,A HEAT SINK
+toss-up,,Multiple Choice,"15) PHYSICAL SCIENCE Multiple Choice When alkali metals such as sodium are placed in water, a gaseous substance is produced. What is this gas? W) Water vapor X) Oxygen Y) Hydrogen Z) Carbon dioxide",Y) HYDROGEN
+bonus,,Multiple Choice,15) PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a transition metal? W) Aluminum X) Zinc Y) Copper Z) Manganese,"W) ALUMINUM
+________________________________________________________________________"
+toss-up,math,Short Answer,How many positive factors does the number 1051 have?,2
+bonus,math,Short Answer,"In right triangle ABC, angle A = 60°, angle C = 90°, and side AB = 10 centimeters. What is the length of side BC in centimeters?",
+toss-up,,Short Answer,"17) LIFE SCIENCE Short Answer Since the 1970’s, what have scientists observed about the size of global amphibian population?",THEY HAVE DECLINED
+bonus,,Multiple Choice,"17) LIFE SCIENCE Multiple Choice Which of the following correctly matches an order of amphibians and its characteristics? W) Squamata: legs, clawed toes and external ears X) Anura: long bodies and tails Y) Apoda: tentacles and fishlike scales Z) Urodela: no tails, can jump","Y) APODA: TENTACLES AND FISHLIKE SCALES
+________________________________________________________________________"
+toss-up,energy,Short Answer,What chemical reaction is necessary to convert the chemical energy from fossil fuels into useable forms of energy such as electricity?,COMBUSTION (ACCEPT: OXIDATION)
+bonus,energy,Multiple Choice,Which of the following is the typical shape of a charged particle’s path in a magnetic field? W) Elliptical X) Circular Y) Parabolic Z) Hyperbolic,X) CIRCULAR
+toss-up,,Short Answer,"19) EARTH AND SPACE SCIENCE Short Answer If Jupiter is approximately 5 times further from the Sun than the Earth, what fraction of the intensity of light does it receive relative to the Earth?",1/25
+bonus,,Multiple Choice,"19) EARTH AND SPACE SCIENCE Multiple Choice If you see the Moon in the western sky just above the setting Sun, what is the Moon’s phase? W) New moon X) Full moon Y) Gibbous Z) Waxing crescent","Z) WAXING CRESCENT
+________________________________________________________________________"
+toss-up,math,Short Answer,What are the x-intercepts for the function f(x) = x² - x - 12?,"(4, 0) AND (-3, 0) (ACCEPT: 4 AND -3)"
+bonus,math,Short Answer,Find the reference angle to angle A =,
+toss-up,,Multiple Choice,"21) LIFE SCIENCE Multiple Choice The similarities between the lungs of a reptile and the air bladder of a fish can be described, in evolutionary terms, as: W) Homologous (read as: hōe-MOH-loh-gehs) structures X) Erroneous structures Y) Vestigial structures Z) Inert structures",W) HOMOLOGOUS STRUCTURES
+bonus,,Short Answer,"21) LIFE SCIENCE Short Answer The similarities between the wings of a bat and the wings of a dragonfly can be described, in evolutionary terms, as what type of structures?","ANALOGOUS
+________________________________________________________________________"
+toss-up,,Multiple Choice,22) GENERAL SCIENCE Multiple Choice The intramolecular bonds that hold together an individual water molecule can be classified as which of the following? W) Polar covalent X) Nonpolar covalent Y) Hydrogen bonds Z) Ionic bonds,W) POLAR COVALENT
+bonus,,Short Answer,22) GENERAL SCIENCE Short Answer What type of bonds are the main intermolecular forces that allow water molecules to undergo cohesion?,HYDROGEN BONDS
+toss-up,,Multiple Choice,23) EARTH AND SPACE SCIENCE Multiple Choice Which north or south latitude experiences the greatest variation in sun exposure over the course of the year? W) 0° X) 30° Y) 60° Z) 90°,Z) 90°
+bonus,,Short Answer,23) EARTH AND SPACE SCIENCE Short Answer What geological feature is responsible for the dark spots on the moon?,"SOLID POOLS OF LAVA (ACCEPT: BASALTIC LAVA)
+________________________________________________________________________"
+toss-up,math,Multiple Choice,6 24) MATH Multiple Choice Which of the following is true about the function y = x3 +4? 5 W) The function is odd X) The function is even Y) The function is positive Z) The function is neither odd nor even,Z) THE FUNCTION IS NEITHER ODD NOR EVEN
+bonus,math,Short Answer,What is the radius in units of a cone with a volume of 384π cubic units and a height of 8 units?,12
+toss-up,,Multiple Choice,25) EARTH AND SPACE SCIENCE Multiple Choice Marcellus shale occurs in the subsurface under several states. Which of the following is NOT one of them? W) Indiana X) Ohio Y) Pennsylvania Z) West Virginia,W) INDIANA
+bonus,,Short Answer,"25) EARTH AND SPACE SCIENCE Short Answer Recently, deposits of which natural resource were found in the Marcellus shale of the Appalachian Basin?",NATURAL GAS

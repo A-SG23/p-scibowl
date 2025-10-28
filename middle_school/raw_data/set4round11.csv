@@ -1,0 +1,70 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,1) LIFE SCIENCE Multiple Choice Which of the following choices is an example of a continuous variation? W) Family size X) Height Y) Pierced ears Z) Gender,X) HEIGHT
+bonus,,Short Answer,1) LIFE SCIENCE Short Answer What type of nucleic acid is translated into a protein sequence?,"mRNA (ACCEPT: MESSENGER RNA)
+________________________________________________________________________"
+toss-up,,Multiple Choice,2) GENERAL SCIENCE Multiple Choice Brass is an alloy of which two metals? W) Copper and gold X) Copper and aluminum Y) Copper and zinc Z) Copper and tin,Y) COPPER AND ZINC
+bonus,,Multiple Choice,2) GENERAL SCIENCE Multiple Choice Which of the following processes is not part of the water cycle? W) Transpiration X) Precipitation Y) Distillation Z) Evaporation,Y) DISTILLATION
+toss-up,,Multiple Choice,3) EARTH AND SPACE SCIENCE Multiple Choice Which of the following is the approximate age of the Universe in years? W) 3 million X) 1 billion Y) 5 billion Z) 14 billion,Z) 14 BILLION
+bonus,,Short Answer,3) EARTH AND SPACE SCIENCE Short Answer Name the current geologic era.,"CENOZOIC
+________________________________________________________________________"
+toss-up,math,Short Answer,"5 5 4) MATH Short Answer Expressing your answer in exponential form, simplify: (8 ) (8 ) (read as: 8 to the fifth times 8 to the fifth).",
+bonus,math,Short Answer,Express the following in simplest exponential form: ( ) (3 +2)³ ( ) (read as: 6 to the fourth times the quantity 3 plus 2 cubed times 6 cubed).,"(67) (53)
+ALSO ACCEPT: (27)(37)(53)"
+toss-up,,Short Answer,5) EARTH AND SPACE SCIENCE Short Answer Where on Earth would sunrise and sunset occur at approximately the same times all year round?,EQUATOR
+bonus,,Multiple Choice,"5) EARTH AND SPACE SCIENCE Multiple Choice If you see part of the moon one night, then three nights later you can see more of it, you know that the moon is: W) Waning X) Waxing Y) Gibbous Z) Full","X) WAXING
+_______________________________________________________________________"
+toss-up,,Multiple Choice,6) PHYSICAL SCIENCE Multiple Choice Elements are often classified by their atomic number. The atomic number denotes the number of: W) Atoms per gram X) Protons per atom Y) Neutrons per atom Z) Protons and neutrons per atom,X) PROTONS PER ATOM
+bonus,,Multiple Choice,6) PHYSICAL SCIENCE Multiple Choice Which of the following elements has the largest atomic weight? W) Aluminum X) Neon Y) Nitrogen Z) Lithium (read as: LI-thee-uhm),W) ALUMINUM
+toss-up,,Multiple Choice,7) GENERAL SCIENCE Multiple Choice Which of the following can NOT be considered a solution? W) Soda pop X) Salt Water Y) Household vinegar Z) Ethanol,Z) ETHANOL
+bonus,,Multiple Choice,7) GENERAL SCIENCE Multiple Choice A vinaigrette salad dressing is an example of: W) Solution X) Emulsion Y) Suspension Z) Alloy,"X) EMULSION
+________________________________________________________________________"
+toss-up,,Short Answer,"8) LIFE SCIENCE Short Answer By name or number, identify all of the following which can represent either sexual or asexual reproduction: 1) plant seed generation, 2) bacteria binary fission, 3) fungi sporulation, and/or 4) yeast budding.",PLANT SEED GENERATION AND FUNGI SPORULATION (ACCEPT: 1 AND 3)
+bonus,,Multiple Choice,8) LIFE SCIENCE Multiple Choice Which of the following is NOT a mechanism plants use to disperse their seeds? W) Ingestion by animals X) Wind Y) Apomixis (read as: ah-poh-MIK-sis) Z) Storage by animals,Y) APOMIXIS
+toss-up,energy,Multiple Choice,"9) EARTH AND SPACE SCIENCE Multiple Choice Which of the following best describes what drives plate tectonics? W) Energy from the Sun driving ocean currents and plates X) Heat from the Earth’s interior driving convection in the mantle Y) Scientists have not yet developed a robust theory but some leading researchers are linking it to ocean currents Z) Earthquakes drive plate tectonics, volcanism, and global wind systems","X) HEAT FROM THE EARTH’S INTERIOR DRIVING CONVECTION IN THE
+MANTLE"
+bonus,,Multiple Choice,"9) EARTH AND SPACE SCIENCE Multiple Choice Which of the following best describes what kinds of rocks are formed because of plate tectonics? W) Volcanic rocks only X) Igneous (read as: IG-nee-ehs), metamorphic, and sedimentary Y) Sandstones and marble Z) Coal and fossil fuels","X) IGNEOUS, METAMORPHIC, AND SEDIMENTARY
+________________________________________________________________________"
+toss-up,,Short Answer,10) GENERAL SCIENCE Short Answer What is the name of a gigantic wave caused by an underwater earthquake?,TSUNAMI (DO NOT ACCEPT: TIDAL WAVE)
+bonus,energy,Multiple Choice,10) GENERAL SCIENCE Multiple Choice Which of the following best explains why a tsunami produced by an underwater earthquake might be deadly? W) The wave acquires a tremendous velocity if the depth of the earthquake is small X) The height of a wave created by an earthquake increases the potential energy of the wave Y) The wave possesses intense pressure when it reaches the shore Z) The wave acquires tremendous energy when there is a shallow focus and high magnitude earthquake in deep water,"Z) THE WAVE ACQUIRES TREMENDOUS ENERGY WHEN THERE IS A
+SHALLOW FOCUS AND HIGH MAGNITUDE EARTHQUAKE IN DEEP WATER"
+toss-up,energy,Multiple Choice,Which of the following natural resources did NOT originally get its energy from the Sun? W) Natural gas X) Petroleum Y) Coal Z) Uranium,Z) URANIUM
+bonus,energy,Short Answer,"An electric vehicle has two stages. If the first stage, the battery, has an efficiency of 90% and the second stage, the inverter, has an efficiency of 80%, calculate the approximate overall efficiency of the vehicle to the nearest percent.","72%
+________________________________________________________________________"
+toss-up,,Short Answer,"12) GENERAL SCIENCE Short Answer In kilometers and rounded to the nearest ten million, what is the average distance from the Earth to the Sun?",150
+bonus,,Multiple Choice,12) GENERAL SCIENCE Multiple Choice Available incoming solar radiation is known as: W) Solar absorption X) Solar reflection Y) Solar re-radiation Z) Solar insolation,Z) SOLAR INSOLATION
+toss-up,energy,Multiple Choice,"13) PHYSICAL SCIENCE Multiple Choice During a chemical reaction, which of the following will never occur? W) Production of heat X) Destruction of energy Y) Production of light Z) Formation of a new substance",X) DESTRUCTION OF ENERGY
+bonus,,Multiple Choice,"13) PHYSICAL SCIENCE Multiple Choice Which of the following does NOT include a chemical reaction? W) Making caramel from sugar X) Immersing an iron nail in a copper sulfate solution to coat the nail with copper metal Y) Combining water, rocks and gravel with cement to make concrete Z) Combining copper and tin to make bronze","Z) COMBINING COPPER AND TIN TO MAKE BRONZE
+________________________________________________________________________"
+toss-up,,Short Answer,14) EARTH AND SPACE SCIENCE Short Answer What is the SI unit for pressure?,PASCAL
+bonus,,Multiple Choice,"14) EARTH AND SPACE SCIENCE Multiple Choice Why is it winter in the northern hemisphere when it is summer in the southern hemisphere? W) The manner in which the Earth rotates regulates the seasons on Earth X) The northern hemisphere is tilted away from the Sun when the southern hemisphere is tilted toward the Sun Y) Because of the Earth’s revolution, each hemisphere experiences summer when it is closest to the Sun and winter when it is further away Z) Because of the Earth’s rotation, seasons are regulated by photoperiods","X) THE NORTHERN HEMISPHERE IS TILTED AWAY FROM THE SUN WHEN
+THE SOUTHERN HEMISPHERE IS TILTED TOWARD THE SUN"
+toss-up,math,Short Answer,What fraction represents the repeating decimal 0.2 (read as: 0 point repeated 2)?,2/9
+bonus,math,Short Answer,"Stating your answer as an improper fraction in simplest form, if 17s + 8 is 9 more than 6s - 14, then what is the value of s?","-13/11
+________________________________________________________________________"
+toss-up,,Short Answer,"16) PHYSICAL SCIENCE Short Answer As pressure increases, what happens to the volume of a gas?",IT DECREASES
+bonus,,Multiple Choice,16) PHYSICAL SCIENCE Multiple Choice Which of the following elements is often added to steel to make it harder? W) Aluminum X) Zirconium Y) Chromium Z) Sodium,Y) CHROMIUM
+toss-up,,Short Answer,"17) LIFE SCIENCE Short Answer In a cross of two mice that are heterozygous (read as: he- teh-roe-ZI-gus) for coat color with brown the dominant allele, what proportion of their offspring would you expect to be brown?",75%
+bonus,,Short Answer,17) LIFE SCIENCE Short Answer A brown mouse and a white mouse mate and have a litter of babies which are all brown. Assuming the trait is controlled by a simple dominant/recessive gene; use the appropriate scientific names to describe the genotypes for the coat color in each of the parents.,"HOMOZYGOUS DOMINANT AND HOMOZYGOUS RECESSIVE
+________________________________________________________________________"
+toss-up,math,Short Answer,A doctor orders 15 milligrams of a certain drug. The drug is only available as 60 milligrams per cubic centimeter. How many ccs should the nurse administer?,0.25 (ACCEPT: 1/4)
+bonus,math,Multiple Choice,Cal has 88 feet of fencing to make a rectangular pen for his dog. Which of the following respective lengths and widths in feet will give him the largest area? W) 22 by 22 X) 28 by 16 Y) 30 by 14 Z) 43 by 1,W) 22 by 22
+toss-up,energy,Multiple Choice,"When a fighter pilot fires a machine gun on a plane directly in front of her, the momentum of the fighter pilot and her plane changes in what way? W) Increases X) Decreases Y) Stays the same Z) Changes direction",X) IT DECREASES
+bonus,energy,Short Answer,"Gross production is the amount of energy acquired while net production is the energy available for the next organism in the food chain. By name or number, identify which of the following organisms has the highest net production of energy: 1) zooplankton, 2) phytoplankton, 3) fish, or 4) bear.","PHYTOPLANKTON (ACCEPT: 2)
+________________________________________________________________________"
+toss-up,,Short Answer,20) PHYSICAL SCIENCE Short Answer What term is used to describe various forms of an element which can vary in structural properties while maintaining the same number of neutrons?,ALLOTROPE
+bonus,,Short Answer,20) PHYSICAL SCIENCE Short Answer Name two allotropes of oxygen.,"O AND O (ACCEPT: DIATOMIC OXYGEN OR DIOXYGEN AND OZONE)
+2 3"
+toss-up,math,Short Answer,What is the area in square inches of an isosceles triangle with legs of 5 inches and a base of 6 inches?,12
+bonus,math,Short Answer,"A right circular cone has a 6-inch radius, a slant height of 10 inches and a perpendicular height of 8 inches. If we remove the base and then cut the cone along the slant height and open it out flat, what is the radius in inches of the formed sector?","10
+________________________________________________________________________"
+toss-up,,Short Answer,22) LIFE SCIENCE Short Answer What is the name used for a diagram that focuses on novel characteristics of evolutionary significance as a method to illustrate relationships between organisms?,CLADOGRAM
+bonus,,Multiple Choice,22) LIFE SCIENCE Multiple Choice Which of the following is NOT an accurate representation of cladograms? W) They emphasize the sequence in which derived characteristics arose X) They illustrate the benefits provided by the derived characteristic Y) They visually organize the relationships between organisms that share characteristics Z) They can be constructed for any group of organisms,"X) THEY ILLUSTRATE THE BENEFITS PROVIDED BY THE DERIVED
+CHARACTERISTIC"
+toss-up,energy,Short Answer,"If two identical billiard balls, each weighing 1 kilogram, roll in opposite directions toward one another at the same speed of 1 meter per second, what will their net momentum be when they meet?",0
+bonus,energy,Multiple Choice,"While driving down the freeway, a bug splatters on your windshield. Which of the following is true? W) The bug experiences more of an absolute change in momentum X) The car experiences more of an absolute change in momentum Y) Both the car and the bug experience the same absolute change in momentum Z) Neither the car nor the bug experiences a change in momentum","Y) BOTH THE CAR AND THE BUG EXPERIENCE THE SAME ABSOLUTE
+CHANGE IN MOMENTUM
+________________________________________________________________________"
+toss-up,,Short Answer,24) EARTH AND SPACE SCIENCE Short Answer Rocks vary greatly in density. Which well- known rock is less dense than water?,PUMICE
+bonus,,Short Answer,24) EARTH AND SPACE SCIENCE Short Answer What type of front forms when a cold front overtakes a warm front?,OCCLUDED FRONT
+toss-up,math,Short Answer,Express 4 factorial as a whole number.,24
+bonus,math,Short Answer,"Expressing your answer in terms of pi, simplify 4x³ - 6(x² + 2) - 3 + 3x(x²) + 6 - 8 (read as: 4 x cubed minus 6, open parenthesis, x squared plus 2, close parenthesis, minus 3 pi plus 3x times x squared plus 6 pi minus 8).",7x³ - 6x² - 20 + 3 (ACCEPT: OTHER ORDERS OF TERMS)

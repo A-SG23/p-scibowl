@@ -1,0 +1,54 @@
+type,subject,format,question,answer
+toss-up,,Short Answer,1) LIFE SCIENCE Short Answer What organelle functions to isolate a human cell’s chromosomes from the cytoplasm?,NUCLEUS
+bonus,,Short Answer,1) LIFE SCIENCE Short Answer What is the primary oxygen-carrying protein found in red blood cells?,HEMOGLOBIN
+toss-up,,Short Answer,2) PHYSICAL SCIENCE Short Answer What physical state of matter is intermediate between a solid and gas?,LIQUID
+bonus,,Multiple Choice,2) PHYSICAL SCIENCE Multiple Choice Which of the following BEST describes the term static: W) stationary X) low Y) constant Z) used,W) STATIONARY
+toss-up,earth science,Short Answer,What is the general name for the rising and falling of sea levels in response to the forces exerted by the Moon and Sun?,TIDES
+bonus,earth science,Multiple Choice,Approximately what fraction of Earth’s surface is covered by oceans: W) one-half X) two-thirds Y) seven-tenths Z) four-fifths,Y) SEVEN-TENTHS
+toss-up,math,Short Answer,How many degrees are in one-third of a right angle?,30
+bonus,math,Short Answer,"Round the number 535,279 to the nearest ten-thousand:","540,000"
+toss-up,,Short Answer,5) GENERAL SCIENCE Short Answer The number 4.56 × 1011 has how many zeroes?,9
+bonus,,Short Answer,"5) GENERAL SCIENCE Short Answer Giving your answer in grams, subtract 200 grams from 6.2 kilograms:","6,000 (ACCEPT: 6 × 103)"
+toss-up,,Short Answer,6) LIFE SCIENCE Short Answer How many permanent teeth does a typical adult human have?,32
+bonus,,Short Answer,6) LIFE SCIENCE Short Answer How many canine teeth does the typical human adult have?,4
+toss-up,,Multiple Choice,"7) PHYSICAL SCIENCE Multiple Choice Mary tried to lift her couch by exerting 500 newtons of force but it doesn’t budge. If the couch weighed 2,000 newtons, how much work did she do: W) 0 X) 50 watts Y) 500 joules Z) 2000 joules",W) 0
+bonus,,Short Answer,"7) PHYSICAL SCIENCE Short Answer Jeff walks west in a straight path for 100 meters and then east in a straight path for 150 meters. What is the magnitude of his displacement, in meters?",50
+toss-up,earth science,Multiple Choice,The hydrologic cycle describes the circulation of Earth’s: W) tides X) water Y) sediments Z) rocks,X) WATER
+bonus,earth science,Short Answer,What is the name of the rock that makes up most of the ocean floor and volcanic ocean islands?,BASALT
+toss-up,math,Short Answer,"In a right triangle, what is the name for the side opposite the 90º angle?",HYPOTENUSE
+bonus,math,Short Answer,"Rounded to the nearest meter, find the length of the hypotenuse of a right triangle if the legs measure 5 and 12 meters?","13
+(Solution: 52 + 122 = c2; c = 13)"
+toss-up,,Short Answer,10) GENERAL SCIENCE Short Answer What is the SI base unit for length?,METER
+bonus,,Short Answer,10) GENERAL SCIENCE Short Answer Name all of the following 3 choices that are measurements units for speed: mach; newton; knots,MACH; KNOTS
+toss-up,,Multiple Choice,11) LIFE SCIENCE Multiple Choice Most of the heart is composed of which of the following types of tissues: W) epithelial X) connective Y) nervous Z) muscle,Z) MUSCLE
+bonus,,Short Answer,"11) LIFE SCIENCE Short Answer In the taxonomical name Homo sapiens, what taxonomical rank does sapiens represent?",SPECIES
+toss-up,,Short Answer,12) PHYSICAL SCIENCE Short Answer What atomic particle balances the charge of protons to produce a neutral atom?,ELECTRON
+bonus,,Short Answer,12) PHYSICAL SCIENCE Short Answer Isotopes of the same element are based on their different numbers of what atomic particle?,NEUTRONS
+toss-up,earth science,Short Answer,Which of the Gas giant planets is closest to the Sun?,JUPITER
+bonus,earth science,Short Answer,What are the 2 main factors causing the metamorphism of rocks?,HEAT AND PRESSURE (in any order)
+toss-up,math,Short Answer,What is the name for any segment with one endpoint at the center of a circle and the other endpoint on the circle?,RADIUS (ACCEPT: RADII)
+bonus,math,Short Answer,"1 14) MATH Short Answer Rounded to the nearest ten-thousandth, convert rd to a decimal: 3",0.3333 (ACCEPT: .3333)
+toss-up,,Short Answer,"15) GENERAL SCIENCE Short Answer If there are 640 ounces of water in 5 gallons, how many ounces are in ½ gallon?",64
+bonus,,Short Answer,15) GENERAL SCIENCE Short Answer Name all of the following 4 choices that are measurement units of area: meter; hectare; acre; mile,HECTARE; ACRE
+toss-up,,Short Answer,16) LIFE SCIENCE Short Answer What is generally considered the basic unit of life?,THE CELL
+bonus,,Short Answer,16) LIFE SCIENCE Short Answer In what organelle of a plant cell does photosynthesis occur?,CHLOROPLAST (ACCEPT: PLASTID)
+toss-up,,Short Answer,17) PHYSICAL SCIENCE Short Answer An ionic state of an atom of hydrogen would have how many protons?,1
+bonus,,Short Answer,17) PHYSICAL SCIENCE Short Answer What is the name for the biochemical process that converts grape juice into wine or soy beans into soy sauce?,FERMENTATION
+toss-up,earth science,Short Answer,"Giving your answer as north, south, east, or west, a southerly wind blows FROM what direction?",SOUTH
+bonus,earth science,Multiple Choice,Which of the following clouds has little vertical development: W) altostratus X) altocumulus Y) cirrus Z) nimbostratus,Y) CIRRUS
+toss-up,math,Short Answer,"What is the exact circumference, in centimeters, of a circle whose radius is 3 centimeters?",6π
+bonus,math,Short Answer,"Change each of the following 3 fractions, respectively, to equivalent 1 3 5 fractions with a denominator of 30: ; ; 3 5 6 10 18 25","; ;
+30 30 30"
+toss-up,,Short Answer,"20) GENERAL SCIENCE Short Answer What is the common name for the antiseptic, found in many homes, that decomposes into water and oxygen?",HYDROGEN PEROXIDE
+bonus,,Short Answer,20) GENERAL SCIENCE Short Answer What is the chemical formula for hydrogen peroxide?,"H O
+2 2"
+toss-up,,Short Answer,21) LIFE SCIENCE Short Answer What is the scientific name for the white of a cooked egg?,ALBUMEN
+bonus,,Short Answer,21) LIFE SCIENCE Short Answer What term is generally used for biological catalysts?,ENZYMES
+toss-up,,Short Answer,22) PHYSICAL SCIENCE Short Answer What term do scientists use for the force of gravity acting on anything that has mass?,WEIGHT
+bonus,,Short Answer,22) PHYSICAL SCIENCE Short Answer How many protons are present in a single helium nucleus?,2
+toss-up,earth science,Multiple Choice,A weather forecast of 100% relative humidity suggests an increased possibility of: W) rain X) wind Y) rising temperature Z) drying conditions,W) RAIN
+bonus,earth science,Short Answer,What is the name for all Great Circles that pass through the north and south poles?,LONGITUDES (ACCEPT: MERIDIANS)
+toss-up,math,Short Answer,Every triangle has how many vertices?,3
+bonus,math,Short Answer,"If the perimeter of a triangle is 45 centimeters and the lengths of two of its sides are 16 and 12 centimeters, find the length of the third side, in centimeters:",17
+toss-up,,Short Answer,25) GENERAL SCIENCE Short Answer What general term describes the angle or degree north or south of the equator?,LATITUDE
+bonus,,Short Answer,25) GENERAL SCIENCE Short Answer The geographic north pole is at what latitude?,90 (ACCEPT: 90º NORTH)

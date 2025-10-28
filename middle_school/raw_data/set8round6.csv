@@ -1,0 +1,62 @@
+type,subject,format,question,answer
+toss-up,,Multiple Choice,1) GENERAL SCIENCE Multiple Choice Which of the following is true? W) Meiosis [my-OH-sis] results in two daughter cells X) Meiosis results in identical daughter cells Y) Mitosis [my-TOH-sis] results in four daughter cells Z) Mitosis results in identical daughter cells,Z) MITOSIS RESULTS IN IDENTICAL DAUGHTER CELLS
+bonus,,Short Answer,1) GENERAL SCIENCE Short Answer What is the smallest of the world’s five oceans?,"ARCTIC
+_______________________________________________________"
+toss-up,math,Multiple Choice,What type of quadrilateral has only one set of parallel sides with congruent non-parallel sides and congruent diagonals? W) Rhombus X) Kite Y) Isosceles trapezoid Z) Right trapezoid,Y) ISOSCELES TRAPEZOID
+bonus,math,Short Answer,What is the probability that an integer chosen at random from the set of all positive integers less than 100 is a multiple of 5? (cid:2869)(cid:2877),(cid:2877)(cid:2877)
+toss-up,,Multiple Choice,3) PHYSICAL SCIENCE Multiple Choice Which of the following wave types has the longest wavelength? W) Radio X) Gamma Y) Ultraviolet Z) Microwave,W) RADIO
+bonus,,Short Answer,"3) PHYSICAL SCIENCE Short Answer What is the momentum, in newton seconds, of an object with a mass of 25 kilograms moving at a velocity of 25 meters per second?","625
+_______________________________________________________"
+toss-up,energy,Multiple Choice,4) LIFE SCIENCE Multiple Choice Which of these organisms get energy directly from the Sun? W) Methanogens [me-THAN-uh-jens] X) Thermophiles Y) Cyanobacteria [sy-uh-noh-bak-TEER-ee-uh] Z) Lithotrophs,Y) CYANOBACTERIA
+bonus,,Short Answer,4) LIFE SCIENCE Short Answer Which division of the nervous system contains axons of sensory and motor neurons bundled together as nerves?,PERIPHERAL NERVOUS SYSTEM (ACCEPT: PNS)
+toss-up,,Short Answer,5) EARTH AND SPACE Short Answer The Cascade Mountains and the Andes Mountains are part of what is called the Ring of Fire. All of the volcanoes in the Ring of Fire are formed by magmatic processes at what kind of plate boundary?,SUBDUCTION ZONE (ACCEPT: CONVERGENT BOUNDARY)
+bonus,,Multiple Choice,5) EARTH AND SPACE Multiple Choice The ocean crust is composed mostly of which of the following rock types? W) Basalt X) Granite Y) Tonalite Z) Gneiss [NYS],"W) BASALT
+_______________________________________________________"
+toss-up,,Short Answer,6) GENERAL SCIENCE Short Answer What is the layer just below the canopy in the vertical stratification of a forest?,UNDERSTORY (ACCEPT: UNDERBRUSH)
+bonus,,Multiple Choice,"6) GENERAL SCIENCE Multiple Choice Which of the following gives the primary components of the Earth’s mass in order from largest percentage to smallest? W) Crust, mantle, core X) Core, mantle, crust Y) Mantle, core, crust Z) Core, crust, mantle","Y) MANTLE, CORE, CRUST"
+toss-up,math,Multiple Choice,Which of the following is an example of a linear equation? W) 7x-5/y = 0 [7 x minus 5 over y equals 0] X) 3x2 + 4y3 = 9 [3 x squared plus 4 y cubed equals 9] Y) 7x + 11y – 4 = 9x + 22y Z) 3xy = 12 [3 x y equals 12],Y) 7x + 11y – 4 = 9x + 22y
+bonus,math,Short Answer,"You earn two extra credit points on a test that is graded on a 25 point scale. If you had an 88% before the extra credit, what is your final score, expressed as a percentage?","96
+_______________________________________________________"
+toss-up,energy,Multiple Choice,"As the spring constant (k) of a spring increases, what happens to its energy storage potential? W) It increases exponentially X) It increases linearly Y) It stays the same Z) It decreases",X) IT INCREASES LINEARLY
+bonus,energy,Multiple Choice,"To prevent lithium ion batteries from catching fire and exploding, which of the following devices is utilized? W) Fuse disconnecting device X) Monitoring circuit Y) Charge controller Z) Voltage charger",X) MONITORING CIRCUIT
+toss-up,,Multiple Choice,"9) PHYSICAL SCIENCE Multiple Choice A sound wave hits a wall, causing a reflection. Which of the following statements about this reflection is NOT correct? W) The wave will bounce off the wall X) The speed of the wave may change Y) The frequency of the wave will not change Z) The amplitude of the wave may change",X) THE SPEED OF THE WAVE MAY CHANGE
+bonus,,Multiple Choice,9) PHYSICAL SCIENCE Multiple Choice Which of the following scientists did NOT study electricity and its properties? W) André-Marie Ampère X) Alessandro Volta Y) Benjamin Franklin Z) John Dalton,"Z) JOHN DALTON
+_______________________________________________________"
+toss-up,,Short Answer,10) LIFE SCIENCE Short Answer What is the name of the barrier that surrounds all cells and regulates what may enter and exit the cell?,"PLASMA MEMBRANE (ACCEPT: CELL MEMBRANE; DO NOT ACCEPT:
+MEMBRANE)"
+bonus,,Multiple Choice,"10) LIFE SCIENCE Multiple Choice When two species compete for the same resources and one species is eliminated, the outcome is referred to as which of the following? W) Resource partitioning X) Intraspecific competition Y) Commensalism Z) Competitive exclusion",Z) COMPETITIVE EXCLUSION
+toss-up,,Multiple Choice,"11) EARTH AND SPACE Multiple Choice Which of the following is a characteristic mound-like structure that represents trace fossils of photosynthesizing microbes? Living relatives of these organisms can be found in Shark Bay, Australia. W) Stromatolite [stroh-MAT-l-yt] X) Oncolite Y) Oncoid Z) Dendrite",W) STROMATOLITE
+bonus,,Short Answer,"11) EARTH AND SPACE Short Answer Water ice is a significant constituent of the outer planets and moons of the solar system and can manifest itself in at least 15 different crystalline forms. Other than crystal structure, what is the physical difference between these various types of water ice?","DENSITY
+_______________________________________________________"
+toss-up,,Short Answer,12) GENERAL SCIENCE Short Answer The base represented by the letter “T” in DNA is replaced by which base in RNA?,URACIL (ACCEPT: U)
+bonus,,Multiple Choice,"12) GENERAL SCIENCE Multiple Choice What digestive organ has parts including the fundus, cardiac region, body, and pyloric region? W) Small intestine X) Liver Y) Pancreas Z) Stomach",Z) STOMACH
+toss-up,math,Multiple Choice,Which of the following is a rational number? W) π [pi] X) The base of a right isosceles triangle with hypotenuse 7 Y) The radius of a circle with circumference 2π Z) e2 [e raised to the second power],Y) THE RADIUS OF A CIRCLE WITH CIRCUMFERENCE 2π
+bonus,math,Multiple Choice,"The graph of a line passes through the points with coordinates (a, b) and (c, -b). The slope of the line is ½. What is a – c in terms of b? W) 4b X) b Y) -b Z) -4b","W) 4b
+_______________________________________________________"
+toss-up,,Short Answer,"14) PHYSICAL SCIENCE Short Answer Providing your answer to two significant figures, what is the density, in grams per milliliter, of a 0.60 kilogram sample that has a volume of 300 cubic centimeters?",2.0
+bonus,,Multiple Choice,14) PHYSICAL SCIENCE Multiple Choice An object traveling from Earth to Venus experiences equal gravitational pull by Earth and Venus when which of the following occurs? W) It is closer to Earth’s surface X) It is closer to Venus’s surface Y) It is exactly halfway between Earth and Venus Z) Earth always pulls more strongly,X) IT IS CLOSER TO VENUS’S SURFACE
+toss-up,,Short Answer,"15) LIFE SCIENCE Short Answer What is the term for the rapid, automatic response to stimuli in which a particular stimulus always causes the same motor response?",REFLEX
+bonus,,Multiple Choice,15) LIFE SCIENCE Multiple Choice Which of the following traits would you expect an ornithopod [AWR-nuh-thuh-pod] dinosaur to have? W) Feathers X) Bird-like feet Y) Webbed feet Z) Fused pelvis,"X) BIRD-LIKE FEET
+_______________________________________________________"
+toss-up,,Short Answer,16) EARTH AND SPACE Short Answer What are the three most common cementing agents of sedimentary rocks?,"CALCITE, SILICA (ACCEPT: QUARTZ), IRON OXIDE (ACCEPT: HEMATITE)"
+bonus,,Multiple Choice,16) EARTH AND SPACE Multiple Choice Radiometric dating is a method of obtaining the age for a rock. This method utilizes which of the following? W) The presence of fossils X) Cross-cutting relationships Y) Spontaneous decay of radioactive elements Z) Superposition of strata,Y) SPONTANEOUS DECAY OF RADIOACTIVE ELEMENTS
+toss-up,energy,Short Answer,"What is the lowest point of land in the United States, where pure water does not boil until temperatures exceed 100oC?",DEATH VALLEY
+bonus,energy,Short Answer,"To date, most of the shale gas production has taken place in which U.S. state?","TEXAS
+_______________________________________________________"
+toss-up,,Multiple Choice,18) GENERAL SCIENCE Multiple Choice Which of the following types of cloud are associated with supercell thunderstorms? W) Cumulonimbus [kyoo-myuh-loh-NIM-buhs] X) Cumulus Y) Stratus Z) Cirrus,W) CUMULONIMBUS
+bonus,,Short Answer,18) GENERAL SCIENCE Short Answer What marsupial is native to the United States and Canada?,OPOSSUM
+toss-up,math,Short Answer,"The diameters of two circular gears of Ben’s bicycle are in the ratio of 3 to 1. If the larger gear has a diameter of 24 inches, what is the circumference, in inches, of the smaller gear, in terms of pi?",8π
+bonus,math,Multiple Choice,Which of the following values of c provides an integer value for the expression 0.3c + 4.2? W) 2 X) 3 Y) 5 Z) 6,"Z) 6
+_______________________________________________________"
+toss-up,,Multiple Choice,20) PHYSICAL SCIENCE Multiple Choice The acceleration of a stone thrown upwards is which of the following? W) Greater than that of a stone thrown downward X) The same as that of a stone thrown downward Y) Less than that of a stone thrown downward Z) Zero until it reaches the highest point,X) THE SAME AS THAT OF A STONE THROWN DOWNWARD
+bonus,,Short Answer,"20) PHYSICAL SCIENCE Short Answer Identify all of the following four materials that are good insulators: 1) copper, 2) glass, 3) mica [MY-kuh], 4) quartz.","2, 3, 4 (ACCEPT: GLASS, MICA, QUARTZ)"
+toss-up,energy,Short Answer,Carbon Capture and Sequestration (CCS) in deep ocean is no longer considered a promising alternative to releasing large quantities of carbon dioxide into the atmosphere. This is due to what chemical change that is believed to result from excess CO in 2 the ocean?,ACIDIFICATION
+bonus,energy,Multiple Choice,"With regard to water heaters, which of the following options presents energy savings of up to 30%? W) Replacing the tank water heater by an on-demand water heater X) Insulating pipe lines up to 6ft away from the heater Y) Using heat pump water heaters Z) Insulating the surroundings of the water heater","W) REPLACING THE TANK WATER HEATER BY AN ON-DEMAND WATER
+HEATER
+_______________________________________________________"
+toss-up,,Short Answer,"22) LIFE SCIENCE Short Answer Mixotrophic organisms, such as dinoflagellates [din-uh- FLAJ-uh-layts], are able to live by phototrophy and what other process?","HETEROTROPHY (ACCEPT: INGESTING NUTRIENTS; EATING OTHER
+ORGANISMS)"
+bonus,energy,Short Answer,22) LIFE SCIENCE Short Answer What is the ancient type of Archaean [ahr-KEE-uhn] metabolism that uses molecular hydrogen as an energy source and produces methane?,METHANOGENESIS (ACCEPT: BIOMETHANATION)
+toss-up,,Multiple Choice,"23) EARTH AND SPACE Multiple Choice Many cities on the U.S. east coast are at greater risk from rising sea levels than cities on the west coast of the U.S. What is the most plausible explanation for this occurrence? W) Cities on the west coast are typically built higher X) The sea level will rise more on the east coast than on the west coast Y) West coast cities are newer and, therefore, stronger Z) East coast cities are on unstable ground and are sinking slightly","X) THE SEA LEVEL WILL RISE MORE ON THE EAST COAST THAN ON THE
+WEST COAST"
+bonus,,Short Answer,23) EARTH AND SPACE Short Answer What is the term for the underwater equivalent of hypsometry [hip-SOM-i-tree]?,BATHYMETRY

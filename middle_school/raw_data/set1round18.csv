@@ -1,0 +1,70 @@
+type,subject,format,question,answer
+toss-up,earth science,Multiple Choice,The Sun’s tide-generating force is about: W) one-half that of the Moon X) twice that of the Moon Y) one-fourth that of the Moon Z) 4-times that of the Moon,W) ONE-HALF THAT OF THE MOON
+bonus,earth science,Short Answer,Name all of the following 4 types of pelagic or marine sediments that are composed of more than 30% of the skeletal remains of microscopic organisms: calcareous (read as: kal-CARE-ee-ous) ooze; terrigenous sediments; red clay; siliceous ooze,CALCAREOUS OOZE; SILICEOUS OOZE
+toss-up,math,Short Answer,"Assuming it is in standard position, a 1081º angle will lie in what quadrant of the rectangular coordinate system?",ONE (ACCEPT: FIRST or I)
+bonus,math,Short Answer,"Giving your answer to the 1st decimal place, find the sum of the first six terms of the geometric sequence whose first three terms are: 0.1, 0.2, 0.4…","6.3
+(Solution: [(0.1)(1 – 26)]/(1 – 2) = 6.3)"
+toss-up,,Multiple Choice,3) GENERAL SCIENCE Multiple Choice Leucine and isoleucine are both: W) essential amino acids X) fatty acids Y) complex carbohydrates Z) essential minerals,W) ESSENTIAL AMINO ACIDS
+bonus,,Multiple Choice,3) GENERAL SCIENCE Multiple Choice Which of the following would contain the most dietary vitamin D: W) 1 egg yolk X) 1 table spoon cod liver oil Y) 1 ounce Swiss cheese Z) 1 cup vitamin D-fortified whole milk,"X) 1 TABLE SPOON COD LIVER OIL
+(Solution: egg ~ 40 IU; cod liver oil ~ 1360; cheese ~ 12; milk ~ 40)"
+toss-up,,Multiple Choice,4) LIFE SCIENCE Multiple Choice Which of the following organelles would be most abundant in cells that are producing large amounts of ATP through oxidative metabolism: W) smooth ER X) rough ER Y) mitochondria Z) lysosomes,Y) MITOCHONDRIA
+bonus,,Short Answer,4) LIFE SCIENCE Short Answer What is the oxidizing agent in the citric acid cycle that is derived in part from the vitamin niacin?,"NAD+ (ACCEPT: NAD or NICOTINAMIDE ADENINE DINUCLEOTIDE)
+(DO NOT ACCEPT: NADP or NADH)"
+toss-up,,Multiple Choice,"5) PHYSICAL SCIENCE Multiple Choice Which of the following best explains the benefit of adding a solution of ethylene glycol, or antifreeze, to the radiator of a car: W) lowers the freezing point and raises the boiling point X) raises the freezing point and raises the boiling point Y) lowers the freezing point and lowers the boiling point Z) raises the freezing point and lowers the boiling point",W) LOWERS THE FREEZING POINT AND RAISES THE BOILING POINT
+bonus,,Multiple Choice,5) PHYSICAL SCIENCE Multiple Choice Metallic bonding accounts for all but which of the following physical characteristics of metals: W) strength X) ductility Y) high electrical conductivity Z) poor thermal conductivity,Z) POOR THERMAL CONDUCTIVITY
+toss-up,,Short Answer,"6) GENERAL SCIENCE Short Answer Rounding your answer to the first decimal place, if at its closest approach to the Earth, a satellite in a circular orbit about the Sun is 0.3 astronomical units from Earth, how many astronomical units is the satellite from the Sun?",0.7
+bonus,,Multiple Choice,6) GENERAL SCIENCE Multiple Choice Which of the following is a type of star that is extremely useful in measuring large distances across the universe and led to the discovery that the universe is much bigger than just our Milky Way galaxy: W) eclipsing binaries X) Wolf-Rayets Y) Cepheid variables Z) neutrons,Y) CEPHEID VARIABLES
+toss-up,earth science,Multiple Choice,"Sometimes compared to a slow-moving glob of toothpaste extruding from a tube of toothpaste, which of the following has formed several times within the crater Mount Saint Helens since its 1980 eruption: W) lava domes X) cinder cones Y) flood basalts Z) spatter cones",X) LAVA DOMES
+bonus,earth science,Multiple Choice,"Knowing that the growth of lava domes is generally nonexplosive and they often grow for many months to years, which of the following best describes their magmas: W) low viscosity and low gas content X) low viscosity and high gas content Y) high viscosity and low gas content Z) high viscosity and high gas content",Y) HIGH VISCOSITY AND LOW GAS CONTENT
+toss-up,math,Multiple Choice,"Which of the following is TRUE for the graph of the following two equations: x + y = 8, and, 2x + 2y = 16 W) they coincide X) they are perpendicular lines Y) they are parallel lines Z) they are horizontal lines",W) THEY COINCIDE
+bonus,math,Short Answer,"a3 −b3 8) MATH Short Answer Divide and simplify the following, combining like terms: a−b",a2 + ab + b2
+toss-up,energy,Multiple Choice,9) LIFE SCIENCE Multiple Choice Which of the following is the most common energy intermediate that couples exergonic and endergonic reactions in living cells: W) fat X) cellulose Y) glucose Z) ATP,Z) ATP
+bonus,,Short Answer,9) LIFE SCIENCE Short Answer Name all of the following 4 cells that are typically diploid: zygote; lymphocyte; red blood cell; mature ovum,"ZYGOTE; LYMPHOCYTE
+(Solution: rbc’s have no nuclei)"
+toss-up,energy,Short Answer,10) PHYSICAL SCIENCE Short Answer How many times as much kinetic energy does a falling rock have if it triples its velocity?,9
+bonus,energy,Multiple Choice,10) PHYSICAL SCIENCE Multiple Choice Which of the following has the GREATEST kinetic energy for an object moving in a straight path: W) a mass of 2 kg with a velocity of 10 meters per second X) a mass of 4 kg with a velocity of 8 meters per second Y) a mass of 6 kg with a velocity of 6 meters per second Z) a mass of 8 kg with a velocity of 4 meters per second,"X) A MASS OF 4 KG WITH A VELOCITY OF 8 METERS PER SECOND
+(Solution: KE = ½ mass × velocity2)"
+toss-up,earth science,Multiple Choice,"Which of the following best describes what meteorologists call a mesoscale convective complex: W) an Alberta clipper X) a low-precipitation supercell tornado Y) a large cluster of thunderstorms Z) a widespread area of cool, clear conditions",Y) A LARGE CLUSTER OF THUNDERSTORMS
+bonus,earth science,Multiple Choice,Which of the following is the name for the fault in which displacement of the hanging wall is downward with respect to the footwall: W) normal X) reverse Y) strike-slip Z) thrust,W) NORMAL
+toss-up,math,Short Answer,What statistical quantity is computed knowing the square root of the variance and is a measure of a population’s dispersion?,STANDARD DEVIATION
+bonus,math,Short Answer,How many combinations are there of 8 things taken 6 at a time?,"28
+(Solution: 8C = (8·7·6·5·4·3)/(6·5·4·3 ·2·1) = 28)
+6"
+toss-up,,Short Answer,13) GENERAL SCIENCE Short Answer What substance is the most common moderator used in nuclear reactors world-wide?,"WATER (ACCEPT: H O)
+2"
+bonus,,Multiple Choice,13) GENERAL SCIENCE Multiple Choice Which of the following best describes how water typically functions as a moderator in nuclear reactors: W) to increase the distance among uranium atoms that are fissioned X) to cool the reactor core Y) to slow fast neutrons and ensure a sustained chain reaction Z) to provide protons for the initiation of fission,"Y) TO SLOW FAST NEUTRONS AND ENSURE A SUSTAINED CHAIN
+REACTION"
+toss-up,,Multiple Choice,14) LIFE SCIENCE Multiple Choice Which of the following is NOT true of ribososmes: W) they help translate mRNA into protein X) they are too small to be seen with a compound light microscope Y) they are about 20 nanometers in diameter Z) bacterial and eukaryotic ribosomes are identical in shape and size,"Z) BACTERIAL AND EUKARYOTIC RIBOSOMES ARE IDENTICAL IN SHAPE
+AND SIZE"
+bonus,,Multiple Choice,14) LIFE SCIENCE Multiple Choice Which of the following enzymes most likely catalyses the removal of electrons: W) transferase X) nuclease Y) hydrolase Z) oxidase,Z) OXIDASE
+toss-up,,Multiple Choice,15) PHYSICAL SCIENCE Multiple Choice Which of the following would be the most logical choice for neutralizing a small amount of basic sodium hydroxide that was spilled on a lab bench: W) citric acid X) mercury pillow Y) concentrated sulfuric acid Z) concentrated hydrochloric acid,W) CITRIC ACID
+bonus,,Short Answer,"15) PHYSICAL SCIENCE Short Answer When the following chemical equation is balanced, the coefficient of oxygen will be what value: CH + O  CO + H O 4 2 2 2","2
+(Solution: CH + 2O  CO + 2H O)
+4 2 2 2"
+toss-up,earth science,Multiple Choice,"Which of the following is an example of a mountain range that was primarily formed by a process of fault-blocking: W) the Grand Tetons, Wyoming X) the Andes Mountains Y) the Himalayas Z) the Hawaiin Islands","W) THE GRAND TETONS, WYOMING"
+bonus,earth science,Short Answer,"Match each of the following 3 layers of the Earth, oceanic crust, continental crust, and mantle, respectively, with the following 3 approximate depths: 1) 25 to 90 kilometers; 2) 5 to 10 kilometers; 3) 2900 kilometers","OCEANIC CRUST = 2) 5 TO 10 KILOMETERS; CONTINENTAL CRUST = 1) 25
+TO 90 KILOMETERS; MANTLE = 3) 2900 KILOMETERS
+(ACCEPT: 2; 1; 3)"
+toss-up,math,Short Answer,"If a given row of Pascal’s triangle has the values, 1, 4, 6, 4, 1, give the exact order of values for the next row:","1, 5, 10, 10, 5, 1"
+bonus,math,Short Answer,"A balanced coin is flipped once and a fair 6-sided die is rolled once. What is the probability, as a fraction in lowest terms, of obtaining a tail AND a 3? 1",12
+toss-up,,Multiple Choice,"18) GENERAL SCIENCE Multiple Choice Which of the following is NOT true of cholesterol: W) cholesterol is transported in blood X) LDL’s, or low density lipoproteins, are typically considered the “bad” cholesterol Y) elevated cholesterol often begins in childhood Z) cholesterol is a common component of plant cell membranes","Z) CHOLESTEROL IS A COMMON COMPONENT OF PLANT CELL
+MEMBRANES"
+bonus,,Multiple Choice,"18) GENERAL SCIENCE Multiple Choice Which of the following foods contains the MOST milligrams of cholesterol: W) 1 cup dry, roasted cashew nuts X) 1 whole egg Y) 1 cup whole milk Z) 1 cup olive oil","X) 1 WHOLE EGG
+(Solution: nuts ~ 0; egg ~ 213; milk ~ 33; oil ~ 0 mg)"
+toss-up,,Multiple Choice,19) LIFE SCIENCE Multiple Choice Which of the following is considered the dominant generation in flowering plants: W) hypocotyl X) sporophyte Y) gametophyte Z) anthophyte,X) SPOROPHYTE
+bonus,,Multiple Choice,19) LIFE SCIENCE Multiple Choice Which of the following is the most distinguishing characteristic of all vertebrates adapted to life on land from amphibians: W) lack of metamorphosis X) presence of true kidneys Y) production of amniotic eggs Z) presence of a coelom (read as: sil-OHM),Y) PRODUCTION OF AMNIOTIC EGGS
+toss-up,,Short Answer,"20) PHYSICAL SCIENCE Short Answer For 2 planets separated by a given distance, if the mass of one planet doubles, by what factor will the gravitational attraction between the planets be multiplied?",2 (ACCEPT: 2 TIMES)
+bonus,,Short Answer,"20) PHYSICAL SCIENCE Short Answer If the cost of electricity is 12-cents per kilowatt hour, how much does it cost to run a 100-watt light bulb for 10 hours?","12 CENTS
+(Solution: 100 watts = 0.1 Kw; 0.1 Kw × 10 hrs × 12 cents = 12 cents)"
+toss-up,earth science,Short Answer,What is the most common astronomical term for the geometrical configuration where an inferior planet is between the Earth and the Sun?,INFERIOR CONJUNCTION
+bonus,earth science,Short Answer,"Giving your answer as crescent, quarter, half, or full, an inferior planet will be in what phase when at inferior conjunction with Earth?",CRESCENT
+toss-up,math,Short Answer,"Classify the graph of, y = x2 – 6x – 2, as a circle, parabola, straight line, or ellipse:",PARABOLA
+bonus,math,Short Answer,"A 20-centimeter long straw in the shape of an open right circular cylinder has a diameter of 2 centimeters. If the straw is exactly one-quarter filled with water, how many cubic centimeters, rounded to the first decimal place and using π = 3.14, of water are in the straw?","15.7
+(Solution: V = πr2h = π(12)(20) = 62.8; 62.8/4 = 15.7 cm3)"
+toss-up,energy,Short Answer,23) GENERAL SCIENCE Short Answer Fusion of which of the following 5 isotopes will produce the LEAST amount of net energy gain: hydrogen-1; deuterium; tritium; helium; iron,IRON
+bonus,,Short Answer,"23) GENERAL SCIENCE Short Answer It is 8:55 PM, December 9 in Boston, Massachusetts, which is located at 71º west longitude. What time and day is it in London, England at 0º longitude? Make sure to give the time in AM or PM.",1:55 AM; DECEMBER 10th
+toss-up,,Short Answer,24) LIFE SCIENCE Short Answer How many carbon dioxide molecules are released in each turn of the Citric Acid Cycle?,2
+bonus,,Short Answer,"24) LIFE SCIENCE Short Answer By words or numbers, name all of the following 3 places where you would most likely find dense meristematic tissue in a tomato plant: 1) just behind the root cap; 2) in the stem pith; 3) just behind the terminal buds",1 AND 3
+toss-up,,Short Answer,"25) PHYSICAL SCIENCE Short Answer If the half-life of a given isotope is 7 days, what fraction of the original isotope will be left after 14 days? 1",4
+bonus,,Short Answer,"25) PHYSICAL SCIENCE Short Answer Using proper chemical formulas, finish balancing the following equation: Ba(OH) + 2HCl  what? 2","BaCl + 2H O
+2 2"
