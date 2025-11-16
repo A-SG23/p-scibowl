@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>P-SciBowl</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #F5F7F4; /* soft neutral backdrop */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 30px;
+            color: #3E6A42; /* your green */
+        }
+
+        .mode-button {
+            background-color: #3E6A42; /* your green */
+            border: none;
+            padding: 15px 40px;
+            font-size: 1.2rem;
+            color: white;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: 0.2s ease-in-out;
+        }
+
+        .mode-button:hover {
+            background-color: #2f5233; /* darker hover */
+            transform: scale(1.03);
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <h1>High School Practice</h1>
+        <div class="button-group">
+            <button class="mode-button start-practice" onclick="goToPractice()">
+                Start Practice Session
+            </button>
+        </div>
+    </div>
+
+    <script>
+        function goToPractice() {
+            alert('Navigating to High School Practice...');
+        }
+    </script>
+</body>
+</html>
