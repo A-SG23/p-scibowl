@@ -1,0 +1,301 @@
+/* Global styles */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+.homepage {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
+  position: relative;
+  overflow: hidden;
+}
+
+.homepage::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
+  background-size: 50px 50px;
+  animation: backgroundMove 20s linear infinite;
+  opacity: 0.3;
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes backgroundMove {
+  0% { transform: translate(0, 0); }
+  100% { transform: translate(50px, 50px); }
+}
+
+.homepage h1 {
+  font-size: 72px;
+  margin-bottom: 20px;
+  font-weight: 800;
+  color: white;
+  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  position: relative;
+  z-index: 1;
+  letter-spacing: 2px;
+  animation: fadeInTitle 1s ease-out, titleFloat 3s ease-in-out 1s infinite;
+}
+
+.homepage .slogan {
+  font-size: 24px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.95);
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  position: relative;
+  z-index: 1;
+  margin-bottom: 60px;
+  letter-spacing: 1px;
+  font-style: italic;
+  animation: fadeInSlogan 1.2s ease-in 0.8s both;
+}
+
+@keyframes fadeInTitle {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes titleFloat {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes fadeInSlogan {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.ms-home {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
+  position: relative;
+  overflow: hidden;
+}
+
+.ms-home::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
+  background-size: 50px 50px;
+  animation: backgroundMove 20s linear infinite;
+  opacity: 0.3;
+}
+
+.ms-home h1 {
+  font-size: 60px;
+  margin-bottom: 50px;
+  font-weight: 800;
+  color: white;
+  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  position: relative;
+  z-index: 1;
+  letter-spacing: 2px;
+  animation: titleFloat 3s ease-in-out infinite;
+}
+
+/* Universal button styling */
+button {
+  background: linear-gradient(135deg, #06b6d4 0%, #3b82f6 25%, #8b5cf6 50%, #ec4899 75%);
+  background-size: 300% 300%;
+  background-position: 0% 0%;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-position 1.5s ease, transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  min-width: 200px;
+}
+
+/* Taller buttons for home pages */
+.homepage button,
+.ms-home button:not(#home-button):not(#back-button) {
+  padding: 25px 50px;
+  font-size: 22px;
+  min-width: 300px;
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.homepage button:hover,
+.ms-home button:not(#home-button):not(#back-button):hover {
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
+}
+
+button:hover {
+  background-position: 100% 100%;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Navigation buttons (Home and Back) */
+#home-button, #back-button {
+  position: fixed;
+  top: 20px;
+  background: linear-gradient(135deg, #4a5568 0%, #2d3748 100%);
+  font-size: 14px;
+  padding: 10px 20px;
+  min-width: 100px;
+  z-index: 1000;
+}
+
+#home-button {
+  right: 20px;
+}
+
+#back-button {
+  right: 140px;
+}
+
+#home-button:hover, #back-button:hover {
+  background: linear-gradient(135deg, #718096 0%, #4a5568 100%);
+  transform: translateY(-2px);
+}
+
+button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Button container spacing */
+.button-group {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+.mshome-button {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+.answer-section {
+  margin: 40px auto;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Question styling */
+.ms-question {
+  background: #f8f9fa;
+  border-left: 4px solid #667eea;
+  padding: 30px;
+  margin: 30px auto;
+  max-width: 800px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.6;
+  text-align: left;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Answer input box */
+.answer-box {
+  width: 100%;
+  padding: 20px;
+  font-size: 18px;
+  border: 2px solid #e2e8f0;
+  border-radius: 8px;
+  box-sizing: border-box;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  font-family: inherit;
+  min-height: 120px;
+  resize: vertical;
+}
+
+.answer-box:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.answer-box::placeholder {
+  color: #a0aec0;
+}
+
+/* Submit answer button - simpler style */
+.answer-section button {
+  background: linear-gradient(135deg, #06b6d4 0%, #3b82f6 100%);
+  background-size: 100% 100%;
+  transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.answer-section button:hover {
+  background: linear-gradient(135deg, #0891b2 0%, #2563eb 100%);
+  background-size: 100% 100%;
+}
+
+/* Page-specific styles */
+.ms-practice {
+  text-align: center;
+  padding: 20px;
+  padding-top: 80px;
+}
+
+.ms-practice h1 {
+  font-size: 48px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

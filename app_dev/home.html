@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>P-SciBowl</title>
@@ -9,8 +10,9 @@
 
 </head>
 <body>
-    <div class="container">
-        <h1>p-scibowl</h1>
+    <div class="homepage">
+        <h1>P-Scibowl</h1>
+        <p class="slogan">An all-in-one Science Bowl practice platform</p>
         <div class="button-group">
             <button class="mode-button middle-school" onclick="goToMiddleSchool()">
                 Middle School
@@ -23,14 +25,11 @@
 
     <script> //JavaScript for flow logic
         function goToMiddleSchool() {
-            // For now, just show alert - replace with actual navigation later
-            alert('Navigating to Middle School Practice...');
-            // Later: window.location.href = 'ms_home.html'; when this file is done
+            window.location.href = 'ms_home.html';
         }
 
         function goToHighSchool() {
-            alert('Navigating to High School Practice...');
-            // Later: window.location.href = 'hs_home.html'; when this file is done
+            window.location.href = 'hs_home.html';
         }
     </script>
 </body>

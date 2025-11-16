@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Middle School Practice</title>
+</head>
+<body>
+    <div class="ms-home">
+        <h1>Middle School Practice</h1>
+        <div class="mshome-button">
+            <button id="start" onclick="goToMSPractice()">
+                Start Practice Session
+            </button>
+            <button id="home-button" onclick="goHome()">
+                Home
+            </button>
+        </div>
+    </div>
+
+    <script> //JavaScript for flow logic
+        function goToMSPractice() {
+            window.location.href = 'ms_practice.html';
+        }
+
+        function goHome() {
+            window.location.href = 'home.html';
+        }
+    </script>
+</body>
+</html>

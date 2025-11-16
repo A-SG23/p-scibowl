@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Middle School Practice</title>
+</head>
+<body>
+    <div class="ms-practice">
+        <h1>Middle School Practice</h1>
+        <div class="ms-question">
+            Q1: What is the powerhouse of the cell?
+        </div>
+        <div class="answer-section">
+            <textarea id="answer-box" class="answer-box" placeholder="Type your answer here..."></textarea>
+            <button onclick="submitAnswer()">Submit Answer</button>
+        </div>
+        <button id="home-button" onclick="goHome()">
+                Home
+        </button>
+        <button id="back-button" onclick="goBack()">
+                Back
+        </button>
+    </div>
+
+    <script> //JavaScript for flow logic
+        function submitAnswer() {
+            const answerBox = document.getElementById('answer-box');
+            const userAnswer = answerBox.value.trim();
+
+            if (userAnswer === '') {
+                alert('Please enter an answer!');
+                return;
+            }
+
+            // For now, just show what they typed
+            alert('You answered: ' + userAnswer);
+            // Later: Add logic to check if answer is correct
+
+            // Clear the input box
+            answerBox.value = '';
+        }
+
+        function goHome() {
+            window.location.href = 'home.html';
+        }
+
+        function goBack() {
+            window.location.href = 'ms_home.html';
+        }
+    </script>
+</body>
+</html>
