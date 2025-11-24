@@ -13,11 +13,10 @@ html, body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
-  background-size: 400% 400%;
-  animation: gradientShift 15s ease infinite;
+  background: #6bd669;
   position: relative;
   overflow: hidden;
+  color: black;
 }
 
 .homepage::before {
@@ -48,8 +47,8 @@ html, body {
   font-size: 72px;
   margin-bottom: 20px;
   font-weight: 800;
-  color: white;
-  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  color: black;
+  text-shadow: none;
   position: relative;
   z-index: 1;
   letter-spacing: 2px;
@@ -59,8 +58,8 @@ html, body {
 .homepage .slogan {
   font-size: 24px;
   font-weight: 300;
-  color: rgba(255, 255, 255, 0.95);
-  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  color: black;
+  text-shadow: none;
   position: relative;
   z-index: 1;
   margin-bottom: 60px;
@@ -103,11 +102,10 @@ html, body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
-  background-size: 400% 400%;
-  animation: gradientShift 15s ease infinite;
+  background: #6bd669;
   position: relative;
   overflow: hidden;
+  color: black;
 }
 
 .ms-home::before {
@@ -127,8 +125,8 @@ html, body {
   font-size: 60px;
   margin-bottom: 50px;
   font-weight: 800;
-  color: white;
-  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  color: black;
+  text-shadow: none;
   position: relative;
   z-index: 1;
   letter-spacing: 2px;
@@ -137,9 +135,7 @@ html, body {
 
 /* Universal button styling */
 button {
-  background: linear-gradient(135deg, #06b6d4 0%, #3b82f6 25%, #8b5cf6 50%, #ec4899 75%);
-  background-size: 300% 300%;
-  background-position: 0% 0%;
+  background: #314f82;
   color: white;
   font-size: 18px;
   font-weight: 600;
@@ -147,7 +143,7 @@ button {
   border: none;
   border-radius: 8px;
   cursor: pointer;
-  transition: background-position 1.5s ease, transform 0.3s ease, box-shadow 0.3s ease;
+  transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   min-width: 200px;
 }
@@ -169,7 +165,7 @@ button {
 }
 
 button:hover {
-  background-position: 100% 100%;
+  background: #4169a8;
   transform: translateY(-2px);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
@@ -178,7 +174,7 @@ button:hover {
 #home-button, #back-button {
   position: fixed;
   top: 20px;
-  background: linear-gradient(135deg, #4a5568 0%, #2d3748 100%);
+  background: #314f82;
   font-size: 14px;
   padding: 10px 20px;
   min-width: 100px;
@@ -194,7 +190,7 @@ button:hover {
 }
 
 #home-button:hover, #back-button:hover {
-  background: linear-gradient(135deg, #718096 0%, #4a5568 100%);
+  background: #4169a8;
   transform: translateY(-2px);
 }
 
@@ -273,14 +269,12 @@ button:active {
 
 /* Submit answer button - simpler style */
 .answer-section button {
-  background: linear-gradient(135deg, #06b6d4 0%, #3b82f6 100%);
-  background-size: 100% 100%;
+  background: #314f82;
   transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .answer-section button:hover {
-  background: linear-gradient(135deg, #0891b2 0%, #2563eb 100%);
-  background-size: 100% 100%;
+  background: #4169a8;
 }
 
 /* Page-specific styles */
@@ -288,14 +282,14 @@ button:active {
   text-align: center;
   padding: 20px;
   padding-top: 80px;
+  min-height: 100vh;
+  background: #6bd669;
+  color: black;
 }
 
 .ms-practice h1 {
   font-size: 48px;
   margin-bottom: 30px;
   font-weight: 700;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: black;
 }
