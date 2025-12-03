@@ -5,48 +5,646 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>High School Practice</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #6bd669;
+            min-height: 100vh;
+            color: black;
+        }
+
+        .practice-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            padding-top: 80px;
+        }
+
+        h1 {
+            font-size: 48px;
+            margin-bottom: 30px;
+            font-weight: 700;
+            color: black;
+            text-align: center;
+        }
+
+        .timer-display {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #314f82;
+            color: white;
+            padding: 20px 30px;
+            border-radius: 10px;
+            font-size: 48px;
+            font-weight: bold;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            box-shadow: 0 4px 15px rgba(49, 79, 130, 0.3);
+            min-width: 120px;
+            text-align: center;
+        }
+
+        .timer-display.warning {
+            background: #e74c3c;
+            animation: pulse 1s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+
+        .question-container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin: 20px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            min-height: 200px;
+        }
+
+        .question-type {
+            color: #314f82;
+            font-weight: bold;
+            font-size: 14px;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+
+        .question-text {
+            font-size: 18px;
+            line-height: 1.6;
+            color: black;
+            margin-bottom: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .answer-input {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            font-family: inherit;
+        }
+
+        .answer-input:focus {
+            outline: none;
+            border-color: #314f82;
+        }
+
+        .feedback {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 72px;
+            font-weight: bold;
+            padding: 40px 80px;
+            border-radius: 20px;
+            animation: fadeInOut 2s ease-in-out;
+            z-index: 1000;
+        }
+
+        .feedback.correct {
+            color: #27ae60;
+            background: rgba(39, 174, 96, 0.1);
+            border: 3px solid #27ae60;
+        }
+
+        .feedback.incorrect {
+            color: #e74c3c;
+            background: rgba(231, 76, 60, 0.1);
+            border: 3px solid #e74c3c;
+        }
+
+        @keyframes fadeInOut {
+            0% { opacity: 0; transform: translate(-50%, -50%) scale(0.8); }
+            20% { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+            80% { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+            100% { opacity: 0; transform: translate(-50%, -50%) scale(0.8); }
+        }
+
+        .start-button {
+            background: #314f82;
+            color: white;
+            border: none;
+            padding: 25px 50px;
+            font-size: 22px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+            min-width: 300px;
+        }
+
+        .start-button:hover {
+            background: #4169a8;
+            transform: translateY(-2px);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
+        }
+
+        .end-session-button {
+            background: black;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 18px;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: background 0.3s;
+            font-weight: 600;
+        }
+
+        .end-session-button:hover {
+            background: #555;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+
+
+        .nav-button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+            font-weight: 600;
+            background: #314f82;
+            color: white;
+            position: fixed;
+            top: 20px;
+            z-index: 1000;
+            min-width: 100px;
+        }
+
+        #home-button {
+            right: 20px;
+        }
+
+        #back-button {
+            right: 140px;
+        }
+
+        .nav-button:hover {
+            background: #4169a8;
+            transform: translateY(-2px);
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
 </head>
 <body>
-    <div class="ms-practice">
+    <div class="practice-container">
         <h1>High School Practice</h1>
-        <div class="ms-question">
-            Q1: What is the powerhouse of the cell?
+        
+        <!-- Timer Display -->
+        <div id="timer" class="timer-display hidden">5</div>
+
+        <!-- Start Screen -->
+        <div id="start-screen">
+            <div class="question-container">
+                <p style="text-align: center; font-size: 18px; color: #7f8c8d;">
+                    Ready to practice? Click the button below to begin your Science Bowl round!
+                </p>
+                <div style="text-align: center; margin-top: 30px;">
+                    <button class="start-button" onclick="startPracticeRound()">
+                        Start Practice Round!
+                    </button>
+                </div>
+            </div>
         </div>
-        <div class="answer-section">
-            <textarea id="answer-box" class="answer-box" placeholder="Type your answer here..."></textarea>
-            <button onclick="submitAnswer()">Submit Answer</button>
+
+        <!-- Practice Screen -->
+        <div id="practice-screen" class="hidden">
+            <div class="question-container">
+                <div id="question-type" class="question-type"></div>
+                <div id="question-text" class="question-text"></div>
+                <input type="text" id="answer-input" class="answer-input" placeholder="Type your answer here..." disabled>
+            </div>
+            
+            <button class="end-session-button" onclick="endSession()">End Practice Session</button>
         </div>
-        <button id="home-button" onclick="goHome()">
-                Home
-        </button>
-        <button id="back-button" onclick="goBack()">
-                Back
-        </button>
+
+        <!-- Navigation Buttons -->
+        <div class="button-group">
+            <button id="home-button" class="nav-button" onclick="goHome()">Home</button>
+            <button id="back-button" class="nav-button" onclick="goBack()">Back</button>
+        </div>
     </div>
 
-    <script> //JavaScript for flow logic
-        function submitAnswer() {
-            const answerBox = document.getElementById('answer-box');
-            const userAnswer = answerBox.value.trim();
+    <script>
+        // Hugging Face API configuration
+        const HF_MODEL = "agargeshwari/scibowl-model-final-demo";
+        const HF_API_URL = `https://api-inference.huggingface.co/models/${HF_MODEL}`;
+        
+        // You'll need a Hugging Face API token (free)
+        // Get one at: https://huggingface.co/settings/tokens
+        const HF_TOKEN = "YOUR_HF_TOKEN_HERE"; // ⚠️ Replace with your token
 
-            if (userAnswer === '') {
-                alert('Please enter an answer!');
+        // Question bank (backup/fallback questions)
+        const fallbackQuestions = [
+            {
+                type: "TOSS-UP 1",
+                time: 5,
+                question: "Physics – Multiple Choice. One vector has a magnitude of six meters, and the other has a magnitude of three meters. The magnitude of their vector product is 0.556. Which of the following is true of this system? W) The angle between the vectors is 33.7 degrees. X) The angle between the vectors is 146.3 degrees. Y) The scalar product is 19.9 meters. Z) There is not enough information to determine the angle of the scalar product.",
+                answer: "Z"
+            },
+            {
+                type: "BONUS 1",
+                time: 20,
+                question: "Physics – Short Answer. The root-mean-square voltage of AC power in the United States is 120 volts. In volts and to two significant figures, what is its amplitude?",
+                answer: "170"
+            },
+            {
+                type: "TOSS-UP 2",
+                time: 5,
+                question: "Math – Short Answer. What is the sum of the largest prime number less than 50 and the smallest prime number greater than 50?",
+                answer: "100"
+            },
+            {
+                type: "BONUS 2",
+                time: 20,
+                question: "Math – Multiple Choice. A regular 15-sided polygon is inscribed in a circle with radius 6. Which of the following is the length of one of its sides? W) 6 sine 24 degrees. X) 6 cosine 24 degrees. Y) 12 sine 12 degrees. Z) 12 cosine 12 degrees",
+                answer: "Y"
+            }
+        ];
+
+        let currentQuestionIndex = 0;
+        let timerInterval = null;
+        let timeRemaining = 0;
+        let awaitingNextQuestion = false;
+        let generatedQuestions = []; // Store AI-generated questions
+        let isGeneratingQuestion = false;
+
+        // Audio context for beep
+        const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+
+        function playBeep() {
+            const oscillator = audioContext.createOscillator();
+            const gainNode = audioContext.createGain();
+            
+            oscillator.connect(gainNode);
+            gainNode.connect(audioContext.destination);
+            
+            oscillator.frequency.value = 800;
+            oscillator.type = 'sine';
+            
+            gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.3);
+            
+            oscillator.start(audioContext.currentTime);
+            oscillator.stop(audioContext.currentTime + 0.3);
+        }
+
+        async function generateQuestion(questionType, subject) {
+            const prompt = `Generate a ${subject} ${questionType} question:`;
+            
+            try {
+                const response = await fetch(HF_API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': `Bearer ${HF_TOKEN}`,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        inputs: prompt,
+                        parameters: {
+                            max_length: 512,
+                            temperature: 0.7,
+                            do_sample: true
+                        }
+                    })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`API error: ${response.status}`);
+                }
+
+                const result = await response.json();
+                const generatedText = result[0]?.generated_text || result.generated_text || '';
+                
+                // Parse question and answer from generated text
+                const parsed = parseQuestionAndAnswer(generatedText);
+                
+                return parsed;
+            } catch (error) {
+                console.error('Error generating question:', error);
+                return null;
+            }
+        }
+
+        function parseQuestionAndAnswer(text) {
+            // Your model should output format like:
+            // "Physics - Multiple Choice: Question text here? W) option X) option Y) option Z) option ANSWER: W) OPTION TEXT"
+            // or "Physics - Short Answer: Question text? ANSWER: 42"
+            
+            const answerMatch = text.match(/ANSWER:\s*(.+?)(?:\n|$)/i);
+            
+            if (answerMatch) {
+                const answer = answerMatch[1].trim();
+                const question = text.substring(0, answerMatch.index).trim();
+                
+                return {
+                    question: question,
+                    answer: answer
+                };
+            }
+            
+            // If no ANSWER: found, return full text as question with no answer
+            return {
+                question: text,
+                answer: null
+            };
+        }
+
+        function normalizeAnswer(text) {
+            // Remove extra whitespace, convert to lowercase, remove punctuation
+            return text.toLowerCase()
+                       .replace(/[^\w\s]/g, '')
+                       .replace(/\s+/g, ' ')
+                       .trim();
+        }
+
+        function checkAnswerCorrectness(userAnswer, correctAnswer) {
+            if (!correctAnswer) {
+                // If we don't have a correct answer, accept anything non-empty
+                return userAnswer.trim() !== '';
+            }
+            
+            const normalizedUser = normalizeAnswer(userAnswer);
+            const normalizedCorrect = normalizeAnswer(correctAnswer);
+            
+            // Exact match
+            if (normalizedUser === normalizedCorrect) {
+                return true;
+            }
+            
+            // Check if user answer contains the correct answer (for multiple choice like "W" or "w)")
+            if (normalizedCorrect.length <= 3 && normalizedUser.includes(normalizedCorrect)) {
+                return true;
+            }
+            
+            // Check for numeric answers with tolerance
+            const userNum = parseFloat(userAnswer);
+            const correctNum = parseFloat(correctAnswer);
+            if (!isNaN(userNum) && !isNaN(correctNum)) {
+                // Allow 1% tolerance for numeric answers
+                const tolerance = Math.abs(correctNum * 0.01);
+                return Math.abs(userNum - correctNum) <= tolerance;
+            }
+            
+            // Partial match (at least 80% similar for longer answers)
+            if (normalizedCorrect.length > 10) {
+                const similarity = calculateSimilarity(normalizedUser, normalizedCorrect);
+                return similarity > 0.8;
+            }
+            
+            return false;
+        }
+
+        function calculateSimilarity(str1, str2) {
+            // Simple similarity check: what percentage of words match?
+            const words1 = str1.split(' ');
+            const words2 = str2.split(' ');
+            const commonWords = words1.filter(word => words2.includes(word));
+            return commonWords.length / Math.max(words1.length, words2.length);
+        }
+
+        async function startPracticeRound() {
+            document.getElementById('start-screen').classList.add('hidden');
+            document.getElementById('practice-screen').classList.remove('hidden');
+            document.getElementById('timer').classList.remove('hidden');
+            
+            currentQuestionIndex = 0;
+            generatedQuestions = [];
+            
+            // Show loading message
+            document.getElementById('question-type').textContent = 'LOADING...';
+            document.getElementById('question-text').textContent = 'Generating your practice questions...';
+            document.getElementById('answer-input').disabled = true;
+            
+            // Pre-generate first 4 questions
+            await preGenerateQuestions();
+            
+            // Start with first question
+            displayQuestion();
+        }
+
+        async function preGenerateQuestions() {
+            const subjects = ['Physics', 'Biology', 'Chemistry', 'Math'];
+            const questionTypes = ['multiple choice', 'short answer'];
+            
+            // Generate 4 questions (2 toss-ups, 2 bonus)
+            for (let i = 0; i < 4; i++) {
+                const isTossUp = i % 2 === 0;
+                const subject = subjects[Math.floor(Math.random() * subjects.length)];
+                const qType = questionTypes[Math.floor(Math.random() * questionTypes.length)];
+                
+                const generated = await generateQuestion(qType, subject);
+                
+                if (generated) {
+                    generatedQuestions.push({
+                        type: isTossUp ? `TOSS-UP ${Math.floor(i/2) + 1}` : `BONUS ${Math.floor(i/2) + 1}`,
+                        time: isTossUp ? 5 : 20,
+                        question: generated.question,
+                        answer: generated.answer
+                    });
+                } else {
+                    // Use fallback if generation fails
+                    generatedQuestions.push(fallbackQuestions[i]);
+                }
+            }
+        }
+
+        async function displayQuestion() {
+            if (currentQuestionIndex >= generatedQuestions.length) {
+                // End of questions
+                alert('Practice round complete! Great job!');
+                endSession();
                 return;
             }
 
-            // For now, just show what they typed
-            alert('You answered: ' + userAnswer);
-            // Later: Add logic to check if answer is correct
+            const question = generatedQuestions[currentQuestionIndex];
+            
+            // Wait 2 seconds before showing question (only for first question)
+            const initialDelay = currentQuestionIndex === 0 ? 2000 : 0;
+            
+            setTimeout(() => {
+                document.getElementById('question-type').textContent = question.type;
+                document.getElementById('question-text').textContent = question.question;
+                document.getElementById('answer-input').value = '';
+                document.getElementById('answer-input').disabled = false;
+                
+                awaitingNextQuestion = false;
+                
+                // Read the question aloud, then start timer when done
+                speakQuestion(question.type + ". " + question.question, () => {
+                    // Timer only starts AFTER reading is complete
+                    startTimer(question.time);
+                });
+            }, initialDelay);
+        }
 
-            // Clear the input box
-            answerBox.value = '';
+        function speakQuestion(text, onComplete) {
+            // Cancel any ongoing speech
+            window.speechSynthesis.cancel();
+            
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.rate = 1.0; // Normal speed
+            utterance.pitch = 1.0; // Normal pitch
+            utterance.volume = 1.0; // Full volume
+            
+            // Call onComplete when speech finishes
+            utterance.onend = function() {
+                if (onComplete) onComplete();
+            };
+            
+            window.speechSynthesis.speak(utterance);
+        }
+
+        function startTimer(seconds) {
+            timeRemaining = seconds;
+            updateTimerDisplay();
+            
+            timerInterval = setInterval(() => {
+                timeRemaining--;
+                updateTimerDisplay();
+                
+                if (timeRemaining <= 0) {
+                    clearInterval(timerInterval);
+                    playBeep();
+                    checkAnswer();
+                }
+            }, 1000);
+        }
+
+        function updateTimerDisplay() {
+            const timerElement = document.getElementById('timer');
+            timerElement.textContent = timeRemaining;
+            
+            if (timeRemaining <= 3 && timeRemaining > 0) {
+                timerElement.classList.add('warning');
+            } else {
+                timerElement.classList.remove('warning');
+            }
+        }
+
+        function checkAnswer() {
+            if (awaitingNextQuestion) return;
+            
+            awaitingNextQuestion = true;
+            clearInterval(timerInterval);
+            timerInterval = null; // Clear the reference
+            
+            const answerInput = document.getElementById('answer-input');
+            const userAnswer = answerInput.value.trim();
+            const currentQuestion = generatedQuestions[currentQuestionIndex];
+            
+            answerInput.disabled = true;
+            
+            // Check if answer is correct
+            const isCorrect = checkAnswerCorrectness(userAnswer, currentQuestion.answer);
+            
+            // Show feedback
+            const feedback = document.createElement('div');
+            feedback.className = 'feedback ' + (isCorrect ? 'correct' : 'incorrect');
+            feedback.textContent = isCorrect ? 'CORRECT!' : 'INCORRECT!';
+            document.body.appendChild(feedback);
+            
+            // Show correct answer if wrong
+            if (!isCorrect && currentQuestion.answer) {
+                setTimeout(() => {
+                    const answerReveal = document.createElement('div');
+                    answerReveal.style.cssText = `
+                        position: fixed;
+                        top: 60%;
+                        left: 50%;
+                        transform: translateX(-50%);
+                        background: white;
+                        padding: 20px 40px;
+                        border-radius: 10px;
+                        box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+                        font-size: 18px;
+                        color: #2c3e50;
+                        z-index: 999;
+                    `;
+                    answerReveal.innerHTML = `<strong>Correct Answer:</strong> ${currentQuestion.answer}`;
+                    document.body.appendChild(answerReveal);
+                    
+                    setTimeout(() => answerReveal.remove(), 3000);
+                }, 500);
+            }
+            
+            // Remove feedback after animation
+            setTimeout(() => {
+                feedback.remove();
+            }, 2000);
+            
+            // Wait 4 seconds, then show next question
+            setTimeout(() => {
+                // Check if session is still active before continuing
+                if (!document.getElementById('practice-screen').classList.contains('hidden')) {
+                    currentQuestionIndex++;
+                    displayQuestion();
+                }
+            }, 4000);
+        }
+
+        // Allow Enter key to submit
+        document.addEventListener('DOMContentLoaded', function() {
+            const answerInput = document.getElementById('answer-input');
+            if (answerInput) {
+                answerInput.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter' && !awaitingNextQuestion) {
+                        checkAnswer();
+                    }
+                });
+            }
+        });
+
+        function endSession() {
+            // Stop all timers and speech
+            clearInterval(timerInterval);
+            timerInterval = null;
+            window.speechSynthesis.cancel();
+            
+            // Clear any pending timeouts
+            awaitingNextQuestion = true;
+            
+            // Go back to start screen
+            document.getElementById('practice-screen').classList.add('hidden');
+            document.getElementById('timer').classList.add('hidden');
+            document.getElementById('start-screen').classList.remove('hidden');
+            
+            // Reset question index for next session
+            currentQuestionIndex = 0;
         }
 
         function goHome() {
+            clearInterval(timerInterval);
             window.location.href = 'home.html';
         }
 
         function goBack() {
+            clearInterval(timerInterval);
             window.location.href = 'hs_home.html';
         }
     </script>
