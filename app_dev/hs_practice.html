@@ -441,10 +441,10 @@
             document.getElementById('question-text').textContent = 'Generating your practice questions...';
             document.getElementById('answer-input').disabled = true;
             
-            // Pre-generate first 4 questions
+            //pre-generate first 4 questions
             await preGenerateQuestions();
             
-            // Start with first question
+            //start with first question
             displayQuestion();
         }
 
@@ -452,7 +452,7 @@
             const subjects = ['Physics', 'Biology', 'Chemistry', 'Math'];
             const questionTypes = ['multiple choice', 'short answer'];
             
-            // Generate 4 questions (2 toss-ups, 2 bonus)
+            //generate 4 questions (2 toss-ups, 2 bonus)
             for (let i = 0; i < 4; i++) {
                 const isTossUp = i % 2 === 0;
                 const subject = subjects[Math.floor(Math.random() * subjects.length)];
